@@ -1,11 +1,11 @@
 # dll-exports
 Collection of DLL function export forwards for DLL export function proxying.
 
-The usecase for this is for backdooring applications. E.g:
+Typical usecase is for backdooring applications for persistence purposes. E.g:
 
 1. inspect the target application you wish to backdoor with procmon, see which DLLs it loads via the static IAT. You can clearly see this as the application tries to load Windows DLLs first from the applications own folder before attempting to load them from System32/SysWOW64.
-2. Pick one, a common target is `C:\Windows\System32\version.dll`
-3. Fire up Visual Studio, generate a new DLL project
+2. pick one, a common target is `C:\Windows\System32\version.dll`
+3. fire up Visual Studio, generate a new DLL project
 4. add the code from here https://github.com/magnusstubman/dll-exports/blob/main/win10.19042/System32/version.dll.cpp
 5. add your own maliciousness e.g. malware, e.g. as I did in https://dumpco.re/blog/alternative-to-lsass-dumping
 6. compile - remember to compile for correct architecture
