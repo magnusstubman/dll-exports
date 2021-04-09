@@ -1,0 +1,5 @@
+#print comment(linker, "/export:NgcLocalAddCredential=\"C:\\Windows\\SysWOW64\\ngclocal.dll\"")
+#print comment(linker, "/export:NgcLocalAddCredentialSilent=\"C:\\Windows\\SysWOW64\\ngclocal.dll\"")
+#print comment(linker, "/export:NgcLocalChangeCredential=\"C:\\Windows\\SysWOW64\\ngclocal.dll\"")
+#print comment(linker, "/export:NgcLocalFindCredential=\"C:\\Windows\\SysWOW64\\ngclocal.dll\"")
+#print comment(linker, "/export:NgcLocalRemoveCredential=\"C:\\Windows\\SysWOW64\\ngclocal.dll\"")

@@ -1,0 +1,8 @@
+#print comment(linker, "/export:GetTranscodeComponentCreator=\"C:\\Windows\\SysWOW64\\mftranscode.dll\"")
+#print comment(linker, "/export:MFCreateSmartRemuxEngine=\"C:\\Windows\\SysWOW64\\mftranscode.dll\"")
+#print comment(linker, "/export:MFCreateTranscodeEngine=\"C:\\Windows\\SysWOW64\\mftranscode.dll\"")
+#print comment(linker, "/export:MFCreateTranscodeProfile=\"C:\\Windows\\SysWOW64\\mftranscode.dll\"")
+#print comment(linker, "/export:MFCreateTranscodeSinkActivate=\"C:\\Windows\\SysWOW64\\mftranscode.dll\"")
+#print comment(linker, "/export:MFCreateTranscodeTopology=\"C:\\Windows\\SysWOW64\\mftranscode.dll\"")
+#print comment(linker, "/export:MFCreateTranscodeTopologyFromByteStream=\"C:\\Windows\\SysWOW64\\mftranscode.dll\"")
+#print comment(linker, "/export:MFTranscodeGetAudioOutputAvailableTypes=\"C:\\Windows\\SysWOW64\\mftranscode.dll\"")

@@ -1,0 +1,1 @@
+#print comment(linker, "/export:?GetAgentActivationRuntimePalComponentFactory@@YGPAVIAgentActivationRuntimePalComponentFactory@VoiceAgentServices@Microsoft@@XZ=\"C:\\Windows\\SysWOW64\\agentactivationruntimewindows.dll\"")

@@ -1,0 +1,8 @@
+#print comment(linker, "/export:AboutDialogProc=\"C:\\Windows\\SysWOW64\\ir50_32original.dll\"")
+#print comment(linker, "/export:ConfigureDialogProc=\"C:\\Windows\\SysWOW64\\ir50_32original.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\ir50_32original.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\ir50_32original.dll\"")
+#print comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\ir50_32original.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\ir50_32original.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\ir50_32original.dll\"")
+#print comment(linker, "/export:DriverProc=\"C:\\Windows\\SysWOW64\\ir50_32original.dll\"")

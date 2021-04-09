@@ -1,0 +1,5 @@
+#print comment(linker, "/export:ExecuteUninstall=\"C:\\Windows\\SysWOW64\\osuninst.dll\"")
+#print comment(linker, "/export:GetUninstallImageSize=\"C:\\Windows\\SysWOW64\\osuninst.dll\"")
+#print comment(linker, "/export:IsUninstallImageValid=\"C:\\Windows\\SysWOW64\\osuninst.dll\"")
+#print comment(linker, "/export:ProvideUiAlerts=\"C:\\Windows\\SysWOW64\\osuninst.dll\"")
+#print comment(linker, "/export:RemoveUninstallImage=\"C:\\Windows\\SysWOW64\\osuninst.dll\"")

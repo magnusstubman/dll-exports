@@ -1,0 +1,6 @@
+#print comment(linker, "/export:HelperTraceEvent=\"C:\\Windows\\SysWOW64\\netdiagfx.dll\"")
+#print comment(linker, "/export:HelperTraceInitialize=\"C:\\Windows\\SysWOW64\\netdiagfx.dll\"")
+#print comment(linker, "/export:HelperTraceUninitialize=\"C:\\Windows\\SysWOW64\\netdiagfx.dll\"")
+#print comment(linker, "/export:WdiDiagnosticModuleMain=\"C:\\Windows\\SysWOW64\\netdiagfx.dll\"")
+#print comment(linker, "/export:WdiGetDiagnosticModuleInterfaceVersion=\"C:\\Windows\\SysWOW64\\netdiagfx.dll\"")
+#print comment(linker, "/export:WdiHandleInstance=\"C:\\Windows\\SysWOW64\\netdiagfx.dll\"")

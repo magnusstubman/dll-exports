@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DeserializeLANPolicy=\"C:\\Windows\\SysWOW64\\dot3gpclnt.dll\"")
+#print comment(linker, "/export:GenerateLANPolicy=\"C:\\Windows\\SysWOW64\\dot3gpclnt.dll\"")
+#print comment(linker, "/export:LANGPADeInit=\"C:\\Windows\\SysWOW64\\dot3gpclnt.dll\"")
+#print comment(linker, "/export:LANGPAInit=\"C:\\Windows\\SysWOW64\\dot3gpclnt.dll\"")
+#print comment(linker, "/export:ProcessLANPolicyEx=\"C:\\Windows\\SysWOW64\\dot3gpclnt.dll\"")

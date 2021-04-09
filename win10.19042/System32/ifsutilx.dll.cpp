@@ -1,0 +1,6 @@
+#print comment(linker, "/export:CheckSnapshotPresence=\"C:\\Windows\\SysWOW64\\ifsutilx.dll\"")
+#print comment(linker, "/export:CreateVolumeSnapshot=\"C:\\Windows\\SysWOW64\\ifsutilx.dll\"")
+#print comment(linker, "/export:GetSnapshotErrorMessage=\"C:\\Windows\\SysWOW64\\ifsutilx.dll\"")
+#print comment(linker, "/export:InitializeCOM=\"C:\\Windows\\SysWOW64\\ifsutilx.dll\"")
+#print comment(linker, "/export:ReleaseVolumeSnapshot=\"C:\\Windows\\SysWOW64\\ifsutilx.dll\"")
+#print comment(linker, "/export:UninitializeCOM=\"C:\\Windows\\SysWOW64\\ifsutilx.dll\"")

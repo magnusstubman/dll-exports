@@ -1,0 +1,6 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\msxml6.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\msxml6.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\msxml6.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\msxml6.dll\"")
+#print comment(linker, "/export:DllSetProperty=\"C:\\Windows\\SysWOW64\\msxml6.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\msxml6.dll\"")

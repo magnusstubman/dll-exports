@@ -1,0 +1,6 @@
+#print comment(linker, "/export:BootstrapReleaseUnusedResources=\"C:\\Windows\\SysWOW64\\Windows.Media.Protection.PlayReady.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\Windows.Media.Protection.PlayReady.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\Windows.Media.Protection.PlayReady.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\Windows.Media.Protection.PlayReady.dll\"")
+#print comment(linker, "/export:MSPRMFDllCanUnloadNow=\"C:\\Windows\\SysWOW64\\Windows.Media.Protection.PlayReady.dll\"")
+#print comment(linker, "/export:MSPRMFGetClassObject=\"C:\\Windows\\SysWOW64\\Windows.Media.Protection.PlayReady.dll\"")

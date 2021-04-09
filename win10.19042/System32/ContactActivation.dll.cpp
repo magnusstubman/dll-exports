@@ -1,0 +1,7 @@
+#print comment(linker, "/export:AwaitContactPickerResults=\"C:\\Windows\\SysWOW64\\ContactActivation.dll\"")
+#print comment(linker, "/export:ContactToVCardString=\"C:\\Windows\\SysWOW64\\ContactActivation.dll\"")
+#print comment(linker, "/export:DeserializeContactFromString=\"C:\\Windows\\SysWOW64\\ContactActivation.dll\"")
+#print comment(linker, "/export:SerializeContactToString=\"C:\\Windows\\SysWOW64\\ContactActivation.dll\"")
+#print comment(linker, "/export:SerializeContactToVCard=\"C:\\Windows\\SysWOW64\\ContactActivation.dll\"")
+#print comment(linker, "/export:ShowContactPickerAsync=\"C:\\Windows\\SysWOW64\\ContactActivation.dll\"")
+#print comment(linker, "/export:VCardStringToContact=\"C:\\Windows\\SysWOW64\\ContactActivation.dll\"")

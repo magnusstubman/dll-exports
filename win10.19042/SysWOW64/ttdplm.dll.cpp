@@ -1,0 +1,5 @@
+#print comment(linker, "/export:CreateModernAppToDelete=\"C:\\Windows\\SysWOW64\\ttdplm.dll\"")
+#print comment(linker, "/export:CreateModernAppToTrace=\"C:\\Windows\\SysWOW64\\ttdplm.dll\"")
+#print comment(linker, "/export:GetMaxPackageNameLength=\"C:\\Windows\\SysWOW64\\ttdplm.dll\"")
+#print comment(linker, "/export:GetPackageFromPid=\"C:\\Windows\\SysWOW64\\ttdplm.dll\"")
+#print comment(linker, "/export:SetPermisionsForFolder=\"C:\\Windows\\SysWOW64\\ttdplm.dll\"")

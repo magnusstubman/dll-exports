@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\Windows.Perception.Stub.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\Windows.Perception.Stub.dll\"")
+#print comment(linker, "/export:DllGetActivationFactoryPerceptionStub=\"C:\\Windows\\SysWOW64\\Windows.Perception.Stub.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\Windows.Perception.Stub.dll\"")
+#print comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\SysWOW64\\Windows.Perception.Stub.dll\"")

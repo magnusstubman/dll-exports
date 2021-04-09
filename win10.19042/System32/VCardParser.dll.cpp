@@ -1,0 +1,6 @@
+#print comment(linker, "/export:CreateCardParser=\"C:\\Windows\\SysWOW64\\VCardParser.dll\"")
+#print comment(linker, "/export:CreateCardParserEx=\"C:\\Windows\\SysWOW64\\VCardParser.dll\"")
+#print comment(linker, "/export:CreateCardParserExA=\"C:\\Windows\\SysWOW64\\VCardParser.dll\"")
+#print comment(linker, "/export:CreateICalGen=\"C:\\Windows\\SysWOW64\\VCardParser.dll\"")
+#print comment(linker, "/export:CreateVCardGen=\"C:\\Windows\\SysWOW64\\VCardParser.dll\"")
+#print comment(linker, "/export:EncodeQP=\"C:\\Windows\\SysWOW64\\VCardParser.dll\"")

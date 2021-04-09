@@ -1,0 +1,6 @@
+#print comment(linker, "/export:DSCreateISecurityInfoObject=\"C:\\Windows\\SysWOW64\\dssec.dll\"")
+#print comment(linker, "/export:DSCreateISecurityInfoObjectEx=\"C:\\Windows\\SysWOW64\\dssec.dll\"")
+#print comment(linker, "/export:DSCreateSecurityPage=\"C:\\Windows\\SysWOW64\\dssec.dll\"")
+#print comment(linker, "/export:DSEditSecurity=\"C:\\Windows\\SysWOW64\\dssec.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\dssec.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\dssec.dll\"")

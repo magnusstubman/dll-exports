@@ -1,0 +1,8 @@
+#print comment(linker, "/export:PAL_AppHasPackage=\"C:\\Windows\\SysWOW64\\ProximityCommonPal.dll\"")
+#print comment(linker, "/export:PAL_FreeTransientObjectSecurityAttribute=\"C:\\Windows\\SysWOW64\\ProximityCommonPal.dll\"")
+#print comment(linker, "/export:PAL_GetAppPlatformQualifier=\"C:\\Windows\\SysWOW64\\ProximityCommonPal.dll\"")
+#print comment(linker, "/export:PAL_GetSupportedBrowseTypes=\"C:\\Windows\\SysWOW64\\ProximityCommonPal.dll\"")
+#print comment(linker, "/export:PAL_HoldReferenceUntilAppExit=\"C:\\Windows\\SysWOW64\\ProximityCommonPal.dll\"")
+#print comment(linker, "/export:PAL_QueryTransientObjectSecurityAttribute=\"C:\\Windows\\SysWOW64\\ProximityCommonPal.dll\"")
+#print comment(linker, "/export:PAL_RegisterAppSuspendResumeCallback=\"C:\\Windows\\SysWOW64\\ProximityCommonPal.dll\"")
+#print comment(linker, "/export:PAL_UnregisterAppSuspendResumeCallback=\"C:\\Windows\\SysWOW64\\ProximityCommonPal.dll\"")

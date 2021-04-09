@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DispBrokerTraceLogCallback=\"C:\\Windows\\SysWOW64\\DispBroker.dll\"")
+#print comment(linker, "/export:DispBrokerTraceLogHelper=\"C:\\Windows\\SysWOW64\\DispBroker.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\DispBroker.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\DispBroker.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\DispBroker.dll\"")

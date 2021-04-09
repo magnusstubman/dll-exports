@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\rdpendp.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\rdpendp.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\rdpendp.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\rdpendp.dll\"")
+#print comment(linker, "/export:GetTSAudioEndpointEnumeratorForSession=\"C:\\Windows\\SysWOW64\\rdpendp.dll\"")

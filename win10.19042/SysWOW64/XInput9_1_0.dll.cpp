@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\XInput9_1_0.dll\"")
+#print comment(linker, "/export:XInputGetCapabilities=\"C:\\Windows\\SysWOW64\\XInput9_1_0.dll\"")
+#print comment(linker, "/export:XInputGetDSoundAudioDeviceGuids=\"C:\\Windows\\SysWOW64\\XInput9_1_0.dll\"")
+#print comment(linker, "/export:XInputGetState=\"C:\\Windows\\SysWOW64\\XInput9_1_0.dll\"")
+#print comment(linker, "/export:XInputSetState=\"C:\\Windows\\SysWOW64\\XInput9_1_0.dll\"")

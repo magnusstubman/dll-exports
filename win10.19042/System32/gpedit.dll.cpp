@@ -1,0 +1,8 @@
+#print comment(linker, "/export:BrowseForGPO=\"C:\\Windows\\SysWOW64\\gpedit.dll\"")
+#print comment(linker, "/export:CreateGPOLink=\"C:\\Windows\\SysWOW64\\gpedit.dll\"")
+#print comment(linker, "/export:DeleteAllGPOLinks=\"C:\\Windows\\SysWOW64\\gpedit.dll\"")
+#print comment(linker, "/export:DeleteGPOLink=\"C:\\Windows\\SysWOW64\\gpedit.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\gpedit.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\gpedit.dll\"")
+#print comment(linker, "/export:ExportRSoPData=\"C:\\Windows\\SysWOW64\\gpedit.dll\"")
+#print comment(linker, "/export:ImportRSoPData=\"C:\\Windows\\SysWOW64\\gpedit.dll\"")

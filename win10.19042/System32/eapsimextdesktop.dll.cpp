@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\eapsimextdesktop.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\eapsimextdesktop.dll\"")
+#print comment(linker, "/export:EapSimExtCallRunWizard=\"C:\\Windows\\SysWOW64\\eapsimextdesktop.dll\"")
+#print comment(linker, "/export:EapSimExtGetIdentityPageGuid=\"C:\\Windows\\SysWOW64\\eapsimextdesktop.dll\"")
+#print comment(linker, "/export:EapSimExtInvokeUIAndGetConfig=\"C:\\Windows\\SysWOW64\\eapsimextdesktop.dll\"")

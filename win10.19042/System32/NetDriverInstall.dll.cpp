@@ -1,0 +1,6 @@
+#print comment(linker, "/export:NetDriverInstallClose=\"C:\\Windows\\SysWOW64\\NetDriverInstall.dll\"")
+#print comment(linker, "/export:NetDriverInstallCommit=\"C:\\Windows\\SysWOW64\\NetDriverInstall.dll\"")
+#print comment(linker, "/export:NetDriverInstallInitialize=\"C:\\Windows\\SysWOW64\\NetDriverInstall.dll\"")
+#print comment(linker, "/export:NetDriverInstallProcessAdditions=\"C:\\Windows\\SysWOW64\\NetDriverInstall.dll\"")
+#print comment(linker, "/export:NetDriverInstallProcessRemovals=\"C:\\Windows\\SysWOW64\\NetDriverInstall.dll\"")
+#print comment(linker, "/export:NetDriverInstallSync=\"C:\\Windows\\SysWOW64\\NetDriverInstall.dll\"")

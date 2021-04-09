@@ -1,0 +1,5 @@
+#print comment(linker, "/export:CreatePropertiesFromRecurrencePattern=\"C:\\Windows\\SysWOW64\\AppointmentApis.dll\"")
+#print comment(linker, "/export:CreateRecurrencePatternFromProperties=\"C:\\Windows\\SysWOW64\\AppointmentApis.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\AppointmentApis.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\AppointmentApis.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\AppointmentApis.dll\"")

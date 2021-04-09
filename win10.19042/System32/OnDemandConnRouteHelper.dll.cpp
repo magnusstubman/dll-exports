@@ -1,0 +1,8 @@
+#print comment(linker, "/export:FreeInterfaceContextTable=\"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll\"")
+#print comment(linker, "/export:GetInterfaceContextTableForHostName=\"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll\"")
+#print comment(linker, "/export:OnDemandAddRouteRequest=\"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll\"")
+#print comment(linker, "/export:OnDemandGetRoutingHint=\"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll\"")
+#print comment(linker, "/export:OnDemandRegisterNotification=\"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll\"")
+#print comment(linker, "/export:OnDemandRemoveMatchingRoute=\"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll\"")
+#print comment(linker, "/export:OnDemandRemoveRouteRequest=\"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll\"")
+#print comment(linker, "/export:OnDemandUnRegisterNotification=\"C:\\Windows\\SysWOW64\\OnDemandConnRouteHelper.dll\"")

@@ -1,0 +1,8 @@
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\msisip.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\msisip.dll\"")
+#print comment(linker, "/export:MsiSIPCreateIndirectData=\"C:\\Windows\\SysWOW64\\msisip.dll\"")
+#print comment(linker, "/export:MsiSIPGetSignedDataMsg=\"C:\\Windows\\SysWOW64\\msisip.dll\"")
+#print comment(linker, "/export:MsiSIPIsMyTypeOfFile=\"C:\\Windows\\SysWOW64\\msisip.dll\"")
+#print comment(linker, "/export:MsiSIPPutSignedDataMsg=\"C:\\Windows\\SysWOW64\\msisip.dll\"")
+#print comment(linker, "/export:MsiSIPRemoveSignedDataMsg=\"C:\\Windows\\SysWOW64\\msisip.dll\"")
+#print comment(linker, "/export:MsiSIPVerifyIndirectData=\"C:\\Windows\\SysWOW64\\msisip.dll\"")

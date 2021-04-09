@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\comsnap.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\comsnap.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\comsnap.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\comsnap.dll\"")
+#print comment(linker, "/export:InstallDsExtension=\"C:\\Windows\\SysWOW64\\comsnap.dll\"")

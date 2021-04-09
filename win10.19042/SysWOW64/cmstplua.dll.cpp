@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllAddRef=\"C:\\Windows\\SysWOW64\\cmstplua.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\cmstplua.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\cmstplua.dll\"")
+#print comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\cmstplua.dll\"")
+#print comment(linker, "/export:DllRelease=\"C:\\Windows\\SysWOW64\\cmstplua.dll\"")

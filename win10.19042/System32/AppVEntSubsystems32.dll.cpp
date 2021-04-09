@@ -1,0 +1,6 @@
+#print comment(linker, "/export:APIExportForDetours=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.dll\"")
+#print comment(linker, "/export:CurrentThreadIsVirtualized=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.dll\"")
+#print comment(linker, "/export:RequestUnhookedFunctionList=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.dll\"")
+#print comment(linker, "/export:VirtualizeCurrentProcess=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.dll\"")
+#print comment(linker, "/export:VirtualizeCurrentThread=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.dll\"")
+#print comment(linker, "/export:_IsProcessHooked@0=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.dll\"")

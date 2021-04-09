@@ -1,0 +1,5 @@
+#print comment(linker, "/export:ActivatePackage=\"C:\\Windows\\SysWOW64\\embeddedmodesvcapi.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\embeddedmodesvcapi.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\embeddedmodesvcapi.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\embeddedmodesvcapi.dll\"")
+#print comment(linker, "/export:IsEmbeddedModeAllowed=\"C:\\Windows\\SysWOW64\\embeddedmodesvcapi.dll\"")

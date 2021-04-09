@@ -1,0 +1,8 @@
+#print comment(linker, "/export:EseShadowCreateShadow=\"C:\\Windows\\SysWOW64\\esevss.dll\"")
+#print comment(linker, "/export:EseShadowCreateSimpleShadow=\"C:\\Windows\\SysWOW64\\esevss.dll\"")
+#print comment(linker, "/export:EseShadowInit=\"C:\\Windows\\SysWOW64\\esevss.dll\"")
+#print comment(linker, "/export:EseShadowMountShadow=\"C:\\Windows\\SysWOW64\\esevss.dll\"")
+#print comment(linker, "/export:EseShadowMountSimpleShadow=\"C:\\Windows\\SysWOW64\\esevss.dll\"")
+#print comment(linker, "/export:EseShadowPurgeShadow=\"C:\\Windows\\SysWOW64\\esevss.dll\"")
+#print comment(linker, "/export:EseShadowTerm=\"C:\\Windows\\SysWOW64\\esevss.dll\"")
+#print comment(linker, "/export:VssIdToString=\"C:\\Windows\\SysWOW64\\esevss.dll\"")

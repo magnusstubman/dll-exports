@@ -1,0 +1,6 @@
+#print comment(linker, "/export:AppCleanup=\"C:\\Windows\\SysWOW64\\avicap32.dll\"")
+#print comment(linker, "/export:capCreateCaptureWindowA=\"C:\\Windows\\SysWOW64\\avicap32.dll\"")
+#print comment(linker, "/export:capCreateCaptureWindowW=\"C:\\Windows\\SysWOW64\\avicap32.dll\"")
+#print comment(linker, "/export:capGetDriverDescriptionA=\"C:\\Windows\\SysWOW64\\avicap32.dll\"")
+#print comment(linker, "/export:capGetDriverDescriptionW=\"C:\\Windows\\SysWOW64\\avicap32.dll\"")
+#print comment(linker, "/export:videoThunk32=\"C:\\Windows\\SysWOW64\\avicap32.dll\"")

@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\mfnetsrc.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\mfnetsrc.dll\"")
+#print comment(linker, "/export:MFCreateByteCacheFile=\"C:\\Windows\\SysWOW64\\mfnetsrc.dll\"")
+#print comment(linker, "/export:MFCreateCacheManager=\"C:\\Windows\\SysWOW64\\mfnetsrc.dll\"")
+#print comment(linker, "/export:MFCreateFileBlockMap=\"C:\\Windows\\SysWOW64\\mfnetsrc.dll\"")

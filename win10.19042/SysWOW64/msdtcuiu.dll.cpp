@@ -1,0 +1,7 @@
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\msdtcuiu.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\msdtcuiu.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\msdtcuiu.dll\"")
+#print comment(linker, "/export:DtcPerfClose=\"C:\\Windows\\SysWOW64\\msdtcuiu.dll\"")
+#print comment(linker, "/export:DtcPerfCollect=\"C:\\Windows\\SysWOW64\\msdtcuiu.dll\"")
+#print comment(linker, "/export:DtcPerfOpen=\"C:\\Windows\\SysWOW64\\msdtcuiu.dll\"")
+#print comment(linker, "/export:PerfDllRegisterServer=\"C:\\Windows\\SysWOW64\\msdtcuiu.dll\"")

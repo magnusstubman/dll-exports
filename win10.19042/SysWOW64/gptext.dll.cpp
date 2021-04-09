@@ -1,0 +1,6 @@
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\gptext.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\gptext.dll\"")
+#print comment(linker, "/export:ProcessConnectivityPlatformPolicy=\"C:\\Windows\\SysWOW64\\gptext.dll\"")
+#print comment(linker, "/export:ProcessEQoSPolicy=\"C:\\Windows\\SysWOW64\\gptext.dll\"")
+#print comment(linker, "/export:ProcessPSCHEDPolicy=\"C:\\Windows\\SysWOW64\\gptext.dll\"")
+#print comment(linker, "/export:ProcessTCPIPPolicy=\"C:\\Windows\\SysWOW64\\gptext.dll\"")

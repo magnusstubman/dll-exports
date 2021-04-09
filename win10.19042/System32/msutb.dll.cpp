@@ -1,0 +1,8 @@
+#print comment(linker, "/export:ClosePopupTipbar=\"C:\\Windows\\SysWOW64\\msutb.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\msutb.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\msutb.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\msutb.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\msutb.dll\"")
+#print comment(linker, "/export:GetChildTipbar=\"C:\\Windows\\SysWOW64\\msutb.dll\"")
+#print comment(linker, "/export:GetPopupTipbar=\"C:\\Windows\\SysWOW64\\msutb.dll\"")
+#print comment(linker, "/export:SetRegisterLangBand=\"C:\\Windows\\SysWOW64\\msutb.dll\"")

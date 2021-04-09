@@ -1,0 +1,5 @@
+#print comment(linker, "/export:CleanupHotspotProfiles=\"C:\\Windows\\SysWOW64\\Windows.Networking.NetworkOperators.HotspotAuthentication.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\Windows.Networking.NetworkOperators.HotspotAuthentication.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\Windows.Networking.NetworkOperators.HotspotAuthentication.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\Windows.Networking.NetworkOperators.HotspotAuthentication.dll\"")
+#print comment(linker, "/export:RegisterHotspotProfile=\"C:\\Windows\\SysWOW64\\Windows.Networking.NetworkOperators.HotspotAuthentication.dll\"")

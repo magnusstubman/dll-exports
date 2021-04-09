@@ -1,0 +1,6 @@
+#print comment(linker, "/export:CloseLagPerfData=\"C:\\Windows\\SysWOW64\\perfts.dll\"")
+#print comment(linker, "/export:CloseTSObject=\"C:\\Windows\\SysWOW64\\perfts.dll\"")
+#print comment(linker, "/export:CollectLagPerfData=\"C:\\Windows\\SysWOW64\\perfts.dll\"")
+#print comment(linker, "/export:CollectTSObjectData=\"C:\\Windows\\SysWOW64\\perfts.dll\"")
+#print comment(linker, "/export:OpenLagPerfData=\"C:\\Windows\\SysWOW64\\perfts.dll\"")
+#print comment(linker, "/export:OpenTSObject=\"C:\\Windows\\SysWOW64\\perfts.dll\"")

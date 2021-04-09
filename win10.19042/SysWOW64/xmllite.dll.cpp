@@ -1,0 +1,6 @@
+#print comment(linker, "/export:CreateXmlReader=\"C:\\Windows\\SysWOW64\\xmllite.dll\"")
+#print comment(linker, "/export:CreateXmlReaderInputWithEncodingCodePage=\"C:\\Windows\\SysWOW64\\xmllite.dll\"")
+#print comment(linker, "/export:CreateXmlReaderInputWithEncodingName=\"C:\\Windows\\SysWOW64\\xmllite.dll\"")
+#print comment(linker, "/export:CreateXmlWriter=\"C:\\Windows\\SysWOW64\\xmllite.dll\"")
+#print comment(linker, "/export:CreateXmlWriterOutputWithEncodingCodePage=\"C:\\Windows\\SysWOW64\\xmllite.dll\"")
+#print comment(linker, "/export:CreateXmlWriterOutputWithEncodingName=\"C:\\Windows\\SysWOW64\\xmllite.dll\"")

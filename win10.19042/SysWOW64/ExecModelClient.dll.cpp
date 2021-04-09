@@ -1,0 +1,6 @@
+#print comment(linker, "/export:CreateForegroundTaskManager=\"C:\\Windows\\SysWOW64\\ExecModelClient.dll\"")
+#print comment(linker, "/export:CreateModernVoipPolicy=\"C:\\Windows\\SysWOW64\\ExecModelClient.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\ExecModelClient.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\ExecModelClient.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\ExecModelClient.dll\"")
+#print comment(linker, "/export:TestHook_CancelShutdown=\"C:\\Windows\\SysWOW64\\ExecModelClient.dll\"")

@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\Startupscan.dll\"")
+#print comment(linker, "/export:SusResetNotification=\"C:\\Windows\\SysWOW64\\Startupscan.dll\"")
+#print comment(linker, "/export:SusRunOEMTaskOffline=\"C:\\Windows\\SysWOW64\\Startupscan.dll\"")
+#print comment(linker, "/export:SusRunOEMTaskOnline=\"C:\\Windows\\SysWOW64\\Startupscan.dll\"")
+#print comment(linker, "/export:SusRunTask=\"C:\\Windows\\SysWOW64\\Startupscan.dll\"")

@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\Windows.Mirage.Internal.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\Windows.Mirage.Internal.dll\"")
+#print comment(linker, "/export:DllGetActivationFactoryMirageInternal=\"C:\\Windows\\SysWOW64\\Windows.Mirage.Internal.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\Windows.Mirage.Internal.dll\"")
+#print comment(linker, "/export:InjectDependencyInternal=\"C:\\Windows\\SysWOW64\\Windows.Mirage.Internal.dll\"")

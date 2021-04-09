@@ -1,0 +1,8 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.dll\"")
+#print comment(linker, "/export:ExportMitigation=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.dll\"")
+#print comment(linker, "/export:ImportMitigation=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.dll\"")
+#print comment(linker, "/export:ValidateXML=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.dll\"")
+#print comment(linker, "/export:ValidateXMLFromManaged=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.dll\"")

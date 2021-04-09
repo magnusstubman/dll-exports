@@ -1,0 +1,8 @@
+#print comment(linker, "/export:D3D11RefGetLastCreation=\"C:\\Windows\\SysWOW64\\d3d10warp.dll\"")
+#print comment(linker, "/export:D3DLayerGetInterface=\"C:\\Windows\\SysWOW64\\d3d10warp.dll\"")
+#print comment(linker, "/export:OpenAdapter=\"C:\\Windows\\SysWOW64\\d3d10warp.dll\"")
+#print comment(linker, "/export:OpenAdapter10_2=\"C:\\Windows\\SysWOW64\\d3d10warp.dll\"")
+#print comment(linker, "/export:OpenAdapter12=\"C:\\Windows\\SysWOW64\\d3d10warp.dll\"")
+#print comment(linker, "/export:OpenDisplayAdapter1=\"C:\\Windows\\SysWOW64\\d3d10warp.dll\"")
+#print comment(linker, "/export:QueryDListForApplication1=\"C:\\Windows\\SysWOW64\\d3d10warp.dll\"")
+#print comment(linker, "/export:VSD3DDebugConnectionBuffer=\"C:\\Windows\\SysWOW64\\d3d10warp.dll\"")

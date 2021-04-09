@@ -1,0 +1,6 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\mfsvr.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\mfsvr.dll\"")
+#print comment(linker, "/export:MFCreateHDCPStatus=\"C:\\Windows\\SysWOW64\\mfsvr.dll\"")
+#print comment(linker, "/export:MFCreateMediaEngineVideoOTA=\"C:\\Windows\\SysWOW64\\mfsvr.dll\"")
+#print comment(linker, "/export:MFCreateOPMHelper=\"C:\\Windows\\SysWOW64\\mfsvr.dll\"")
+#print comment(linker, "/export:MFCreateTimedTextRenderer=\"C:\\Windows\\SysWOW64\\mfsvr.dll\"")

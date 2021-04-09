@@ -1,0 +1,8 @@
+#print comment(linker, "/export:AMGetErrorTextA=\"C:\\Windows\\SysWOW64\\quartz.dll\"")
+#print comment(linker, "/export:AMGetErrorTextW=\"C:\\Windows\\SysWOW64\\quartz.dll\"")
+#print comment(linker, "/export:AmpFactorToDB=\"C:\\Windows\\SysWOW64\\quartz.dll\"")
+#print comment(linker, "/export:DBToAmpFactor=\"C:\\Windows\\SysWOW64\\quartz.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\quartz.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\quartz.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\quartz.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\quartz.dll\"")

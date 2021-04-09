@@ -1,0 +1,5 @@
+#print comment(linker, "/export:SHUnattendedSetup=\"C:\\Windows\\SysWOW64\\shsetup.dll\"")
+#print comment(linker, "/export:SHUnattendedSetupA=\"C:\\Windows\\SysWOW64\\shsetup.dll\"")
+#print comment(linker, "/export:SHUnattendedSetupW=\"C:\\Windows\\SysWOW64\\shsetup.dll\"")
+#print comment(linker, "/export:Sysprep_Cleanup_Shell=\"C:\\Windows\\SysWOW64\\shsetup.dll\"")
+#print comment(linker, "/export:Sysprep_Generalize_Shell=\"C:\\Windows\\SysWOW64\\shsetup.dll\"")

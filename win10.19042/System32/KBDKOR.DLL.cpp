@@ -1,0 +1,5 @@
+#print comment(linker, "/export:KbdLayerDescriptor=\"C:\\Windows\\SysWOW64\\KBDKOR.DLL\"")
+#print comment(linker, "/export:KbdLayerMultiDescriptor=\"C:\\Windows\\SysWOW64\\KBDKOR.DLL\"")
+#print comment(linker, "/export:KbdLayerRealDllFile=\"C:\\Windows\\SysWOW64\\KBDKOR.DLL\"")
+#print comment(linker, "/export:KbdLayerRealDllFileNT4=\"C:\\Windows\\SysWOW64\\KBDKOR.DLL\"")
+#print comment(linker, "/export:KbdNlsLayerDescriptor=\"C:\\Windows\\SysWOW64\\KBDKOR.DLL\"")

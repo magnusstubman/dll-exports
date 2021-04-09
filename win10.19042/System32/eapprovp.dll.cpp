@@ -1,0 +1,7 @@
+#print comment(linker, "/export:EapProvPlugGetInfo=\"C:\\Windows\\SysWOW64\\eapprovp.dll\"")
+#print comment(linker, "/export:EapProvPluginDeinitialize=\"C:\\Windows\\SysWOW64\\eapprovp.dll\"")
+#print comment(linker, "/export:EapProvPluginInitialize=\"C:\\Windows\\SysWOW64\\eapprovp.dll\"")
+#print comment(linker, "/export:EapProvPluginTestForAuthenticatingWlanInterfaces=\"C:\\Windows\\SysWOW64\\eapprovp.dll\"")
+#print comment(linker, "/export:EapProvPluginWlanCloseHandle=\"C:\\Windows\\SysWOW64\\eapprovp.dll\"")
+#print comment(linker, "/export:EapProvPluginWlanOpenHandle=\"C:\\Windows\\SysWOW64\\eapprovp.dll\"")
+#print comment(linker, "/export:EapProvPluginWlanRegisterNotification=\"C:\\Windows\\SysWOW64\\eapprovp.dll\"")

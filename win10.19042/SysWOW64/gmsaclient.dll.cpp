@@ -1,0 +1,7 @@
+#print comment(linker, "/export:GMSAAdd=\"C:\\Windows\\SysWOW64\\gmsaclient.dll\"")
+#print comment(linker, "/export:GMSACheckIfExistsInAD=\"C:\\Windows\\SysWOW64\\gmsaclient.dll\"")
+#print comment(linker, "/export:GMSACleanup=\"C:\\Windows\\SysWOW64\\gmsaclient.dll\"")
+#print comment(linker, "/export:GMSADelete=\"C:\\Windows\\SysWOW64\\gmsaclient.dll\"")
+#print comment(linker, "/export:GMSAGetPassword=\"C:\\Windows\\SysWOW64\\gmsaclient.dll\"")
+#print comment(linker, "/export:GMSAInit=\"C:\\Windows\\SysWOW64\\gmsaclient.dll\"")
+#print comment(linker, "/export:GMSARefreshPasswords=\"C:\\Windows\\SysWOW64\\gmsaclient.dll\"")

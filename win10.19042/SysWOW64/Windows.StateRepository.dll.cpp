@@ -1,0 +1,7 @@
+#print comment(linker, "/export:ServiceMain=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.dll\"")
+#print comment(linker, "/export:StateRepository_DataAccessLayer_DatabaseCache_Add=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.dll\"")
+#print comment(linker, "/export:StateRepository_DataAccessLayer_DatabaseCache_Get=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.dll\"")
+#print comment(linker, "/export:StateRepository_Initialize=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.dll\"")
+#print comment(linker, "/export:StateRepository_Service_UpdateStatus=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.dll\"")
+#print comment(linker, "/export:StateRepository_Shutdown=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.dll\"")
+#print comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.dll\"")

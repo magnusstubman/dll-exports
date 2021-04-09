@@ -1,0 +1,7 @@
+#print comment(linker, "/export:SRSetRestorePoint=\"C:\\Windows\\SysWOW64\\sfc.dll\"")
+#print comment(linker, "/export:SRSetRestorePointA=\"C:\\Windows\\SysWOW64\\sfc.dll\"")
+#print comment(linker, "/export:SRSetRestorePointW=\"C:\\Windows\\SysWOW64\\sfc.dll\"")
+#print comment(linker, "/export:SfcGetNextProtectedFile=\"C:\\Windows\\SysWOW64\\sfc.dll\"")
+#print comment(linker, "/export:SfcIsFileProtected=\"C:\\Windows\\SysWOW64\\sfc.dll\"")
+#print comment(linker, "/export:SfcIsKeyProtected=\"C:\\Windows\\SysWOW64\\sfc.dll\"")
+#print comment(linker, "/export:SfpVerifyFile=\"C:\\Windows\\SysWOW64\\sfc.dll\"")

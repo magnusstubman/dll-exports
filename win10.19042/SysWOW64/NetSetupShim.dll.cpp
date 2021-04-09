@@ -1,0 +1,6 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\NetSetupShim.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\NetSetupShim.dll\"")
+#print comment(linker, "/export:NetSetupCreateBindingMap=\"C:\\Windows\\SysWOW64\\NetSetupShim.dll\"")
+#print comment(linker, "/export:NetSetupExportDatabase=\"C:\\Windows\\SysWOW64\\NetSetupShim.dll\"")
+#print comment(linker, "/export:NetSetupResetBindings=\"C:\\Windows\\SysWOW64\\NetSetupShim.dll\"")
+#print comment(linker, "/export:NetSetupShimExecuteInfSection=\"C:\\Windows\\SysWOW64\\NetSetupShim.dll\"")

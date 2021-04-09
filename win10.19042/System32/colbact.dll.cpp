@@ -1,0 +1,7 @@
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\colbact.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\colbact.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\colbact.dll\"")
+#print comment(linker, "/export:GetClassInfoForCurrentUser=\"C:\\Windows\\SysWOW64\\colbact.dll\"")
+#print comment(linker, "/export:GetDefaultPartitionForCurrentUser=\"C:\\Windows\\SysWOW64\\colbact.dll\"")
+#print comment(linker, "/export:GetDefaultPartitionForSid=\"C:\\Windows\\SysWOW64\\colbact.dll\"")
+#print comment(linker, "/export:PartitionAccessCheck=\"C:\\Windows\\SysWOW64\\colbact.dll\"")

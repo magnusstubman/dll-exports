@@ -1,0 +1,5 @@
+#print comment(linker, "/export:SssBindServicingStack=\"C:\\Windows\\SysWOW64\\SSShim.dll\"")
+#print comment(linker, "/export:SssGetServicingStackFilePath=\"C:\\Windows\\SysWOW64\\SSShim.dll\"")
+#print comment(linker, "/export:SssGetServicingStackFilePathLength=\"C:\\Windows\\SysWOW64\\SSShim.dll\"")
+#print comment(linker, "/export:SssPreloadDownlevelDependencies=\"C:\\Windows\\SysWOW64\\SSShim.dll\"")
+#print comment(linker, "/export:SssReleaseServicingStack=\"C:\\Windows\\SysWOW64\\SSShim.dll\"")

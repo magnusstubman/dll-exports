@@ -1,0 +1,5 @@
+#print comment(linker, "/export:MappingDoAction=\"C:\\Windows\\SysWOW64\\ELSCore.dll\"")
+#print comment(linker, "/export:MappingFreePropertyBag=\"C:\\Windows\\SysWOW64\\ELSCore.dll\"")
+#print comment(linker, "/export:MappingFreeServices=\"C:\\Windows\\SysWOW64\\ELSCore.dll\"")
+#print comment(linker, "/export:MappingGetServices=\"C:\\Windows\\SysWOW64\\ELSCore.dll\"")
+#print comment(linker, "/export:MappingRecognizeText=\"C:\\Windows\\SysWOW64\\ELSCore.dll\"")

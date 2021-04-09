@@ -1,0 +1,5 @@
+#print comment(linker, "/export:InjectThread=\"C:\\Windows\\SysWOW64\\ttdloader.dll\"")
+#print comment(linker, "/export:ParametersBlock=\"C:\\Windows\\SysWOW64\\ttdloader.dll\"")
+#print comment(linker, "/export:StubDllEntry=\"C:\\Windows\\SysWOW64\\ttdloader.dll\"")
+#print comment(linker, "/export:StubDllEntryWow64=\"C:\\Windows\\SysWOW64\\ttdloader.dll\"")
+#print comment(linker, "/export:TriggerOSNotification=\"C:\\Windows\\SysWOW64\\ttdloader.dll\"")

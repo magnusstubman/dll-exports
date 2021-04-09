@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\Windows.UI.Xaml.Maps.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\Windows.UI.Xaml.Maps.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\Windows.UI.Xaml.Maps.dll\"")
+#print comment(linker, "/export:GetDependencyLocatorStorage=\"C:\\Windows\\SysWOW64\\Windows.UI.Xaml.Maps.dll\"")
+#print comment(linker, "/export:XamlTestHookFreeMapsResourceLibrary=\"C:\\Windows\\SysWOW64\\Windows.UI.Xaml.Maps.dll\"")

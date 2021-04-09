@@ -1,0 +1,6 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\scansetting.dll\"")
+#print comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\scansetting.dll\"")
+#print comment(linker, "/export:GetDefaultProfileScan=\"C:\\Windows\\SysWOW64\\scansetting.dll\"")
+#print comment(linker, "/export:GetImageDialog=\"C:\\Windows\\SysWOW64\\scansetting.dll\"")
+#print comment(linker, "/export:ProfilesDialog=\"C:\\Windows\\SysWOW64\\scansetting.dll\"")
+#print comment(linker, "/export:ProgDlgTakeFgIfShowing=\"C:\\Windows\\SysWOW64\\scansetting.dll\"")

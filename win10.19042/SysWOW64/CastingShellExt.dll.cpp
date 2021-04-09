@@ -1,0 +1,7 @@
+#print comment(linker, "/export:CreateViewObjectForContentDirectoryFolder=\"C:\\Windows\\SysWOW64\\CastingShellExt.dll\"")
+#print comment(linker, "/export:CreateViewObjectForMediaServerFolder=\"C:\\Windows\\SysWOW64\\CastingShellExt.dll\"")
+#print comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\CastingShellExt.dll\"")
+#print comment(linker, "/export:GetContextMenuForContentDirectoryFolder=\"C:\\Windows\\SysWOW64\\CastingShellExt.dll\"")
+#print comment(linker, "/export:GetContextMenuForMediaServerFolder=\"C:\\Windows\\SysWOW64\\CastingShellExt.dll\"")
+#print comment(linker, "/export:GetExtractIconForContentDirectoryFolder=\"C:\\Windows\\SysWOW64\\CastingShellExt.dll\"")
+#print comment(linker, "/export:GetExtractIconForMediaServerFolder=\"C:\\Windows\\SysWOW64\\CastingShellExt.dll\"")

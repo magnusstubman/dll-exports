@@ -1,0 +1,7 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\MsCtfMonitor.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\MsCtfMonitor.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\MsCtfMonitor.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\MsCtfMonitor.dll\"")
+#print comment(linker, "/export:DoMsCtfMonitor=\"C:\\Windows\\SysWOW64\\MsCtfMonitor.dll\"")
+#print comment(linker, "/export:InitLocalMsCtfMonitor=\"C:\\Windows\\SysWOW64\\MsCtfMonitor.dll\"")
+#print comment(linker, "/export:UninitLocalMsCtfMonitor=\"C:\\Windows\\SysWOW64\\MsCtfMonitor.dll\"")
