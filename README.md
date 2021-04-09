@@ -9,7 +9,7 @@ Typical usecase is for backdooring applications for persistence purposes. E.g:
 4. add the code from here https://github.com/magnusstubman/dll-exports/blob/main/win10.19042/System32/version.dll.cpp
 5. add your own maliciousness e.g. malware, e.g. as I did in https://dumpco.re/blog/alternative-to-lsass-dumping
 6. compile - remember to compile for correct architecture
-7. compy your newly compiled DLL to the target application's home directory
+7. copy your newly compiled DLL to the target application's home directory
 8. restart application and see it load your code, while preserving functionality
 
 
