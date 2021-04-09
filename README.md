@@ -2,6 +2,7 @@
 Collection of DLL function export forwards for DLL export function proxying
 
 
+
 `generator.py` generates a list of DLLs in the target folders and use `pefile` to generate a list of exported functions for each, that are written to individual files containing relevant linker directives. E.g. for C:\Windows\System32\version.dll:
 
 
@@ -26,3 +27,7 @@ https://github.com/magnusstubman/dll-exports/blob/main/win10.19042/System32/vers
 #print comment(linker, "/export:VerQueryValueW=\"C:\\Windows\\SysWOW64\\version.dll\"")
 ```
 
+#### Note
+
+I havn't taken `KnownDLLs` into account.
+Keep in mind that the DLLs listed in `HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\KnownDLLs` *and any* DLL that they load is also considered to be a known DLL, thus the standard search order does not apply.
