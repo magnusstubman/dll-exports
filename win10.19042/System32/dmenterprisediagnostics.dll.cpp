@@ -1,0 +1,8 @@
+#print comment(linker, "/export:CollectDiagnosticsAutoLog=\"C:\\Windows\\System32\\dmenterprisediagnostics.dll\"")
+#print comment(linker, "/export:GatherAutoLogEventsFromMobile=\"C:\\Windows\\System32\\dmenterprisediagnostics.dll\"")
+#print comment(linker, "/export:RecordDiagnosticsError=\"C:\\Windows\\System32\\dmenterprisediagnostics.dll\"")
+#print comment(linker, "/export:SetupAutoLog=\"C:\\Windows\\System32\\dmenterprisediagnostics.dll\"")
+#print comment(linker, "/export:SetupAutoLogWithTraceLevel=\"C:\\Windows\\System32\\dmenterprisediagnostics.dll\"")
+#print comment(linker, "/export:StartAutoLog=\"C:\\Windows\\System32\\dmenterprisediagnostics.dll\"")
+#print comment(linker, "/export:StopAutoLog=\"C:\\Windows\\System32\\dmenterprisediagnostics.dll\"")
+#print comment(linker, "/export:TearDownAutoLog=\"C:\\Windows\\System32\\dmenterprisediagnostics.dll\"")

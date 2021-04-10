@@ -1,1 +1,1 @@
-#print comment(linker, "/export:InitHelperDll=\"C:\\Windows\\SysWOW64\\wshelper.dll\"")
+#print comment(linker, "/export:InitHelperDll=\"C:\\Windows\\System32\\wshelper.dll\"")

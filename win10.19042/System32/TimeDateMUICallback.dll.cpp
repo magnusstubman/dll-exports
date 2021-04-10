@@ -1,1 +1,1 @@
-#print comment(linker, "/export:OnMachineUILanguageSwitch=\"C:\\Windows\\SysWOW64\\TimeDateMUICallback.dll\"")
+#print comment(linker, "/export:OnMachineUILanguageSwitch=\"C:\\Windows\\System32\\TimeDateMUICallback.dll\"")

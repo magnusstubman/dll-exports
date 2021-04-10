@@ -1,1 +1,1 @@
-#print comment(linker, "/export:DllGetVersion=\"C:\\Windows\\SysWOW64\\browseui.dll\"")
+#print comment(linker, "/export:DllGetVersion=\"C:\\Windows\\System32\\browseui.dll\"")

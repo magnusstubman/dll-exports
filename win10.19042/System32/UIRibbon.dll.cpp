@@ -1,3 +1,3 @@
-#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\UIRibbon.dll\"")
-#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\UIRibbon.dll\"")
-#print comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\UIRibbon.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\UIRibbon.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\UIRibbon.dll\"")
+#print comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\UIRibbon.dll\"")

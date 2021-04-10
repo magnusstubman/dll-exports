@@ -1,0 +1,8 @@
+#print comment(linker, "/export:AcmEngineApply=\"C:\\Windows\\System32\\acmigration.dll\"")
+#print comment(linker, "/export:AcmEngineCollect=\"C:\\Windows\\System32\\acmigration.dll\"")
+#print comment(linker, "/export:AcmEngineCreate=\"C:\\Windows\\System32\\acmigration.dll\"")
+#print comment(linker, "/export:AcmEngineDelete=\"C:\\Windows\\System32\\acmigration.dll\"")
+#print comment(linker, "/export:AcmEngineGenerateMigXml=\"C:\\Windows\\System32\\acmigration.dll\"")
+#print comment(linker, "/export:AcmEngineSetBaseWorkingDirectory=\"C:\\Windows\\System32\\acmigration.dll\"")
+#print comment(linker, "/export:AcmMatchPluginExecute=\"C:\\Windows\\System32\\acmigration.dll\"")
+#print comment(linker, "/export:ApplyMigrationShimsW=\"C:\\Windows\\System32\\acmigration.dll\"")

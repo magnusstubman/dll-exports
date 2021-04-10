@@ -1,1 +1,1 @@
-#print comment(linker, "/export:GetDispenserManager=\"C:\\Windows\\SysWOW64\\mtxdm.dll\"")
+#print comment(linker, "/export:GetDispenserManager=\"C:\\Windows\\System32\\mtxdm.dll\"")

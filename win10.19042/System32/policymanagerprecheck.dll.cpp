@@ -1,0 +1,5 @@
+#print comment(linker, "/export:PolicyManagerTranslationProxy_GetPolicyValue=\"C:\\Windows\\System32\\policymanagerprecheck.dll\"")
+#print comment(linker, "/export:PolicyManagerTranslationProxy_SetPolicyValue=\"C:\\Windows\\System32\\policymanagerprecheck.dll\"")
+#print comment(linker, "/export:PolicyManager_Apply=\"C:\\Windows\\System32\\policymanagerprecheck.dll\"")
+#print comment(linker, "/export:PolicyManager_PostApply=\"C:\\Windows\\System32\\policymanagerprecheck.dll\"")
+#print comment(linker, "/export:PolicyManager_PreCheck=\"C:\\Windows\\System32\\policymanagerprecheck.dll\"")

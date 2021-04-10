@@ -1,0 +1,7 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\EdgeContent.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\EdgeContent.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\EdgeContent.dll\"")
+#print comment(linker, "/export:IEGetWriteableFolderPath=\"C:\\Windows\\System32\\EdgeContent.dll\"")
+#print comment(linker, "/export:IEIsInPrivateBrowsing=\"C:\\Windows\\System32\\EdgeContent.dll\"")
+#print comment(linker, "/export:IEIsProtectedModeProcess=\"C:\\Windows\\System32\\EdgeContent.dll\"")
+#print comment(linker, "/export:IERefreshElevationPolicy=\"C:\\Windows\\System32\\EdgeContent.dll\"")

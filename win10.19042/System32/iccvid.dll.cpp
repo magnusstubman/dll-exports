@@ -1,1 +1,0 @@
-#print comment(linker, "/export:DriverProc=\"C:\\Windows\\SysWOW64\\iccvid.dll\"")

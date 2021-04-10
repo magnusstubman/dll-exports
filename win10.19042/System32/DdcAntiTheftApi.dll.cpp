@@ -1,0 +1,5 @@
+#print comment(linker, "/export:AntiTheftAckProtectionEnabled=\"C:\\Windows\\System32\\DdcAntiTheftApi.dll\"")
+#print comment(linker, "/export:AntiTheftCheckProtectionStatus=\"C:\\Windows\\System32\\DdcAntiTheftApi.dll\"")
+#print comment(linker, "/export:AntiTheftProtectDevice=\"C:\\Windows\\System32\\DdcAntiTheftApi.dll\"")
+#print comment(linker, "/export:AntiTheftUnprotectDevice=\"C:\\Windows\\System32\\DdcAntiTheftApi.dll\"")
+#print comment(linker, "/export:AntiTheftUnprotectDeviceFromOOBE=\"C:\\Windows\\System32\\DdcAntiTheftApi.dll\"")

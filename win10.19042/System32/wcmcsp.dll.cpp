@@ -1,0 +1,6 @@
+#print comment(linker, "/export:EthernetCspDeInit=\"C:\\Windows\\System32\\wcmcsp.dll\"")
+#print comment(linker, "/export:EthernetCspInit=\"C:\\Windows\\System32\\wcmcsp.dll\"")
+#print comment(linker, "/export:WlanCspDeInit=\"C:\\Windows\\System32\\wcmcsp.dll\"")
+#print comment(linker, "/export:WlanCspInit=\"C:\\Windows\\System32\\wcmcsp.dll\"")
+#print comment(linker, "/export:WwanCspDeInit=\"C:\\Windows\\System32\\wcmcsp.dll\"")
+#print comment(linker, "/export:WwanCspInit=\"C:\\Windows\\System32\\wcmcsp.dll\"")

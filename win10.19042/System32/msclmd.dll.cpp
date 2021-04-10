@@ -1,2 +1,2 @@
-#print comment(linker, "/export:CardAcquireContext=\"C:\\Windows\\SysWOW64\\msclmd.dll\"")
-#print comment(linker, "/export:CardAcquireContextInternal=\"C:\\Windows\\SysWOW64\\msclmd.dll\"")
+#print comment(linker, "/export:CardAcquireContext=\"C:\\Windows\\System32\\msclmd.dll\"")
+#print comment(linker, "/export:CardAcquireContextInternal=\"C:\\Windows\\System32\\msclmd.dll\"")

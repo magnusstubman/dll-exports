@@ -1,8 +1,0 @@
-#print comment(linker, "/export:AllocInstanceData=\"C:\\Windows\\SysWOW64\\ir41_qcoriginal.dll\"")
-#print comment(linker, "/export:Compress=\"C:\\Windows\\SysWOW64\\ir41_qcoriginal.dll\"")
-#print comment(linker, "/export:CompressBegin=\"C:\\Windows\\SysWOW64\\ir41_qcoriginal.dll\"")
-#print comment(linker, "/export:CompressEnd=\"C:\\Windows\\SysWOW64\\ir41_qcoriginal.dll\"")
-#print comment(linker, "/export:CompressFramesInfo=\"C:\\Windows\\SysWOW64\\ir41_qcoriginal.dll\"")
-#print comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\ir41_qcoriginal.dll\"")
-#print comment(linker, "/export:FreeInstanceData=\"C:\\Windows\\SysWOW64\\ir41_qcoriginal.dll\"")
-#print comment(linker, "/export:SetScalability=\"C:\\Windows\\SysWOW64\\ir41_qcoriginal.dll\"")

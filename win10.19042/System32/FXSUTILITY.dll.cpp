@@ -1,0 +1,7 @@
+#print comment(linker, "/export:CanSendToFaxRecipient=\"C:\\Windows\\System32\\FXSUTILITY.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\FXSUTILITY.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\FXSUTILITY.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\FXSUTILITY.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\FXSUTILITY.dll\"")
+#print comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\System32\\FXSUTILITY.dll\"")
+#print comment(linker, "/export:SendToFaxRecipient=\"C:\\Windows\\System32\\FXSUTILITY.dll\"")

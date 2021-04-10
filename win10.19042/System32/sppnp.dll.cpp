@@ -1,0 +1,6 @@
+#print comment(linker, "/export:Sysprep_Generalize_Pnp=\"C:\\Windows\\System32\\sppnp.dll\"")
+#print comment(linker, "/export:Sysprep_Generalize_Pnp_Drivers=\"C:\\Windows\\System32\\sppnp.dll\"")
+#print comment(linker, "/export:Sysprep_Respecialize_Pnp=\"C:\\Windows\\System32\\sppnp.dll\"")
+#print comment(linker, "/export:Sysprep_RunDll_PnpW=\"C:\\Windows\\System32\\sppnp.dll\"")
+#print comment(linker, "/export:Sysprep_Specialize_Offline_Pnp=\"C:\\Windows\\System32\\sppnp.dll\"")
+#print comment(linker, "/export:Sysprep_Specialize_Pnp=\"C:\\Windows\\System32\\sppnp.dll\"")

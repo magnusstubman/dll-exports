@@ -1,1 +1,1 @@
-#print comment(linker, "/export:InitializeHeatFramework=\"C:\\Windows\\SysWOW64\\HeatCore.dll\"")
+#print comment(linker, "/export:InitializeHeatFramework=\"C:\\Windows\\System32\\HeatCore.dll\"")

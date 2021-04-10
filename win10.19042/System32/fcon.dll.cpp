@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\fcon.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\fcon.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\fcon.dll\"")
+#print comment(linker, "/export:GetCtacPropertyAlloc=\"C:\\Windows\\System32\\fcon.dll\"")
+#print comment(linker, "/export:ModifyStagingControls=\"C:\\Windows\\System32\\fcon.dll\"")

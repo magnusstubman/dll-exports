@@ -1,0 +1,6 @@
+#print comment(linker, "/export:ConfigureRegistrationIEZoneMappings=\"C:\\Windows\\System32\\deviceregistration.dll\"")
+#print comment(linker, "/export:DiscoverRegistrationService=\"C:\\Windows\\System32\\deviceregistration.dll\"")
+#print comment(linker, "/export:GetRegistrationInfo=\"C:\\Windows\\System32\\deviceregistration.dll\"")
+#print comment(linker, "/export:IsRegistrationAvailable=\"C:\\Windows\\System32\\deviceregistration.dll\"")
+#print comment(linker, "/export:RegisterDevice=\"C:\\Windows\\System32\\deviceregistration.dll\"")
+#print comment(linker, "/export:UnRegisterDevice=\"C:\\Windows\\System32\\deviceregistration.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:InitHelperDll=\"C:\\Windows\\SysWOW64\\netiohlp.dll\"")
+#print comment(linker, "/export:InitHelperDll=\"C:\\Windows\\System32\\netiohlp.dll\"")

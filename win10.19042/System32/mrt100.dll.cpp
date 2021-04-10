@@ -1,1 +1,1 @@
-#print comment(linker, "/export:GetManagedRuntimeService=\"C:\\Windows\\SysWOW64\\mrt100.dll\"")
+#print comment(linker, "/export:GetManagedRuntimeService=\"C:\\Windows\\System32\\mrt100.dll\"")

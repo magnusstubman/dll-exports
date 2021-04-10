@@ -1,1 +1,1 @@
-#print comment(linker, "/export:IsDeviceEnrolled=\"C:\\Windows\\SysWOW64\\enrollmentapi.dll\"")
+#print comment(linker, "/export:IsDeviceEnrolled=\"C:\\Windows\\System32\\enrollmentapi.dll\"")

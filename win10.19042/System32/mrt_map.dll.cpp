@@ -1,1 +1,1 @@
-#print comment(linker, "/export:CLRDataCreateInstance=\"C:\\Windows\\SysWOW64\\mrt_map.dll\"")
+#print comment(linker, "/export:CLRDataCreateInstance=\"C:\\Windows\\System32\\mrt_map.dll\"")

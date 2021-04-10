@@ -1,0 +1,7 @@
+#print comment(linker, "/export:GetServicingModeState=\"C:\\Windows\\System32\\uwfservicingapi.dll\"")
+#print comment(linker, "/export:SetServicingModeState=\"C:\\Windows\\System32\\uwfservicingapi.dll\"")
+#print comment(linker, "/export:UwfServicingCleanup=\"C:\\Windows\\System32\\uwfservicingapi.dll\"")
+#print comment(linker, "/export:UwfServicingInitialize=\"C:\\Windows\\System32\\uwfservicingapi.dll\"")
+#print comment(linker, "/export:UwfServicingWinUpdateApply=\"C:\\Windows\\System32\\uwfservicingapi.dll\"")
+#print comment(linker, "/export:UwfServicingWinupdateCleanup=\"C:\\Windows\\System32\\uwfservicingapi.dll\"")
+#print comment(linker, "/export:UwfServicingWinupdateInitialize=\"C:\\Windows\\System32\\uwfservicingapi.dll\"")

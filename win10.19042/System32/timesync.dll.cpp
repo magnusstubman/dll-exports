@@ -1,0 +1,5 @@
+#print comment(linker, "/export:FreeTimeStatusInfo=\"C:\\Windows\\System32\\timesync.dll\"")
+#print comment(linker, "/export:GetTimeStatusInfo=\"C:\\Windows\\System32\\timesync.dll\"")
+#print comment(linker, "/export:SetNTPSync=\"C:\\Windows\\System32\\timesync.dll\"")
+#print comment(linker, "/export:StartTimeService=\"C:\\Windows\\System32\\timesync.dll\"")
+#print comment(linker, "/export:SyncW32Time=\"C:\\Windows\\System32\\timesync.dll\"")

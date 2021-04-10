@@ -1,1 +1,1 @@
-#print comment(linker, "/export:NSPStartup=\"C:\\Windows\\SysWOW64\\pnrpnsp.dll\"")
+#print comment(linker, "/export:NSPStartup=\"C:\\Windows\\System32\\pnrpnsp.dll\"")

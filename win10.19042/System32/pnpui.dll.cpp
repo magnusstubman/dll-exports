@@ -1,0 +1,7 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\pnpui.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\pnpui.dll\"")
+#print comment(linker, "/export:InstallSecurityPrompt=\"C:\\Windows\\System32\\pnpui.dll\"")
+#print comment(linker, "/export:InstallSecurityPromptLUA=\"C:\\Windows\\System32\\pnpui.dll\"")
+#print comment(linker, "/export:InstallSecurityPromptRunDllW=\"C:\\Windows\\System32\\pnpui.dll\"")
+#print comment(linker, "/export:NotifyDevicesNeedRebootRunDllW=\"C:\\Windows\\System32\\pnpui.dll\"")
+#print comment(linker, "/export:SimplifiedDINotificationW=\"C:\\Windows\\System32\\pnpui.dll\"")

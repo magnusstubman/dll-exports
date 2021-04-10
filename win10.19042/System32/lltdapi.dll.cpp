@@ -1,0 +1,6 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\lltdapi.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\lltdapi.dll\"")
+#print comment(linker, "/export:LLTDCreateEnumerator=\"C:\\Windows\\System32\\lltdapi.dll\"")
+#print comment(linker, "/export:LLTDCreateMapFromXML=\"C:\\Windows\\System32\\lltdapi.dll\"")
+#print comment(linker, "/export:LLTDCreateMapper=\"C:\\Windows\\System32\\lltdapi.dll\"")
+#print comment(linker, "/export:LLTDCreateNode=\"C:\\Windows\\System32\\lltdapi.dll\"")

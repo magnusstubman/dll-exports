@@ -1,1 +1,1 @@
-#print comment(linker, "/export:MirrorDrvLoadedNotify=\"C:\\Windows\\SysWOW64\\MirrorDrvCompat.dll\"")
+#print comment(linker, "/export:MirrorDrvLoadedNotify=\"C:\\Windows\\System32\\MirrorDrvCompat.dll\"")

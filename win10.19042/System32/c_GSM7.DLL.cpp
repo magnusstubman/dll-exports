@@ -1,1 +1,1 @@
-#print comment(linker, "/export:NlsDllCodePageTranslation=\"C:\\Windows\\SysWOW64\\c_GSM7.DLL\"")
+#print comment(linker, "/export:NlsDllCodePageTranslation=\"C:\\Windows\\System32\\c_GSM7.DLL\"")

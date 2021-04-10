@@ -1,0 +1,7 @@
+#print comment(linker, "/export:CreateInstance=\"C:\\Windows\\System32\\msdtclog.dll\"")
+#print comment(linker, "/export:DeleteInstance=\"C:\\Windows\\System32\\msdtclog.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\msdtclog.dll\"")
+#print comment(linker, "/export:DllGetDTCLOG=\"C:\\Windows\\System32\\msdtclog.dll\"")
+#print comment(linker, "/export:DllGetDTCLOG2=\"C:\\Windows\\System32\\msdtclog.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\msdtclog.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\msdtclog.dll\"")

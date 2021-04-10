@@ -1,3 +1,3 @@
-#print comment(linker, "/export:CloseOSObject=\"C:\\Windows\\SysWOW64\\perfos.dll\"")
-#print comment(linker, "/export:CollectOSObjectData=\"C:\\Windows\\SysWOW64\\perfos.dll\"")
-#print comment(linker, "/export:OpenOSObject=\"C:\\Windows\\SysWOW64\\perfos.dll\"")
+#print comment(linker, "/export:CloseOSObject=\"C:\\Windows\\System32\\perfos.dll\"")
+#print comment(linker, "/export:CollectOSObjectData=\"C:\\Windows\\System32\\perfos.dll\"")
+#print comment(linker, "/export:OpenOSObject=\"C:\\Windows\\System32\\perfos.dll\"")

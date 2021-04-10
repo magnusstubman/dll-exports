@@ -1,0 +1,5 @@
+#print comment(linker, "/export:KdInitialize=\"C:\\Windows\\System32\\kdusb.dll\"")
+#print comment(linker, "/export:KdPower=\"C:\\Windows\\System32\\kdusb.dll\"")
+#print comment(linker, "/export:KdReceivePacket=\"C:\\Windows\\System32\\kdusb.dll\"")
+#print comment(linker, "/export:KdSendPacket=\"C:\\Windows\\System32\\kdusb.dll\"")
+#print comment(linker, "/export:KdSetHiberRange=\"C:\\Windows\\System32\\kdusb.dll\"")

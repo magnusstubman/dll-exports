@@ -1,1 +1,1 @@
-#print comment(linker, "/export:MetaDataGetDispenser=\"C:\\Windows\\SysWOW64\\rometadata.dll\"")
+#print comment(linker, "/export:MetaDataGetDispenser=\"C:\\Windows\\System32\\rometadata.dll\"")

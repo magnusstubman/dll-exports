@@ -1,0 +1,8 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\pwlauncher.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\pwlauncher.dll\"")
+#print comment(linker, "/export:DllInstall=\"C:\\Windows\\System32\\pwlauncher.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\pwlauncher.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\pwlauncher.dll\"")
+#print comment(linker, "/export:ProcessHibernateGroupPolicy=\"C:\\Windows\\System32\\pwlauncher.dll\"")
+#print comment(linker, "/export:ProcessLauncherGroupPolicy=\"C:\\Windows\\System32\\pwlauncher.dll\"")
+#print comment(linker, "/export:ShowPortableWorkspaceLauncherConfigurationUX=\"C:\\Windows\\System32\\pwlauncher.dll\"")

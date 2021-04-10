@@ -1,0 +1,6 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\SettingsHandlers_StorageSense.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\SettingsHandlers_StorageSense.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\SettingsHandlers_StorageSense.dll\"")
+#print comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\System32\\SettingsHandlers_StorageSense.dll\"")
+#print comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\SettingsHandlers_StorageSense.dll\"")
+#print comment(linker, "/export:GetSettingForUser=\"C:\\Windows\\System32\\SettingsHandlers_StorageSense.dll\"")

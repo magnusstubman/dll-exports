@@ -1,0 +1,6 @@
+#print comment(linker, "/export:CreateInputMethodClient=\"C:\\Windows\\System32\\InputService.dll\"")
+#print comment(linker, "/export:CreateKeyEventProcessor=\"C:\\Windows\\System32\\InputService.dll\"")
+#print comment(linker, "/export:InitializeService=\"C:\\Windows\\System32\\InputService.dll\"")
+#print comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\InputService.dll\"")
+#print comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\InputService.dll\"")
+#print comment(linker, "/export:UninitializeService=\"C:\\Windows\\System32\\InputService.dll\"")

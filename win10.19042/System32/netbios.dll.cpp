@@ -1,1 +1,1 @@
-#print comment(linker, "/export:Netbios=\"C:\\Windows\\SysWOW64\\netbios.dll\"")
+#print comment(linker, "/export:Netbios=\"C:\\Windows\\System32\\netbios.dll\"")

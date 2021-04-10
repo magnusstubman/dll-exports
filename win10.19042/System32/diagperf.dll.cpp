@@ -1,0 +1,7 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\diagperf.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\diagperf.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\diagperf.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\diagperf.dll\"")
+#print comment(linker, "/export:WdiDiagnosticModuleMain=\"C:\\Windows\\System32\\diagperf.dll\"")
+#print comment(linker, "/export:WdiGetDiagnosticModuleInterfaceVersion=\"C:\\Windows\\System32\\diagperf.dll\"")
+#print comment(linker, "/export:WdiHandleInstance=\"C:\\Windows\\System32\\diagperf.dll\"")

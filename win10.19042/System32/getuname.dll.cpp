@@ -1,1 +1,1 @@
-#print comment(linker, "/export:GetUName=\"C:\\Windows\\SysWOW64\\getuname.dll\"")
+#print comment(linker, "/export:GetUName=\"C:\\Windows\\System32\\getuname.dll\"")

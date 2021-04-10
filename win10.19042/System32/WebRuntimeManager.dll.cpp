@@ -1,0 +1,6 @@
+#print comment(linker, "/export:CreateMessagePortEventDispatcher=\"C:\\Windows\\System32\\WebRuntimeManager.dll\"")
+#print comment(linker, "/export:CreateServiceWorkerClientMessageDispatcher=\"C:\\Windows\\System32\\WebRuntimeManager.dll\"")
+#print comment(linker, "/export:CreateWebRuntimeFactory=\"C:\\Windows\\System32\\WebRuntimeManager.dll\"")
+#print comment(linker, "/export:CreateWebRuntimeNotificationFromEventArg=\"C:\\Windows\\System32\\WebRuntimeManager.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\WebRuntimeManager.dll\"")
+#print comment(linker, "/export:EnsureServiceWorkerManagerComponent=\"C:\\Windows\\System32\\WebRuntimeManager.dll\"")

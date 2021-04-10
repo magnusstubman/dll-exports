@@ -1,1 +1,1 @@
-#print comment(linker, "/export:SendSAS=\"C:\\Windows\\SysWOW64\\sas.dll\"")
+#print comment(linker, "/export:SendSAS=\"C:\\Windows\\System32\\sas.dll\"")

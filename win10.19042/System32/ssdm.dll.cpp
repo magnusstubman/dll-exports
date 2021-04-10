@@ -1,1 +1,1 @@
-#print comment(linker, "/export:s_RequestHrtfData=\"C:\\Windows\\SysWOW64\\ssdm.dll\"")
+#print comment(linker, "/export:s_RequestHrtfData=\"C:\\Windows\\System32\\ssdm.dll\"")

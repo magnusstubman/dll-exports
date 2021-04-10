@@ -1,1 +1,1 @@
-#print comment(linker, "/export:IllBeBack=\"C:\\Windows\\SysWOW64\\AppVTerminator.dll\"")
+#print comment(linker, "/export:IllBeBack=\"C:\\Windows\\System32\\AppVTerminator.dll\"")

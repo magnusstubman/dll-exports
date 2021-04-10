@@ -1,1 +1,1 @@
-#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\txflog.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\txflog.dll\"")

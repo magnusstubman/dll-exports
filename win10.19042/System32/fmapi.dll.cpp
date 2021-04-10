@@ -1,0 +1,8 @@
+#print comment(linker, "/export:CloseFileRestoreContext=\"C:\\Windows\\System32\\fmapi.dll\"")
+#print comment(linker, "/export:CreateFileRestoreContext=\"C:\\Windows\\System32\\fmapi.dll\"")
+#print comment(linker, "/export:DetectBootSector=\"C:\\Windows\\System32\\fmapi.dll\"")
+#print comment(linker, "/export:DetectEncryptedVolume=\"C:\\Windows\\System32\\fmapi.dll\"")
+#print comment(linker, "/export:DetectEncryptedVolumeEx=\"C:\\Windows\\System32\\fmapi.dll\"")
+#print comment(linker, "/export:RestoreFile=\"C:\\Windows\\System32\\fmapi.dll\"")
+#print comment(linker, "/export:ScanRestorableFiles=\"C:\\Windows\\System32\\fmapi.dll\"")
+#print comment(linker, "/export:SupplyDecryptionInfo=\"C:\\Windows\\System32\\fmapi.dll\"")

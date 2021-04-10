@@ -1,1 +1,1 @@
-#print comment(linker, "/export:SLIsGenuineLocal=\"C:\\Windows\\SysWOW64\\slwga.dll\"")
+#print comment(linker, "/export:SLIsGenuineLocal=\"C:\\Windows\\System32\\slwga.dll\"")

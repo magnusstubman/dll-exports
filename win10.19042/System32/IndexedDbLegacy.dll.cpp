@@ -1,1 +1,1 @@
-#print comment(linker, "/export:GetIndexedDbLegacyFunctions=\"C:\\Windows\\SysWOW64\\IndexedDbLegacy.dll\"")
+#print comment(linker, "/export:GetIndexedDbLegacyFunctions=\"C:\\Windows\\System32\\IndexedDbLegacy.dll\"")

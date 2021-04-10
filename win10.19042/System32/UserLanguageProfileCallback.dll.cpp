@@ -1,1 +1,1 @@
-#print comment(linker, "/export:OnUserProfileChanged=\"C:\\Windows\\SysWOW64\\UserLanguageProfileCallback.dll\"")
+#print comment(linker, "/export:OnUserProfileChanged=\"C:\\Windows\\System32\\UserLanguageProfileCallback.dll\"")

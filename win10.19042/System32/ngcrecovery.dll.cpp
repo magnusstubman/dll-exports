@@ -1,0 +1,5 @@
+#print comment(linker, "/export:NgcIsPinRecoveryEnabled=\"C:\\Windows\\System32\\ngcrecovery.dll\"")
+#print comment(linker, "/export:NgcProtectPinRecoverySecret=\"C:\\Windows\\System32\\ngcrecovery.dll\"")
+#print comment(linker, "/export:NgcRecoverPin=\"C:\\Windows\\System32\\ngcrecovery.dll\"")
+#print comment(linker, "/export:NgcRecoverPinSilent=\"C:\\Windows\\System32\\ngcrecovery.dll\"")
+#print comment(linker, "/export:NgcVerifyPinRecoverySecret=\"C:\\Windows\\System32\\ngcrecovery.dll\"")

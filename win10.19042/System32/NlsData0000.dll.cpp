@@ -1,1 +1,1 @@
-#print comment(linker, "/export:LangDataCall=\"C:\\Windows\\SysWOW64\\NlsData0000.dll\"")
+#print comment(linker, "/export:LangDataCall=\"C:\\Windows\\System32\\NlsData0000.dll\"")

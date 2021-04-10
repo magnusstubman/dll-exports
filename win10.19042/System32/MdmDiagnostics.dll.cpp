@@ -1,0 +1,6 @@
+#print comment(linker, "/export:CollectOneTraceFiles=\"C:\\Windows\\System32\\MdmDiagnostics.dll\"")
+#print comment(linker, "/export:CreateLogCabOnArea=\"C:\\Windows\\System32\\MdmDiagnostics.dll\"")
+#print comment(linker, "/export:CreateLogZipOnArea=\"C:\\Windows\\System32\\MdmDiagnostics.dll\"")
+#print comment(linker, "/export:CreateLogZipOnXml=\"C:\\Windows\\System32\\MdmDiagnostics.dll\"")
+#print comment(linker, "/export:CreateMdmEnterpriseDiagnosticHTMLReport=\"C:\\Windows\\System32\\MdmDiagnostics.dll\"")
+#print comment(linker, "/export:CreateMdmEnterpriseDiagnosticReport=\"C:\\Windows\\System32\\MdmDiagnostics.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:NetSetupGetEngine=\"C:\\Windows\\SysWOW64\\NetSetupEngine.dll\"")
+#print comment(linker, "/export:NetSetupGetEngine=\"C:\\Windows\\System32\\NetSetupEngine.dll\"")

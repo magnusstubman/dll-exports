@@ -1,0 +1,5 @@
+#print comment(linker, "/export:ConfigureUserArso=\"C:\\Windows\\System32\\winlogonext.dll\"")
+#print comment(linker, "/export:EnableDisableElevationForSessionWorker=\"C:\\Windows\\System32\\winlogonext.dll\"")
+#print comment(linker, "/export:NotifyInteractiveSessionLogoff=\"C:\\Windows\\System32\\winlogonext.dll\"")
+#print comment(linker, "/export:UpdateUserTokenSessionId=\"C:\\Windows\\System32\\winlogonext.dll\"")
+#print comment(linker, "/export:WinLogonExt=\"C:\\Windows\\System32\\winlogonext.dll\"")

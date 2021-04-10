@@ -1,1 +1,1 @@
-#print comment(linker, "/export:TapiSysPrepClean=\"C:\\Windows\\SysWOW64\\TapiSysprep.dll\"")
+#print comment(linker, "/export:TapiSysPrepClean=\"C:\\Windows\\System32\\TapiSysprep.dll\"")

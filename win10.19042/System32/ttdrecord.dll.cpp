@@ -1,1 +1,1 @@
-#print comment(linker, "/export:ExecuteTTTracerCommandLine=\"C:\\Windows\\SysWOW64\\ttdrecord.dll\"")
+#print comment(linker, "/export:ExecuteTTTracerCommandLine=\"C:\\Windows\\System32\\ttdrecord.dll\"")

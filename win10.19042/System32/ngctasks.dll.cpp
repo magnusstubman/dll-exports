@@ -1,0 +1,7 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\ngctasks.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\ngctasks.dll\"")
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\ngctasks.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\ngctasks.dll\"")
+#print comment(linker, "/export:GetRetryTimeStamp=\"C:\\Windows\\System32\\ngctasks.dll\"")
+#print comment(linker, "/export:NgcTriggerTaskForOobe=\"C:\\Windows\\System32\\ngctasks.dll\"")
+#print comment(linker, "/export:SetAikTimeTrigger=\"C:\\Windows\\System32\\ngctasks.dll\"")

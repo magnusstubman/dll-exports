@@ -1,0 +1,5 @@
+#print comment(linker, "/export:OnMachineUILanguageClear=\"C:\\Windows\\System32\\MUILanguageCleanup.dll\"")
+#print comment(linker, "/export:OnMachineUILanguageInit=\"C:\\Windows\\System32\\MUILanguageCleanup.dll\"")
+#print comment(linker, "/export:OnMachineUILanguageSwitch=\"C:\\Windows\\System32\\MUILanguageCleanup.dll\"")
+#print comment(linker, "/export:OnUILanguageAdd=\"C:\\Windows\\System32\\MUILanguageCleanup.dll\"")
+#print comment(linker, "/export:OnUILanguageRemove=\"C:\\Windows\\System32\\MUILanguageCleanup.dll\"")

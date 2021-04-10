@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\dggpext.dll\"")
+#print comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\dggpext.dll\"")
+#print comment(linker, "/export:ProcessConfigCIPolicyGroupPolicy=\"C:\\Windows\\System32\\dggpext.dll\"")
+#print comment(linker, "/export:ProcessVirtualizationBasedSecurityGroupPolicy=\"C:\\Windows\\System32\\dggpext.dll\"")
+#print comment(linker, "/export:ProcessVirtualizationBasedSecurityMDMPolicy=\"C:\\Windows\\System32\\dggpext.dll\"")

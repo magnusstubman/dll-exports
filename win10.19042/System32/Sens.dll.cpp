@@ -1,0 +1,5 @@
+#print comment(linker, "/export:SensNotifyNetconEvent=\"C:\\Windows\\System32\\Sens.dll\"")
+#print comment(linker, "/export:SensNotifyRasEvent=\"C:\\Windows\\System32\\Sens.dll\"")
+#print comment(linker, "/export:SensNotifyWinlogonEvent=\"C:\\Windows\\System32\\Sens.dll\"")
+#print comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\Sens.dll\"")
+#print comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\Sens.dll\"")

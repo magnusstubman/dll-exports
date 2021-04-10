@@ -1,1 +1,1 @@
-#print comment(linker, "/export:MprmsgGetErrorString=\"C:\\Windows\\SysWOW64\\mprmsg.dll\"")
+#print comment(linker, "/export:MprmsgGetErrorString=\"C:\\Windows\\System32\\mprmsg.dll\"")

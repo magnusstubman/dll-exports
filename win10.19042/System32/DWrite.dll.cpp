@@ -1,1 +1,1 @@
-#print comment(linker, "/export:DWriteCreateFactory=\"C:\\Windows\\SysWOW64\\DWrite.dll\"")
+#print comment(linker, "/export:DWriteCreateFactory=\"C:\\Windows\\System32\\DWrite.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:InitHelperDll=\"C:\\Windows\\SysWOW64\\rpcnsh.dll\"")
+#print comment(linker, "/export:InitHelperDll=\"C:\\Windows\\System32\\rpcnsh.dll\"")

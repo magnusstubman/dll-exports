@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DwmpCreateSessionProcess=\"C:\\Windows\\System32\\dwminit.dll\"")
+#print comment(linker, "/export:DwmpIsInitialSessionInteractive=\"C:\\Windows\\System32\\dwminit.dll\"")
+#print comment(linker, "/export:DwmpNotifyUserLogoff=\"C:\\Windows\\System32\\dwminit.dll\"")
+#print comment(linker, "/export:DwmpNotifyUserLogon=\"C:\\Windows\\System32\\dwminit.dll\"")
+#print comment(linker, "/export:DwmpTerminateSessionProcess=\"C:\\Windows\\System32\\dwminit.dll\"")

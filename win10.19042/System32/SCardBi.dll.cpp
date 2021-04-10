@@ -1,0 +1,6 @@
+#print comment(linker, "/export:??0SmartCardBiManager@@IEAA@XZ=\"C:\\Windows\\System32\\SCardBi.dll\"")
+#print comment(linker, "/export:??1SmartCardBiManager@@UEAA@XZ=\"C:\\Windows\\System32\\SCardBi.dll\"")
+#print comment(linker, "/export:??_7SmartCardBiManager@@6B@=\"C:\\Windows\\System32\\SCardBi.dll\"")
+#print comment(linker, "/export:?Initialize@SmartCardBiManager@@SAJXZ=\"C:\\Windows\\System32\\SCardBi.dll\"")
+#print comment(linker, "/export:?Instance@SmartCardBiManager@@SAPEAV1@XZ=\"C:\\Windows\\System32\\SCardBi.dll\"")
+#print comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\SCardBi.dll\"")

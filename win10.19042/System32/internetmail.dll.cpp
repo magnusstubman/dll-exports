@@ -1,0 +1,5 @@
+#print comment(linker, "/export:CreateInternetMailSyncServiceLayer=\"C:\\Windows\\System32\\internetmail.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\internetmail.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\internetmail.dll\"")
+#print comment(linker, "/export:GetAutoConfigManager=\"C:\\Windows\\System32\\internetmail.dll\"")
+#print comment(linker, "/export:OneStopFactory=\"C:\\Windows\\System32\\internetmail.dll\"")

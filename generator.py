@@ -54,7 +54,7 @@ def createFolder(f):
 
 def doFolder(folder, outFolder):
   createFolder(outFolder)
-  dlls = getDLLsinFolder('C:\\Windows\\SysWOW64')
+  dlls = getDLLsinFolder(folder)
   
   for dll in dlls:
     fileName = getFileName(dll)

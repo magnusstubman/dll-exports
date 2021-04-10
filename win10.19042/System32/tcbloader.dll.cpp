@@ -1,0 +1,8 @@
+#print comment(linker, "/export:OslGenRandomBytes=\"C:\\Windows\\System32\\tcbloader.dll\"")
+#print comment(linker, "/export:OslGetControlSubkeyCell=\"C:\\Windows\\System32\\tcbloader.dll\"")
+#print comment(linker, "/export:OslGetExportRoutineInModule=\"C:\\Windows\\System32\\tcbloader.dll\"")
+#print comment(linker, "/export:OslGetStringValue=\"C:\\Windows\\System32\\tcbloader.dll\"")
+#print comment(linker, "/export:OslGetValue=\"C:\\Windows\\System32\\tcbloader.dll\"")
+#print comment(linker, "/export:OslIsRunningInSecureKernel=\"C:\\Windows\\System32\\tcbloader.dll\"")
+#print comment(linker, "/export:TcbLoadEntry=\"C:\\Windows\\System32\\tcbloader.dll\"")
+#print comment(linker, "/export:TcbResumeEntry=\"C:\\Windows\\System32\\tcbloader.dll\"")

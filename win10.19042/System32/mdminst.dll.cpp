@@ -1,1 +1,1 @@
-#print comment(linker, "/export:ClassInstall32=\"C:\\Windows\\SysWOW64\\mdminst.dll\"")
+#print comment(linker, "/export:ClassInstall32=\"C:\\Windows\\System32\\mdminst.dll\"")

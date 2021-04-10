@@ -1,0 +1,6 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\NgcIsoCtnr.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\NgcIsoCtnr.dll\"")
+#print comment(linker, "/export:NgcIsoCtnrInitialize=\"C:\\Windows\\System32\\NgcIsoCtnr.dll\"")
+#print comment(linker, "/export:NgcIsoCtnrInitializePregenPool=\"C:\\Windows\\System32\\NgcIsoCtnr.dll\"")
+#print comment(linker, "/export:NgcIsoCtnrTriggerPregen=\"C:\\Windows\\System32\\NgcIsoCtnr.dll\"")
+#print comment(linker, "/export:NgcIsoCtnrUninitializePregenPool=\"C:\\Windows\\System32\\NgcIsoCtnr.dll\"")

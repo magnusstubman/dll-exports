@@ -1,8 +1,0 @@
-#print comment(linker, "/export:FmtIdToPropStgName=\"C:\\Windows\\SysWOW64\\iprop.dll\"")
-#print comment(linker, "/export:FreePropVariantArray=\"C:\\Windows\\SysWOW64\\iprop.dll\"")
-#print comment(linker, "/export:PropStgNameToFmtId=\"C:\\Windows\\SysWOW64\\iprop.dll\"")
-#print comment(linker, "/export:PropVariantClear=\"C:\\Windows\\SysWOW64\\iprop.dll\"")
-#print comment(linker, "/export:PropVariantCopy=\"C:\\Windows\\SysWOW64\\iprop.dll\"")
-#print comment(linker, "/export:StgCreatePropSetStg=\"C:\\Windows\\SysWOW64\\iprop.dll\"")
-#print comment(linker, "/export:StgCreatePropStg=\"C:\\Windows\\SysWOW64\\iprop.dll\"")
-#print comment(linker, "/export:StgOpenPropStg=\"C:\\Windows\\SysWOW64\\iprop.dll\"")

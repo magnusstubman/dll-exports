@@ -1,1 +1,1 @@
-#print comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\dpnhupnp.dll\"")
+#print comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\dpnhupnp.dll\"")

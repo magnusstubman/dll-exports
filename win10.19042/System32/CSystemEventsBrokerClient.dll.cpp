@@ -1,0 +1,6 @@
+#print comment(linker, "/export:CSebCreateCustomEvent=\"C:\\Windows\\System32\\CSystemEventsBrokerClient.dll\"")
+#print comment(linker, "/export:CSebCreatePrivateEvent=\"C:\\Windows\\System32\\CSystemEventsBrokerClient.dll\"")
+#print comment(linker, "/export:CSebCreateWellKnownEvent=\"C:\\Windows\\System32\\CSystemEventsBrokerClient.dll\"")
+#print comment(linker, "/export:CSebDeleteEvent=\"C:\\Windows\\System32\\CSystemEventsBrokerClient.dll\"")
+#print comment(linker, "/export:CSebEnumerateEvents=\"C:\\Windows\\System32\\CSystemEventsBrokerClient.dll\"")
+#print comment(linker, "/export:CSebQueryEventData=\"C:\\Windows\\System32\\CSystemEventsBrokerClient.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:Sysprep_Clean_WinSAT=\"C:\\Windows\\SysWOW64\\spwinsat.dll\"")
+#print comment(linker, "/export:Sysprep_Clean_WinSAT=\"C:\\Windows\\System32\\spwinsat.dll\"")

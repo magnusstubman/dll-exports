@@ -1,1 +1,1 @@
-#print comment(linker, "/export:InitializeCollector=\"C:\\Windows\\SysWOW64\\LicensingDiagSpp.dll\"")
+#print comment(linker, "/export:InitializeCollector=\"C:\\Windows\\System32\\LicensingDiagSpp.dll\"")

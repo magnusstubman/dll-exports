@@ -1,3 +1,3 @@
-#print comment(linker, "/export:CloseTapiPerformanceData=\"C:\\Windows\\SysWOW64\\tapiperf.dll\"")
-#print comment(linker, "/export:CollectTapiPerformanceData=\"C:\\Windows\\SysWOW64\\tapiperf.dll\"")
-#print comment(linker, "/export:OpenTapiPerformanceData=\"C:\\Windows\\SysWOW64\\tapiperf.dll\"")
+#print comment(linker, "/export:CloseTapiPerformanceData=\"C:\\Windows\\System32\\tapiperf.dll\"")
+#print comment(linker, "/export:CollectTapiPerformanceData=\"C:\\Windows\\System32\\tapiperf.dll\"")
+#print comment(linker, "/export:OpenTapiPerformanceData=\"C:\\Windows\\System32\\tapiperf.dll\"")

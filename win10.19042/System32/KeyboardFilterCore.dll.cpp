@@ -1,1 +1,1 @@
-#print comment(linker, "/export:HookMain=\"C:\\Windows\\SysWOW64\\KeyboardFilterCore.dll\"")
+#print comment(linker, "/export:HookMain=\"C:\\Windows\\System32\\KeyboardFilterCore.dll\"")

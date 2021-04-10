@@ -1,1 +1,1 @@
-#print comment(linker, "/export:OrdinalOne=\"C:\\Windows\\SysWOW64\\Microsoft.Uev.AppAgent.dll\"")
+#print comment(linker, "/export:OrdinalOne=\"C:\\Windows\\System32\\Microsoft.Uev.AppAgent.dll\"")

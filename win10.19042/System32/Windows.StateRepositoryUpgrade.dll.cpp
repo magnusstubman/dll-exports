@@ -1,1 +1,1 @@
-#print comment(linker, "/export:StateRepository_Migrate=\"C:\\Windows\\SysWOW64\\Windows.StateRepositoryUpgrade.dll\"")
+#print comment(linker, "/export:StateRepository_Migrate=\"C:\\Windows\\System32\\Windows.StateRepositoryUpgrade.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:GetSChannelInterface=\"C:\\Windows\\SysWOW64\\ncryptsslp.dll\"")
+#print comment(linker, "/export:GetSChannelInterface=\"C:\\Windows\\System32\\ncryptsslp.dll\"")

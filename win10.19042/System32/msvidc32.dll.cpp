@@ -1,1 +1,1 @@
-#print comment(linker, "/export:DriverProc=\"C:\\Windows\\SysWOW64\\msvidc32.dll\"")
+#print comment(linker, "/export:DriverProc=\"C:\\Windows\\System32\\msvidc32.dll\"")

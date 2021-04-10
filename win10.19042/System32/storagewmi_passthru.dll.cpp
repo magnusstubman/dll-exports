@@ -1,1 +1,1 @@
-#print comment(linker, "/export:CreatePassThrough=\"C:\\Windows\\SysWOW64\\storagewmi_passthru.dll\"")
+#print comment(linker, "/export:CreatePassThrough=\"C:\\Windows\\System32\\storagewmi_passthru.dll\"")

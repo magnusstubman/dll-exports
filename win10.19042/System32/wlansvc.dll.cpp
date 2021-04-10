@@ -1,0 +1,7 @@
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\wlansvc.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\wlansvc.dll\"")
+#print comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\wlansvc.dll\"")
+#print comment(linker, "/export:VsIeProviderGetFunctionTable=\"C:\\Windows\\System32\\wlansvc.dll\"")
+#print comment(linker, "/export:WLNotifyOnLogoff=\"C:\\Windows\\System32\\wlansvc.dll\"")
+#print comment(linker, "/export:WLNotifyOnLogon=\"C:\\Windows\\System32\\wlansvc.dll\"")
+#print comment(linker, "/export:WlanSvcMain=\"C:\\Windows\\System32\\wlansvc.dll\"")

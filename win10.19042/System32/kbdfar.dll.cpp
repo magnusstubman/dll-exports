@@ -1,1 +1,1 @@
-#print comment(linker, "/export:KbdLayerDescriptor=\"C:\\Windows\\SysWOW64\\kbdfar.dll\"")
+#print comment(linker, "/export:KbdLayerDescriptor=\"C:\\Windows\\System32\\kbdfar.dll\"")

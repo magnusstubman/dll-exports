@@ -1,0 +1,1 @@
+#print comment(linker, "/export:ProcessGroupPolicy=\"C:\\Windows\\System32\\WorkFoldersGPExt.dll\"")

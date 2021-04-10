@@ -1,0 +1,7 @@
+#print comment(linker, "/export:DeleteApplicationEligibilityForPrelaunch=\"C:\\Windows\\System32\\ploptin.dll\"")
+#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\ploptin.dll\"")
+#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\ploptin.dll\"")
+#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\ploptin.dll\"")
+#print comment(linker, "/export:IsApplicationEligibleForPrelaunch=\"C:\\Windows\\System32\\ploptin.dll\"")
+#print comment(linker, "/export:IsApplicationOptedOutOfPrelaunch=\"C:\\Windows\\System32\\ploptin.dll\"")
+#print comment(linker, "/export:RecordApplicationEligibilityForPrelaunch=\"C:\\Windows\\System32\\ploptin.dll\"")

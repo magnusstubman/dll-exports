@@ -1,0 +1,5 @@
+#print comment(linker, "/export:CloseLayoutPolicyCheckerInstance=\"C:\\Windows\\System32\\iuilp.dll\"")
+#print comment(linker, "/export:GetAllDefaultApps=\"C:\\Windows\\System32\\iuilp.dll\"")
+#print comment(linker, "/export:GetDefaultAppsList=\"C:\\Windows\\System32\\iuilp.dll\"")
+#print comment(linker, "/export:GetLayoutPolicy=\"C:\\Windows\\System32\\iuilp.dll\"")
+#print comment(linker, "/export:GetLayoutPolicyCheckerInstance=\"C:\\Windows\\System32\\iuilp.dll\"")

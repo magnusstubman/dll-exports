@@ -1,1 +1,1 @@
-#print comment(linker, "/export:GetKeyStorageInterface=\"C:\\Windows\\SysWOW64\\ngcksp.dll\"")
+#print comment(linker, "/export:GetKeyStorageInterface=\"C:\\Windows\\System32\\ngcksp.dll\"")

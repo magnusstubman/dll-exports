@@ -1,1 +1,1 @@
-#print comment(linker, "/export:CreateDataModelManager=\"C:\\Windows\\SysWOW64\\DbgModel.dll\"")
+#print comment(linker, "/export:CreateDataModelManager=\"C:\\Windows\\System32\\DbgModel.dll\"")

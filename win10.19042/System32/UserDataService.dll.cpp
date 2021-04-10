@@ -1,0 +1,5 @@
+#print comment(linker, "/export:CleanupUDSGlobals=\"C:\\Windows\\System32\\UserDataService.dll\"")
+#print comment(linker, "/export:CreateInprocConnectionHandle=\"C:\\Windows\\System32\\UserDataService.dll\"")
+#print comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\UserDataService.dll\"")
+#print comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\UserDataService.dll\"")
+#print comment(linker, "/export:TeardownInprocConnectionHandle=\"C:\\Windows\\System32\\UserDataService.dll\"")

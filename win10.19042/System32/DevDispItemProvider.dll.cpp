@@ -1,1 +1,1 @@
-#print comment(linker, "/export:DevQueryEntry=\"C:\\Windows\\SysWOW64\\DevDispItemProvider.dll\"")
+#print comment(linker, "/export:DevQueryEntry=\"C:\\Windows\\System32\\DevDispItemProvider.dll\"")

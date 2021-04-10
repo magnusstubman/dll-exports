@@ -1,1 +1,1 @@
-#print comment(linker, "/export:MRTComponent_Generalize=\"C:\\Windows\\SysWOW64\\winshfhc.dll\"")
+#print comment(linker, "/export:MRTComponent_Generalize=\"C:\\Windows\\System32\\winshfhc.dll\"")

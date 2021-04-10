@@ -1,0 +1,5 @@
+#print comment(linker, "/export:CoDeviceInstall=\"C:\\Windows\\System32\\wpd_ci.dll\"")
+#print comment(linker, "/export:DoCmd=\"C:\\Windows\\System32\\wpd_ci.dll\"")
+#print comment(linker, "/export:MigrateMTPDevicesInstalledAsMSC=\"C:\\Windows\\System32\\wpd_ci.dll\"")
+#print comment(linker, "/export:RescanBus=\"C:\\Windows\\System32\\wpd_ci.dll\"")
+#print comment(linker, "/export:WpdClassInstaller=\"C:\\Windows\\System32\\wpd_ci.dll\"")

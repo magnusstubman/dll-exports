@@ -1,1 +1,1 @@
-#print comment(linker, "/export:WMCreateASFChopper=\"C:\\Windows\\SysWOW64\\wmidx.dll\"")
+#print comment(linker, "/export:WMCreateASFChopper=\"C:\\Windows\\System32\\wmidx.dll\"")

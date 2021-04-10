@@ -1,0 +1,5 @@
+#print comment(linker, "/export:CdeGetProfileList=\"C:\\Windows\\System32\\wcmsvc.dll\"")
+#print comment(linker, "/export:CdeQueryParameter=\"C:\\Windows\\System32\\wcmsvc.dll\"")
+#print comment(linker, "/export:CdeSetParameter=\"C:\\Windows\\System32\\wcmsvc.dll\"")
+#print comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\wcmsvc.dll\"")
+#print comment(linker, "/export:WcmSvcMain=\"C:\\Windows\\System32\\wcmsvc.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:DXCoreCreateAdapterFactory=\"C:\\Windows\\SysWOW64\\DXCore.dll\"")
+#print comment(linker, "/export:DXCoreCreateAdapterFactory=\"C:\\Windows\\System32\\DXCore.dll\"")

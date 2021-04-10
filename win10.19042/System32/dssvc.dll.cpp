@@ -1,0 +1,5 @@
+#print comment(linker, "/export:DSSCreateSharedFileTokenEx=\"C:\\Windows\\System32\\dssvc.dll\"")
+#print comment(linker, "/export:DSSFreeToken=\"C:\\Windows\\System32\\dssvc.dll\"")
+#print comment(linker, "/export:InitializeService=\"C:\\Windows\\System32\\dssvc.dll\"")
+#print comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\dssvc.dll\"")
+#print comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\dssvc.dll\"")
