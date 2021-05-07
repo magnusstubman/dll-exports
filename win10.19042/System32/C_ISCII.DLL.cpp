@@ -1,1 +1,1 @@
-#print comment(linker, "/export:NlsDllCodePageTranslation=\"C:\\Windows\\System32\\C_ISCII.DLL\"")
+#pragma comment(linker, "/export:NlsDllCodePageTranslation=\"C:\\Windows\\System32\\C_ISCII.DLL\"")

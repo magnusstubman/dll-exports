@@ -1,1 +1,1 @@
-#print comment(linker, "/export:KbdLayerDescriptor=\"C:\\Windows\\System32\\KBDSP.DLL\"")
+#pragma comment(linker, "/export:KbdLayerDescriptor=\"C:\\Windows\\System32\\KBDSP.DLL\"")

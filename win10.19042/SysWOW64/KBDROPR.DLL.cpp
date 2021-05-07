@@ -1,1 +1,1 @@
-#print comment(linker, "/export:KbdLayerDescriptor=\"C:\\Windows\\SysWOW64\\KBDROPR.DLL\"")
+#pragma comment(linker, "/export:KbdLayerDescriptor=\"C:\\Windows\\SysWOW64\\KBDROPR.DLL\"")

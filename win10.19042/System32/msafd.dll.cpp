@@ -1,1 +1,1 @@
-#print comment(linker, "/export:WSPStartup=\"C:\\Windows\\System32\\msafd.dll\"")
+#pragma comment(linker, "/export:WSPStartup=\"C:\\Windows\\System32\\msafd.dll\"")

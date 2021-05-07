@@ -1,1 +1,1 @@
-#print comment(linker, "/export:ValidateBitLockerState=\"C:\\Windows\\System32\\BdeSysprep.dll\"")
+#pragma comment(linker, "/export:ValidateBitLockerState=\"C:\\Windows\\System32\\BdeSysprep.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\UsbSettingsHandlers.dll\"")
+#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\UsbSettingsHandlers.dll\"")

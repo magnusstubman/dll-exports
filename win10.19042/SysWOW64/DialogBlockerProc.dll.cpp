@@ -1,1 +1,1 @@
-#print comment(linker, "/export:HookMain=\"C:\\Windows\\SysWOW64\\DialogBlockerProc.dll\"")
+#pragma comment(linker, "/export:HookMain=\"C:\\Windows\\SysWOW64\\DialogBlockerProc.dll\"")

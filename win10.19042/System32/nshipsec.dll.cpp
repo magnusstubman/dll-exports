@@ -1,1 +1,1 @@
-#print comment(linker, "/export:InitHelperDll=\"C:\\Windows\\System32\\nshipsec.dll\"")
+#pragma comment(linker, "/export:InitHelperDll=\"C:\\Windows\\System32\\nshipsec.dll\"")

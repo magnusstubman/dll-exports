@@ -1,2 +1,2 @@
-#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\MSRAWImage.dll\"")
-#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\MSRAWImage.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\MSRAWImage.dll\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\MSRAWImage.dll\"")

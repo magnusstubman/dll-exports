@@ -1,1 +1,1 @@
-#print comment(linker, "/export:DynamoCheckIfAreaIsDynamicallyManaged=\"C:\\Windows\\System32\\dynamoapi.dll\"")
+#pragma comment(linker, "/export:DynamoCheckIfAreaIsDynamicallyManaged=\"C:\\Windows\\System32\\dynamoapi.dll\"")

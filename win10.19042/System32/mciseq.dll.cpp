@@ -1,1 +1,1 @@
-#print comment(linker, "/export:DriverProc=\"C:\\Windows\\System32\\mciseq.dll\"")
+#pragma comment(linker, "/export:DriverProc=\"C:\\Windows\\System32\\mciseq.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:PerformAutochkOperations=\"C:\\Windows\\System32\\acproxy.dll\"")
+#pragma comment(linker, "/export:PerformAutochkOperations=\"C:\\Windows\\System32\\acproxy.dll\"")

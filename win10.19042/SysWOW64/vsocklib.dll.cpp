@@ -1,1 +1,1 @@
-#print comment(linker, "/export:WSPStartup=\"C:\\Windows\\SysWOW64\\vsocklib.dll\"")
+#pragma comment(linker, "/export:WSPStartup=\"C:\\Windows\\SysWOW64\\vsocklib.dll\"")

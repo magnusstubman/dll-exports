@@ -1,2 +1,2 @@
-#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\twext.dll\"")
-#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\twext.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\twext.dll\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\twext.dll\"")

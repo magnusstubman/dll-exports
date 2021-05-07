@@ -1,1 +1,1 @@
-#print comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\SettingsHandlers_ClosedCaptioning.dll\"")
+#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\SettingsHandlers_ClosedCaptioning.dll\"")

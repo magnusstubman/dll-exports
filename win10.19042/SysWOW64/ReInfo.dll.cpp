@@ -1,1 +1,1 @@
-#print comment(linker, "/export:WinReGetConfig=\"C:\\Windows\\SysWOW64\\ReInfo.dll\"")
+#pragma comment(linker, "/export:WinReGetConfig=\"C:\\Windows\\SysWOW64\\ReInfo.dll\"")

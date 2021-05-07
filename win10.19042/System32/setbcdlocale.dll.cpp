@@ -1,1 +1,1 @@
-#print comment(linker, "/export:OnMachineUILanguageSwitch=\"C:\\Windows\\System32\\setbcdlocale.dll\"")
+#pragma comment(linker, "/export:OnMachineUILanguageSwitch=\"C:\\Windows\\System32\\setbcdlocale.dll\"")

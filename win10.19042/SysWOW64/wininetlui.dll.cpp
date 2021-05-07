@@ -1,1 +1,1 @@
-#print comment(linker, "/export:InternetErrorDlgEx=\"C:\\Windows\\SysWOW64\\wininetlui.dll\"")
+#pragma comment(linker, "/export:InternetErrorDlgEx=\"C:\\Windows\\SysWOW64\\wininetlui.dll\"")

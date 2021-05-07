@@ -1,1 +1,1 @@
-#print comment(linker, "/export:ServiceMain=\"C:\\Windows\\SysWOW64\\TokenBroker.dll\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\SysWOW64\\TokenBroker.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:CreateOnDemandBrokerClient=\"C:\\Windows\\System32\\OnDemandBrokerClient.dll\"")
+#pragma comment(linker, "/export:CreateOnDemandBrokerClient=\"C:\\Windows\\System32\\OnDemandBrokerClient.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:RDPAPI_CreateInstance=\"C:\\Windows\\System32\\rdpcore.dll\"")
+#pragma comment(linker, "/export:RDPAPI_CreateInstance=\"C:\\Windows\\System32\\rdpcore.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\dpwsockx.dll\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\dpwsockx.dll\"")

@@ -1,1 +1,1 @@
-#print comment(linker, "/export:IsChildAccount=\"C:\\Windows\\SysWOW64\\FamilySafetyExt.dll\"")
+#pragma comment(linker, "/export:IsChildAccount=\"C:\\Windows\\SysWOW64\\FamilySafetyExt.dll\"")

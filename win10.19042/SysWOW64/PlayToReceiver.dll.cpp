@@ -1,3 +1,3 @@
-#print comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\PlayToReceiver.dll\"")
-#print comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\PlayToReceiver.dll\"")
-#print comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\PlayToReceiver.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\PlayToReceiver.dll\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\PlayToReceiver.dll\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\PlayToReceiver.dll\"")

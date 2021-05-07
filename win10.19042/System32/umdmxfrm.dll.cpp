@@ -1,1 +1,1 @@
-#print comment(linker, "/export:GetXformInfo=\"C:\\Windows\\System32\\umdmxfrm.dll\"")
+#pragma comment(linker, "/export:GetXformInfo=\"C:\\Windows\\System32\\umdmxfrm.dll\"")
