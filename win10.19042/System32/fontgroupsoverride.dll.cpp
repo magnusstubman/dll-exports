@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:GetFontOverrides=\"C:\\Windows\\System32\\fontgroupsoverride.dll\"")
+#pragma comment(linker, "/export:GetFontOverrides=\"C:\\Windows\\System32\\fontgroupsoverride.GetFontOverrides\"")

@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:DllGetVersion=\"C:\\Windows\\System32\\browseui.dll\"")
+#pragma comment(linker, "/export:DllGetVersion=\"C:\\Windows\\System32\\browseui.DllGetVersion\"")

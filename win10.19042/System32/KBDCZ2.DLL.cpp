@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:KbdLayerDescriptor=\"C:\\Windows\\System32\\KBDCZ2.DLL\"")
+#pragma comment(linker, "/export:KbdLayerDescriptor=\"C:\\Windows\\System32\\KBDCZ2.KbdLayerDescriptor\"")

@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\RMapi.dll\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\RMapi.ServiceMain\"")

@@ -1,3 +1,3 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\DMRServer.dll\"")
-#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\DMRServer.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\DMRServer.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\DMRServer.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\DMRServer.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\DMRServer.DllGetClassObject\"")

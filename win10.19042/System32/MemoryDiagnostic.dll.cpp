@@ -1,4 +1,4 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\MemoryDiagnostic.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\MemoryDiagnostic.dll\"")
-#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\MemoryDiagnostic.dll\"")
-#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\MemoryDiagnostic.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\MemoryDiagnostic.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\MemoryDiagnostic.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\MemoryDiagnostic.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\MemoryDiagnostic.DllUnregisterServer\"")

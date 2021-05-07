@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:IsDeviceEnrolled=\"C:\\Windows\\System32\\enrollmentapi.dll\"")
+#pragma comment(linker, "/export:IsDeviceEnrolled=\"C:\\Windows\\System32\\enrollmentapi.IsDeviceEnrolled\"")

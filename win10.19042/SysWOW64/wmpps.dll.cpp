@@ -1,4 +1,4 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\wmpps.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\wmpps.dll\"")
-#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\wmpps.dll\"")
-#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\wmpps.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\wmpps.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\wmpps.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\wmpps.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\wmpps.DllUnregisterServer\"")

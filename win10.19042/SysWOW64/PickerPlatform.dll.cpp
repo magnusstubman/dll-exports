@@ -1,3 +1,3 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\PickerPlatform.dll\"")
-#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\PickerPlatform.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\PickerPlatform.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\PickerPlatform.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\PickerPlatform.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\PickerPlatform.DllGetClassObject\"")

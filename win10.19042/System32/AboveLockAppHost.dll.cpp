@@ -1,3 +1,3 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\AboveLockAppHost.dll\"")
-#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\AboveLockAppHost.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\AboveLockAppHost.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\AboveLockAppHost.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\AboveLockAppHost.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\AboveLockAppHost.DllGetClassObject\"")

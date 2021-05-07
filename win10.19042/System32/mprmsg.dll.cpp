@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:MprmsgGetErrorString=\"C:\\Windows\\System32\\mprmsg.dll\"")
+#pragma comment(linker, "/export:MprmsgGetErrorString=\"C:\\Windows\\System32\\mprmsg.MprmsgGetErrorString\"")

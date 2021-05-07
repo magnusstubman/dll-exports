@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:InitHelperDll=\"C:\\Windows\\System32\\PeerDistSh.dll\"")
+#pragma comment(linker, "/export:InitHelperDll=\"C:\\Windows\\System32\\PeerDistSh.InitHelperDll\"")

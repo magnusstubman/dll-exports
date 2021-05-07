@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\dpnaddr.dll\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\dpnaddr.DllMain\"")

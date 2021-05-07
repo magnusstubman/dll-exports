@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:CreatePassThrough=\"C:\\Windows\\SysWOW64\\storagewmi_passthru.dll\"")
+#pragma comment(linker, "/export:CreatePassThrough=\"C:\\Windows\\SysWOW64\\storagewmi_passthru.CreatePassThrough\"")

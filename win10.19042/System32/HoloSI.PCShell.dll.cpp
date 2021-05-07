@@ -1,3 +1,3 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\HoloSI.PCShell.dll\"")
-#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\HoloSI.PCShell.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\HoloSI.PCShell.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\HoloSI.PCShell.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\HoloSI.PCShell.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\HoloSI.PCShell.DllGetClassObject\"")

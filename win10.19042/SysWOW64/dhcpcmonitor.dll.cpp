@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:InitHelperDll=\"C:\\Windows\\SysWOW64\\dhcpcmonitor.dll\"")
+#pragma comment(linker, "/export:InitHelperDll=\"C:\\Windows\\SysWOW64\\dhcpcmonitor.InitHelperDll\"")

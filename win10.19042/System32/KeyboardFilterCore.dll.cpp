@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:HookMain=\"C:\\Windows\\System32\\KeyboardFilterCore.dll\"")
+#pragma comment(linker, "/export:HookMain=\"C:\\Windows\\System32\\KeyboardFilterCore.HookMain\"")

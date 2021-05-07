@@ -1,3 +1,3 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\UvcModel.dll\"")
-#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\UvcModel.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\UvcModel.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\UvcModel.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\UvcModel.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\UvcModel.DllGetClassObject\"")

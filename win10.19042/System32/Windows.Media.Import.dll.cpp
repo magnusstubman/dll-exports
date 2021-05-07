@@ -1,3 +1,3 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\Windows.Media.Import.dll\"")
-#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\Windows.Media.Import.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\Windows.Media.Import.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\Windows.Media.Import.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\Windows.Media.Import.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\Windows.Media.Import.DllGetClassObject\"")

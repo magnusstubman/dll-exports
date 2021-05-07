@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:WMCreateASFChopper=\"C:\\Windows\\System32\\wmidx.dll\"")
+#pragma comment(linker, "/export:WMCreateASFChopper=\"C:\\Windows\\System32\\wmidx.WMCreateASFChopper\"")

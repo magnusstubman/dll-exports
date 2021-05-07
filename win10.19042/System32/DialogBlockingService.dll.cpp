@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\DialogBlockingService.dll\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\DialogBlockingService.ServiceMain\"")

@@ -65,7 +65,7 @@ def doFolder(folder, outFolder):
       f = open(os.path.join(outFolder, fileName + '.cpp'), 'w')
 
       for export in exports:
-        line = '#pragma comment(linker, "/export:' + export + '=\\"' + dll.replace('\\', '\\\\') + '\\"")'
+        line = '#pragma comment(linker, "/export:' + export + '=\\"' + dll.replace('\\', '\\\\')[:-3] + export + '\\"")'
         f.write(line + '\n')
 
       f.close()

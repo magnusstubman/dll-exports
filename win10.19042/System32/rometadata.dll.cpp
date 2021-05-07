@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:MetaDataGetDispenser=\"C:\\Windows\\System32\\rometadata.dll\"")
+#pragma comment(linker, "/export:MetaDataGetDispenser=\"C:\\Windows\\System32\\rometadata.MetaDataGetDispenser\"")

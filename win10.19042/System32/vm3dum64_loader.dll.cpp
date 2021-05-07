@@ -1,3 +1,3 @@
-#pragma comment(linker, "/export:OpenAdapter=\"C:\\Windows\\System32\\vm3dum64_loader.dll\"")
-#pragma comment(linker, "/export:OpenAdapter10=\"C:\\Windows\\System32\\vm3dum64_loader.dll\"")
-#pragma comment(linker, "/export:OpenAdapter10_2=\"C:\\Windows\\System32\\vm3dum64_loader.dll\"")
+#pragma comment(linker, "/export:OpenAdapter=\"C:\\Windows\\System32\\vm3dum64_loader.OpenAdapter\"")
+#pragma comment(linker, "/export:OpenAdapter10=\"C:\\Windows\\System32\\vm3dum64_loader.OpenAdapter10\"")
+#pragma comment(linker, "/export:OpenAdapter10_2=\"C:\\Windows\\System32\\vm3dum64_loader.OpenAdapter10_2\"")

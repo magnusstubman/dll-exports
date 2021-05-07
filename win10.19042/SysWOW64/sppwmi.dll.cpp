@@ -1,4 +1,4 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\sppwmi.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\sppwmi.dll\"")
-#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\sppwmi.dll\"")
-#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\sppwmi.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\sppwmi.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\sppwmi.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\sppwmi.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\sppwmi.DllUnregisterServer\"")

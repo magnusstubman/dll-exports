@@ -1,3 +1,3 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\AppExtension.dll\"")
-#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\AppExtension.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\AppExtension.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\AppExtension.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\AppExtension.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\AppExtension.DllGetClassObject\"")

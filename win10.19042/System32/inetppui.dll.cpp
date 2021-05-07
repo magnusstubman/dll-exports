@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:InitializePrintMonitorUI=\"C:\\Windows\\System32\\inetppui.dll\"")
+#pragma comment(linker, "/export:InitializePrintMonitorUI=\"C:\\Windows\\System32\\inetppui.InitializePrintMonitorUI\"")

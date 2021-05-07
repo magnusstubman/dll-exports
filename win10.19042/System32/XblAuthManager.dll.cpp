@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\XblAuthManager.dll\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\XblAuthManager.ServiceMain\"")

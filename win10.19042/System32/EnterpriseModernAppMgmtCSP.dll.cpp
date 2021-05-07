@@ -1,2 +1,2 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\EnterpriseModernAppMgmtCSP.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\EnterpriseModernAppMgmtCSP.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\EnterpriseModernAppMgmtCSP.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\EnterpriseModernAppMgmtCSP.DllGetClassObject\"")

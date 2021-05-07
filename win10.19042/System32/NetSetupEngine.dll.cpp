@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:NetSetupGetEngine=\"C:\\Windows\\System32\\NetSetupEngine.dll\"")
+#pragma comment(linker, "/export:NetSetupGetEngine=\"C:\\Windows\\System32\\NetSetupEngine.NetSetupGetEngine\"")

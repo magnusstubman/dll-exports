@@ -1,4 +1,4 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\dxdiagn.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\dxdiagn.dll\"")
-#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\dxdiagn.dll\"")
-#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\dxdiagn.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\dxdiagn.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\dxdiagn.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\dxdiagn.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\dxdiagn.DllUnregisterServer\"")

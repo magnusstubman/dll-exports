@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\AJRouter.dll\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\AJRouter.ServiceMain\"")

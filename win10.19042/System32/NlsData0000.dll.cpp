@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:LangDataCall=\"C:\\Windows\\System32\\NlsData0000.dll\"")
+#pragma comment(linker, "/export:LangDataCall=\"C:\\Windows\\System32\\NlsData0000.LangDataCall\"")

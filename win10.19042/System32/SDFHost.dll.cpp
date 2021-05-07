@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:SdfMain=\"C:\\Windows\\System32\\SDFHost.dll\"")
+#pragma comment(linker, "/export:SdfMain=\"C:\\Windows\\System32\\SDFHost.SdfMain\"")

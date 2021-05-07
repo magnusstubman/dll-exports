@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:PeerDistDiscoProviderStartup=\"C:\\Windows\\System32\\PeerDistWSDDiscoProv.dll\"")
+#pragma comment(linker, "/export:PeerDistDiscoProviderStartup=\"C:\\Windows\\System32\\PeerDistWSDDiscoProv.PeerDistDiscoProviderStartup\"")

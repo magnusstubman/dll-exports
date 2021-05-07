@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\SettingsHandlers_AppExecutionAlias.dll\"")
+#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\SettingsHandlers_AppExecutionAlias.GetSetting\"")

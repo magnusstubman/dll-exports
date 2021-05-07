@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:CloudAPPluginInitialize=\"C:\\Windows\\System32\\MicrosoftAccountCloudAP.dll\"")
+#pragma comment(linker, "/export:CloudAPPluginInitialize=\"C:\\Windows\\System32\\MicrosoftAccountCloudAP.CloudAPPluginInitialize\"")

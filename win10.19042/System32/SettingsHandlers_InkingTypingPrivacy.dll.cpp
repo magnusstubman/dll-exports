@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\SettingsHandlers_InkingTypingPrivacy.dll\"")
+#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\SettingsHandlers_InkingTypingPrivacy.GetSetting\"")

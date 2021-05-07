@@ -1,4 +1,4 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\iscsiwmi.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\iscsiwmi.dll\"")
-#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\iscsiwmi.dll\"")
-#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\iscsiwmi.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\iscsiwmi.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\iscsiwmi.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\iscsiwmi.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\iscsiwmi.DllUnregisterServer\"")

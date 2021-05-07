@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:TryLegInterfaceFirst=\"C:\\Windows\\SysWOW64\\mtxlegih.dll\"")
+#pragma comment(linker, "/export:TryLegInterfaceFirst=\"C:\\Windows\\SysWOW64\\mtxlegih.TryLegInterfaceFirst\"")

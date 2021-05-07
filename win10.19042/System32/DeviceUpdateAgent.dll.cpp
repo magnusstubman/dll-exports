@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:CreateDeploymentSessionEx=\"C:\\Windows\\System32\\DeviceUpdateAgent.dll\"")
+#pragma comment(linker, "/export:CreateDeploymentSessionEx=\"C:\\Windows\\System32\\DeviceUpdateAgent.CreateDeploymentSessionEx\"")

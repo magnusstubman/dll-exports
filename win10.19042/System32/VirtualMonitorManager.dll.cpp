@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:CreateVirtualMonitorManager=\"C:\\Windows\\System32\\VirtualMonitorManager.dll\"")
+#pragma comment(linker, "/export:CreateVirtualMonitorManager=\"C:\\Windows\\System32\\VirtualMonitorManager.CreateVirtualMonitorManager\"")

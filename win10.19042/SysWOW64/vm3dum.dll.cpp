@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:OpenAdapterWrapper=\"C:\\Windows\\SysWOW64\\vm3dum.dll\"")
+#pragma comment(linker, "/export:OpenAdapterWrapper=\"C:\\Windows\\SysWOW64\\vm3dum.OpenAdapterWrapper\"")

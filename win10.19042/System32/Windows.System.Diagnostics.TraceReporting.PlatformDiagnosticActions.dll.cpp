@@ -1,3 +1,3 @@
-#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\Windows.System.Diagnostics.TraceReporting.PlatformDiagnosticActions.dll\"")
-#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\Windows.System.Diagnostics.TraceReporting.PlatformDiagnosticActions.dll\"")
-#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\Windows.System.Diagnostics.TraceReporting.PlatformDiagnosticActions.dll\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\Windows.System.Diagnostics.TraceReporting.PlatformDiagnosticActions.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\Windows.System.Diagnostics.TraceReporting.PlatformDiagnosticActions.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\Windows.System.Diagnostics.TraceReporting.PlatformDiagnosticActions.DllGetClassObject\"")

@@ -1,2 +1,2 @@
-#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\psmsrv.dll\"")
-#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\psmsrv.dll\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\psmsrv.ServiceMain\"")
+#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\psmsrv.SvchostPushServiceGlobals\"")

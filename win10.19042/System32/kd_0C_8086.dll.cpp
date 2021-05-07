@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:KdInitializeLibrary=\"C:\\Windows\\System32\\kd_0C_8086.dll\"")
+#pragma comment(linker, "/export:KdInitializeLibrary=\"C:\\Windows\\System32\\kd_0C_8086.KdInitializeLibrary\"")

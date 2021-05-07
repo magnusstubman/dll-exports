@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:DriverProc=\"C:\\Windows\\SysWOW64\\iccvid.dll\"")
+#pragma comment(linker, "/export:DriverProc=\"C:\\Windows\\SysWOW64\\iccvid.DriverProc\"")

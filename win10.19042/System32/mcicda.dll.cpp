@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:DriverProc=\"C:\\Windows\\System32\\mcicda.dll\"")
+#pragma comment(linker, "/export:DriverProc=\"C:\\Windows\\System32\\mcicda.DriverProc\"")

@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\dosettings.dll\"")
+#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\dosettings.GetSetting\"")

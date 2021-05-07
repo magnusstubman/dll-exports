@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\KeyboardFilterSvc.dll\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\KeyboardFilterSvc.ServiceMain\"")

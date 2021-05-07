@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:IRCoInstaller=\"C:\\Windows\\System32\\CIRCoInst.dll\"")
+#pragma comment(linker, "/export:IRCoInstaller=\"C:\\Windows\\System32\\CIRCoInst.IRCoInstaller\"")

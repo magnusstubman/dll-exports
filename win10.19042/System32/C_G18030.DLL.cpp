@@ -1,1 +1,1 @@
-#pragma comment(linker, "/export:NlsDllCodePageTranslation=\"C:\\Windows\\System32\\C_G18030.DLL\"")
+#pragma comment(linker, "/export:NlsDllCodePageTranslation=\"C:\\Windows\\System32\\C_G18030.NlsDllCodePageTranslation\"")
