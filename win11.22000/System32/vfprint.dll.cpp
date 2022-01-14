@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:CreateFilterTestHook=\"C:\\Windows\\System32\\vfprint.CreateFilterTestHook\"")
+#pragma comment(linker, "/export:GetAccessViolationsCount=\"C:\\Windows\\System32\\vfprint.GetAccessViolationsCount\"")
+#pragma comment(linker, "/export:GetInvalidHandleExceptionCount=\"C:\\Windows\\System32\\vfprint.GetInvalidHandleExceptionCount\"")
+#pragma comment(linker, "/export:GetPrinterHandleCount=\"C:\\Windows\\System32\\vfprint.GetPrinterHandleCount\"")
+#pragma comment(linker, "/export:PrintVerifierCreatePluginInterfaceWrapper=\"C:\\Windows\\System32\\vfprint.PrintVerifierCreatePluginInterfaceWrapper\"")
+#pragma comment(linker, "/export:PrintVerifierIsLayerEnabled=\"C:\\Windows\\System32\\vfprint.PrintVerifierIsLayerEnabled\"")

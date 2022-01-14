@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\SyncInfrastructureps.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\SyncInfrastructureps.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\SyncInfrastructureps.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\SyncInfrastructureps.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\SysWOW64\\SyncInfrastructureps.GetProxyDllInfo\"")

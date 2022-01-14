@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:CreatePropertiesFromRecurrencePattern=\"C:\\Windows\\System32\\AppointmentApis.CreatePropertiesFromRecurrencePattern\"")
+#pragma comment(linker, "/export:CreateRecurrencePatternFromProperties=\"C:\\Windows\\System32\\AppointmentApis.CreateRecurrencePatternFromProperties\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\AppointmentApis.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\AppointmentApis.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\AppointmentApis.DllGetClassObject\"")

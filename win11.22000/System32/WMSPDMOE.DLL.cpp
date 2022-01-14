@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:CreateInstance=\"C:\\Windows\\System32\\WMSPDMOE.CreateInstance\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\WMSPDMOE.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\WMSPDMOE.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\WMSPDMOE.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\WMSPDMOE.DllUnregisterServer\"")

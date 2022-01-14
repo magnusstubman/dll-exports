@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\RdpSaPs.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\RdpSaPs.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\RdpSaPs.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\RdpSaPs.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\System32\\RdpSaPs.GetProxyDllInfo\"")

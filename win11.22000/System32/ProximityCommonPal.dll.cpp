@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:PAL_AppHasPackage=\"C:\\Windows\\System32\\ProximityCommonPal.PAL_AppHasPackage\"")
+#pragma comment(linker, "/export:PAL_FreeTransientObjectSecurityAttribute=\"C:\\Windows\\System32\\ProximityCommonPal.PAL_FreeTransientObjectSecurityAttribute\"")
+#pragma comment(linker, "/export:PAL_GetAppPlatformQualifier=\"C:\\Windows\\System32\\ProximityCommonPal.PAL_GetAppPlatformQualifier\"")
+#pragma comment(linker, "/export:PAL_GetSupportedBrowseTypes=\"C:\\Windows\\System32\\ProximityCommonPal.PAL_GetSupportedBrowseTypes\"")
+#pragma comment(linker, "/export:PAL_HoldReferenceUntilAppExit=\"C:\\Windows\\System32\\ProximityCommonPal.PAL_HoldReferenceUntilAppExit\"")
+#pragma comment(linker, "/export:PAL_QueryTransientObjectSecurityAttribute=\"C:\\Windows\\System32\\ProximityCommonPal.PAL_QueryTransientObjectSecurityAttribute\"")
+#pragma comment(linker, "/export:PAL_RegisterAppSuspendResumeCallback=\"C:\\Windows\\System32\\ProximityCommonPal.PAL_RegisterAppSuspendResumeCallback\"")
+#pragma comment(linker, "/export:PAL_UnregisterAppSuspendResumeCallback=\"C:\\Windows\\System32\\ProximityCommonPal.PAL_UnregisterAppSuspendResumeCallback\"")

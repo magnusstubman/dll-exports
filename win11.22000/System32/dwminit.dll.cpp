@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DwmpCreateSessionProcess=\"C:\\Windows\\System32\\dwminit.DwmpCreateSessionProcess\"")
+#pragma comment(linker, "/export:DwmpIsInitialSessionInteractive=\"C:\\Windows\\System32\\dwminit.DwmpIsInitialSessionInteractive\"")
+#pragma comment(linker, "/export:DwmpNotifyUserLogoff=\"C:\\Windows\\System32\\dwminit.DwmpNotifyUserLogoff\"")
+#pragma comment(linker, "/export:DwmpNotifyUserLogon=\"C:\\Windows\\System32\\dwminit.DwmpNotifyUserLogon\"")
+#pragma comment(linker, "/export:DwmpShutdownWinlogonMouseThread=\"C:\\Windows\\System32\\dwminit.DwmpShutdownWinlogonMouseThread\"")
+#pragma comment(linker, "/export:DwmpStartWinlogonMouseThread=\"C:\\Windows\\System32\\dwminit.DwmpStartWinlogonMouseThread\"")
+#pragma comment(linker, "/export:DwmpTerminateSessionProcess=\"C:\\Windows\\System32\\dwminit.DwmpTerminateSessionProcess\"")

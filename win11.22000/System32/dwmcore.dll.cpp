@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:MilCompositionEngine_CreateChannel=\"C:\\Windows\\System32\\dwmcore.MilCompositionEngine_CreateChannel\"")
+#pragma comment(linker, "/export:MilCompositionEngine_CreateCursorController=\"C:\\Windows\\System32\\dwmcore.MilCompositionEngine_CreateCursorController\"")
+#pragma comment(linker, "/export:MilCompositionEngine_GetComposedEventId=\"C:\\Windows\\System32\\dwmcore.MilCompositionEngine_GetComposedEventId\"")
+#pragma comment(linker, "/export:MilCompositionEngine_Initialize=\"C:\\Windows\\System32\\dwmcore.MilCompositionEngine_Initialize\"")
+#pragma comment(linker, "/export:MilCompositionEngine_Uninitialize=\"C:\\Windows\\System32\\dwmcore.MilCompositionEngine_Uninitialize\"")

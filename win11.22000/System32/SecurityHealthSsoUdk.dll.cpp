@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\SecurityHealthSsoUdk.DllMain\"")
+#pragma comment(linker, "/export:Shield_ApplyOwnerDrawToMenu=\"C:\\Windows\\System32\\SecurityHealthSsoUdk.Shield_ApplyOwnerDrawToMenu\"")
+#pragma comment(linker, "/export:Shield_ContextMenuWndProc=\"C:\\Windows\\System32\\SecurityHealthSsoUdk.Shield_ContextMenuWndProc\"")
+#pragma comment(linker, "/export:Shield_GetDpiForShellUIComponentEx=\"C:\\Windows\\System32\\SecurityHealthSsoUdk.Shield_GetDpiForShellUIComponentEx\"")
+#pragma comment(linker, "/export:Shield_RemoveOwnerDrawFromMenu=\"C:\\Windows\\System32\\SecurityHealthSsoUdk.Shield_RemoveOwnerDrawFromMenu\"")
+#pragma comment(linker, "/export:Shield_SHLoadNativeIconSizeEx=\"C:\\Windows\\System32\\SecurityHealthSsoUdk.Shield_SHLoadNativeIconSizeEx\"")

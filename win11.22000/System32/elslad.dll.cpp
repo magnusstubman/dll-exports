@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DoAction=\"C:\\Windows\\System32\\elslad.DoAction\"")
+#pragma comment(linker, "/export:FreePropertyBag=\"C:\\Windows\\System32\\elslad.FreePropertyBag\"")
+#pragma comment(linker, "/export:FreeService=\"C:\\Windows\\System32\\elslad.FreeService\"")
+#pragma comment(linker, "/export:InitService=\"C:\\Windows\\System32\\elslad.InitService\"")
+#pragma comment(linker, "/export:RecognizeText=\"C:\\Windows\\System32\\elslad.RecognizeText\"")

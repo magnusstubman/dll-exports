@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\accessibilitycpl.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\accessibilitycpl.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllInstall=\"C:\\Windows\\System32\\accessibilitycpl.DllInstall\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\accessibilitycpl.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\accessibilitycpl.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\accessibilitycpl.DllUnregisterServer\"")

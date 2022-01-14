@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:CreateInstance=\"C:\\Windows\\System32\\WMVSENCD.CreateInstance\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\WMVSENCD.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\WMVSENCD.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\WMVSENCD.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\WMVSENCD.DllUnregisterServer\"")

@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\diagperf.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\diagperf.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\diagperf.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\diagperf.DllUnregisterServer\"")
+#pragma comment(linker, "/export:WdiDiagnosticModuleMain=\"C:\\Windows\\System32\\diagperf.WdiDiagnosticModuleMain\"")
+#pragma comment(linker, "/export:WdiGetDiagnosticModuleInterfaceVersion=\"C:\\Windows\\System32\\diagperf.WdiGetDiagnosticModuleInterfaceVersion\"")
+#pragma comment(linker, "/export:WdiHandleInstance=\"C:\\Windows\\System32\\diagperf.WdiHandleInstance\"")

@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:WlanIsActiveConsoleUser=\"C:\\Windows\\SysWOW64\\wlanutil.WlanIsActiveConsoleUser\"")
+#pragma comment(linker, "/export:WlanSignalValueToBar=\"C:\\Windows\\SysWOW64\\wlanutil.WlanSignalValueToBar\"")
+#pragma comment(linker, "/export:WlanSignalValueToBarEx=\"C:\\Windows\\SysWOW64\\wlanutil.WlanSignalValueToBarEx\"")
+#pragma comment(linker, "/export:WlanSsidToDisplayName=\"C:\\Windows\\SysWOW64\\wlanutil.WlanSsidToDisplayName\"")
+#pragma comment(linker, "/export:WlanStringToSsid=\"C:\\Windows\\SysWOW64\\wlanutil.WlanStringToSsid\"")
+#pragma comment(linker, "/export:WlanStringToUtf8Ssid=\"C:\\Windows\\SysWOW64\\wlanutil.WlanStringToUtf8Ssid\"")
+#pragma comment(linker, "/export:WlanUtf8SsidToDisplayName=\"C:\\Windows\\SysWOW64\\wlanutil.WlanUtf8SsidToDisplayName\"")

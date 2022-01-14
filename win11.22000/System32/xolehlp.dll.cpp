@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DtcGetTransactionManager=\"C:\\Windows\\System32\\xolehlp.DtcGetTransactionManager\"")
+#pragma comment(linker, "/export:DtcGetTransactionManagerC=\"C:\\Windows\\System32\\xolehlp.DtcGetTransactionManagerC\"")
+#pragma comment(linker, "/export:DtcGetTransactionManagerEx=\"C:\\Windows\\System32\\xolehlp.DtcGetTransactionManagerEx\"")
+#pragma comment(linker, "/export:DtcGetTransactionManagerExA=\"C:\\Windows\\System32\\xolehlp.DtcGetTransactionManagerExA\"")
+#pragma comment(linker, "/export:DtcGetTransactionManagerExW=\"C:\\Windows\\System32\\xolehlp.DtcGetTransactionManagerExW\"")
+#pragma comment(linker, "/export:FreezeLocalTransactionManagers=\"C:\\Windows\\System32\\xolehlp.FreezeLocalTransactionManagers\"")
+#pragma comment(linker, "/export:GetDtcLocaleResourceHandle=\"C:\\Windows\\System32\\xolehlp.GetDtcLocaleResourceHandle\"")
+#pragma comment(linker, "/export:ThawLocalTransactionManagers=\"C:\\Windows\\System32\\xolehlp.ThawLocalTransactionManagers\"")

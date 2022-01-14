@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\mstscax.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\mstscax.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllGetTscCtlVer=\"C:\\Windows\\System32\\mstscax.DllGetTscCtlVer\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\mstscax.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\mstscax.DllUnregisterServer\"")

@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:ConvertDOMDocumentToIStream=\"C:\\Windows\\SysWOW64\\vfprintpthelper.ConvertDOMDocumentToIStream\"")
+#pragma comment(linker, "/export:CopyStream=\"C:\\Windows\\SysWOW64\\vfprintpthelper.CopyStream\"")
+#pragma comment(linker, "/export:GetXml=\"C:\\Windows\\SysWOW64\\vfprintpthelper.GetXml\"")
+#pragma comment(linker, "/export:IsPrintCapabilitiesConformant=\"C:\\Windows\\SysWOW64\\vfprintpthelper.IsPrintCapabilitiesConformant\"")
+#pragma comment(linker, "/export:IsPrintTicketConformant=\"C:\\Windows\\SysWOW64\\vfprintpthelper.IsPrintTicketConformant\"")
+#pragma comment(linker, "/export:RewindStream=\"C:\\Windows\\SysWOW64\\vfprintpthelper.RewindStream\"")

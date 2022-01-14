@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\FrameServerClient.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\FrameServerClient.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\FrameServerClient.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\FrameServerClient.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\FrameServerClient.DllUnregisterServer\"")

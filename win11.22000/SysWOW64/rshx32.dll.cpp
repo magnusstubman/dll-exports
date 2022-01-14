@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\rshx32.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\rshx32.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\rshx32.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\rshx32.DllUnregisterServer\"")
+#pragma comment(linker, "/export:_EditFSSecurity@32=\"C:\\Windows\\SysWOW64\\rshx32._EditFSSecurity@32\"")

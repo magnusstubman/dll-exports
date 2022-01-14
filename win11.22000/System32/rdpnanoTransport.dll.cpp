@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CreateRdpUdpIceWrapper=\"C:\\Windows\\System32\\rdpnanoTransport.CreateRdpUdpIceWrapper\"")
+#pragma comment(linker, "/export:CreateRdpUdpStreamWrapper=\"C:\\Windows\\System32\\rdpnanoTransport.CreateRdpUdpStreamWrapper\"")
+#pragma comment(linker, "/export:CreateRdpWebSocketStreamWrapper=\"C:\\Windows\\System32\\rdpnanoTransport.CreateRdpWebSocketStreamWrapper\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\rdpnanoTransport.DllMain\"")
+#pragma comment(linker, "/export:FreeRdpUdpIceWrapper=\"C:\\Windows\\System32\\rdpnanoTransport.FreeRdpUdpIceWrapper\"")
+#pragma comment(linker, "/export:FreeRdpUdpStreamWrapper=\"C:\\Windows\\System32\\rdpnanoTransport.FreeRdpUdpStreamWrapper\"")
+#pragma comment(linker, "/export:FreeRdpWebSocketStreamWrapper=\"C:\\Windows\\System32\\rdpnanoTransport.FreeRdpWebSocketStreamWrapper\"")

@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllAddRef=\"C:\\Windows\\System32\\cmstplua.DllAddRef\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\cmstplua.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\cmstplua.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\cmstplua.DllMain\"")
+#pragma comment(linker, "/export:DllRelease=\"C:\\Windows\\System32\\cmstplua.DllRelease\"")

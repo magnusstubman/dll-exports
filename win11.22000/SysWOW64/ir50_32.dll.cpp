@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:AboutDialogProc=\"C:\\Windows\\SysWOW64\\ir50_32.AboutDialogProc\"")
+#pragma comment(linker, "/export:ConfigureDialogProc=\"C:\\Windows\\SysWOW64\\ir50_32.ConfigureDialogProc\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\ir50_32.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\ir50_32.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\ir50_32.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\ir50_32.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\ir50_32.DllUnregisterServer\"")
+#pragma comment(linker, "/export:DriverProc=\"C:\\Windows\\SysWOW64\\ir50_32.DriverProc\"")

@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\SettingsHandlers_OptionalFeatures.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\SettingsHandlers_OptionalFeatures.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\SettingsHandlers_OptionalFeatures.DllGetClassObject\"")
+#pragma comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\System32\\SettingsHandlers_OptionalFeatures.GetProxyDllInfo\"")
+#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\SettingsHandlers_OptionalFeatures.GetSetting\"")

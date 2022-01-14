@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\fhsrchapi.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\fhsrchapi.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllInstall=\"C:\\Windows\\System32\\fhsrchapi.DllInstall\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\fhsrchapi.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\fhsrchapi.DllUnregisterServer\"")

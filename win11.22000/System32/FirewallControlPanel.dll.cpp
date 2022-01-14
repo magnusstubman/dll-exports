@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\FirewallControlPanel.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\FirewallControlPanel.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\FirewallControlPanel.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\FirewallControlPanel.DllUnregisterServer\"")
+#pragma comment(linker, "/export:ShowNotificationDialogW=\"C:\\Windows\\System32\\FirewallControlPanel.ShowNotificationDialogW\"")
+#pragma comment(linker, "/export:ShowWarningDialogW=\"C:\\Windows\\System32\\FirewallControlPanel.ShowWarningDialogW\"")

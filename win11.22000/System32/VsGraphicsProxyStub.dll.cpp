@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\VsGraphicsProxyStub.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\VsGraphicsProxyStub.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\VsGraphicsProxyStub.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\VsGraphicsProxyStub.DllUnregisterServer\"")
+#pragma comment(linker, "/export:PixEngine_RegisterProxyStubClassObject=\"C:\\Windows\\System32\\VsGraphicsProxyStub.PixEngine_RegisterProxyStubClassObject\"")
+#pragma comment(linker, "/export:PixEngine_RegisterProxyStubs=\"C:\\Windows\\System32\\VsGraphicsProxyStub.PixEngine_RegisterProxyStubs\"")
+#pragma comment(linker, "/export:PixEngine_UnregisterProxyStubClassObject=\"C:\\Windows\\System32\\VsGraphicsProxyStub.PixEngine_UnregisterProxyStubClassObject\"")

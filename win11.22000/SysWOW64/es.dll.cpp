@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\es.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\es.DllGetClassObject\"")
+#pragma comment(linker, "/export:LCEControlServer=\"C:\\Windows\\SysWOW64\\es.LCEControlServer\"")
+#pragma comment(linker, "/export:NotifyLogoffUser=\"C:\\Windows\\SysWOW64\\es.NotifyLogoffUser\"")
+#pragma comment(linker, "/export:NotifyLogonUser=\"C:\\Windows\\SysWOW64\\es.NotifyLogonUser\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\SysWOW64\\es.ServiceMain\"")
+#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\SysWOW64\\es.SvchostPushServiceGlobals\"")

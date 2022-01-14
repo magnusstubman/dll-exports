@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:WmsgBroadcastMessage=\"C:\\Windows\\System32\\wmsgapi.WmsgBroadcastMessage\"")
+#pragma comment(linker, "/export:WmsgBroadcastNotifyMessage=\"C:\\Windows\\System32\\wmsgapi.WmsgBroadcastNotifyMessage\"")
+#pragma comment(linker, "/export:WmsgPostMessage=\"C:\\Windows\\System32\\wmsgapi.WmsgPostMessage\"")
+#pragma comment(linker, "/export:WmsgPostNotifyMessage=\"C:\\Windows\\System32\\wmsgapi.WmsgPostNotifyMessage\"")
+#pragma comment(linker, "/export:WmsgSendMessage=\"C:\\Windows\\System32\\wmsgapi.WmsgSendMessage\"")
+#pragma comment(linker, "/export:WmsgSendPSPMessage=\"C:\\Windows\\System32\\wmsgapi.WmsgSendPSPMessage\"")

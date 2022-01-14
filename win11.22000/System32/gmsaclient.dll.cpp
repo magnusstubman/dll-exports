@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:GMSAAdd=\"C:\\Windows\\System32\\gmsaclient.GMSAAdd\"")
+#pragma comment(linker, "/export:GMSACheckIfExistsInAD=\"C:\\Windows\\System32\\gmsaclient.GMSACheckIfExistsInAD\"")
+#pragma comment(linker, "/export:GMSACleanup=\"C:\\Windows\\System32\\gmsaclient.GMSACleanup\"")
+#pragma comment(linker, "/export:GMSADelete=\"C:\\Windows\\System32\\gmsaclient.GMSADelete\"")
+#pragma comment(linker, "/export:GMSAGetPassword=\"C:\\Windows\\System32\\gmsaclient.GMSAGetPassword\"")
+#pragma comment(linker, "/export:GMSAInit=\"C:\\Windows\\System32\\gmsaclient.GMSAInit\"")
+#pragma comment(linker, "/export:GMSARefreshPasswords=\"C:\\Windows\\System32\\gmsaclient.GMSARefreshPasswords\"")

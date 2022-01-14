@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:BaseGetProcessCrtlRoutine=\"C:\\Windows\\System32\\basesrv.BaseGetProcessCrtlRoutine\"")
+#pragma comment(linker, "/export:BaseSetProcessCreateNotify=\"C:\\Windows\\System32\\basesrv.BaseSetProcessCreateNotify\"")
+#pragma comment(linker, "/export:BaseSrvNlsLogon=\"C:\\Windows\\System32\\basesrv.BaseSrvNlsLogon\"")
+#pragma comment(linker, "/export:BaseSrvNlsUpdateRegistryCache=\"C:\\Windows\\System32\\basesrv.BaseSrvNlsUpdateRegistryCache\"")
+#pragma comment(linker, "/export:BaseSrvRegisterSxS=\"C:\\Windows\\System32\\basesrv.BaseSrvRegisterSxS\"")
+#pragma comment(linker, "/export:ServerDllInitialization=\"C:\\Windows\\System32\\basesrv.ServerDllInitialization\"")

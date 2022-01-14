@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CanSendToFaxRecipient=\"C:\\Windows\\System32\\FXSUTILITY.CanSendToFaxRecipient\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\FXSUTILITY.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\FXSUTILITY.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\FXSUTILITY.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\FXSUTILITY.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\System32\\FXSUTILITY.GetProxyDllInfo\"")
+#pragma comment(linker, "/export:SendToFaxRecipient=\"C:\\Windows\\System32\\FXSUTILITY.SendToFaxRecipient\"")

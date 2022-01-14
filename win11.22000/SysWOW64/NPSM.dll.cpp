@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\NPSM.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\NPSM.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\NPSM.DllGetClassObject\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\SysWOW64\\NPSM.ServiceMain\"")
+#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\SysWOW64\\NPSM.SvchostPushServiceGlobals\"")

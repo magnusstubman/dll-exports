@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\racpldlg.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\racpldlg.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\racpldlg.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\racpldlg.DllUnregisterServer\"")
+#pragma comment(linker, "/export:ShowPasswordDialog=\"C:\\Windows\\System32\\racpldlg.ShowPasswordDialog\"")

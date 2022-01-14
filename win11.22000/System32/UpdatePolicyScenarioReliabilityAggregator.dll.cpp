@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:Initialize=\"C:\\Windows\\System32\\UpdatePolicyScenarioReliabilityAggregator.Initialize\"")
+#pragma comment(linker, "/export:NotifyTimerExpiryWithId=\"C:\\Windows\\System32\\UpdatePolicyScenarioReliabilityAggregator.NotifyTimerExpiryWithId\"")
+#pragma comment(linker, "/export:ProcessNextEventJsonBuilder=\"C:\\Windows\\System32\\UpdatePolicyScenarioReliabilityAggregator.ProcessNextEventJsonBuilder\"")
+#pragma comment(linker, "/export:SetParameter=\"C:\\Windows\\System32\\UpdatePolicyScenarioReliabilityAggregator.SetParameter\"")
+#pragma comment(linker, "/export:Uninitialize=\"C:\\Windows\\System32\\UpdatePolicyScenarioReliabilityAggregator.Uninitialize\"")

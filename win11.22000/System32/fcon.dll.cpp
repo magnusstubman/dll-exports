@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\fcon.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\fcon.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\fcon.DllGetClassObject\"")
+#pragma comment(linker, "/export:GetCtacPropertyAlloc=\"C:\\Windows\\System32\\fcon.GetCtacPropertyAlloc\"")
+#pragma comment(linker, "/export:ModifyStagingControlVariants=\"C:\\Windows\\System32\\fcon.ModifyStagingControlVariants\"")
+#pragma comment(linker, "/export:ModifyStagingControls=\"C:\\Windows\\System32\\fcon.ModifyStagingControls\"")
+#pragma comment(linker, "/export:SubscribeFeatureReporting=\"C:\\Windows\\System32\\fcon.SubscribeFeatureReporting\"")
+#pragma comment(linker, "/export:UnsubscribeFeatureReporting=\"C:\\Windows\\System32\\fcon.UnsubscribeFeatureReporting\"")

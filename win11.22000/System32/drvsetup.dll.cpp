@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DrvSetupInstallDriver=\"C:\\Windows\\System32\\drvsetup.DrvSetupInstallDriver\"")
+#pragma comment(linker, "/export:DrvSetupInstallWuDriver=\"C:\\Windows\\System32\\drvsetup.DrvSetupInstallWuDriver\"")
+#pragma comment(linker, "/export:DrvSetupInstallWuDrivers=\"C:\\Windows\\System32\\drvsetup.DrvSetupInstallWuDrivers\"")
+#pragma comment(linker, "/export:DrvSetupQueryUpdateStatus=\"C:\\Windows\\System32\\drvsetup.DrvSetupQueryUpdateStatus\"")
+#pragma comment(linker, "/export:DrvSetupUninstallDriver=\"C:\\Windows\\System32\\drvsetup.DrvSetupUninstallDriver\"")
+#pragma comment(linker, "/export:DrvSetupUninstallWuDrivers=\"C:\\Windows\\System32\\drvsetup.DrvSetupUninstallWuDrivers\"")
+#pragma comment(linker, "/export:pDrvSetupUninstallDriver=\"C:\\Windows\\System32\\drvsetup.pDrvSetupUninstallDriver\"")

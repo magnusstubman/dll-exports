@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\fhengine.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\fhengine.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllInstall=\"C:\\Windows\\System32\\fhengine.DllInstall\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\fhengine.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\fhengine.DllUnregisterServer\"")

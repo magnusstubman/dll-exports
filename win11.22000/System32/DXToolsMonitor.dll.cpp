@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CLSID_DXDefaultPlatformStorage=\"C:\\Windows\\System32\\DXToolsMonitor.CLSID_DXDefaultPlatformStorage\"")
+#pragma comment(linker, "/export:CLSID_DXToolsStockExperiment_FullCapture=\"C:\\Windows\\System32\\DXToolsMonitor.CLSID_DXToolsStockExperiment_FullCapture\"")
+#pragma comment(linker, "/export:CLSID_DXToolsStockExperiment_FullPlayback=\"C:\\Windows\\System32\\DXToolsMonitor.CLSID_DXToolsStockExperiment_FullPlayback\"")
+#pragma comment(linker, "/export:CLSID_DXToolsStockExperiment_Overdraw=\"C:\\Windows\\System32\\DXToolsMonitor.CLSID_DXToolsStockExperiment_Overdraw\"")
+#pragma comment(linker, "/export:CLSID_DXToolsStockExperiment_Recapture=\"C:\\Windows\\System32\\DXToolsMonitor.CLSID_DXToolsStockExperiment_Recapture\"")
+#pragma comment(linker, "/export:CreateSerializationController=\"C:\\Windows\\System32\\DXToolsMonitor.CreateSerializationController\"")
+#pragma comment(linker, "/export:CreateWin8Injector=\"C:\\Windows\\System32\\DXToolsMonitor.CreateWin8Injector\"")

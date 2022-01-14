@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\pwlauncher.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\pwlauncher.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllInstall=\"C:\\Windows\\System32\\pwlauncher.DllInstall\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\pwlauncher.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\pwlauncher.DllUnregisterServer\"")
+#pragma comment(linker, "/export:ProcessHibernateGroupPolicy=\"C:\\Windows\\System32\\pwlauncher.ProcessHibernateGroupPolicy\"")
+#pragma comment(linker, "/export:ProcessLauncherGroupPolicy=\"C:\\Windows\\System32\\pwlauncher.ProcessLauncherGroupPolicy\"")
+#pragma comment(linker, "/export:ShowPortableWorkspaceLauncherConfigurationUX=\"C:\\Windows\\System32\\pwlauncher.ShowPortableWorkspaceLauncherConfigurationUX\"")

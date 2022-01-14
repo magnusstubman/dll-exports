@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CloseFindContext=\"C:\\Windows\\System32\\wiadss.CloseFindContext\"")
+#pragma comment(linker, "/export:FindFirstImportDS=\"C:\\Windows\\System32\\wiadss.FindFirstImportDS\"")
+#pragma comment(linker, "/export:FindImportDSByDeviceName=\"C:\\Windows\\System32\\wiadss.FindImportDSByDeviceName\"")
+#pragma comment(linker, "/export:FindNextImportDS=\"C:\\Windows\\System32\\wiadss.FindNextImportDS\"")
+#pragma comment(linker, "/export:GetLoaderStatus=\"C:\\Windows\\System32\\wiadss.GetLoaderStatus\"")
+#pragma comment(linker, "/export:LoadImportDS=\"C:\\Windows\\System32\\wiadss.LoadImportDS\"")
+#pragma comment(linker, "/export:UnloadImportDS=\"C:\\Windows\\System32\\wiadss.UnloadImportDS\"")

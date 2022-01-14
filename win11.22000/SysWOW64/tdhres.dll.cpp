@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:GetNTStatusSymbolicName=\"C:\\Windows\\SysWOW64\\tdhres.GetNTStatusSymbolicName\"")
+#pragma comment(linker, "/export:GetNdisOidSymbolicName=\"C:\\Windows\\SysWOW64\\tdhres.GetNdisOidSymbolicName\"")
+#pragma comment(linker, "/export:GetNdisSymbolicName=\"C:\\Windows\\SysWOW64\\tdhres.GetNdisSymbolicName\"")
+#pragma comment(linker, "/export:GetNetEventSymbolicName=\"C:\\Windows\\SysWOW64\\tdhres.GetNetEventSymbolicName\"")
+#pragma comment(linker, "/export:GetWinErrorSymbolicName=\"C:\\Windows\\SysWOW64\\tdhres.GetWinErrorSymbolicName\"")

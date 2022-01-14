@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:BthEvtBrCreateBroker=\"C:\\Windows\\SysWOW64\\Windows.Internal.Devices.Bluetooth.BthEvtBrCreateBroker\"")
+#pragma comment(linker, "/export:BthEvtBrDeleteBroker=\"C:\\Windows\\SysWOW64\\Windows.Internal.Devices.Bluetooth.BthEvtBrDeleteBroker\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\Windows.Internal.Devices.Bluetooth.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\Windows.Internal.Devices.Bluetooth.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\Windows.Internal.Devices.Bluetooth.DllGetClassObject\"")

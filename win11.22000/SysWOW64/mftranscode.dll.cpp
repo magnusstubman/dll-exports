@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:GetTranscodeComponentCreator=\"C:\\Windows\\SysWOW64\\mftranscode.GetTranscodeComponentCreator\"")
+#pragma comment(linker, "/export:MFCreateSmartRemuxEngine=\"C:\\Windows\\SysWOW64\\mftranscode.MFCreateSmartRemuxEngine\"")
+#pragma comment(linker, "/export:MFCreateTranscodeEngine=\"C:\\Windows\\SysWOW64\\mftranscode.MFCreateTranscodeEngine\"")
+#pragma comment(linker, "/export:MFCreateTranscodeProfile=\"C:\\Windows\\SysWOW64\\mftranscode.MFCreateTranscodeProfile\"")
+#pragma comment(linker, "/export:MFCreateTranscodeSinkActivate=\"C:\\Windows\\SysWOW64\\mftranscode.MFCreateTranscodeSinkActivate\"")
+#pragma comment(linker, "/export:MFCreateTranscodeTopology=\"C:\\Windows\\SysWOW64\\mftranscode.MFCreateTranscodeTopology\"")
+#pragma comment(linker, "/export:MFCreateTranscodeTopologyFromByteStream=\"C:\\Windows\\SysWOW64\\mftranscode.MFCreateTranscodeTopologyFromByteStream\"")
+#pragma comment(linker, "/export:MFTranscodeGetAudioOutputAvailableTypes=\"C:\\Windows\\SysWOW64\\mftranscode.MFTranscodeGetAudioOutputAvailableTypes\"")

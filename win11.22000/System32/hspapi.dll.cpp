@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:HspGetPlatRotHealthStatus=\"C:\\Windows\\System32\\hspapi.HspGetPlatRotHealthStatus\"")
+#pragma comment(linker, "/export:HspGetPlatRotVendorId=\"C:\\Windows\\System32\\hspapi.HspGetPlatRotVendorId\"")
+#pragma comment(linker, "/export:HspGetTelemetry=\"C:\\Windows\\System32\\hspapi.HspGetTelemetry\"")
+#pragma comment(linker, "/export:HspIsPlatRotCapable=\"C:\\Windows\\System32\\hspapi.HspIsPlatRotCapable\"")
+#pragma comment(linker, "/export:HspIsPlatRotEnabled=\"C:\\Windows\\System32\\hspapi.HspIsPlatRotEnabled\"")

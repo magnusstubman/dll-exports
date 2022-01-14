@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\colbact.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\colbact.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\colbact.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetClassInfoForCurrentUser=\"C:\\Windows\\SysWOW64\\colbact.GetClassInfoForCurrentUser\"")
+#pragma comment(linker, "/export:GetDefaultPartitionForCurrentUser=\"C:\\Windows\\SysWOW64\\colbact.GetDefaultPartitionForCurrentUser\"")
+#pragma comment(linker, "/export:GetDefaultPartitionForSid=\"C:\\Windows\\SysWOW64\\colbact.GetDefaultPartitionForSid\"")
+#pragma comment(linker, "/export:PartitionAccessCheck=\"C:\\Windows\\SysWOW64\\colbact.PartitionAccessCheck\"")

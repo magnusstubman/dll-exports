@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:GetNTStatusSymbolicName=\"C:\\Windows\\System32\\tdhres.GetNTStatusSymbolicName\"")
+#pragma comment(linker, "/export:GetNdisOidSymbolicName=\"C:\\Windows\\System32\\tdhres.GetNdisOidSymbolicName\"")
+#pragma comment(linker, "/export:GetNdisSymbolicName=\"C:\\Windows\\System32\\tdhres.GetNdisSymbolicName\"")
+#pragma comment(linker, "/export:GetNetEventSymbolicName=\"C:\\Windows\\System32\\tdhres.GetNetEventSymbolicName\"")
+#pragma comment(linker, "/export:GetWinErrorSymbolicName=\"C:\\Windows\\System32\\tdhres.GetWinErrorSymbolicName\"")

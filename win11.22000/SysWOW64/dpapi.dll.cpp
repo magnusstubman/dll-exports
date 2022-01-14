@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CryptProtectDataNoUI=\"C:\\Windows\\SysWOW64\\dpapi.CryptProtectDataNoUI\"")
+#pragma comment(linker, "/export:CryptProtectMemory=\"C:\\Windows\\SysWOW64\\dpapi.CryptProtectMemory\"")
+#pragma comment(linker, "/export:CryptResetMachineCredentials=\"C:\\Windows\\SysWOW64\\dpapi.CryptResetMachineCredentials\"")
+#pragma comment(linker, "/export:CryptUnprotectDataNoUI=\"C:\\Windows\\SysWOW64\\dpapi.CryptUnprotectDataNoUI\"")
+#pragma comment(linker, "/export:CryptUnprotectMemory=\"C:\\Windows\\SysWOW64\\dpapi.CryptUnprotectMemory\"")
+#pragma comment(linker, "/export:CryptUpdateProtectedState=\"C:\\Windows\\SysWOW64\\dpapi.CryptUpdateProtectedState\"")
+#pragma comment(linker, "/export:iCryptIdentifyProtection=\"C:\\Windows\\SysWOW64\\dpapi.iCryptIdentifyProtection\"")

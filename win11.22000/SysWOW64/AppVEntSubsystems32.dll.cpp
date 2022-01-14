@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:APIExportForDetours=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.APIExportForDetours\"")
+#pragma comment(linker, "/export:CurrentThreadIsVirtualized=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.CurrentThreadIsVirtualized\"")
+#pragma comment(linker, "/export:RequestUnhookedFunctionList=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.RequestUnhookedFunctionList\"")
+#pragma comment(linker, "/export:VirtualizeCurrentProcess=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.VirtualizeCurrentProcess\"")
+#pragma comment(linker, "/export:VirtualizeCurrentThread=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32.VirtualizeCurrentThread\"")
+#pragma comment(linker, "/export:_IsProcessHooked@0=\"C:\\Windows\\SysWOW64\\AppVEntSubsystems32._IsProcessHooked@0\"")

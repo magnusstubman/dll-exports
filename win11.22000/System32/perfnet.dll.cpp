@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:CloseNetSvcsObject=\"C:\\Windows\\System32\\perfnet.CloseNetSvcsObject\"")
+#pragma comment(linker, "/export:CloseTcpIpPerformanceData=\"C:\\Windows\\System32\\perfnet.CloseTcpIpPerformanceData\"")
+#pragma comment(linker, "/export:CollectNetSvcsObjectData=\"C:\\Windows\\System32\\perfnet.CollectNetSvcsObjectData\"")
+#pragma comment(linker, "/export:CollectTcpIpPerformanceData=\"C:\\Windows\\System32\\perfnet.CollectTcpIpPerformanceData\"")
+#pragma comment(linker, "/export:OpenNetSvcsObject=\"C:\\Windows\\System32\\perfnet.OpenNetSvcsObject\"")
+#pragma comment(linker, "/export:OpenTcpIpPerformanceData=\"C:\\Windows\\System32\\perfnet.OpenTcpIpPerformanceData\"")

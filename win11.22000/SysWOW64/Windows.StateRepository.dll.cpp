@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.ServiceMain\"")
+#pragma comment(linker, "/export:StateRepository_DataAccessLayer_DatabaseCache_Add=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.StateRepository_DataAccessLayer_DatabaseCache_Add\"")
+#pragma comment(linker, "/export:StateRepository_DataAccessLayer_DatabaseCache_Get=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.StateRepository_DataAccessLayer_DatabaseCache_Get\"")
+#pragma comment(linker, "/export:StateRepository_Initialize=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.StateRepository_Initialize\"")
+#pragma comment(linker, "/export:StateRepository_Service_UpdateStatus=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.StateRepository_Service_UpdateStatus\"")
+#pragma comment(linker, "/export:StateRepository_Shutdown=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.StateRepository_Shutdown\"")
+#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\SysWOW64\\Windows.StateRepository.SvchostPushServiceGlobals\"")
