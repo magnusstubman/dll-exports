@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:AllocInstanceData=\"C:\\Windows\\SysWOW64\\ir41_qcxoriginal.AllocInstanceData\"")
+#pragma comment(linker, "/export:Compress=\"C:\\Windows\\SysWOW64\\ir41_qcxoriginal.Compress\"")
+#pragma comment(linker, "/export:CompressBegin=\"C:\\Windows\\SysWOW64\\ir41_qcxoriginal.CompressBegin\"")
+#pragma comment(linker, "/export:CompressEnd=\"C:\\Windows\\SysWOW64\\ir41_qcxoriginal.CompressEnd\"")
+#pragma comment(linker, "/export:CompressFramesInfo=\"C:\\Windows\\SysWOW64\\ir41_qcxoriginal.CompressFramesInfo\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\ir41_qcxoriginal.DllMain\"")
+#pragma comment(linker, "/export:FreeInstanceData=\"C:\\Windows\\SysWOW64\\ir41_qcxoriginal.FreeInstanceData\"")
+#pragma comment(linker, "/export:SetScalability=\"C:\\Windows\\SysWOW64\\ir41_qcxoriginal.SetScalability\"")

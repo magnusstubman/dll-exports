@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\fdSSDP.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\fdSSDP.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\fdSSDP.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\fdSSDP.DllUnregisterServer\"")
+#pragma comment(linker, "/export:FdphostSessionChange=\"C:\\Windows\\System32\\fdSSDP.FdphostSessionChange\"")
+#pragma comment(linker, "/export:FdphostSetComContext=\"C:\\Windows\\System32\\fdSSDP.FdphostSetComContext\"")
+#pragma comment(linker, "/export:FdphostSetSharedService=\"C:\\Windows\\System32\\fdSSDP.FdphostSetSharedService\"")

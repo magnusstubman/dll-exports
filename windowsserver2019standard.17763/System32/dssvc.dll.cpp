@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DSSCreateSharedFileTokenEx=\"C:\\Windows\\System32\\dssvc.DSSCreateSharedFileTokenEx\"")
+#pragma comment(linker, "/export:DSSFreeToken=\"C:\\Windows\\System32\\dssvc.DSSFreeToken\"")
+#pragma comment(linker, "/export:InitializeService=\"C:\\Windows\\System32\\dssvc.InitializeService\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\dssvc.ServiceMain\"")
+#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\dssvc.SvchostPushServiceGlobals\"")

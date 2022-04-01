@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\msimtf.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\msimtf.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\msimtf.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\msimtf.DllUnregisterServer\"")
+#pragma comment(linker, "/export:MsimtfIsGuidMapEnable=\"C:\\Windows\\System32\\msimtf.MsimtfIsGuidMapEnable\"")
+#pragma comment(linker, "/export:MsimtfIsWindowFiltered=\"C:\\Windows\\System32\\msimtf.MsimtfIsWindowFiltered\"")

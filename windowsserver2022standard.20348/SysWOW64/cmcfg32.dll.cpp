@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:CMConfig=\"C:\\Windows\\SysWOW64\\cmcfg32.CMConfig\"")
+#pragma comment(linker, "/export:CMConfigEx=\"C:\\Windows\\SysWOW64\\cmcfg32.CMConfigEx\"")
+#pragma comment(linker, "/export:CmstpExtensionProc=\"C:\\Windows\\SysWOW64\\cmcfg32.CmstpExtensionProc\"")
+#pragma comment(linker, "/export:CmstpExtensionProc2=\"C:\\Windows\\SysWOW64\\cmcfg32.CmstpExtensionProc2\"")
+#pragma comment(linker, "/export:_CMConfig@8=\"C:\\Windows\\SysWOW64\\cmcfg32._CMConfig@8\"")

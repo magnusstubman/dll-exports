@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\es.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\es.DllGetClassObject\"")
+#pragma comment(linker, "/export:LCEControlServer=\"C:\\Windows\\System32\\es.LCEControlServer\"")
+#pragma comment(linker, "/export:NotifyLogoffUser=\"C:\\Windows\\System32\\es.NotifyLogoffUser\"")
+#pragma comment(linker, "/export:NotifyLogonUser=\"C:\\Windows\\System32\\es.NotifyLogonUser\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\es.ServiceMain\"")
+#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\es.SvchostPushServiceGlobals\"")

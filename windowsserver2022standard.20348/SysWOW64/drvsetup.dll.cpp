@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DrvSetupInstallDriver=\"C:\\Windows\\SysWOW64\\drvsetup.DrvSetupInstallDriver\"")
+#pragma comment(linker, "/export:DrvSetupInstallWuDriver=\"C:\\Windows\\SysWOW64\\drvsetup.DrvSetupInstallWuDriver\"")
+#pragma comment(linker, "/export:DrvSetupInstallWuDrivers=\"C:\\Windows\\SysWOW64\\drvsetup.DrvSetupInstallWuDrivers\"")
+#pragma comment(linker, "/export:DrvSetupQueryUpdateStatus=\"C:\\Windows\\SysWOW64\\drvsetup.DrvSetupQueryUpdateStatus\"")
+#pragma comment(linker, "/export:DrvSetupUninstallDriver=\"C:\\Windows\\SysWOW64\\drvsetup.DrvSetupUninstallDriver\"")
+#pragma comment(linker, "/export:DrvSetupUninstallWuDrivers=\"C:\\Windows\\SysWOW64\\drvsetup.DrvSetupUninstallWuDrivers\"")
+#pragma comment(linker, "/export:pDrvSetupUninstallDriver=\"C:\\Windows\\SysWOW64\\drvsetup.pDrvSetupUninstallDriver\"")

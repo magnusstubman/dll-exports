@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\Windows.Data.Activities.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\Windows.Data.Activities.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\Windows.Data.Activities.DllGetClassObject\"")
+#pragma comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\System32\\Windows.Data.Activities.GetProxyDllInfo\"")
+#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\Windows.Data.Activities.GetSetting\"")

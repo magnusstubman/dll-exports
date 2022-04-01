@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:AERT_Allocate=\"C:\\Windows\\SysWOW64\\AudioEng.AERT_Allocate\"")
+#pragma comment(linker, "/export:AERT_Free=\"C:\\Windows\\SysWOW64\\AudioEng.AERT_Free\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\AudioEng.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\AudioEng.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\AudioEng.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\AudioEng.DllUnregisterServer\"")

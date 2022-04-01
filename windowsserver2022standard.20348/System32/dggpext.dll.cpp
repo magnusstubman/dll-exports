@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\dggpext.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\dggpext.DllUnregisterServer\"")
+#pragma comment(linker, "/export:ProcessConfigCIPolicyGroupPolicy=\"C:\\Windows\\System32\\dggpext.ProcessConfigCIPolicyGroupPolicy\"")
+#pragma comment(linker, "/export:ProcessVirtualizationBasedSecurityGroupPolicy=\"C:\\Windows\\System32\\dggpext.ProcessVirtualizationBasedSecurityGroupPolicy\"")
+#pragma comment(linker, "/export:ProcessVirtualizationBasedSecurityMDMPolicy=\"C:\\Windows\\System32\\dggpext.ProcessVirtualizationBasedSecurityMDMPolicy\"")

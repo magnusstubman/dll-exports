@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\dot3dlg.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\dot3dlg.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\dot3dlg.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\dot3dlg.DllUnregisterServer\"")
+#pragma comment(linker, "/export:Dot3ACCanShowBalloon=\"C:\\Windows\\SysWOW64\\dot3dlg.Dot3ACCanShowBalloon\"")
+#pragma comment(linker, "/export:Dot3ACOnBalloonClick=\"C:\\Windows\\SysWOW64\\dot3dlg.Dot3ACOnBalloonClick\"")

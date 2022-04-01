@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\fcon.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\fcon.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\fcon.DllGetClassObject\"")
+#pragma comment(linker, "/export:GetCtacPropertyAlloc=\"C:\\Windows\\SysWOW64\\fcon.GetCtacPropertyAlloc\"")
+#pragma comment(linker, "/export:ModifyStagingControlVariants=\"C:\\Windows\\SysWOW64\\fcon.ModifyStagingControlVariants\"")
+#pragma comment(linker, "/export:ModifyStagingControls=\"C:\\Windows\\SysWOW64\\fcon.ModifyStagingControls\"")
+#pragma comment(linker, "/export:SubscribeFeatureReporting=\"C:\\Windows\\SysWOW64\\fcon.SubscribeFeatureReporting\"")
+#pragma comment(linker, "/export:UnsubscribeFeatureReporting=\"C:\\Windows\\SysWOW64\\fcon.UnsubscribeFeatureReporting\"")

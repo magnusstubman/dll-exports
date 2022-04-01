@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:KccExecuteTask=\"C:\\Windows\\System32\\ntdskcc.KccExecuteTask\"")
+#pragma comment(linker, "/export:KccGetFailureCache=\"C:\\Windows\\System32\\ntdskcc.KccGetFailureCache\"")
+#pragma comment(linker, "/export:KccInitialize=\"C:\\Windows\\System32\\ntdskcc.KccInitialize\"")
+#pragma comment(linker, "/export:KccUnInitializeTrigger=\"C:\\Windows\\System32\\ntdskcc.KccUnInitializeTrigger\"")
+#pragma comment(linker, "/export:KccUnInitializeWait=\"C:\\Windows\\System32\\ntdskcc.KccUnInitializeWait\"")

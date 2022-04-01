@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DoAction=\"C:\\Windows\\SysWOW64\\elshyph.DoAction\"")
+#pragma comment(linker, "/export:FreePropertyBag=\"C:\\Windows\\SysWOW64\\elshyph.FreePropertyBag\"")
+#pragma comment(linker, "/export:FreeService=\"C:\\Windows\\SysWOW64\\elshyph.FreeService\"")
+#pragma comment(linker, "/export:InitService=\"C:\\Windows\\SysWOW64\\elshyph.InitService\"")
+#pragma comment(linker, "/export:RecognizeText=\"C:\\Windows\\SysWOW64\\elshyph.RecognizeText\"")

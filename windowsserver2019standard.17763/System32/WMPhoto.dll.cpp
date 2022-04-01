@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\WMPhoto.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\WMPhoto.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\WMPhoto.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\WMPhoto.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\WMPhoto.DllUnregisterServer\"")

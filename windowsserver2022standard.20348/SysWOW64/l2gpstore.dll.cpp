@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:L2GPPolicyDataDelete=\"C:\\Windows\\SysWOW64\\l2gpstore.L2GPPolicyDataDelete\"")
+#pragma comment(linker, "/export:L2GPPolicyDataDeleteAll=\"C:\\Windows\\SysWOW64\\l2gpstore.L2GPPolicyDataDeleteAll\"")
+#pragma comment(linker, "/export:L2GPPolicyDataRead=\"C:\\Windows\\SysWOW64\\l2gpstore.L2GPPolicyDataRead\"")
+#pragma comment(linker, "/export:L2GPPolicyDataWrite=\"C:\\Windows\\SysWOW64\\l2gpstore.L2GPPolicyDataWrite\"")
+#pragma comment(linker, "/export:L2GPPolicyFreeMem=\"C:\\Windows\\SysWOW64\\l2gpstore.L2GPPolicyFreeMem\"")
+#pragma comment(linker, "/export:L2GPPolicyStoreClose=\"C:\\Windows\\SysWOW64\\l2gpstore.L2GPPolicyStoreClose\"")
+#pragma comment(linker, "/export:L2GPPolicyStoreOpen=\"C:\\Windows\\SysWOW64\\l2gpstore.L2GPPolicyStoreOpen\"")

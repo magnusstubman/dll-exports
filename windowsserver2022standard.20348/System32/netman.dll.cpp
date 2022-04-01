@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\netman.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\netman.DllUnregisterServer\"")
+#pragma comment(linker, "/export:HrGetPnpDeviceStatus=\"C:\\Windows\\System32\\netman.HrGetPnpDeviceStatus\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\netman.ServiceMain\"")
+#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\netman.SvchostPushServiceGlobals\"")

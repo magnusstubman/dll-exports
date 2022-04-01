@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:Msv1_0SubAuthenticationRoutine=\"C:\\Windows\\System32\\rassfm.Msv1_0SubAuthenticationRoutine\"")
+#pragma comment(linker, "/export:Msv1_0SubAuthenticationRoutineEx=\"C:\\Windows\\System32\\rassfm.Msv1_0SubAuthenticationRoutineEx\"")
+#pragma comment(linker, "/export:Msv1_0SubAuthenticationRoutineGeneric=\"C:\\Windows\\System32\\rassfm.Msv1_0SubAuthenticationRoutineGeneric\"")
+#pragma comment(linker, "/export:PasswordChangeNotify=\"C:\\Windows\\System32\\rassfm.PasswordChangeNotify\"")
+#pragma comment(linker, "/export:UserParmsConvert=\"C:\\Windows\\System32\\rassfm.UserParmsConvert\"")
+#pragma comment(linker, "/export:UserParmsFree=\"C:\\Windows\\System32\\rassfm.UserParmsFree\"")

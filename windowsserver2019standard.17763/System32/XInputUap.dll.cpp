@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\XInputUap.DllMain\"")
+#pragma comment(linker, "/export:XInputEnable=\"C:\\Windows\\System32\\XInputUap.XInputEnable\"")
+#pragma comment(linker, "/export:XInputGetAudioDeviceIds=\"C:\\Windows\\System32\\XInputUap.XInputGetAudioDeviceIds\"")
+#pragma comment(linker, "/export:XInputGetBatteryInformation=\"C:\\Windows\\System32\\XInputUap.XInputGetBatteryInformation\"")
+#pragma comment(linker, "/export:XInputGetCapabilities=\"C:\\Windows\\System32\\XInputUap.XInputGetCapabilities\"")
+#pragma comment(linker, "/export:XInputGetKeystroke=\"C:\\Windows\\System32\\XInputUap.XInputGetKeystroke\"")
+#pragma comment(linker, "/export:XInputGetState=\"C:\\Windows\\System32\\XInputUap.XInputGetState\"")
+#pragma comment(linker, "/export:XInputSetState=\"C:\\Windows\\System32\\XInputUap.XInputSetState\"")

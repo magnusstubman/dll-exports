@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\scansetting.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\scansetting.DllMain\"")
+#pragma comment(linker, "/export:GetDefaultProfileScan=\"C:\\Windows\\System32\\scansetting.GetDefaultProfileScan\"")
+#pragma comment(linker, "/export:GetImageDialog=\"C:\\Windows\\System32\\scansetting.GetImageDialog\"")
+#pragma comment(linker, "/export:ProfilesDialog=\"C:\\Windows\\System32\\scansetting.ProfilesDialog\"")
+#pragma comment(linker, "/export:ProgDlgTakeFgIfShowing=\"C:\\Windows\\System32\\scansetting.ProgDlgTakeFgIfShowing\"")

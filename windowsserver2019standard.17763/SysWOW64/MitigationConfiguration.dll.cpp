@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.DllUnregisterServer\"")
+#pragma comment(linker, "/export:ExportMitigation=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.ExportMitigation\"")
+#pragma comment(linker, "/export:ImportMitigation=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.ImportMitigation\"")
+#pragma comment(linker, "/export:ValidateXML=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.ValidateXML\"")
+#pragma comment(linker, "/export:ValidateXMLFromManaged=\"C:\\Windows\\SysWOW64\\MitigationConfiguration.ValidateXMLFromManaged\"")

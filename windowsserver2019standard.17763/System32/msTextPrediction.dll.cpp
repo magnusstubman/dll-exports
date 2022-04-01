@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\msTextPrediction.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\msTextPrediction.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\msTextPrediction.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\msTextPrediction.DllUnregisterServer\"")
+#pragma comment(linker, "/export:NIFTE_AbortTrainer=\"C:\\Windows\\System32\\msTextPrediction.NIFTE_AbortTrainer\"")
+#pragma comment(linker, "/export:NIFTE_CreateTrainer=\"C:\\Windows\\System32\\msTextPrediction.NIFTE_CreateTrainer\"")
+#pragma comment(linker, "/export:NIFTE_DestroyTrainer=\"C:\\Windows\\System32\\msTextPrediction.NIFTE_DestroyTrainer\"")
+#pragma comment(linker, "/export:NIFTE_TextTrain=\"C:\\Windows\\System32\\msTextPrediction.NIFTE_TextTrain\"")

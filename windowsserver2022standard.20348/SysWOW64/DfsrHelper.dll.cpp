@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\DfsrHelper.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\DfsrHelper.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\DfsrHelper.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\DfsrHelper.DllUnregisterServer\"")
+#pragma comment(linker, "/export:_GetFileHash@8=\"C:\\Windows\\SysWOW64\\DfsrHelper._GetFileHash@8\"")

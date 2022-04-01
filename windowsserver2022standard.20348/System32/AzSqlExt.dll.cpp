@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:AzGenerateAudit=\"C:\\Windows\\System32\\AzSqlExt.AzGenerateAudit\"")
+#pragma comment(linker, "/export:__GetXpVersion=\"C:\\Windows\\System32\\AzSqlExt.__GetXpVersion\"")
+#pragma comment(linker, "/export:xp_AzManAddRole=\"C:\\Windows\\System32\\AzSqlExt.xp_AzManAddRole\"")
+#pragma comment(linker, "/export:xp_AzManAddUserToRole=\"C:\\Windows\\System32\\AzSqlExt.xp_AzManAddUserToRole\"")
+#pragma comment(linker, "/export:xp_AzManDeleteRole=\"C:\\Windows\\System32\\AzSqlExt.xp_AzManDeleteRole\"")
+#pragma comment(linker, "/export:xp_AzManRemoveUserFromRole=\"C:\\Windows\\System32\\AzSqlExt.xp_AzManRemoveUserFromRole\"")

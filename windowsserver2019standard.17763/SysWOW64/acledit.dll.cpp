@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\acledit.DllMain\"")
+#pragma comment(linker, "/export:EditAuditInfo=\"C:\\Windows\\SysWOW64\\acledit.EditAuditInfo\"")
+#pragma comment(linker, "/export:EditOwnerInfo=\"C:\\Windows\\SysWOW64\\acledit.EditOwnerInfo\"")
+#pragma comment(linker, "/export:EditPermissionInfo=\"C:\\Windows\\SysWOW64\\acledit.EditPermissionInfo\"")
+#pragma comment(linker, "/export:FMExtensionProcW=\"C:\\Windows\\SysWOW64\\acledit.FMExtensionProcW\"")
+#pragma comment(linker, "/export:SedDiscretionaryAclEditor=\"C:\\Windows\\SysWOW64\\acledit.SedDiscretionaryAclEditor\"")
+#pragma comment(linker, "/export:SedSystemAclEditor=\"C:\\Windows\\SysWOW64\\acledit.SedSystemAclEditor\"")
+#pragma comment(linker, "/export:SedTakeOwnership=\"C:\\Windows\\SysWOW64\\acledit.SedTakeOwnership\"")

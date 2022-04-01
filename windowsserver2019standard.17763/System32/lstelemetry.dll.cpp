@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:GetLicensingTelemetryCommonData=\"C:\\Windows\\System32\\lstelemetry.GetLicensingTelemetryCommonData\"")
+#pragma comment(linker, "/export:InitRDLSTelemetryCommonData=\"C:\\Windows\\System32\\lstelemetry.InitRDLSTelemetryCommonData\"")
+#pragma comment(linker, "/export:LogTSLSTelemetryEvent=\"C:\\Windows\\System32\\lstelemetry.LogTSLSTelemetryEvent\"")
+#pragma comment(linker, "/export:LogTSLSTelemetryRDSEvent=\"C:\\Windows\\System32\\lstelemetry.LogTSLSTelemetryRDSEvent\"")
+#pragma comment(linker, "/export:RegisterAndEnableLicensingTelemetry=\"C:\\Windows\\System32\\lstelemetry.RegisterAndEnableLicensingTelemetry\"")
+#pragma comment(linker, "/export:UnregisterLicensingTelemetry=\"C:\\Windows\\System32\\lstelemetry.UnregisterLicensingTelemetry\"")
+#pragma comment(linker, "/export:UpdateRDLSTelemetryCommonData=\"C:\\Windows\\System32\\lstelemetry.UpdateRDLSTelemetryCommonData\"")

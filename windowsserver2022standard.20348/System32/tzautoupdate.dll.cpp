@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:AttemptToUpdateTimeZone=\"C:\\Windows\\System32\\tzautoupdate.AttemptToUpdateTimeZone\"")
+#pragma comment(linker, "/export:AttemptToUpdateTimeZoneAndEnableChangeDetection=\"C:\\Windows\\System32\\tzautoupdate.AttemptToUpdateTimeZoneAndEnableChangeDetection\"")
+#pragma comment(linker, "/export:DisableTimeZoneAutoUpdate=\"C:\\Windows\\System32\\tzautoupdate.DisableTimeZoneAutoUpdate\"")
+#pragma comment(linker, "/export:EnableTimeZoneAutoUpdate=\"C:\\Windows\\System32\\tzautoupdate.EnableTimeZoneAutoUpdate\"")
+#pragma comment(linker, "/export:IsTimeZoneAutoUpdateEnabled=\"C:\\Windows\\System32\\tzautoupdate.IsTimeZoneAutoUpdateEnabled\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\tzautoupdate.ServiceMain\"")
+#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\tzautoupdate.SvchostPushServiceGlobals\"")

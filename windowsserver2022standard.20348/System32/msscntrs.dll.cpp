@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:Close=\"C:\\Windows\\System32\\msscntrs.Close\"")
+#pragma comment(linker, "/export:Collect=\"C:\\Windows\\System32\\msscntrs.Collect\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\msscntrs.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\msscntrs.DllUnregisterServer\"")
+#pragma comment(linker, "/export:Open=\"C:\\Windows\\System32\\msscntrs.Open\"")

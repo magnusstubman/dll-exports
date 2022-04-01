@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:CreateRegistryCompatibilityCollector=\"C:\\Windows\\System32\\AppXDeploymentExtensions.desktop.CreateRegistryCompatibilityCollector\"")
+#pragma comment(linker, "/export:CreateRegistryCompatibilityCollectorForUserOrSystemRegister=\"C:\\Windows\\System32\\AppXDeploymentExtensions.desktop.CreateRegistryCompatibilityCollectorForUserOrSystemRegister\"")
+#pragma comment(linker, "/export:CreateRegistryCompatibilityManager=\"C:\\Windows\\System32\\AppXDeploymentExtensions.desktop.CreateRegistryCompatibilityManager\"")
+#pragma comment(linker, "/export:LoadCategoryNameTable=\"C:\\Windows\\System32\\AppXDeploymentExtensions.desktop.LoadCategoryNameTable\"")
+#pragma comment(linker, "/export:LoadExtensionRegistrationTable=\"C:\\Windows\\System32\\AppXDeploymentExtensions.desktop.LoadExtensionRegistrationTable\"")
+#pragma comment(linker, "/export:ShellRefresh=\"C:\\Windows\\System32\\AppXDeploymentExtensions.desktop.ShellRefresh\"")

@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:BrokeredOpenCommPort=\"C:\\Windows\\SysWOW64\\deviceaccess.BrokeredOpenCommPort\"")
+#pragma comment(linker, "/export:CreateDeviceAccessInstance=\"C:\\Windows\\SysWOW64\\deviceaccess.CreateDeviceAccessInstance\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\deviceaccess.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\deviceaccess.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\deviceaccess.DllGetClassObject\"")
+#pragma comment(linker, "/export:ProcessTrackerInsertOrWait=\"C:\\Windows\\SysWOW64\\deviceaccess.ProcessTrackerInsertOrWait\"")
+#pragma comment(linker, "/export:ProcessTrackerRemove=\"C:\\Windows\\SysWOW64\\deviceaccess.ProcessTrackerRemove\"")

@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:CacheSettingsDlg=\"C:\\Windows\\SysWOW64\\filemgmt.CacheSettingsDlg\"")
+#pragma comment(linker, "/export:CacheSettingsDlg2=\"C:\\Windows\\SysWOW64\\filemgmt.CacheSettingsDlg2\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\filemgmt.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\filemgmt.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\filemgmt.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\filemgmt.DllUnregisterServer\"")

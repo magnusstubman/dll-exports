@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:Sysprep_Generalize_Pnp=\"C:\\Windows\\System32\\sppnp.Sysprep_Generalize_Pnp\"")
+#pragma comment(linker, "/export:Sysprep_Generalize_Pnp_Drivers=\"C:\\Windows\\System32\\sppnp.Sysprep_Generalize_Pnp_Drivers\"")
+#pragma comment(linker, "/export:Sysprep_Respecialize_Pnp=\"C:\\Windows\\System32\\sppnp.Sysprep_Respecialize_Pnp\"")
+#pragma comment(linker, "/export:Sysprep_Specialize_Offline_Pnp=\"C:\\Windows\\System32\\sppnp.Sysprep_Specialize_Offline_Pnp\"")
+#pragma comment(linker, "/export:Sysprep_Specialize_Pnp=\"C:\\Windows\\System32\\sppnp.Sysprep_Specialize_Pnp\"")

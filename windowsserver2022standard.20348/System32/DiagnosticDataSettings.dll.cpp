@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:TelEvaluateActiveSettingAuthority=\"C:\\Windows\\System32\\DiagnosticDataSettings.TelEvaluateActiveSettingAuthority\"")
+#pragma comment(linker, "/export:TelGetAllAllowedTelemetryTypes=\"C:\\Windows\\System32\\DiagnosticDataSettings.TelGetAllAllowedTelemetryTypes\"")
+#pragma comment(linker, "/export:TelGetLocalAllowTelemetryRegPath=\"C:\\Windows\\System32\\DiagnosticDataSettings.TelGetLocalAllowTelemetryRegPath\"")
+#pragma comment(linker, "/export:TelGetMaximumAllowedTelemetryLevel=\"C:\\Windows\\System32\\DiagnosticDataSettings.TelGetMaximumAllowedTelemetryLevel\"")
+#pragma comment(linker, "/export:TelIsTelemetryTypeAllowed=\"C:\\Windows\\System32\\DiagnosticDataSettings.TelIsTelemetryTypeAllowed\"")
+#pragma comment(linker, "/export:TelSetLocalTelemetrySetting=\"C:\\Windows\\System32\\DiagnosticDataSettings.TelSetLocalTelemetrySetting\"")

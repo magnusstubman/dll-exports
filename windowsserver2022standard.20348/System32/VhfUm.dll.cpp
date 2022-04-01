@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:VhfAsyncOperationComplete=\"C:\\Windows\\System32\\VhfUm.VhfAsyncOperationComplete\"")
+#pragma comment(linker, "/export:VhfCreate=\"C:\\Windows\\System32\\VhfUm.VhfCreate\"")
+#pragma comment(linker, "/export:VhfDelete=\"C:\\Windows\\System32\\VhfUm.VhfDelete\"")
+#pragma comment(linker, "/export:VhfReadReportSubmit=\"C:\\Windows\\System32\\VhfUm.VhfReadReportSubmit\"")
+#pragma comment(linker, "/export:VhfStart=\"C:\\Windows\\System32\\VhfUm.VhfStart\"")

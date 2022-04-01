@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\eapsimextdesktop.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\eapsimextdesktop.DllGetClassObject\"")
+#pragma comment(linker, "/export:EapSimExtCallRunWizard=\"C:\\Windows\\System32\\eapsimextdesktop.EapSimExtCallRunWizard\"")
+#pragma comment(linker, "/export:EapSimExtGetIdentityPageGuid=\"C:\\Windows\\System32\\eapsimextdesktop.EapSimExtGetIdentityPageGuid\"")
+#pragma comment(linker, "/export:EapSimExtInvokeUIAndGetConfig=\"C:\\Windows\\System32\\eapsimextdesktop.EapSimExtInvokeUIAndGetConfig\"")

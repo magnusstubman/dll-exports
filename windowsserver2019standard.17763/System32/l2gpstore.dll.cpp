@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:L2GPPolicyDataDelete=\"C:\\Windows\\System32\\l2gpstore.L2GPPolicyDataDelete\"")
+#pragma comment(linker, "/export:L2GPPolicyDataDeleteAll=\"C:\\Windows\\System32\\l2gpstore.L2GPPolicyDataDeleteAll\"")
+#pragma comment(linker, "/export:L2GPPolicyDataRead=\"C:\\Windows\\System32\\l2gpstore.L2GPPolicyDataRead\"")
+#pragma comment(linker, "/export:L2GPPolicyDataWrite=\"C:\\Windows\\System32\\l2gpstore.L2GPPolicyDataWrite\"")
+#pragma comment(linker, "/export:L2GPPolicyFreeMem=\"C:\\Windows\\System32\\l2gpstore.L2GPPolicyFreeMem\"")
+#pragma comment(linker, "/export:L2GPPolicyStoreClose=\"C:\\Windows\\System32\\l2gpstore.L2GPPolicyStoreClose\"")
+#pragma comment(linker, "/export:L2GPPolicyStoreOpen=\"C:\\Windows\\System32\\l2gpstore.L2GPPolicyStoreOpen\"")

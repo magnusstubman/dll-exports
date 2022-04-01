@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:??0CVssJetWriter@@QEAA@XZ=\"C:\\Windows\\System32\\ntdsbsrv.??0CVssJetWriter@@QEAA@XZ\"")
+#pragma comment(linker, "/export:InstallBackupServices=\"C:\\Windows\\System32\\ntdsbsrv.InstallBackupServices\"")
+#pragma comment(linker, "/export:NtdsbsrvDllInit=\"C:\\Windows\\System32\\ntdsbsrv.NtdsbsrvDllInit\"")
+#pragma comment(linker, "/export:RegisterBackupServices=\"C:\\Windows\\System32\\ntdsbsrv.RegisterBackupServices\"")
+#pragma comment(linker, "/export:UnInstallBackupServices=\"C:\\Windows\\System32\\ntdsbsrv.UnInstallBackupServices\"")
+#pragma comment(linker, "/export:UnRegisterBackupServices=\"C:\\Windows\\System32\\ntdsbsrv.UnRegisterBackupServices\"")
+#pragma comment(linker, "/export:UpdateBackupExclusionKey=\"C:\\Windows\\System32\\ntdsbsrv.UpdateBackupExclusionKey\"")

@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:CoDeviceInstall=\"C:\\Windows\\System32\\wpd_ci.CoDeviceInstall\"")
+#pragma comment(linker, "/export:DoCmd=\"C:\\Windows\\System32\\wpd_ci.DoCmd\"")
+#pragma comment(linker, "/export:MigrateMTPDevicesInstalledAsMSC=\"C:\\Windows\\System32\\wpd_ci.MigrateMTPDevicesInstalledAsMSC\"")
+#pragma comment(linker, "/export:RescanBus=\"C:\\Windows\\System32\\wpd_ci.RescanBus\"")
+#pragma comment(linker, "/export:WpdClassInstaller=\"C:\\Windows\\System32\\wpd_ci.WpdClassInstaller\"")

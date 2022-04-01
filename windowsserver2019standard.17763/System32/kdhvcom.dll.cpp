@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:KdInitialize=\"C:\\Windows\\System32\\kdhvcom.KdInitialize\"")
+#pragma comment(linker, "/export:KdPower=\"C:\\Windows\\System32\\kdhvcom.KdPower\"")
+#pragma comment(linker, "/export:KdReceivePacket=\"C:\\Windows\\System32\\kdhvcom.KdReceivePacket\"")
+#pragma comment(linker, "/export:KdSendPacket=\"C:\\Windows\\System32\\kdhvcom.KdSendPacket\"")
+#pragma comment(linker, "/export:KdSetHiberRange=\"C:\\Windows\\System32\\kdhvcom.KdSetHiberRange\"")

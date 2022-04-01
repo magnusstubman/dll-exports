@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\mfreadwrite.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\mfreadwrite.DllGetClassObject\"")
+#pragma comment(linker, "/export:MFCreateSinkWriterFromMediaSink=\"C:\\Windows\\System32\\mfreadwrite.MFCreateSinkWriterFromMediaSink\"")
+#pragma comment(linker, "/export:MFCreateSinkWriterFromURL=\"C:\\Windows\\System32\\mfreadwrite.MFCreateSinkWriterFromURL\"")
+#pragma comment(linker, "/export:MFCreateSourceReaderFromByteStream=\"C:\\Windows\\System32\\mfreadwrite.MFCreateSourceReaderFromByteStream\"")
+#pragma comment(linker, "/export:MFCreateSourceReaderFromMediaSource=\"C:\\Windows\\System32\\mfreadwrite.MFCreateSourceReaderFromMediaSource\"")
+#pragma comment(linker, "/export:MFCreateSourceReaderFromURL=\"C:\\Windows\\System32\\mfreadwrite.MFCreateSourceReaderFromURL\"")

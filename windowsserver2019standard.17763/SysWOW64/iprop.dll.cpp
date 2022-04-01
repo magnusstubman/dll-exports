@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:FmtIdToPropStgName=\"C:\\Windows\\SysWOW64\\iprop.FmtIdToPropStgName\"")
+#pragma comment(linker, "/export:FreePropVariantArray=\"C:\\Windows\\SysWOW64\\iprop.FreePropVariantArray\"")
+#pragma comment(linker, "/export:PropStgNameToFmtId=\"C:\\Windows\\SysWOW64\\iprop.PropStgNameToFmtId\"")
+#pragma comment(linker, "/export:PropVariantClear=\"C:\\Windows\\SysWOW64\\iprop.PropVariantClear\"")
+#pragma comment(linker, "/export:PropVariantCopy=\"C:\\Windows\\SysWOW64\\iprop.PropVariantCopy\"")
+#pragma comment(linker, "/export:StgCreatePropSetStg=\"C:\\Windows\\SysWOW64\\iprop.StgCreatePropSetStg\"")
+#pragma comment(linker, "/export:StgCreatePropStg=\"C:\\Windows\\SysWOW64\\iprop.StgCreatePropStg\"")
+#pragma comment(linker, "/export:StgOpenPropStg=\"C:\\Windows\\SysWOW64\\iprop.StgOpenPropStg\"")

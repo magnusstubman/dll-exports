@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CreateSystemInputHost=\"C:\\Windows\\System32\\ISM.CreateSystemInputHost\"")
+#pragma comment(linker, "/export:IsSystemInputHostStandalone=\"C:\\Windows\\System32\\ISM.IsSystemInputHostStandalone\"")
+#pragma comment(linker, "/export:Register3DCompositor=\"C:\\Windows\\System32\\ISM.Register3DCompositor\"")
+#pragma comment(linker, "/export:RegisterManipulationThread=\"C:\\Windows\\System32\\ISM.RegisterManipulationThread\"")
+#pragma comment(linker, "/export:SetManipulationInputTarget=\"C:\\Windows\\System32\\ISM.SetManipulationInputTarget\"")
+#pragma comment(linker, "/export:StopAndEndInertia=\"C:\\Windows\\System32\\ISM.StopAndEndInertia\"")
+#pragma comment(linker, "/export:Unregister3DCompositor=\"C:\\Windows\\System32\\ISM.Unregister3DCompositor\"")

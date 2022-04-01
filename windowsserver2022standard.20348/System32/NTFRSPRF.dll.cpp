@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CloseReplicaConnPerformanceData=\"C:\\Windows\\System32\\NTFRSPRF.CloseReplicaConnPerformanceData\"")
+#pragma comment(linker, "/export:CloseReplicaSetPerformanceData=\"C:\\Windows\\System32\\NTFRSPRF.CloseReplicaSetPerformanceData\"")
+#pragma comment(linker, "/export:CollectReplicaConnPerformanceData=\"C:\\Windows\\System32\\NTFRSPRF.CollectReplicaConnPerformanceData\"")
+#pragma comment(linker, "/export:CollectReplicaSetPerformanceData=\"C:\\Windows\\System32\\NTFRSPRF.CollectReplicaSetPerformanceData\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\NTFRSPRF.DllMain\"")
+#pragma comment(linker, "/export:OpenReplicaConnPerformanceData=\"C:\\Windows\\System32\\NTFRSPRF.OpenReplicaConnPerformanceData\"")
+#pragma comment(linker, "/export:OpenReplicaSetPerformanceData=\"C:\\Windows\\System32\\NTFRSPRF.OpenReplicaSetPerformanceData\"")

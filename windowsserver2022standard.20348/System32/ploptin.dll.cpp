@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DeleteApplicationEligibilityForPrelaunch=\"C:\\Windows\\System32\\ploptin.DeleteApplicationEligibilityForPrelaunch\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\ploptin.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\ploptin.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\ploptin.DllGetClassObject\"")
+#pragma comment(linker, "/export:IsApplicationEligibleForPrelaunch=\"C:\\Windows\\System32\\ploptin.IsApplicationEligibleForPrelaunch\"")
+#pragma comment(linker, "/export:IsApplicationOptedOutOfPrelaunch=\"C:\\Windows\\System32\\ploptin.IsApplicationOptedOutOfPrelaunch\"")
+#pragma comment(linker, "/export:RecordApplicationEligibilityForPrelaunch=\"C:\\Windows\\System32\\ploptin.RecordApplicationEligibilityForPrelaunch\"")

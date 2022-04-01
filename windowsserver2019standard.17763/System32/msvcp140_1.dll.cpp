@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:_Aligned_get_default_resource=\"C:\\Windows\\System32\\msvcp140_1._Aligned_get_default_resource\"")
+#pragma comment(linker, "/export:_Aligned_new_delete_resource=\"C:\\Windows\\System32\\msvcp140_1._Aligned_new_delete_resource\"")
+#pragma comment(linker, "/export:_Aligned_set_default_resource=\"C:\\Windows\\System32\\msvcp140_1._Aligned_set_default_resource\"")
+#pragma comment(linker, "/export:_Unaligned_get_default_resource=\"C:\\Windows\\System32\\msvcp140_1._Unaligned_get_default_resource\"")
+#pragma comment(linker, "/export:_Unaligned_new_delete_resource=\"C:\\Windows\\System32\\msvcp140_1._Unaligned_new_delete_resource\"")
+#pragma comment(linker, "/export:_Unaligned_set_default_resource=\"C:\\Windows\\System32\\msvcp140_1._Unaligned_set_default_resource\"")
+#pragma comment(linker, "/export:null_memory_resource=\"C:\\Windows\\System32\\msvcp140_1.null_memory_resource\"")

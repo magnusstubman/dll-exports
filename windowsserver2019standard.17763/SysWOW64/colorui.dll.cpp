@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\colorui.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\colorui.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\colorui.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\colorui.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\colorui.DllUnregisterServer\"")
+#pragma comment(linker, "/export:LaunchColorCpl=\"C:\\Windows\\SysWOW64\\colorui.LaunchColorCpl\"")

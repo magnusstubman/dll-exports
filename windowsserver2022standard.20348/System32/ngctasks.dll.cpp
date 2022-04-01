@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\ngctasks.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\ngctasks.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\ngctasks.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\ngctasks.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetRetryTimeStamp=\"C:\\Windows\\System32\\ngctasks.GetRetryTimeStamp\"")
+#pragma comment(linker, "/export:NgcTriggerTaskForOobe=\"C:\\Windows\\System32\\ngctasks.NgcTriggerTaskForOobe\"")
+#pragma comment(linker, "/export:SetAikTimeTrigger=\"C:\\Windows\\System32\\ngctasks.SetAikTimeTrigger\"")

@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\wercplsupport.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\wercplsupport.DllGetClassObject\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\wercplsupport.ServiceMain\"")
+#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\wercplsupport.SvchostPushServiceGlobals\"")
+#pragma comment(linker, "/export:WerComGetAdminStores=\"C:\\Windows\\System32\\wercplsupport.WerComGetAdminStores\"")

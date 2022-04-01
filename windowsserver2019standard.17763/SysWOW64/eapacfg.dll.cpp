@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:EapHostAuthenticatorFreeErrorMemory=\"C:\\Windows\\SysWOW64\\eapacfg.EapHostAuthenticatorFreeErrorMemory\"")
+#pragma comment(linker, "/export:EapHostAuthenticatorFreeMemory=\"C:\\Windows\\SysWOW64\\eapacfg.EapHostAuthenticatorFreeMemory\"")
+#pragma comment(linker, "/export:EapHostAuthenticatorFreeMethodInfoArrayEx=\"C:\\Windows\\SysWOW64\\eapacfg.EapHostAuthenticatorFreeMethodInfoArrayEx\"")
+#pragma comment(linker, "/export:EapHostAuthenticatorGetMethods=\"C:\\Windows\\SysWOW64\\eapacfg.EapHostAuthenticatorGetMethods\"")
+#pragma comment(linker, "/export:EapHostAuthenticatorGetMethodsEx=\"C:\\Windows\\SysWOW64\\eapacfg.EapHostAuthenticatorGetMethodsEx\"")
+#pragma comment(linker, "/export:EapHostAuthenticatorInvokeConfigUI=\"C:\\Windows\\SysWOW64\\eapacfg.EapHostAuthenticatorInvokeConfigUI\"")

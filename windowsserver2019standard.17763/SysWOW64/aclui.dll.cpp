@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:CreateSecurityPage=\"C:\\Windows\\SysWOW64\\aclui.CreateSecurityPage\"")
+#pragma comment(linker, "/export:EditConditionalAceClaims=\"C:\\Windows\\SysWOW64\\aclui.EditConditionalAceClaims\"")
+#pragma comment(linker, "/export:EditResourceCondition=\"C:\\Windows\\SysWOW64\\aclui.EditResourceCondition\"")
+#pragma comment(linker, "/export:EditSecurity=\"C:\\Windows\\SysWOW64\\aclui.EditSecurity\"")
+#pragma comment(linker, "/export:EditSecurityAdvanced=\"C:\\Windows\\SysWOW64\\aclui.EditSecurityAdvanced\"")
+#pragma comment(linker, "/export:GetLocalizedStringForCondition=\"C:\\Windows\\SysWOW64\\aclui.GetLocalizedStringForCondition\"")
+#pragma comment(linker, "/export:GetTlsIndexForClaimDictionary=\"C:\\Windows\\SysWOW64\\aclui.GetTlsIndexForClaimDictionary\"")
+#pragma comment(linker, "/export:IID_ISecurityInformation=\"C:\\Windows\\SysWOW64\\aclui.IID_ISecurityInformation\"")

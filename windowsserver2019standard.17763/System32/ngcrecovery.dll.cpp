@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:NgcIsPinRecoveryEnabled=\"C:\\Windows\\System32\\ngcrecovery.NgcIsPinRecoveryEnabled\"")
+#pragma comment(linker, "/export:NgcProtectPinRecoverySecret=\"C:\\Windows\\System32\\ngcrecovery.NgcProtectPinRecoverySecret\"")
+#pragma comment(linker, "/export:NgcRecoverPin=\"C:\\Windows\\System32\\ngcrecovery.NgcRecoverPin\"")
+#pragma comment(linker, "/export:NgcRecoverPinSilent=\"C:\\Windows\\System32\\ngcrecovery.NgcRecoverPinSilent\"")
+#pragma comment(linker, "/export:NgcVerifyPinRecoverySecret=\"C:\\Windows\\System32\\ngcrecovery.NgcVerifyPinRecoverySecret\"")

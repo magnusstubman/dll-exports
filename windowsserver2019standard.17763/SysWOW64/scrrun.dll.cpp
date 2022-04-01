@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DLLGetDocumentation=\"C:\\Windows\\SysWOW64\\scrrun.DLLGetDocumentation\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\scrrun.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\scrrun.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\scrrun.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\scrrun.DllUnregisterServer\"")
+#pragma comment(linker, "/export:DoOpenPipeStream=\"C:\\Windows\\SysWOW64\\scrrun.DoOpenPipeStream\"")

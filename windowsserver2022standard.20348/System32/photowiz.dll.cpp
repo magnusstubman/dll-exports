@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\photowiz.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\photowiz.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllInstall=\"C:\\Windows\\System32\\photowiz.DllInstall\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\photowiz.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\photowiz.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\photowiz.DllUnregisterServer\"")
+#pragma comment(linker, "/export:UsePPWForPrintTo=\"C:\\Windows\\System32\\photowiz.UsePPWForPrintTo\"")

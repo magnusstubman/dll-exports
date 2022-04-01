@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\dsquery.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\dsquery.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllInstall=\"C:\\Windows\\SysWOW64\\dsquery.DllInstall\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\dsquery.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\dsquery.DllUnregisterServer\"")
+#pragma comment(linker, "/export:OpenQueryWindow=\"C:\\Windows\\SysWOW64\\dsquery.OpenQueryWindow\"")
+#pragma comment(linker, "/export:OpenSavedDsQuery=\"C:\\Windows\\SysWOW64\\dsquery.OpenSavedDsQuery\"")
+#pragma comment(linker, "/export:OpenSavedDsQueryW=\"C:\\Windows\\SysWOW64\\dsquery.OpenSavedDsQueryW\"")

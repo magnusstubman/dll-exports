@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:KbdLayerDescriptor=\"C:\\Windows\\System32\\KBDKOR.KbdLayerDescriptor\"")
+#pragma comment(linker, "/export:KbdLayerMultiDescriptor=\"C:\\Windows\\System32\\KBDKOR.KbdLayerMultiDescriptor\"")
+#pragma comment(linker, "/export:KbdLayerRealDllFile=\"C:\\Windows\\System32\\KBDKOR.KbdLayerRealDllFile\"")
+#pragma comment(linker, "/export:KbdLayerRealDllFileNT4=\"C:\\Windows\\System32\\KBDKOR.KbdLayerRealDllFileNT4\"")
+#pragma comment(linker, "/export:KbdNlsLayerDescriptor=\"C:\\Windows\\System32\\KBDKOR.KbdNlsLayerDescriptor\"")

@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:?GetSurface@CVIDEOfilter@@QAEJHPAEJ@Z=\"C:\\Windows\\SysWOW64\\msmpeg2vdec.?GetSurface@CVIDEOfilter@@QAEJHPAEJ@Z\"")
+#pragma comment(linker, "/export:?GetSurfaceSize@CVIDEOfilter@@QAEJHPAJ@Z=\"C:\\Windows\\SysWOW64\\msmpeg2vdec.?GetSurfaceSize@CVIDEOfilter@@QAEJHPAJ@Z\"")
+#pragma comment(linker, "/export:?LoadSurface@CVIDEOfilter@@QAEJHPAEK@Z=\"C:\\Windows\\SysWOW64\\msmpeg2vdec.?LoadSurface@CVIDEOfilter@@QAEJHPAEK@Z\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\msmpeg2vdec.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\msmpeg2vdec.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\msmpeg2vdec.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\msmpeg2vdec.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetH264DecoderFunctionTable=\"C:\\Windows\\SysWOW64\\msmpeg2vdec.GetH264DecoderFunctionTable\"")

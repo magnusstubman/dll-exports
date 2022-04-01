@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\wlangpui.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\wlangpui.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\wlangpui.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\wlangpui.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetAdPolicyAsXML=\"C:\\Windows\\System32\\wlangpui.GetAdPolicyAsXML\"")
+#pragma comment(linker, "/export:GetWmiPolicyAsXML=\"C:\\Windows\\System32\\wlangpui.GetWmiPolicyAsXML\"")

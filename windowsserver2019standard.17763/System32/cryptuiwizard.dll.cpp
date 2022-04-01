@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:CryptUIWizBuildCTL=\"C:\\Windows\\System32\\cryptuiwizard.CryptUIWizBuildCTL\"")
+#pragma comment(linker, "/export:CryptUIWizDigitalSign=\"C:\\Windows\\System32\\cryptuiwizard.CryptUIWizDigitalSign\"")
+#pragma comment(linker, "/export:CryptUIWizExport=\"C:\\Windows\\System32\\cryptuiwizard.CryptUIWizExport\"")
+#pragma comment(linker, "/export:CryptUIWizFreeDigitalSignContext=\"C:\\Windows\\System32\\cryptuiwizard.CryptUIWizFreeDigitalSignContext\"")
+#pragma comment(linker, "/export:CryptUIWizImport=\"C:\\Windows\\System32\\cryptuiwizard.CryptUIWizImport\"")
+#pragma comment(linker, "/export:CryptUIWizImportInternal=\"C:\\Windows\\System32\\cryptuiwizard.CryptUIWizImportInternal\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\cryptuiwizard.DllMain\"")
+#pragma comment(linker, "/export:GetFunctionTable=\"C:\\Windows\\System32\\cryptuiwizard.GetFunctionTable\"")

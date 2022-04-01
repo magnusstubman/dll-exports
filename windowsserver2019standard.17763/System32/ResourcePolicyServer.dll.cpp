@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:RmRpsActivityHostCallback=\"C:\\Windows\\System32\\ResourcePolicyServer.RmRpsActivityHostCallback\"")
+#pragma comment(linker, "/export:RmRpsHostEmptyNotification=\"C:\\Windows\\System32\\ResourcePolicyServer.RmRpsHostEmptyNotification\"")
+#pragma comment(linker, "/export:RmRpsInitialize=\"C:\\Windows\\System32\\ResourcePolicyServer.RmRpsInitialize\"")
+#pragma comment(linker, "/export:RmRpsNotifyApplicationInterruptiveUIChange=\"C:\\Windows\\System32\\ResourcePolicyServer.RmRpsNotifyApplicationInterruptiveUIChange\"")
+#pragma comment(linker, "/export:RmRpsResourceSetCallback=\"C:\\Windows\\System32\\ResourcePolicyServer.RmRpsResourceSetCallback\"")
+#pragma comment(linker, "/export:RmRpsSetHostMemoryUsageLimit=\"C:\\Windows\\System32\\ResourcePolicyServer.RmRpsSetHostMemoryUsageLimit\"")

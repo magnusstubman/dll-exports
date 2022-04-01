@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\LanguageComponentsInstaller.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\LanguageComponentsInstaller.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\LanguageComponentsInstaller.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\LanguageComponentsInstaller.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetUnusedLanguageFeatures=\"C:\\Windows\\System32\\LanguageComponentsInstaller.GetUnusedLanguageFeatures\"")
+#pragma comment(linker, "/export:RequestFeaturesInstallation=\"C:\\Windows\\System32\\LanguageComponentsInstaller.RequestFeaturesInstallation\"")
+#pragma comment(linker, "/export:RequestFeaturesUninstallation=\"C:\\Windows\\System32\\LanguageComponentsInstaller.RequestFeaturesUninstallation\"")

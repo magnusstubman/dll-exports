@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:WpbcCleanup=\"C:\\Windows\\SysWOW64\\wpbcreds.WpbcCleanup\"")
+#pragma comment(linker, "/export:WpbcCreateRemoveTestCredentials=\"C:\\Windows\\SysWOW64\\wpbcreds.WpbcCreateRemoveTestCredentials\"")
+#pragma comment(linker, "/export:WpbcCreateTestPin=\"C:\\Windows\\SysWOW64\\wpbcreds.WpbcCreateTestPin\"")
+#pragma comment(linker, "/export:WpbcExportCredentials=\"C:\\Windows\\SysWOW64\\wpbcreds.WpbcExportCredentials\"")
+#pragma comment(linker, "/export:WpbcGetPinInfo=\"C:\\Windows\\SysWOW64\\wpbcreds.WpbcGetPinInfo\"")
+#pragma comment(linker, "/export:WpbcInitialize=\"C:\\Windows\\SysWOW64\\wpbcreds.WpbcInitialize\"")
+#pragma comment(linker, "/export:WpbcVerifyUser=\"C:\\Windows\\SysWOW64\\wpbcreds.WpbcVerifyUser\"")

@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\gpprnext.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\gpprnext.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\gpprnext.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\gpprnext.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\gpprnext.DllUnregisterServer\"")
+#pragma comment(linker, "/export:PrinterGenerateGroupPolicy=\"C:\\Windows\\SysWOW64\\gpprnext.PrinterGenerateGroupPolicy\"")
+#pragma comment(linker, "/export:PrinterProcessGroupPolicy=\"C:\\Windows\\SysWOW64\\gpprnext.PrinterProcessGroupPolicy\"")
+#pragma comment(linker, "/export:PrinterProcessGroupPolicyEx=\"C:\\Windows\\SysWOW64\\gpprnext.PrinterProcessGroupPolicyEx\"")

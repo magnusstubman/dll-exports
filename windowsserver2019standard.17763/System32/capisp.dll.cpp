@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:CAPISysPrep_Generalize=\"C:\\Windows\\System32\\capisp.CAPISysPrep_Generalize\"")
+#pragma comment(linker, "/export:CryptoSysPrep_Clean=\"C:\\Windows\\System32\\capisp.CryptoSysPrep_Clean\"")
+#pragma comment(linker, "/export:CryptoSysPrep_Specialize=\"C:\\Windows\\System32\\capisp.CryptoSysPrep_Specialize\"")
+#pragma comment(linker, "/export:CryptoSysPrep_Specialize_Clone=\"C:\\Windows\\System32\\capisp.CryptoSysPrep_Specialize_Clone\"")
+#pragma comment(linker, "/export:CryptoSysPrep_Specialize_Offline=\"C:\\Windows\\System32\\capisp.CryptoSysPrep_Specialize_Offline\"")

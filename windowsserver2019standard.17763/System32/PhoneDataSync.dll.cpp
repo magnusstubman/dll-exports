@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\PhoneDataSync.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\PhoneDataSync.DllGetClassObject\"")
+#pragma comment(linker, "/export:DoesUserAccountSupportCloudSync=\"C:\\Windows\\System32\\PhoneDataSync.DoesUserAccountSupportCloudSync\"")
+#pragma comment(linker, "/export:InitializePhoneDataSync=\"C:\\Windows\\System32\\PhoneDataSync.InitializePhoneDataSync\"")
+#pragma comment(linker, "/export:UninitializePhoneDataSync=\"C:\\Windows\\System32\\PhoneDataSync.UninitializePhoneDataSync\"")

@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\NetworkMobileSettings.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\NetworkMobileSettings.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\NetworkMobileSettings.DllGetClassObject\"")
+#pragma comment(linker, "/export:GetSetting=\"C:\\Windows\\System32\\NetworkMobileSettings.GetSetting\"")
+#pragma comment(linker, "/export:GetSettingForUser=\"C:\\Windows\\System32\\NetworkMobileSettings.GetSettingForUser\"")

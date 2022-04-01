@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:ClearAutoLogon=\"C:\\Windows\\SysWOW64\\netplwiz.ClearAutoLogon\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\netplwiz.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\netplwiz.DllGetClassObject\"")
+#pragma comment(linker, "/export:NetAccessWizard=\"C:\\Windows\\SysWOW64\\netplwiz.NetAccessWizard\"")
+#pragma comment(linker, "/export:NetPlacesWizardDoModal=\"C:\\Windows\\SysWOW64\\netplwiz.NetPlacesWizardDoModal\"")
+#pragma comment(linker, "/export:SHDisconnectNetDrives=\"C:\\Windows\\SysWOW64\\netplwiz.SHDisconnectNetDrives\"")
+#pragma comment(linker, "/export:UsersRunDllW=\"C:\\Windows\\SysWOW64\\netplwiz.UsersRunDllW\"")

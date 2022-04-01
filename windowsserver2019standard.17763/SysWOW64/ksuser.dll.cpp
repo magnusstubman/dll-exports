@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:KsCreateAllocator=\"C:\\Windows\\SysWOW64\\ksuser.KsCreateAllocator\"")
+#pragma comment(linker, "/export:KsCreateAllocator2=\"C:\\Windows\\SysWOW64\\ksuser.KsCreateAllocator2\"")
+#pragma comment(linker, "/export:KsCreateClock=\"C:\\Windows\\SysWOW64\\ksuser.KsCreateClock\"")
+#pragma comment(linker, "/export:KsCreateClock2=\"C:\\Windows\\SysWOW64\\ksuser.KsCreateClock2\"")
+#pragma comment(linker, "/export:KsCreatePin=\"C:\\Windows\\SysWOW64\\ksuser.KsCreatePin\"")
+#pragma comment(linker, "/export:KsCreatePin2=\"C:\\Windows\\SysWOW64\\ksuser.KsCreatePin2\"")
+#pragma comment(linker, "/export:KsCreateTopologyNode=\"C:\\Windows\\SysWOW64\\ksuser.KsCreateTopologyNode\"")
+#pragma comment(linker, "/export:KsCreateTopologyNode2=\"C:\\Windows\\SysWOW64\\ksuser.KsCreateTopologyNode2\"")

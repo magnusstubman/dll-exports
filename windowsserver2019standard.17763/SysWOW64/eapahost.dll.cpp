@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\eapahost.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\eapahost.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\eapahost.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\eapahost.DllUnregisterServer\"")
+#pragma comment(linker, "/export:InitializeEapHost=\"C:\\Windows\\SysWOW64\\eapahost.InitializeEapHost\"")
+#pragma comment(linker, "/export:UninitializeEapHost=\"C:\\Windows\\SysWOW64\\eapahost.UninitializeEapHost\"")

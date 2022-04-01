@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:MI_Application_NewDeserializer_Mof=\"C:\\Windows\\SysWOW64\\mimofcodec.MI_Application_NewDeserializer_Mof\"")
+#pragma comment(linker, "/export:MI_Application_NewSerializer_Mof=\"C:\\Windows\\SysWOW64\\mimofcodec.MI_Application_NewSerializer_Mof\"")
+#pragma comment(linker, "/export:MI_MOFParser_Delete=\"C:\\Windows\\SysWOW64\\mimofcodec.MI_MOFParser_Delete\"")
+#pragma comment(linker, "/export:MI_MOFParser_Init=\"C:\\Windows\\SysWOW64\\mimofcodec.MI_MOFParser_Init\"")
+#pragma comment(linker, "/export:MI_MOFParser_Lex=\"C:\\Windows\\SysWOW64\\mimofcodec.MI_MOFParser_Lex\"")
+#pragma comment(linker, "/export:MI_MOFParser_Parse=\"C:\\Windows\\SysWOW64\\mimofcodec.MI_MOFParser_Parse\"")
+#pragma comment(linker, "/export:NITS_PRESENCE_STUB=\"C:\\Windows\\SysWOW64\\mimofcodec.NITS_PRESENCE_STUB\"")
+#pragma comment(linker, "/export:NITS_STUB=\"C:\\Windows\\SysWOW64\\mimofcodec.NITS_STUB\"")

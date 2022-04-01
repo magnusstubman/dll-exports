@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:ConvertMultiSzToSzA=\"C:\\Windows\\System32\\prxyqry.ConvertMultiSzToSzA\"")
+#pragma comment(linker, "/export:ConvertSzToMultiSzA=\"C:\\Windows\\System32\\prxyqry.ConvertSzToMultiSzA\"")
+#pragma comment(linker, "/export:GetLinkSpeedForAddress=\"C:\\Windows\\System32\\prxyqry.GetLinkSpeedForAddress\"")
+#pragma comment(linker, "/export:GetSstpDestinationInfo=\"C:\\Windows\\System32\\prxyqry.GetSstpDestinationInfo\"")
+#pragma comment(linker, "/export:GetSstpGroupIDFromQueryString=\"C:\\Windows\\System32\\prxyqry.GetSstpGroupIDFromQueryString\"")
+#pragma comment(linker, "/export:GetSstpUrlForDestination=\"C:\\Windows\\System32\\prxyqry.GetSstpUrlForDestination\"")
+#pragma comment(linker, "/export:ValidateMultiSzA=\"C:\\Windows\\System32\\prxyqry.ValidateMultiSzA\"")

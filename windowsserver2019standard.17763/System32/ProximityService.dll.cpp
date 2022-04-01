@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:CleanupProximityService=\"C:\\Windows\\System32\\ProximityService.CleanupProximityService\"")
+#pragma comment(linker, "/export:GetProximityClientCount=\"C:\\Windows\\System32\\ProximityService.GetProximityClientCount\"")
+#pragma comment(linker, "/export:InitProximityService=\"C:\\Windows\\System32\\ProximityService.InitProximityService\"")
+#pragma comment(linker, "/export:InitProximityServiceEx=\"C:\\Windows\\System32\\ProximityService.InitProximityServiceEx\"")
+#pragma comment(linker, "/export:SessionChangedEvent=\"C:\\Windows\\System32\\ProximityService.SessionChangedEvent\"")

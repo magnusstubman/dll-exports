@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CreateAudioReverb=\"C:\\Windows\\SysWOW64\\XAudio2_8.CreateAudioReverb\"")
+#pragma comment(linker, "/export:CreateAudioVolumeMeter=\"C:\\Windows\\SysWOW64\\XAudio2_8.CreateAudioVolumeMeter\"")
+#pragma comment(linker, "/export:CreateFX=\"C:\\Windows\\SysWOW64\\XAudio2_8.CreateFX\"")
+#pragma comment(linker, "/export:X3DAudioCalculate=\"C:\\Windows\\SysWOW64\\XAudio2_8.X3DAudioCalculate\"")
+#pragma comment(linker, "/export:X3DAudioInitialize=\"C:\\Windows\\SysWOW64\\XAudio2_8.X3DAudioInitialize\"")
+#pragma comment(linker, "/export:XAudio2Create=\"C:\\Windows\\SysWOW64\\XAudio2_8.XAudio2Create\"")
+#pragma comment(linker, "/export:XAudio2CreateWithVersionInfo=\"C:\\Windows\\SysWOW64\\XAudio2_8.XAudio2CreateWithVersionInfo\"")

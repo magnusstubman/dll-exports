@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:ClbAddData=\"C:\\Windows\\SysWOW64\\clb.ClbAddData\"")
+#pragma comment(linker, "/export:ClbSetColumnWidths=\"C:\\Windows\\SysWOW64\\clb.ClbSetColumnWidths\"")
+#pragma comment(linker, "/export:ClbStyleW=\"C:\\Windows\\SysWOW64\\clb.ClbStyleW\"")
+#pragma comment(linker, "/export:ClbWndProc=\"C:\\Windows\\SysWOW64\\clb.ClbWndProc\"")
+#pragma comment(linker, "/export:CustomControlInfoW=\"C:\\Windows\\SysWOW64\\clb.CustomControlInfoW\"")

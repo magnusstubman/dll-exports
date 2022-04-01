@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:HdvCreateDeviceInstance=\"C:\\Windows\\System32\\vmdevicehost.HdvCreateDeviceInstance\"")
+#pragma comment(linker, "/export:HdvCreateGuestMemoryAperture=\"C:\\Windows\\System32\\vmdevicehost.HdvCreateGuestMemoryAperture\"")
+#pragma comment(linker, "/export:HdvDeliverGuestInterrupt=\"C:\\Windows\\System32\\vmdevicehost.HdvDeliverGuestInterrupt\"")
+#pragma comment(linker, "/export:HdvDestroyGuestMemoryAperture=\"C:\\Windows\\System32\\vmdevicehost.HdvDestroyGuestMemoryAperture\"")
+#pragma comment(linker, "/export:HdvInitializeDeviceHost=\"C:\\Windows\\System32\\vmdevicehost.HdvInitializeDeviceHost\"")
+#pragma comment(linker, "/export:HdvReadGuestMemory=\"C:\\Windows\\System32\\vmdevicehost.HdvReadGuestMemory\"")
+#pragma comment(linker, "/export:HdvTeardownDeviceHost=\"C:\\Windows\\System32\\vmdevicehost.HdvTeardownDeviceHost\"")
+#pragma comment(linker, "/export:HdvWriteGuestMemory=\"C:\\Windows\\System32\\vmdevicehost.HdvWriteGuestMemory\"")

@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\MitigationConfiguration.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\MitigationConfiguration.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\MitigationConfiguration.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\MitigationConfiguration.DllUnregisterServer\"")
+#pragma comment(linker, "/export:ExportMitigation=\"C:\\Windows\\System32\\MitigationConfiguration.ExportMitigation\"")
+#pragma comment(linker, "/export:ImportMitigation=\"C:\\Windows\\System32\\MitigationConfiguration.ImportMitigation\"")
+#pragma comment(linker, "/export:ValidateXML=\"C:\\Windows\\System32\\MitigationConfiguration.ValidateXML\"")
+#pragma comment(linker, "/export:ValidateXMLFromManaged=\"C:\\Windows\\System32\\MitigationConfiguration.ValidateXMLFromManaged\"")

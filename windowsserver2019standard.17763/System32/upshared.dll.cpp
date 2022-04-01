@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:ConvertJsonValueToVariant=\"C:\\Windows\\System32\\upshared.ConvertJsonValueToVariant\"")
+#pragma comment(linker, "/export:CreateQueryStringBuilder=\"C:\\Windows\\System32\\upshared.CreateQueryStringBuilder\"")
+#pragma comment(linker, "/export:LoadJsonFromFile=\"C:\\Windows\\System32\\upshared.LoadJsonFromFile\"")
+#pragma comment(linker, "/export:MapExceptionToHResult=\"C:\\Windows\\System32\\upshared.MapExceptionToHResult\"")
+#pragma comment(linker, "/export:ParseJson=\"C:\\Windows\\System32\\upshared.ParseJson\"")
+#pragma comment(linker, "/export:SubmitRequestForData=\"C:\\Windows\\System32\\upshared.SubmitRequestForData\"")
+#pragma comment(linker, "/export:SubmitRequestForSettings=\"C:\\Windows\\System32\\upshared.SubmitRequestForSettings\"")

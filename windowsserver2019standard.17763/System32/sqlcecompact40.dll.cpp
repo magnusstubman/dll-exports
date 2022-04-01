@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\sqlcecompact40.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\sqlcecompact40.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\sqlcecompact40.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\sqlcecompact40.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\sqlcecompact40.DllUnregisterServer\"")
+#pragma comment(linker, "/export:SeRebuild=\"C:\\Windows\\System32\\sqlcecompact40.SeRebuild\"")

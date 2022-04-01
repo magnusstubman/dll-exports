@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:TSEnumerateProcessInitialize=\"C:\\Windows\\System32\\certpick.TSEnumerateProcessInitialize\"")
+#pragma comment(linker, "/export:TSEnumerateProcessRelease=\"C:\\Windows\\System32\\certpick.TSEnumerateProcessRelease\"")
+#pragma comment(linker, "/export:TSGetNextProcessInfo=\"C:\\Windows\\System32\\certpick.TSGetNextProcessInfo\"")
+#pragma comment(linker, "/export:TSLaunchCertPicker=\"C:\\Windows\\System32\\certpick.TSLaunchCertPicker\"")
+#pragma comment(linker, "/export:TSLaunchCertViewer=\"C:\\Windows\\System32\\certpick.TSLaunchCertViewer\"")
+#pragma comment(linker, "/export:TSSelectComputer=\"C:\\Windows\\System32\\certpick.TSSelectComputer\"")
+#pragma comment(linker, "/export:TSStoreSHA=\"C:\\Windows\\System32\\certpick.TSStoreSHA\"")

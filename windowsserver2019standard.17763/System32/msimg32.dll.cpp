@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:AlphaBlend=\"C:\\Windows\\System32\\msimg32.AlphaBlend\"")
+#pragma comment(linker, "/export:DllInitialize=\"C:\\Windows\\System32\\msimg32.DllInitialize\"")
+#pragma comment(linker, "/export:GradientFill=\"C:\\Windows\\System32\\msimg32.GradientFill\"")
+#pragma comment(linker, "/export:TransparentBlt=\"C:\\Windows\\System32\\msimg32.TransparentBlt\"")
+#pragma comment(linker, "/export:vSetDdrawflag=\"C:\\Windows\\System32\\msimg32.vSetDdrawflag\"")

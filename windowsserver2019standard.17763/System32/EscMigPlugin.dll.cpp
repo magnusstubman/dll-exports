@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\EscMigPlugin.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\EscMigPlugin.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\EscMigPlugin.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\EscMigPlugin.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\EscMigPlugin.DllUnregisterServer\"")

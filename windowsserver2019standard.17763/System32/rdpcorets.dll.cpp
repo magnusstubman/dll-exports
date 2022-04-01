@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\rdpcorets.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\rdpcorets.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\rdpcorets.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\rdpcorets.DllUnregisterServer\"")
+#pragma comment(linker, "/export:RFX_CreateGFXService=\"C:\\Windows\\System32\\rdpcorets.RFX_CreateGFXService\"")
+#pragma comment(linker, "/export:RFX_CreatePluginFactory=\"C:\\Windows\\System32\\rdpcorets.RFX_CreatePluginFactory\"")

@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\pstorec.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\pstorec.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\pstorec.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\pstorec.DllUnregisterServer\"")
+#pragma comment(linker, "/export:PStoreCreateInstance=\"C:\\Windows\\SysWOW64\\pstorec.PStoreCreateInstance\"")
+#pragma comment(linker, "/export:PStoreEnumProviders=\"C:\\Windows\\SysWOW64\\pstorec.PStoreEnumProviders\"")

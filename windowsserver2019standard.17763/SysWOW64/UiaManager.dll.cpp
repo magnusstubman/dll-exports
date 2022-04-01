@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\UiaManager.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\UiaManager.DllGetClassObject\"")
+#pragma comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\SysWOW64\\UiaManager.GetProxyDllInfo\"")
+#pragma comment(linker, "/export:UiaInitCrossMachineConnection=\"C:\\Windows\\SysWOW64\\UiaManager.UiaInitCrossMachineConnection\"")
+#pragma comment(linker, "/export:UiaInitCrossMachineConnectionW=\"C:\\Windows\\SysWOW64\\UiaManager.UiaInitCrossMachineConnectionW\"")

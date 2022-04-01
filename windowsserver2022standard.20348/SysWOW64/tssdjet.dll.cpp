@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\tssdjet.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\tssdjet.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\tssdjet.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\tssdjet.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetSBDbConnStringWithPassword=\"C:\\Windows\\SysWOW64\\tssdjet.GetSBDbConnStringWithPassword\"")

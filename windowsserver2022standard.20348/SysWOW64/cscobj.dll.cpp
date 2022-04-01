@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\cscobj.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\cscobj.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\cscobj.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\cscobj.DllUnregisterServer\"")
+#pragma comment(linker, "/export:ProcessGroupPolicy=\"C:\\Windows\\SysWOW64\\cscobj.ProcessGroupPolicy\"")
+#pragma comment(linker, "/export:ProcessPolicy=\"C:\\Windows\\SysWOW64\\cscobj.ProcessPolicy\"")

@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DeserializeLANPolicy=\"C:\\Windows\\System32\\dot3gpclnt.DeserializeLANPolicy\"")
+#pragma comment(linker, "/export:GenerateLANPolicy=\"C:\\Windows\\System32\\dot3gpclnt.GenerateLANPolicy\"")
+#pragma comment(linker, "/export:LANGPADeInit=\"C:\\Windows\\System32\\dot3gpclnt.LANGPADeInit\"")
+#pragma comment(linker, "/export:LANGPAInit=\"C:\\Windows\\System32\\dot3gpclnt.LANGPAInit\"")
+#pragma comment(linker, "/export:ProcessLANPolicyEx=\"C:\\Windows\\System32\\dot3gpclnt.ProcessLANPolicyEx\"")

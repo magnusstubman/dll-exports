@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\wuuhdrv.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\wuuhdrv.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\wuuhdrv.DllMain\"")
+#pragma comment(linker, "/export:WUCreateDriverUtil=\"C:\\Windows\\System32\\wuuhdrv.WUCreateDriverUtil\"")
+#pragma comment(linker, "/export:WUCreateExpressionEvaluator=\"C:\\Windows\\System32\\wuuhdrv.WUCreateExpressionEvaluator\"")
+#pragma comment(linker, "/export:WUCreateUpdateHandler=\"C:\\Windows\\System32\\wuuhdrv.WUCreateUpdateHandler\"")
+#pragma comment(linker, "/export:WUGetHardwareIdInfo=\"C:\\Windows\\System32\\wuuhdrv.WUGetHardwareIdInfo\"")

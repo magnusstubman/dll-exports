@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:AddDemoAppLicense=\"C:\\Windows\\System32\\oemlicense.AddDemoAppLicense\"")
+#pragma comment(linker, "/export:HrAddAppxLicense=\"C:\\Windows\\System32\\oemlicense.HrAddAppxLicense\"")
+#pragma comment(linker, "/export:HrInstallClipLicense=\"C:\\Windows\\System32\\oemlicense.HrInstallClipLicense\"")
+#pragma comment(linker, "/export:HrNotifyPhoneLicenseReady=\"C:\\Windows\\System32\\oemlicense.HrNotifyPhoneLicenseReady\"")
+#pragma comment(linker, "/export:HrRemoveAppxLicense=\"C:\\Windows\\System32\\oemlicense.HrRemoveAppxLicense\"")
+#pragma comment(linker, "/export:RemoveDemoAppLicense=\"C:\\Windows\\System32\\oemlicense.RemoveDemoAppLicense\"")

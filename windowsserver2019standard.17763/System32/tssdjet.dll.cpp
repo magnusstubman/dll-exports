@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\tssdjet.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\tssdjet.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\tssdjet.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\tssdjet.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetSBDbConnStringWithPassword=\"C:\\Windows\\System32\\tssdjet.GetSBDbConnStringWithPassword\"")

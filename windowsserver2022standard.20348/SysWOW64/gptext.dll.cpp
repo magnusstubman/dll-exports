@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\gptext.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\gptext.DllUnregisterServer\"")
+#pragma comment(linker, "/export:ProcessConnectivityPlatformPolicy=\"C:\\Windows\\SysWOW64\\gptext.ProcessConnectivityPlatformPolicy\"")
+#pragma comment(linker, "/export:ProcessEQoSPolicy=\"C:\\Windows\\SysWOW64\\gptext.ProcessEQoSPolicy\"")
+#pragma comment(linker, "/export:ProcessPSCHEDPolicy=\"C:\\Windows\\SysWOW64\\gptext.ProcessPSCHEDPolicy\"")
+#pragma comment(linker, "/export:ProcessTCPIPPolicy=\"C:\\Windows\\SysWOW64\\gptext.ProcessTCPIPPolicy\"")

@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:CacheSettingsDlg=\"C:\\Windows\\System32\\filemgmt.CacheSettingsDlg\"")
+#pragma comment(linker, "/export:CacheSettingsDlg2=\"C:\\Windows\\System32\\filemgmt.CacheSettingsDlg2\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\filemgmt.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\filemgmt.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\filemgmt.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\filemgmt.DllUnregisterServer\"")

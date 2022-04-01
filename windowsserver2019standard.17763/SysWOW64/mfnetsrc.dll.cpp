@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\mfnetsrc.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\mfnetsrc.DllGetClassObject\"")
+#pragma comment(linker, "/export:MFCreateByteCacheFile=\"C:\\Windows\\SysWOW64\\mfnetsrc.MFCreateByteCacheFile\"")
+#pragma comment(linker, "/export:MFCreateCacheManager=\"C:\\Windows\\SysWOW64\\mfnetsrc.MFCreateCacheManager\"")
+#pragma comment(linker, "/export:MFCreateFileBlockMap=\"C:\\Windows\\SysWOW64\\mfnetsrc.MFCreateFileBlockMap\"")

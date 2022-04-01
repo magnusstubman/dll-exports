@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:Initialize=\"C:\\Windows\\System32\\UpdateHeartbeatScan.Initialize\"")
+#pragma comment(linker, "/export:NotifyTimerExpiryWithId=\"C:\\Windows\\System32\\UpdateHeartbeatScan.NotifyTimerExpiryWithId\"")
+#pragma comment(linker, "/export:ProcessNextEventJsonBuilder=\"C:\\Windows\\System32\\UpdateHeartbeatScan.ProcessNextEventJsonBuilder\"")
+#pragma comment(linker, "/export:SetParameter=\"C:\\Windows\\System32\\UpdateHeartbeatScan.SetParameter\"")
+#pragma comment(linker, "/export:Uninitialize=\"C:\\Windows\\System32\\UpdateHeartbeatScan.Uninitialize\"")
