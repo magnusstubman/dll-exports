@@ -16,7 +16,7 @@ Typical usecase is for backdooring applications for persistence purposes. E.g:
 `generator.py` generates a list of DLLs in the target folders and use `pefile` to generate a list of exported functions for each, that are written to individual files containing relevant linker directives. E.g. for C:\Windows\System32\version.dll:
 
 
-https://github.com/magnusstubman/dll-exports/blob/main/win10.19042/System32/version.dll.cpp
+https://github.com/magnusstubman/dll-exports/blob/main/win10.19044/System32/version.dll.cpp
 ```c
 #pragma comment(linker, "/export:GetFileVersionInfoA=\"C:\\Windows\\System32\\version.GetFileVersionInfoA\"")
 #pragma comment(linker, "/export:GetFileVersionInfoByHandle=\"C:\\Windows\\System32\\version.GetFileVersionInfoByHandle\"")
@@ -38,6 +38,7 @@ https://github.com/magnusstubman/dll-exports/blob/main/win10.19042/System32/vers
 ```
 
 Are DEF files yout thing? 
+https://github.com/magnusstubman/dll-exports/blob/main/win10.19044/System32/version.dll.def
 
 ```
 EXPORTS
