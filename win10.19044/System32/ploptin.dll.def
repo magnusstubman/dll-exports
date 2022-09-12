@@ -1,0 +1,8 @@
+EXPORTS
+  DeleteApplicationEligibilityForPrelaunch="C:\Windows\System32\ploptin".DeleteApplicationEligibilityForPrelaunch
+  DllCanUnloadNow="C:\Windows\System32\ploptin".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ploptin".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\ploptin".DllGetClassObject
+  IsApplicationEligibleForPrelaunch="C:\Windows\System32\ploptin".IsApplicationEligibleForPrelaunch
+  IsApplicationOptedOutOfPrelaunch="C:\Windows\System32\ploptin".IsApplicationOptedOutOfPrelaunch
+  RecordApplicationEligibilityForPrelaunch="C:\Windows\System32\ploptin".RecordApplicationEligibilityForPrelaunch

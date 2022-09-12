@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\shacctprofile".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\shacctprofile".DllGetClassObject

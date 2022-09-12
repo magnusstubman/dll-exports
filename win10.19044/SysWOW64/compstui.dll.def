@@ -1,0 +1,5 @@
+EXPORTS
+  CommonPropertySheetUIA="C:\Windows\SysWOW64\compstui".CommonPropertySheetUIA
+  CommonPropertySheetUIW="C:\Windows\SysWOW64\compstui".CommonPropertySheetUIW
+  GetCPSUIUserData="C:\Windows\SysWOW64\compstui".GetCPSUIUserData
+  SetCPSUIUserData="C:\Windows\SysWOW64\compstui".SetCPSUIUserData

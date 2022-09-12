@@ -1,0 +1,10 @@
+EXPORTS
+  AcmEngineApply="C:\Windows\System32\acmigration".AcmEngineApply
+  AcmEngineCollect="C:\Windows\System32\acmigration".AcmEngineCollect
+  AcmEngineCreate="C:\Windows\System32\acmigration".AcmEngineCreate
+  AcmEngineDelete="C:\Windows\System32\acmigration".AcmEngineDelete
+  AcmEngineGenerateMigXml="C:\Windows\System32\acmigration".AcmEngineGenerateMigXml
+  AcmEngineGetCapabilityList="C:\Windows\System32\acmigration".AcmEngineGetCapabilityList
+  AcmEngineSetBaseWorkingDirectory="C:\Windows\System32\acmigration".AcmEngineSetBaseWorkingDirectory
+  AcmMatchPluginExecute="C:\Windows\System32\acmigration".AcmMatchPluginExecute
+  ApplyMigrationShimsW="C:\Windows\System32\acmigration".ApplyMigrationShimsW

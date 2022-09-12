@@ -1,0 +1,12 @@
+EXPORTS
+  CreateCaptureAudioStateMonitor="C:\Windows\System32\Windows.Media.MediaControl".CreateCaptureAudioStateMonitor
+  CreateCaptureAudioStateMonitorForCategory="C:\Windows\System32\Windows.Media.MediaControl".CreateCaptureAudioStateMonitorForCategory
+  CreateCaptureAudioStateMonitorForCategoryAndDeviceId="C:\Windows\System32\Windows.Media.MediaControl".CreateCaptureAudioStateMonitorForCategoryAndDeviceId
+  CreateCaptureAudioStateMonitorForCategoryAndDeviceRole="C:\Windows\System32\Windows.Media.MediaControl".CreateCaptureAudioStateMonitorForCategoryAndDeviceRole
+  CreateRenderAudioStateMonitor="C:\Windows\System32\Windows.Media.MediaControl".CreateRenderAudioStateMonitor
+  CreateRenderAudioStateMonitorForCategory="C:\Windows\System32\Windows.Media.MediaControl".CreateRenderAudioStateMonitorForCategory
+  CreateRenderAudioStateMonitorForCategoryAndDeviceId="C:\Windows\System32\Windows.Media.MediaControl".CreateRenderAudioStateMonitorForCategoryAndDeviceId
+  CreateRenderAudioStateMonitorForCategoryAndDeviceRole="C:\Windows\System32\Windows.Media.MediaControl".CreateRenderAudioStateMonitorForCategoryAndDeviceRole
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.MediaControl".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Media.MediaControl".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Media.MediaControl".DllGetClassObject

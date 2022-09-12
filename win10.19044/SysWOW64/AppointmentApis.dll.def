@@ -1,0 +1,6 @@
+EXPORTS
+  CreatePropertiesFromRecurrencePattern="C:\Windows\SysWOW64\AppointmentApis".CreatePropertiesFromRecurrencePattern
+  CreateRecurrencePatternFromProperties="C:\Windows\SysWOW64\AppointmentApis".CreateRecurrencePatternFromProperties
+  DllCanUnloadNow="C:\Windows\SysWOW64\AppointmentApis".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\AppointmentApis".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\AppointmentApis".DllGetClassObject

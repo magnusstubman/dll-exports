@@ -1,0 +1,4 @@
+EXPORTS
+  CreateParserObject="C:\Windows\System32\scrptadm".CreateParserObject
+  DllCanUnloadNow="C:\Windows\System32\scrptadm".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\scrptadm".DllGetClassObject

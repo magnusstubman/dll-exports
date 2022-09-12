@@ -1,0 +1,4 @@
+EXPORTS
+  CloseSysProcessObject="C:\Windows\System32\perfproc".CloseSysProcessObject
+  CollectSysProcessObjectData="C:\Windows\System32\perfproc".CollectSysProcessObjectData
+  OpenSysProcessObject="C:\Windows\System32\perfproc".OpenSysProcessObject

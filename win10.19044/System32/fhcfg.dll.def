@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fhcfg".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fhcfg".DllGetClassObject
+  DllInstall="C:\Windows\System32\fhcfg".DllInstall
+  DllRegisterServer="C:\Windows\System32\fhcfg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fhcfg".DllUnregisterServer

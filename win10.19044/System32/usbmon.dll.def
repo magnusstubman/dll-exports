@@ -1,0 +1,3 @@
+EXPORTS
+  DllMain="C:\Windows\System32\usbmon".DllMain
+  InitializePrintMonitor2="C:\Windows\System32\usbmon".InitializePrintMonitor2

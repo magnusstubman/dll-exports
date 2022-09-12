@@ -1,0 +1,8 @@
+EXPORTS
+  CanSendToFaxRecipient="C:\Windows\System32\FXSUTILITY".CanSendToFaxRecipient
+  DllCanUnloadNow="C:\Windows\System32\FXSUTILITY".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\FXSUTILITY".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\FXSUTILITY".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\FXSUTILITY".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\FXSUTILITY".GetProxyDllInfo
+  SendToFaxRecipient="C:\Windows\System32\FXSUTILITY".SendToFaxRecipient

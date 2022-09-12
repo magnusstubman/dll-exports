@@ -1,0 +1,15 @@
+EXPORTS
+  CmdBatNotificationStub="C:\Windows\System32\cmdext".CmdBatNotificationStub
+  DoSHChangeNotify="C:\Windows\System32\cmdext".DoSHChangeNotify
+  FindFirstStreamWStub="C:\Windows\System32\cmdext".FindFirstStreamWStub
+  FindNextStreamWStub="C:\Windows\System32\cmdext".FindNextStreamWStub
+  GetBinaryTypeWStub="C:\Windows\System32\cmdext".GetBinaryTypeWStub
+  GetVDMCurrentDirectoriesStub="C:\Windows\System32\cmdext".GetVDMCurrentDirectoriesStub
+  LookupAccountSidWStub="C:\Windows\System32\cmdext".LookupAccountSidWStub
+  MessageBeepStub="C:\Windows\System32\cmdext".MessageBeepStub
+  QueryFullProcessImageNameWStub="C:\Windows\System32\cmdext".QueryFullProcessImageNameWStub
+  SaferWorker="C:\Windows\System32\cmdext".SaferWorker
+  ShellExecuteWorker="C:\Windows\System32\cmdext".ShellExecuteWorker
+  WNetAddConnection2WStub="C:\Windows\System32\cmdext".WNetAddConnection2WStub
+  WNetCancelConnection2WStub="C:\Windows\System32\cmdext".WNetCancelConnection2WStub
+  WNetGetConnectionWStub="C:\Windows\System32\cmdext".WNetGetConnectionWStub

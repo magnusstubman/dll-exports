@@ -1,0 +1,6 @@
+EXPORTS
+  CleanupUDSGlobals="C:\Windows\System32\UserDataService".CleanupUDSGlobals
+  CreateInprocConnectionHandle="C:\Windows\System32\UserDataService".CreateInprocConnectionHandle
+  ServiceMain="C:\Windows\System32\UserDataService".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\UserDataService".SvchostPushServiceGlobals
+  TeardownInprocConnectionHandle="C:\Windows\System32\UserDataService".TeardownInprocConnectionHandle

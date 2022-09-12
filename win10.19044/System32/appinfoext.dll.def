@@ -1,0 +1,3 @@
+EXPORTS
+  AiExtDisableDesktopRpcInterface="C:\Windows\System32\appinfoext".AiExtDisableDesktopRpcInterface
+  AiExtEnableDesktopRpcInterface="C:\Windows\System32\appinfoext".AiExtEnableDesktopRpcInterface

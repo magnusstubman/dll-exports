@@ -1,0 +1,12 @@
+EXPORTS
+  WcDetachFilter="C:\Windows\System32\wci".WcDetachFilter
+  WcRemoveReparseData="C:\Windows\System32\wci".WcRemoveReparseData
+  WcRemoveTombstoneReparseData="C:\Windows\System32\wci".WcRemoveTombstoneReparseData
+  WciConfigureVolume="C:\Windows\System32\wci".WciConfigureVolume
+  WciGetUnions="C:\Windows\System32\wci".WciGetUnions
+  WciReadReparsePointData="C:\Windows\System32\wci".WciReadReparsePointData
+  WciRemoveRoot="C:\Windows\System32\wci".WciRemoveRoot
+  WciSetReparsePointData="C:\Windows\System32\wci".WciSetReparsePointData
+  WciSetReparsePointDataEx="C:\Windows\System32\wci".WciSetReparsePointDataEx
+  WciSetTombstone="C:\Windows\System32\wci".WciSetTombstone
+  WciSetupFilter="C:\Windows\System32\wci".WciSetupFilter

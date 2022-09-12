@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\KeywordDetectorMsftSidAdapter".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\KeywordDetectorMsftSidAdapter".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\KeywordDetectorMsftSidAdapter".DllGetClassObject

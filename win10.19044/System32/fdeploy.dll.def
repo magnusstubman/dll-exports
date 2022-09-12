@@ -1,0 +1,4 @@
+EXPORTS
+  GenerateGroupPolicy="C:\Windows\System32\fdeploy".GenerateGroupPolicy
+  ProcessGroupPolicyEx="C:\Windows\System32\fdeploy".ProcessGroupPolicyEx
+  ProcessWmiPolicy="C:\Windows\System32\fdeploy".ProcessWmiPolicy

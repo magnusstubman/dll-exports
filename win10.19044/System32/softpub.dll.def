@@ -1,0 +1,25 @@
+EXPORTS
+  AddPersonalTrustDBPages="C:\Windows\System32\softpub".AddPersonalTrustDBPages
+  DllRegisterServer="C:\Windows\System32\softpub".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\softpub".DllUnregisterServer
+  DriverCleanupPolicy="C:\Windows\System32\softpub".DriverCleanupPolicy
+  DriverFinalPolicy="C:\Windows\System32\softpub".DriverFinalPolicy
+  DriverInitializePolicy="C:\Windows\System32\softpub".DriverInitializePolicy
+  FindCertsByIssuer="C:\Windows\System32\softpub".FindCertsByIssuer
+  GenericChainCertificateTrust="C:\Windows\System32\softpub".GenericChainCertificateTrust
+  GenericChainFinalProv="C:\Windows\System32\softpub".GenericChainFinalProv
+  HTTPSCertificateTrust="C:\Windows\System32\softpub".HTTPSCertificateTrust
+  HTTPSFinalProv="C:\Windows\System32\softpub".HTTPSFinalProv
+  OfficeCleanupPolicy="C:\Windows\System32\softpub".OfficeCleanupPolicy
+  OfficeInitializePolicy="C:\Windows\System32\softpub".OfficeInitializePolicy
+  OpenPersonalTrustDBDialog="C:\Windows\System32\softpub".OpenPersonalTrustDBDialog
+  SoftpubAuthenticode="C:\Windows\System32\softpub".SoftpubAuthenticode
+  SoftpubCheckCert="C:\Windows\System32\softpub".SoftpubCheckCert
+  SoftpubCleanup="C:\Windows\System32\softpub".SoftpubCleanup
+  SoftpubDefCertInit="C:\Windows\System32\softpub".SoftpubDefCertInit
+  SoftpubDumpStructure="C:\Windows\System32\softpub".SoftpubDumpStructure
+  SoftpubFreeDefUsageCallData="C:\Windows\System32\softpub".SoftpubFreeDefUsageCallData
+  SoftpubInitialize="C:\Windows\System32\softpub".SoftpubInitialize
+  SoftpubLoadDefUsageCallData="C:\Windows\System32\softpub".SoftpubLoadDefUsageCallData
+  SoftpubLoadMessage="C:\Windows\System32\softpub".SoftpubLoadMessage
+  SoftpubLoadSignature="C:\Windows\System32\softpub".SoftpubLoadSignature

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\frprov".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\frprov".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\frprov".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\frprov".DllUnregisterServer

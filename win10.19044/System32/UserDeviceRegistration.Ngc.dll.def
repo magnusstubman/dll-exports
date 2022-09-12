@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\UserDeviceRegistration.Ngc".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\UserDeviceRegistration.Ngc".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\UserDeviceRegistration.Ngc".DllGetClassObject

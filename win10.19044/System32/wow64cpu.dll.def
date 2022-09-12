@@ -1,0 +1,10 @@
+EXPORTS
+  BTCpuGetBopCode="C:\Windows\System32\wow64cpu".BTCpuGetBopCode
+  BTCpuGetContext="C:\Windows\System32\wow64cpu".BTCpuGetContext
+  BTCpuProcessInit="C:\Windows\System32\wow64cpu".BTCpuProcessInit
+  BTCpuResetToConsistentState="C:\Windows\System32\wow64cpu".BTCpuResetToConsistentState
+  BTCpuSetContext="C:\Windows\System32\wow64cpu".BTCpuSetContext
+  BTCpuSimulate="C:\Windows\System32\wow64cpu".BTCpuSimulate
+  BTCpuTurboThunkControl="C:\Windows\System32\wow64cpu".BTCpuTurboThunkControl
+  TurboDispatchJumpAddressEnd="C:\Windows\System32\wow64cpu".TurboDispatchJumpAddressEnd
+  TurboDispatchJumpAddressStart="C:\Windows\System32\wow64cpu".TurboDispatchJumpAddressStart

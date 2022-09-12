@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SyncCenter".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SyncCenter".DllGetClassObject

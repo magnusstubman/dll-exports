@@ -1,0 +1,3 @@
+EXPORTS
+  DMLCreateDevice="C:\Windows\System32\directml".DMLCreateDevice
+  DMLCreateDevice1="C:\Windows\System32\directml".DMLCreateDevice1

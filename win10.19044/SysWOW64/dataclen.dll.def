@@ -1,0 +1,25 @@
+EXPORTS
+  ??0CDataDrivenCleaner@@QAE@ABV0@@Z="C:\Windows\SysWOW64\dataclen".??0CDataDrivenCleaner@@QAE@ABV0@@Z
+  ??0CDataDrivenCleaner@@QAE@XZ="C:\Windows\SysWOW64\dataclen".??0CDataDrivenCleaner@@QAE@XZ
+  ??1CDataDrivenCleaner@@QAE@XZ="C:\Windows\SysWOW64\dataclen".??1CDataDrivenCleaner@@QAE@XZ
+  ??4CDataDrivenCleaner@@QAEAAV0@ABV0@@Z="C:\Windows\SysWOW64\dataclen".??4CDataDrivenCleaner@@QAEAAV0@ABV0@@Z
+  ??_7CDataDrivenCleaner@@6B@="C:\Windows\SysWOW64\dataclen".??_7CDataDrivenCleaner@@6B@
+  ?AddFileToList@CDataDrivenCleaner@@IAEHPBGT_ULARGE_INTEGER@@U_FILETIME@@HH@Z="C:\Windows\SysWOW64\dataclen".?AddFileToList@CDataDrivenCleaner@@IAEHPBGT_ULARGE_INTEGER@@U_FILETIME@@HH@Z
+  ?AddFolders@CDataDrivenCleaner@@QAEHPBG@Z="C:\Windows\SysWOW64\dataclen".?AddFolders@CDataDrivenCleaner@@QAEHPBG@Z
+  ?AddRef@CDataDrivenCleaner@@UAGKXZ="C:\Windows\SysWOW64\dataclen".?AddRef@CDataDrivenCleaner@@UAGKXZ
+  ?Deactivate@CDataDrivenCleaner@@UAGJPAK@Z="C:\Windows\SysWOW64\dataclen".?Deactivate@CDataDrivenCleaner@@UAGJPAK@Z
+  ?DeleteIfPathNotChanged@CDataDrivenCleaner@@IAEJPBG@Z="C:\Windows\SysWOW64\dataclen".?DeleteIfPathNotChanged@CDataDrivenCleaner@@IAEJPBG@Z
+  ?ExecuteCmd@CDataDrivenCleaner@@IAEXPAGH@Z="C:\Windows\SysWOW64\dataclen".?ExecuteCmd@CDataDrivenCleaner@@IAEXPAGH@Z
+  ?FreeList@CDataDrivenCleaner@@IAEXPAUtag_CleanFileStruct@@@Z="C:\Windows\SysWOW64\dataclen".?FreeList@CDataDrivenCleaner@@IAEXPAUtag_CleanFileStruct@@@Z
+  ?GetSpaceUsed@CDataDrivenCleaner@@UAGJPA_KPAUIEmptyVolumeCacheCallBack@@@Z="C:\Windows\SysWOW64\dataclen".?GetSpaceUsed@CDataDrivenCleaner@@UAGJPA_KPAUIEmptyVolumeCacheCallBack@@@Z
+  ?Initialize@CDataDrivenCleaner@@UAGJPAUHKEY__@@PBGPAPAG2PAK@Z="C:\Windows\SysWOW64\dataclen".?Initialize@CDataDrivenCleaner@@UAGJPAUHKEY__@@PBGPAPAG2PAK@Z
+  ?LastAccessisOK@CDataDrivenCleaner@@IAEHU_FILETIME@@@Z="C:\Windows\SysWOW64\dataclen".?LastAccessisOK@CDataDrivenCleaner@@IAEHU_FILETIME@@@Z
+  ?MergeSortList@CDataDrivenCleaner@@IAEPAUtag_CleanFileStruct@@PAU2@@Z="C:\Windows\SysWOW64\dataclen".?MergeSortList@CDataDrivenCleaner@@IAEPAUtag_CleanFileStruct@@PAU2@@Z
+  ?Purge@CDataDrivenCleaner@@UAGJ_KPAUIEmptyVolumeCacheCallBack@@@Z="C:\Windows\SysWOW64\dataclen".?Purge@CDataDrivenCleaner@@UAGJ_KPAUIEmptyVolumeCacheCallBack@@@Z
+  ?PurgeFiles@CDataDrivenCleaner@@IAEXPAUIEmptyVolumeCacheCallBack@@_K@Z="C:\Windows\SysWOW64\dataclen".?PurgeFiles@CDataDrivenCleaner@@IAEXPAUIEmptyVolumeCacheCallBack@@_K@Z
+  ?QueryInterface@CDataDrivenCleaner@@UAGJABU_GUID@@PAPAX@Z="C:\Windows\SysWOW64\dataclen".?QueryInterface@CDataDrivenCleaner@@UAGJABU_GUID@@PAPAX@Z
+  ?Release@CDataDrivenCleaner@@UAGKXZ="C:\Windows\SysWOW64\dataclen".?Release@CDataDrivenCleaner@@UAGKXZ
+  ?ShowProperties@CDataDrivenCleaner@@UAGJPAUHWND__@@@Z="C:\Windows\SysWOW64\dataclen".?ShowProperties@CDataDrivenCleaner@@UAGJPAUHWND__@@@Z
+  ?WalkForUsedSpace@CDataDrivenCleaner@@IAEHPBGPAUIEmptyVolumeCacheCallBack@@H@Z="C:\Windows\SysWOW64\dataclen".?WalkForUsedSpace@CDataDrivenCleaner@@IAEHPBGPAUIEmptyVolumeCacheCallBack@@H@Z
+  DllCanUnloadNow="C:\Windows\SysWOW64\dataclen".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dataclen".DllGetClassObject

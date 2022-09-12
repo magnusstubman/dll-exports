@@ -1,0 +1,24 @@
+EXPORTS
+  OleUIAddVerbMenuA="C:\Windows\SysWOW64\oledlg".OleUIAddVerbMenuA
+  OleUIAddVerbMenuW="C:\Windows\SysWOW64\oledlg".OleUIAddVerbMenuW
+  OleUIBusyA="C:\Windows\SysWOW64\oledlg".OleUIBusyA
+  OleUIBusyW="C:\Windows\SysWOW64\oledlg".OleUIBusyW
+  OleUICanConvertOrActivateAs="C:\Windows\SysWOW64\oledlg".OleUICanConvertOrActivateAs
+  OleUIChangeIconA="C:\Windows\SysWOW64\oledlg".OleUIChangeIconA
+  OleUIChangeIconW="C:\Windows\SysWOW64\oledlg".OleUIChangeIconW
+  OleUIChangeSourceA="C:\Windows\SysWOW64\oledlg".OleUIChangeSourceA
+  OleUIChangeSourceW="C:\Windows\SysWOW64\oledlg".OleUIChangeSourceW
+  OleUIConvertA="C:\Windows\SysWOW64\oledlg".OleUIConvertA
+  OleUIConvertW="C:\Windows\SysWOW64\oledlg".OleUIConvertW
+  OleUIEditLinksA="C:\Windows\SysWOW64\oledlg".OleUIEditLinksA
+  OleUIEditLinksW="C:\Windows\SysWOW64\oledlg".OleUIEditLinksW
+  OleUIInsertObjectA="C:\Windows\SysWOW64\oledlg".OleUIInsertObjectA
+  OleUIInsertObjectW="C:\Windows\SysWOW64\oledlg".OleUIInsertObjectW
+  OleUIObjectPropertiesA="C:\Windows\SysWOW64\oledlg".OleUIObjectPropertiesA
+  OleUIObjectPropertiesW="C:\Windows\SysWOW64\oledlg".OleUIObjectPropertiesW
+  OleUIPasteSpecialA="C:\Windows\SysWOW64\oledlg".OleUIPasteSpecialA
+  OleUIPasteSpecialW="C:\Windows\SysWOW64\oledlg".OleUIPasteSpecialW
+  OleUIPromptUserA="C:\Windows\SysWOW64\oledlg".OleUIPromptUserA
+  OleUIPromptUserW="C:\Windows\SysWOW64\oledlg".OleUIPromptUserW
+  OleUIUpdateLinksA="C:\Windows\SysWOW64\oledlg".OleUIUpdateLinksA
+  OleUIUpdateLinksW="C:\Windows\SysWOW64\oledlg".OleUIUpdateLinksW

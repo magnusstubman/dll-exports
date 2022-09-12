@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PeopleAPIs".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\PeopleAPIs".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\PeopleAPIs".DllGetClassObject

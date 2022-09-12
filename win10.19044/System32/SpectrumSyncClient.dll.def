@@ -1,0 +1,3 @@
+EXPORTS
+  SpectrumSyncJoinFrameRendezvous="C:\Windows\System32\SpectrumSyncClient".SpectrumSyncJoinFrameRendezvous
+  SpectrumSyncSignalFrameRendezvous="C:\Windows\System32\SpectrumSyncClient".SpectrumSyncSignalFrameRendezvous

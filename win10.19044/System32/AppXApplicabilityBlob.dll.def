@@ -1,0 +1,8 @@
+EXPORTS
+  CreateSerializedBundleManifestStatement="C:\Windows\System32\AppXApplicabilityBlob".CreateSerializedBundleManifestStatement
+  GetApplicabilityFactory="C:\Windows\System32\AppXApplicabilityBlob".GetApplicabilityFactory
+  IsAppx="C:\Windows\System32\AppXApplicabilityBlob".IsAppx
+  IsModernApp="C:\Windows\System32\AppXApplicabilityBlob".IsModernApp
+  IsPreThresholdDesktop="C:\Windows\System32\AppXApplicabilityBlob".IsPreThresholdDesktop
+  IsPreThresholdPhone="C:\Windows\System32\AppXApplicabilityBlob".IsPreThresholdPhone
+  IsXAP="C:\Windows\System32\AppXApplicabilityBlob".IsXAP

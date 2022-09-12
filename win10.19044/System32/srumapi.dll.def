@@ -1,0 +1,16 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\srumapi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\srumapi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\srumapi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\srumapi".DllUnregisterServer
+  SruCreateCheckpoint="C:\Windows\System32\srumapi".SruCreateCheckpoint
+  SruCreateEnergyNotificationServer="C:\Windows\System32\srumapi".SruCreateEnergyNotificationServer
+  SruDeleteStatsByAppName="C:\Windows\System32\srumapi".SruDeleteStatsByAppName
+  SruFreeRecordSet="C:\Windows\System32\srumapi".SruFreeRecordSet
+  SruQueryStats="C:\Windows\System32\srumapi".SruQueryStats
+  SruQueryStatsBySeqNumber="C:\Windows\System32\srumapi".SruQueryStatsBySeqNumber
+  SruQueryStatsEx="C:\Windows\System32\srumapi".SruQueryStatsEx
+  SruRegisterRealTimeStats="C:\Windows\System32\srumapi".SruRegisterRealTimeStats
+  SruRetrieveEnergyRecord="C:\Windows\System32\srumapi".SruRetrieveEnergyRecord
+  SruUnregisterRealTimeStats="C:\Windows\System32\srumapi".SruUnregisterRealTimeStats
+  SruUpdateStats="C:\Windows\System32\srumapi".SruUpdateStats

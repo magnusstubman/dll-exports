@@ -1,0 +1,4 @@
+EXPORTS
+  Disable464xlat="C:\Windows\System32\ipxlatcfg".Disable464xlat
+  Enable464xlat="C:\Windows\System32\ipxlatcfg".Enable464xlat
+  ServiceMain="C:\Windows\System32\ipxlatcfg".ServiceMain

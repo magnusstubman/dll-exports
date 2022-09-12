@@ -1,0 +1,6 @@
+EXPORTS
+  SHUnattendedSetup="C:\Windows\SysWOW64\shsetup".SHUnattendedSetup
+  SHUnattendedSetupA="C:\Windows\SysWOW64\shsetup".SHUnattendedSetupA
+  SHUnattendedSetupW="C:\Windows\SysWOW64\shsetup".SHUnattendedSetupW
+  Sysprep_Cleanup_Shell="C:\Windows\SysWOW64\shsetup".Sysprep_Cleanup_Shell
+  Sysprep_Generalize_Shell="C:\Windows\SysWOW64\shsetup".Sysprep_Generalize_Shell

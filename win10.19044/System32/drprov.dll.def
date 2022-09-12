@@ -1,0 +1,13 @@
+EXPORTS
+  NPAddConnection="C:\Windows\System32\drprov".NPAddConnection
+  NPAddConnection3="C:\Windows\System32\drprov".NPAddConnection3
+  NPCancelConnection="C:\Windows\System32\drprov".NPCancelConnection
+  NPCloseEnum="C:\Windows\System32\drprov".NPCloseEnum
+  NPEnumResource="C:\Windows\System32\drprov".NPEnumResource
+  NPGetCaps="C:\Windows\System32\drprov".NPGetCaps
+  NPGetConnection="C:\Windows\System32\drprov".NPGetConnection
+  NPGetConnectionPerformance="C:\Windows\System32\drprov".NPGetConnectionPerformance
+  NPGetResourceInformation="C:\Windows\System32\drprov".NPGetResourceInformation
+  NPGetResourceParent="C:\Windows\System32\drprov".NPGetResourceParent
+  NPGetUniversalName="C:\Windows\System32\drprov".NPGetUniversalName
+  NPOpenEnum="C:\Windows\System32\drprov".NPOpenEnum

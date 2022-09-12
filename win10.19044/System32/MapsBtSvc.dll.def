@@ -1,0 +1,13 @@
+EXPORTS
+  MapsBackgroundTransferClassFactory_Register="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferClassFactory_Register
+  MapsBackgroundTransferClassFactory_Revoke="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferClassFactory_Revoke
+  MapsBackgroundTransferService_CreateOrFindJob="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferService_CreateOrFindJob
+  MapsBackgroundTransferService_FreeJob="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferService_FreeJob
+  MapsBackgroundTransferService_GetIsAnyJobWaiting="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferService_GetIsAnyJobWaiting
+  MapsBackgroundTransferService_RegisterCallbacks="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferService_RegisterCallbacks
+  MapsBackgroundTransferService_SetNetworkCostPolicy="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferService_SetNetworkCostPolicy
+  MapsBackgroundTransferService_SetPowerPolicy="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferService_SetPowerPolicy
+  MapsBackgroundTransferService_SetPriority="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferService_SetPriority
+  MapsBackgroundTransferService_SetServiceCallbacks="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferService_SetServiceCallbacks
+  MapsBackgroundTransferService_TakeBitsSnapshot="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferService_TakeBitsSnapshot
+  MapsBackgroundTransferService_UnregisterCallbacks="C:\Windows\System32\MapsBtSvc".MapsBackgroundTransferService_UnregisterCallbacks

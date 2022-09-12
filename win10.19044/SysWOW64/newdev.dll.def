@@ -1,0 +1,27 @@
+EXPORTS
+  CheckDriverSoftwareDependenciesSatisfied="C:\Windows\SysWOW64\newdev".CheckDriverSoftwareDependenciesSatisfied
+  DeviceInternetSettingUiW="C:\Windows\SysWOW64\newdev".DeviceInternetSettingUiW
+  DiInstallDevice="C:\Windows\SysWOW64\newdev".DiInstallDevice
+  DiInstallDriverA="C:\Windows\SysWOW64\newdev".DiInstallDriverA
+  DiInstallDriverW="C:\Windows\SysWOW64\newdev".DiInstallDriverW
+  DiRollbackDriver="C:\Windows\SysWOW64\newdev".DiRollbackDriver
+  DiShowUpdateDevice="C:\Windows\SysWOW64\newdev".DiShowUpdateDevice
+  DiShowUpdateDriver="C:\Windows\SysWOW64\newdev".DiShowUpdateDriver
+  DiUninstallDevice="C:\Windows\SysWOW64\newdev".DiUninstallDevice
+  DiUninstallDriverA="C:\Windows\SysWOW64\newdev".DiUninstallDriverA
+  DiUninstallDriverW="C:\Windows\SysWOW64\newdev".DiUninstallDriverW
+  GetInternetPolicies="C:\Windows\SysWOW64\newdev".GetInternetPolicies
+  InstallLegacyDeviceDriver="C:\Windows\SysWOW64\newdev".InstallLegacyDeviceDriver
+  InstallNewDevice="C:\Windows\SysWOW64\newdev".InstallNewDevice
+  InstallSelectedDriver="C:\Windows\SysWOW64\newdev".InstallSelectedDriver
+  InstallWindowsUpdateDriver="C:\Windows\SysWOW64\newdev".InstallWindowsUpdateDriver
+  InstallWindowsUpdateDriverEx="C:\Windows\SysWOW64\newdev".InstallWindowsUpdateDriverEx
+  InstallWindowsUpdateDrivers="C:\Windows\SysWOW64\newdev".InstallWindowsUpdateDrivers
+  QueryWindowsUpdateDriverStatus="C:\Windows\SysWOW64\newdev".QueryWindowsUpdateDriverStatus
+  SetDriverPackageRestorePoint="C:\Windows\SysWOW64\newdev".SetDriverPackageRestorePoint
+  SetInternetPolicies="C:\Windows\SysWOW64\newdev".SetInternetPolicies
+  UpdateDriverForPlugAndPlayDevicesA="C:\Windows\SysWOW64\newdev".UpdateDriverForPlugAndPlayDevicesA
+  UpdateDriverForPlugAndPlayDevicesW="C:\Windows\SysWOW64\newdev".UpdateDriverForPlugAndPlayDevicesW
+  pDiDoDeviceInstallAsAdmin="C:\Windows\SysWOW64\newdev".pDiDoDeviceInstallAsAdmin
+  pDiDoNullDriverInstall="C:\Windows\SysWOW64\newdev".pDiDoNullDriverInstall
+  pDiRunFinishInstallOperations="C:\Windows\SysWOW64\newdev".pDiRunFinishInstallOperations

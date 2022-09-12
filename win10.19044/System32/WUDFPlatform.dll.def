@@ -1,0 +1,18 @@
+EXPORTS
+  ClearPlatformTestingCallbacks="C:\Windows\System32\WUDFPlatform".ClearPlatformTestingCallbacks
+  DllGetClassObject="C:\Windows\System32\WUDFPlatform".DllGetClassObject
+  DllMain="C:\Windows\System32\WUDFPlatform".DllMain
+  GetAndInitializePlatformObject="C:\Windows\System32\WUDFPlatform".GetAndInitializePlatformObject
+  GetPlatformObject="C:\Windows\System32\WUDFPlatform".GetPlatformObject
+  InitializePlatformLibrary="C:\Windows\System32\WUDFPlatform".InitializePlatformLibrary
+  PlatformSimulateUnhandledException="C:\Windows\System32\WUDFPlatform".PlatformSimulateUnhandledException
+  PlatformUnhandledExceptionFilter="C:\Windows\System32\WUDFPlatform".PlatformUnhandledExceptionFilter
+  SetPlatformErrorReportingCallbacks="C:\Windows\System32\WUDFPlatform".SetPlatformErrorReportingCallbacks
+  SetPlatformTestingCallbacks="C:\Windows\System32\WUDFPlatform".SetPlatformTestingCallbacks
+  ShutdownPlatformLibrary="C:\Windows\System32\WUDFPlatform".ShutdownPlatformLibrary
+  WdfGetLpcInterface="C:\Windows\System32\WUDFPlatform".WdfGetLpcInterface
+  WudfDebugBreakPoint="C:\Windows\System32\WUDFPlatform".WudfDebugBreakPoint
+  WudfIsAnyDebuggerPresent="C:\Windows\System32\WUDFPlatform".WudfIsAnyDebuggerPresent
+  WudfIsKernelDebuggerPresent="C:\Windows\System32\WUDFPlatform".WudfIsKernelDebuggerPresent
+  WudfIsUserDebuggerPresent="C:\Windows\System32\WUDFPlatform".WudfIsUserDebuggerPresent
+  WudfWaitForDebugger="C:\Windows\System32\WUDFPlatform".WudfWaitForDebugger

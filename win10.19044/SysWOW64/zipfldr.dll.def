@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\zipfldr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\zipfldr".DllGetClassObject
+  RouteTheCall="C:\Windows\SysWOW64\zipfldr".RouteTheCall

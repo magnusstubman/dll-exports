@@ -1,0 +1,4 @@
+EXPORTS
+  IsDestinationReachableA="C:\Windows\System32\SensApi".IsDestinationReachableA
+  IsDestinationReachableW="C:\Windows\System32\SensApi".IsDestinationReachableW
+  IsNetworkAlive="C:\Windows\System32\SensApi".IsNetworkAlive

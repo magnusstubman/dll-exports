@@ -1,0 +1,6 @@
+EXPORTS
+  VhfAsyncOperationComplete="C:\Windows\System32\VhfUm".VhfAsyncOperationComplete
+  VhfCreate="C:\Windows\System32\VhfUm".VhfCreate
+  VhfDelete="C:\Windows\System32\VhfUm".VhfDelete
+  VhfReadReportSubmit="C:\Windows\System32\VhfUm".VhfReadReportSubmit
+  VhfStart="C:\Windows\System32\VhfUm".VhfStart

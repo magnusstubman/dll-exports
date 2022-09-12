@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.Signals".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Internal.Signals".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.Signals".DllGetClassObject

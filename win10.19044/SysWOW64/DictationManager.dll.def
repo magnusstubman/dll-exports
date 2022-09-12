@@ -1,0 +1,3 @@
+EXPORTS
+  CreateDictationManager="C:\Windows\SysWOW64\DictationManager".CreateDictationManager
+  CreateDictationManagerWithDeviceController="C:\Windows\SysWOW64\DictationManager".CreateDictationManagerWithDeviceController

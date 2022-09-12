@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\credprovhost".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\credprovhost".DllGetClassObject

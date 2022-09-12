@@ -1,0 +1,9 @@
+EXPORTS
+  AMGetErrorTextA="C:\Windows\System32\quartz".AMGetErrorTextA
+  AMGetErrorTextW="C:\Windows\System32\quartz".AMGetErrorTextW
+  AmpFactorToDB="C:\Windows\System32\quartz".AmpFactorToDB
+  DBToAmpFactor="C:\Windows\System32\quartz".DBToAmpFactor
+  DllCanUnloadNow="C:\Windows\System32\quartz".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\quartz".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\quartz".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\quartz".DllUnregisterServer

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mssph".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mssph".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mssph".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mssph".DllUnregisterServer

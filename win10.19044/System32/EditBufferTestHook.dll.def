@@ -1,0 +1,5 @@
+EXPORTS
+  CreateEditBufferTestHook="C:\Windows\System32\EditBufferTestHook".CreateEditBufferTestHook
+  CreateEditBufferTestHookClient="C:\Windows\System32\EditBufferTestHook".CreateEditBufferTestHookClient
+  EnableTestHook="C:\Windows\System32\EditBufferTestHook".EnableTestHook
+  GetTestHookEnabled="C:\Windows\System32\EditBufferTestHook".GetTestHookEnabled

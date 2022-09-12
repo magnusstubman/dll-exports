@@ -1,0 +1,9 @@
+EXPORTS
+  CollectDiagnosticsAutoLog="C:\Windows\System32\dmenterprisediagnostics".CollectDiagnosticsAutoLog
+  GatherAutoLogEventsFromMobile="C:\Windows\System32\dmenterprisediagnostics".GatherAutoLogEventsFromMobile
+  RecordDiagnosticsError="C:\Windows\System32\dmenterprisediagnostics".RecordDiagnosticsError
+  SetupAutoLog="C:\Windows\System32\dmenterprisediagnostics".SetupAutoLog
+  SetupAutoLogWithTraceLevel="C:\Windows\System32\dmenterprisediagnostics".SetupAutoLogWithTraceLevel
+  StartAutoLog="C:\Windows\System32\dmenterprisediagnostics".StartAutoLog
+  StopAutoLog="C:\Windows\System32\dmenterprisediagnostics".StopAutoLog
+  TearDownAutoLog="C:\Windows\System32\dmenterprisediagnostics".TearDownAutoLog

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\UiaManager".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\UiaManager".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\UiaManager".GetProxyDllInfo
+  UiaInitCrossMachineConnection="C:\Windows\System32\UiaManager".UiaInitCrossMachineConnection
+  UiaInitCrossMachineConnectionW="C:\Windows\System32\UiaManager".UiaInitCrossMachineConnectionW

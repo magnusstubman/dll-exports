@@ -1,0 +1,13 @@
+EXPORTS
+  RmAddFilter="C:\Windows\System32\RstrtMgr".RmAddFilter
+  RmCancelCurrentTask="C:\Windows\System32\RstrtMgr".RmCancelCurrentTask
+  RmEndSession="C:\Windows\System32\RstrtMgr".RmEndSession
+  RmGetFilterList="C:\Windows\System32\RstrtMgr".RmGetFilterList
+  RmGetList="C:\Windows\System32\RstrtMgr".RmGetList
+  RmJoinSession="C:\Windows\System32\RstrtMgr".RmJoinSession
+  RmRegisterResources="C:\Windows\System32\RstrtMgr".RmRegisterResources
+  RmRemoveFilter="C:\Windows\System32\RstrtMgr".RmRemoveFilter
+  RmReserveHeap="C:\Windows\System32\RstrtMgr".RmReserveHeap
+  RmRestart="C:\Windows\System32\RstrtMgr".RmRestart
+  RmShutdown="C:\Windows\System32\RstrtMgr".RmShutdown
+  RmStartSession="C:\Windows\System32\RstrtMgr".RmStartSession

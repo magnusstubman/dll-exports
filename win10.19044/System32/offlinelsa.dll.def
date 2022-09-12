@@ -1,0 +1,20 @@
+EXPORTS
+  LsaOfflineAddAccountRights="C:\Windows\System32\offlinelsa".LsaOfflineAddAccountRights
+  LsaOfflineAddPrivilegesToAccount="C:\Windows\System32\offlinelsa".LsaOfflineAddPrivilegesToAccount
+  LsaOfflineClose="C:\Windows\System32\offlinelsa".LsaOfflineClose
+  LsaOfflineCreateAccount="C:\Windows\System32\offlinelsa".LsaOfflineCreateAccount
+  LsaOfflineDelete="C:\Windows\System32\offlinelsa".LsaOfflineDelete
+  LsaOfflineEnumerateAccountRights="C:\Windows\System32\offlinelsa".LsaOfflineEnumerateAccountRights
+  LsaOfflineEnumerateAccounts="C:\Windows\System32\offlinelsa".LsaOfflineEnumerateAccounts
+  LsaOfflineEnumeratePrivilegesOfAccount="C:\Windows\System32\offlinelsa".LsaOfflineEnumeratePrivilegesOfAccount
+  LsaOfflineFreeMemory="C:\Windows\System32\offlinelsa".LsaOfflineFreeMemory
+  LsaOfflineGetSystemAccessAccount="C:\Windows\System32\offlinelsa".LsaOfflineGetSystemAccessAccount
+  LsaOfflineOpenAccount="C:\Windows\System32\offlinelsa".LsaOfflineOpenAccount
+  LsaOfflineOpenPolicy="C:\Windows\System32\offlinelsa".LsaOfflineOpenPolicy
+  LsaOfflineOpenPolicyExternal="C:\Windows\System32\offlinelsa".LsaOfflineOpenPolicyExternal
+  LsaOfflineOpenPolicyForInstaller="C:\Windows\System32\offlinelsa".LsaOfflineOpenPolicyForInstaller
+  LsaOfflineQueryInformationPolicy="C:\Windows\System32\offlinelsa".LsaOfflineQueryInformationPolicy
+  LsaOfflineRemoveAccountRights="C:\Windows\System32\offlinelsa".LsaOfflineRemoveAccountRights
+  LsaOfflineRemovePrivilegesFromAccount="C:\Windows\System32\offlinelsa".LsaOfflineRemovePrivilegesFromAccount
+  LsaOfflineSetSystemAccessAccount="C:\Windows\System32\offlinelsa".LsaOfflineSetSystemAccessAccount
+  LsaOfflineSyskeyRequest="C:\Windows\System32\offlinelsa".LsaOfflineSyskeyRequest

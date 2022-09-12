@@ -1,0 +1,10 @@
+EXPORTS
+  CreateAppxPackageInventory="C:\Windows\System32\aeinv".CreateAppxPackageInventory
+  CreateAppxPackageInventoryExtracted="C:\Windows\System32\aeinv".CreateAppxPackageInventoryExtracted
+  CreateSoftwareInventory="C:\Windows\System32\aeinv".CreateSoftwareInventory
+  GetAppInfo="C:\Windows\System32\aeinv".GetAppInfo
+  GetAppInventory="C:\Windows\System32\aeinv".GetAppInventory
+  GetCachedAppInventory="C:\Windows\System32\aeinv".GetCachedAppInventory
+  GetDetailedAppInventory="C:\Windows\System32\aeinv".GetDetailedAppInventory
+  GetDetailedAppInventoryFile="C:\Windows\System32\aeinv".GetDetailedAppInventoryFile
+  UpdateSoftwareInventoryW="C:\Windows\System32\aeinv".UpdateSoftwareInventoryW

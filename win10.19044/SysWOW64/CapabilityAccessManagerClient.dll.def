@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\CapabilityAccessManagerClient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\CapabilityAccessManagerClient".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\CapabilityAccessManagerClient".DllGetClassObject

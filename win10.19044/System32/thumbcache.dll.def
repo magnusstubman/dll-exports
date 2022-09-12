@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\thumbcache".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\thumbcache".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\thumbcache".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\thumbcache".GetProxyDllInfo

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_BrowserDeclutter".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\SettingsHandlers_BrowserDeclutter".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_BrowserDeclutter".DllGetClassObject
+  GetSetting="C:\Windows\System32\SettingsHandlers_BrowserDeclutter".GetSetting

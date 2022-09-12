@@ -1,0 +1,3 @@
+EXPORTS
+  LpaSvcMain="C:\Windows\System32\lpasvc".LpaSvcMain
+  SvchostPushServiceGlobals="C:\Windows\System32\lpasvc".SvchostPushServiceGlobals

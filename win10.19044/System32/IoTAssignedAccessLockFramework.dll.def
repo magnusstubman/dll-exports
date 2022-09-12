@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\IoTAssignedAccessLockFramework".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\IoTAssignedAccessLockFramework".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\IoTAssignedAccessLockFramework".DllGetClassObject

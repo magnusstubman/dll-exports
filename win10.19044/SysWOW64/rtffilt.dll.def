@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\rtffilt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\rtffilt".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\rtffilt".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\rtffilt".DllUnregisterServer

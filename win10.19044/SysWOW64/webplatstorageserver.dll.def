@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\webplatstorageserver".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\webplatstorageserver".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\webplatstorageserver".DllInstall
+  DllRegisterServer="C:\Windows\SysWOW64\webplatstorageserver".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\webplatstorageserver".DllUnregisterServer

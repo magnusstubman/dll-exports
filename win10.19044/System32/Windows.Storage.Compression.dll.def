@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Storage.Compression".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Storage.Compression".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Storage.Compression".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\Windows.Storage.Compression".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Storage.Compression".DllUnregisterServer

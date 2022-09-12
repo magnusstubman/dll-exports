@@ -1,0 +1,5 @@
+EXPORTS
+  CreateInprocPimimConnectionHandle="C:\Windows\System32\PimIndexMaintenance".CreateInprocPimimConnectionHandle
+  PimIMService_ResetInprocService="C:\Windows\System32\PimIndexMaintenance".PimIMService_ResetInprocService
+  ServiceMain="C:\Windows\System32\PimIndexMaintenance".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\PimIndexMaintenance".SvchostPushServiceGlobals

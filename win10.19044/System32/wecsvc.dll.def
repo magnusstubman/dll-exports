@@ -1,0 +1,5 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\System32\wecsvc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wecsvc".DllUnregisterServer
+  ServiceMain="C:\Windows\System32\wecsvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\wecsvc".SvchostPushServiceGlobals

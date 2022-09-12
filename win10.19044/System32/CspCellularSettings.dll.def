@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CspCellularSettings".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\CspCellularSettings".DllGetClassObject
+  DllMain="C:\Windows\System32\CspCellularSettings".DllMain

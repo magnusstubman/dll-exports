@@ -1,0 +1,12 @@
+EXPORTS
+  DllMain="C:\Windows\System32\NcaApi".DllMain
+  NcaEngineClose="C:\Windows\System32\NcaApi".NcaEngineClose
+  NcaEngineOpen="C:\Windows\System32\NcaApi".NcaEngineOpen
+  NcaExecuteAndCaptureLogs="C:\Windows\System32\NcaApi".NcaExecuteAndCaptureLogs
+  NcaGetConfig="C:\Windows\System32\NcaApi".NcaGetConfig
+  NcaGetEvidenceCollectorResult="C:\Windows\System32\NcaApi".NcaGetEvidenceCollectorResult
+  NcaNetworkClose="C:\Windows\System32\NcaApi".NcaNetworkClose
+  NcaNetworkOpen="C:\Windows\System32\NcaApi".NcaNetworkOpen
+  NcaStatusEventSubscribe="C:\Windows\System32\NcaApi".NcaStatusEventSubscribe
+  NcaStatusEventUnsubscribe="C:\Windows\System32\NcaApi".NcaStatusEventUnsubscribe
+  NcaToggleNamePreferenceState="C:\Windows\System32\NcaApi".NcaToggleNamePreferenceState

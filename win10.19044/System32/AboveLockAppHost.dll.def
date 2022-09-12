@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\AboveLockAppHost".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\AboveLockAppHost".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\AboveLockAppHost".DllGetClassObject

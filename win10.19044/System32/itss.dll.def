@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\itss".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\itss".DllGetClassObject
+  DllMain="C:\Windows\System32\itss".DllMain
+  DllRegisterServer="C:\Windows\System32\itss".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\itss".DllUnregisterServer

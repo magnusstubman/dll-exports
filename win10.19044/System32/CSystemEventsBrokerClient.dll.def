@@ -1,0 +1,7 @@
+EXPORTS
+  CSebCreateCustomEvent="C:\Windows\System32\CSystemEventsBrokerClient".CSebCreateCustomEvent
+  CSebCreatePrivateEvent="C:\Windows\System32\CSystemEventsBrokerClient".CSebCreatePrivateEvent
+  CSebCreateWellKnownEvent="C:\Windows\System32\CSystemEventsBrokerClient".CSebCreateWellKnownEvent
+  CSebDeleteEvent="C:\Windows\System32\CSystemEventsBrokerClient".CSebDeleteEvent
+  CSebEnumerateEvents="C:\Windows\System32\CSystemEventsBrokerClient".CSebEnumerateEvents
+  CSebQueryEventData="C:\Windows\System32\CSystemEventsBrokerClient".CSebQueryEventData

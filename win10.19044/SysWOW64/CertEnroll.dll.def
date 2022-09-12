@@ -1,0 +1,22 @@
+EXPORTS
+  CreateLogonCertificateRequest="C:\Windows\SysWOW64\CertEnroll".CreateLogonCertificateRequest
+  DeleteLogonCertificateRequest="C:\Windows\SysWOW64\CertEnroll".DeleteLogonCertificateRequest
+  DllCanUnloadNow="C:\Windows\SysWOW64\CertEnroll".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\CertEnroll".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\CertEnroll".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\CertEnroll".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\CertEnroll".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\CertEnroll".DllUnregisterServer
+  ImportPFXToProvider="C:\Windows\SysWOW64\CertEnroll".ImportPFXToProvider
+  ImportPFXToProviderFreeData="C:\Windows\SysWOW64\CertEnroll".ImportPFXToProviderFreeData
+  InstallLogonCertificateResponse="C:\Windows\SysWOW64\CertEnroll".InstallLogonCertificateResponse
+  IsLogonCertificateTemplateAvailable="C:\Windows\SysWOW64\CertEnroll".IsLogonCertificateTemplateAvailable
+  LogCertArchive="C:\Windows\SysWOW64\CertEnroll".LogCertArchive
+  LogCertCopy="C:\Windows\SysWOW64\CertEnroll".LogCertCopy
+  LogCertDelete="C:\Windows\SysWOW64\CertEnroll".LogCertDelete
+  LogCertExpire="C:\Windows\SysWOW64\CertEnroll".LogCertExpire
+  LogCertExport="C:\Windows\SysWOW64\CertEnroll".LogCertExport
+  LogCertImport="C:\Windows\SysWOW64\CertEnroll".LogCertImport
+  LogCertInstall="C:\Windows\SysWOW64\CertEnroll".LogCertInstall
+  LogCertReplace="C:\Windows\SysWOW64\CertEnroll".LogCertReplace
+  UpdateMachinePolicyConfigurationForTemplate="C:\Windows\SysWOW64\CertEnroll".UpdateMachinePolicyConfigurationForTemplate

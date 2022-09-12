@@ -1,0 +1,5 @@
+EXPORTS
+  InjectThread="C:\Windows\System32\ttdloader".InjectThread
+  ParametersBlock="C:\Windows\System32\ttdloader".ParametersBlock
+  StubDllEntry="C:\Windows\System32\ttdloader".StubDllEntry
+  ntdllLdrInitializeThunk="C:\Windows\System32\ttdloader".ntdllLdrInitializeThunk

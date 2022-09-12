@@ -1,0 +1,10 @@
+EXPORTS
+  CreateTextServices="C:\Windows\System32\riched20".CreateTextServices
+  IID_IRichEditOle="C:\Windows\System32\riched20".IID_IRichEditOle
+  IID_IRichEditOleCallback="C:\Windows\System32\riched20".IID_IRichEditOleCallback
+  IID_ITextHost="C:\Windows\System32\riched20".IID_ITextHost
+  IID_ITextHost2="C:\Windows\System32\riched20".IID_ITextHost2
+  IID_ITextServices="C:\Windows\System32\riched20".IID_ITextServices
+  REExtendedRegisterClass="C:\Windows\System32\riched20".REExtendedRegisterClass
+  RichEdit10ANSIWndProc="C:\Windows\System32\riched20".RichEdit10ANSIWndProc
+  RichEditANSIWndProc="C:\Windows\System32\riched20".RichEditANSIWndProc

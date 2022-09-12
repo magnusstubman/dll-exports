@@ -1,0 +1,18 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\JpMapControl".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\JpMapControl".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\JpMapControl".DllGetClassObject
+  JpIs3DSupported="C:\Windows\System32\JpMapControl".JpIs3DSupported
+  JpIsUnifiedMapsStack="C:\Windows\System32\JpMapControl".JpIsUnifiedMapsStack
+  JpMapControlSettings_Create="C:\Windows\System32\JpMapControl".JpMapControlSettings_Create
+  JpMapControl_Create="C:\Windows\System32\JpMapControl".JpMapControl_Create
+  JpMapFactory_Create="C:\Windows\System32\JpMapControl".JpMapFactory_Create
+  JpMapModel3DFrom3MFStreamOperation_Create="C:\Windows\System32\JpMapControl".JpMapModel3DFrom3MFStreamOperation_Create
+  JpMapOverlayModel_Create="C:\Windows\System32\JpMapControl".JpMapOverlayModel_Create
+  JpMapStyleSheetFactory_Create="C:\Windows\System32\JpMapControl".JpMapStyleSheetFactory_Create
+  JpOverviewMapControl_Create="C:\Windows\System32\JpMapControl".JpOverviewMapControl_Create
+  JpRestrictedApiAccessCheck="C:\Windows\System32\JpMapControl".JpRestrictedApiAccessCheck
+  JpStreetsideExperience_Create="C:\Windows\System32\JpMapControl".JpStreetsideExperience_Create
+  JpStreetsidePanoramaOperation_Create="C:\Windows\System32\JpMapControl".JpStreetsidePanoramaOperation_Create
+  MapSettings_GetMosBingMapsKey="C:\Windows\System32\JpMapControl".MapSettings_GetMosBingMapsKey
+  MapSettings_ResetMosKeys="C:\Windows\System32\JpMapControl".MapSettings_ResetMosKeys

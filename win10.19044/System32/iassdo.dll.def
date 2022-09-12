@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\iassdo".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\iassdo".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\iassdo".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\iassdo".DllUnregisterServer

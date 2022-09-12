@@ -1,0 +1,15 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LocationFramework".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\LocationFramework".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\LocationFramework".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\LocationFramework".DllUnregisterServer
+  LocationObjectManagerInstance="C:\Windows\System32\LocationFramework".LocationObjectManagerInstance
+  LocationServiceHostShutdown="C:\Windows\System32\LocationFramework".LocationServiceHostShutdown
+  LocationServiceHostStartup="C:\Windows\System32\LocationFramework".LocationServiceHostStartup
+  RegisterLocationCOMServer="C:\Windows\System32\LocationFramework".RegisterLocationCOMServer
+  SvcLocationAddRef="C:\Windows\System32\LocationFramework".SvcLocationAddRef
+  SvcLocationInitServerLock="C:\Windows\System32\LocationFramework".SvcLocationInitServerLock
+  SvcLocationReleaseRef="C:\Windows\System32\LocationFramework".SvcLocationReleaseRef
+  SvcOnConsoleSessionNotification="C:\Windows\System32\LocationFramework".SvcOnConsoleSessionNotification
+  SvcOnUserLogOnStateNotification="C:\Windows\System32\LocationFramework".SvcOnUserLogOnStateNotification
+  UnregisterLocationCOMServer="C:\Windows\System32\LocationFramework".UnregisterLocationCOMServer

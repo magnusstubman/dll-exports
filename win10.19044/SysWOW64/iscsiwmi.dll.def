@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\iscsiwmi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\iscsiwmi".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\iscsiwmi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\iscsiwmi".DllUnregisterServer

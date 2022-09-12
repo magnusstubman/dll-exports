@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ucmhc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ucmhc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\ucmhc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\ucmhc".DllUnregisterServer

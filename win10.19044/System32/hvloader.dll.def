@@ -1,0 +1,8 @@
+EXPORTS
+  HvlExchangeDispatchInterface="C:\Windows\System32\hvloader".HvlExchangeDispatchInterface
+  HvlLaunchHypervisor="C:\Windows\System32\hvloader".HvlLaunchHypervisor
+  HvlLoadHypervisor="C:\Windows\System32\hvloader".HvlLoadHypervisor
+  HvlPreloadHypervisor="C:\Windows\System32\hvloader".HvlPreloadHypervisor
+  HvlRegisterRuntimeRange="C:\Windows\System32\hvloader".HvlRegisterRuntimeRange
+  HvlRescindVsm="C:\Windows\System32\hvloader".HvlRescindVsm
+  HvlUpdateMcUpdateStatus="C:\Windows\System32\hvloader".HvlUpdateMcUpdateStatus

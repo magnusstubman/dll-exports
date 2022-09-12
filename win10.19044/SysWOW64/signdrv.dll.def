@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\signdrv".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\signdrv".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\signdrv".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\signdrv".DllUnregisterServer

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\NotificationControllerPS".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\NotificationControllerPS".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\NotificationControllerPS".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\NotificationControllerPS".DllUnregisterServer

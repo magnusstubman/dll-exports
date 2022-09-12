@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WorkFoldersShell".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WorkFoldersShell".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WorkFoldersShell".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WorkFoldersShell".DllUnregisterServer

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wkspbrokerAx".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wkspbrokerAx".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\wkspbrokerAx".DllInstall
+  DllRegisterServer="C:\Windows\SysWOW64\wkspbrokerAx".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wkspbrokerAx".DllUnregisterServer

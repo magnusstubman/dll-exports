@@ -1,0 +1,14 @@
+EXPORTS
+  ConvertAtJobsToTasks="C:\Windows\System32\mstask".ConvertAtJobsToTasks
+  DllCanUnloadNow="C:\Windows\System32\mstask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mstask".DllGetClassObject
+  GetNetScheduleAccountInformation="C:\Windows\System32\mstask".GetNetScheduleAccountInformation
+  NetrJobAdd="C:\Windows\System32\mstask".NetrJobAdd
+  NetrJobDel="C:\Windows\System32\mstask".NetrJobDel
+  NetrJobEnum="C:\Windows\System32\mstask".NetrJobEnum
+  NetrJobGetInfo="C:\Windows\System32\mstask".NetrJobGetInfo
+  SAGetAccountInformation="C:\Windows\System32\mstask".SAGetAccountInformation
+  SAGetNSAccountInformation="C:\Windows\System32\mstask".SAGetNSAccountInformation
+  SASetAccountInformation="C:\Windows\System32\mstask".SASetAccountInformation
+  SASetNSAccountInformation="C:\Windows\System32\mstask".SASetNSAccountInformation
+  SetNetScheduleAccountInformation="C:\Windows\System32\mstask".SetNetScheduleAccountInformation

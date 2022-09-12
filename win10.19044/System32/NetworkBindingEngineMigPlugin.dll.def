@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\NetworkBindingEngineMigPlugin".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\NetworkBindingEngineMigPlugin".DllGetClassObject
+  NetworkBindingEngineFinishMigration="C:\Windows\System32\NetworkBindingEngineMigPlugin".NetworkBindingEngineFinishMigration

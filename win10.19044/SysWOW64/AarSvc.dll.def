@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AarSvc".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\AarSvc".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\AarSvc".DllGetClassObject
+  ServiceMain="C:\Windows\SysWOW64\AarSvc".ServiceMain

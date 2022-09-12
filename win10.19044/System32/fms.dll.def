@@ -1,0 +1,24 @@
+EXPORTS
+  FmsActivateFonts="C:\Windows\System32\fms".FmsActivateFonts
+  FmsAddFilter="C:\Windows\System32\fms".FmsAddFilter
+  FmsDeactivateFonts="C:\Windows\System32\fms".FmsDeactivateFonts
+  FmsFreeEnumerator="C:\Windows\System32\fms".FmsFreeEnumerator
+  FmsGetBestMatchInFamily="C:\Windows\System32\fms".FmsGetBestMatchInFamily
+  FmsGetCurrentFilter="C:\Windows\System32\fms".FmsGetCurrentFilter
+  FmsGetDirectWriteLogFont="C:\Windows\System32\fms".FmsGetDirectWriteLogFont
+  FmsGetFilteredFontList="C:\Windows\System32\fms".FmsGetFilteredFontList
+  FmsGetFilteredPropertyList="C:\Windows\System32\fms".FmsGetFilteredPropertyList
+  FmsGetFontAutoActivationMode="C:\Windows\System32\fms".FmsGetFontAutoActivationMode
+  FmsGetFontProperty="C:\Windows\System32\fms".FmsGetFontProperty
+  FmsGetGDILogFont="C:\Windows\System32\fms".FmsGetGDILogFont
+  FmsGetGdiLogicalFont="C:\Windows\System32\fms".FmsGetGdiLogicalFont
+  FmsInitializeEnumerator="C:\Windows\System32\fms".FmsInitializeEnumerator
+  FmsMapGdiLogicalFont="C:\Windows\System32\fms".FmsMapGdiLogicalFont
+  FmsMapLogicalFont="C:\Windows\System32\fms".FmsMapLogicalFont
+  FmsResetEnumerator="C:\Windows\System32\fms".FmsResetEnumerator
+  FmsResetFontsActivationState="C:\Windows\System32\fms".FmsResetFontsActivationState
+  FmsSetDefaultFilter="C:\Windows\System32\fms".FmsSetDefaultFilter
+  FmsSetFilter="C:\Windows\System32\fms".FmsSetFilter
+  FmsSetFontAutoActivationMode="C:\Windows\System32\fms".FmsSetFontAutoActivationMode
+  FmsSetTextFilter="C:\Windows\System32\fms".FmsSetTextFilter
+  FmsToggleOnDesignAxis="C:\Windows\System32\fms".FmsToggleOnDesignAxis

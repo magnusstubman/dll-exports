@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mbussdapi".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\mbussdapi".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\mbussdapi".DllGetClassObject

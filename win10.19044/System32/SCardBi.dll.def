@@ -1,0 +1,7 @@
+EXPORTS
+  ??0SmartCardBiManager@@IEAA@XZ="C:\Windows\System32\SCardBi".??0SmartCardBiManager@@IEAA@XZ
+  ??1SmartCardBiManager@@UEAA@XZ="C:\Windows\System32\SCardBi".??1SmartCardBiManager@@UEAA@XZ
+  ??_7SmartCardBiManager@@6B@="C:\Windows\System32\SCardBi".??_7SmartCardBiManager@@6B@
+  ?Initialize@SmartCardBiManager@@SAJXZ="C:\Windows\System32\SCardBi".?Initialize@SmartCardBiManager@@SAJXZ
+  ?Instance@SmartCardBiManager@@SAPEAV1@XZ="C:\Windows\System32\SCardBi".?Instance@SmartCardBiManager@@SAPEAV1@XZ
+  DllMain="C:\Windows\System32\SCardBi".DllMain

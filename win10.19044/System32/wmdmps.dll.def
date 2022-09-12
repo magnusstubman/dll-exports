@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wmdmps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wmdmps".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wmdmps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wmdmps".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\wmdmps".GetProxyDllInfo

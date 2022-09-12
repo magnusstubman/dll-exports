@@ -1,0 +1,24 @@
+EXPORTS
+  CreateComboButtonProxy="C:\Windows\SysWOW64\InputHost".CreateComboButtonProxy
+  CreateCursorClient="C:\Windows\SysWOW64\InputHost".CreateCursorClient
+  CreateCursorManager="C:\Windows\SysWOW64\InputHost".CreateCursorManager
+  CreateDragOperationPrivate="C:\Windows\SysWOW64\InputHost".CreateDragOperationPrivate
+  CreateGenericInputHost="C:\Windows\SysWOW64\InputHost".CreateGenericInputHost
+  CreateHeatGripServiceClient="C:\Windows\SysWOW64\InputHost".CreateHeatGripServiceClient
+  CreateInputDeviceWatcher="C:\Windows\SysWOW64\InputHost".CreateInputDeviceWatcher
+  CreateInputHost="C:\Windows\SysWOW64\InputHost".CreateInputHost
+  CreateInputHostForProcess="C:\Windows\SysWOW64\InputHost".CreateInputHostForProcess
+  CreateInputSystemClientConnection="C:\Windows\SysWOW64\InputHost".CreateInputSystemClientConnection
+  CreateMPCManagerClient="C:\Windows\SysWOW64\InputHost".CreateMPCManagerClient
+  CreatePointerInputHost="C:\Windows\SysWOW64\InputHost".CreatePointerInputHost
+  CreateTouchInputHost="C:\Windows\SysWOW64\InputHost".CreateTouchInputHost
+  CreateViewHitTestRequestClient="C:\Windows\SysWOW64\InputHost".CreateViewHitTestRequestClient
+  DllCanUnloadNow="C:\Windows\SysWOW64\InputHost".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\InputHost".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\InputHost".DllGetClassObject
+  SetInputButtonEnabledOnIdle="C:\Windows\SysWOW64\InputHost".SetInputButtonEnabledOnIdle
+  SetInputDeviceIndicatorState="C:\Windows\SysWOW64\InputHost".SetInputDeviceIndicatorState
+  SetInputDeviceRepeatParameters="C:\Windows\SysWOW64\InputHost".SetInputDeviceRepeatParameters
+  SetInputFocus="C:\Windows\SysWOW64\InputHost".SetInputFocus
+  TouchInputHostCreate="C:\Windows\SysWOW64\InputHost".TouchInputHostCreate
+  ViewHitTestClientCreate="C:\Windows\SysWOW64\InputHost".ViewHitTestClientCreate

@@ -1,0 +1,17 @@
+EXPORTS
+  DiscoverManagementService="C:\Windows\SysWOW64\mdmregistration".DiscoverManagementService
+  DiscoverManagementServiceEx="C:\Windows\SysWOW64\mdmregistration".DiscoverManagementServiceEx
+  FindDiscoveryService="C:\Windows\SysWOW64\mdmregistration".FindDiscoveryService
+  GetDeviceManagementConfigInfo="C:\Windows\SysWOW64\mdmregistration".GetDeviceManagementConfigInfo
+  GetDeviceRegistrationInfo="C:\Windows\SysWOW64\mdmregistration".GetDeviceRegistrationInfo
+  GetManagementAppHyperlink="C:\Windows\SysWOW64\mdmregistration".GetManagementAppHyperlink
+  IsDeviceRegisteredWithManagement="C:\Windows\SysWOW64\mdmregistration".IsDeviceRegisteredWithManagement
+  IsManagementRegistrationAllowed="C:\Windows\SysWOW64\mdmregistration".IsManagementRegistrationAllowed
+  IsMdmUxWithoutAadAllowed="C:\Windows\SysWOW64\mdmregistration".IsMdmUxWithoutAadAllowed
+  RegisterDeviceWithManagement="C:\Windows\SysWOW64\mdmregistration".RegisterDeviceWithManagement
+  RegisterDeviceWithManagementUsingAADCredentials="C:\Windows\SysWOW64\mdmregistration".RegisterDeviceWithManagementUsingAADCredentials
+  RegisterDeviceWithManagementUsingAADDeviceCredentials="C:\Windows\SysWOW64\mdmregistration".RegisterDeviceWithManagementUsingAADDeviceCredentials
+  RegisterDeviceWithManagementUsingAADDeviceCredentials2="C:\Windows\SysWOW64\mdmregistration".RegisterDeviceWithManagementUsingAADDeviceCredentials2
+  SetDeviceManagementConfigInfo="C:\Windows\SysWOW64\mdmregistration".SetDeviceManagementConfigInfo
+  SetManagedExternally="C:\Windows\SysWOW64\mdmregistration".SetManagedExternally
+  UnregisterDeviceWithManagement="C:\Windows\SysWOW64\mdmregistration".UnregisterDeviceWithManagement

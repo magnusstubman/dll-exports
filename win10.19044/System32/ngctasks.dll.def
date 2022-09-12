@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ngctasks".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ngctasks".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\ngctasks".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\ngctasks".DllUnregisterServer
+  GetRetryTimeStamp="C:\Windows\System32\ngctasks".GetRetryTimeStamp
+  NgcTriggerTaskForOobe="C:\Windows\System32\ngctasks".NgcTriggerTaskForOobe
+  SetAikTimeTrigger="C:\Windows\System32\ngctasks".SetAikTimeTrigger

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\VoiceActivationManager".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\VoiceActivationManager".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\VoiceActivationManager".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\VoiceActivationManager".DllUnregisterServer

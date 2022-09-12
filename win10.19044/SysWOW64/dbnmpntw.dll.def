@@ -1,0 +1,17 @@
+EXPORTS
+  ConnectionCheckForData="C:\Windows\SysWOW64\dbnmpntw".ConnectionCheckForData
+  ConnectionClose="C:\Windows\SysWOW64\dbnmpntw".ConnectionClose
+  ConnectionError="C:\Windows\SysWOW64\dbnmpntw".ConnectionError
+  ConnectionErrorW="C:\Windows\SysWOW64\dbnmpntw".ConnectionErrorW
+  ConnectionMode="C:\Windows\SysWOW64\dbnmpntw".ConnectionMode
+  ConnectionObjectSize="C:\Windows\SysWOW64\dbnmpntw".ConnectionObjectSize
+  ConnectionOpen="C:\Windows\SysWOW64\dbnmpntw".ConnectionOpen
+  ConnectionOpenW="C:\Windows\SysWOW64\dbnmpntw".ConnectionOpenW
+  ConnectionRead="C:\Windows\SysWOW64\dbnmpntw".ConnectionRead
+  ConnectionServerEnum="C:\Windows\SysWOW64\dbnmpntw".ConnectionServerEnum
+  ConnectionServerEnumW="C:\Windows\SysWOW64\dbnmpntw".ConnectionServerEnumW
+  ConnectionStatus="C:\Windows\SysWOW64\dbnmpntw".ConnectionStatus
+  ConnectionTransact="C:\Windows\SysWOW64\dbnmpntw".ConnectionTransact
+  ConnectionVer="C:\Windows\SysWOW64\dbnmpntw".ConnectionVer
+  ConnectionWrite="C:\Windows\SysWOW64\dbnmpntw".ConnectionWrite
+  ConnectionWriteOOB="C:\Windows\SysWOW64\dbnmpntw".ConnectionWriteOOB

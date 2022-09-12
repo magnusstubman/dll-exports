@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MSAMRNBSource".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MSAMRNBSource".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MSAMRNBSource".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MSAMRNBSource".DllUnregisterServer

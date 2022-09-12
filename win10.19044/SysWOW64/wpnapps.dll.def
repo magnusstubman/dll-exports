@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wpnapps".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\wpnapps".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\wpnapps".DllGetClassObject

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\swprv".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\swprv".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\swprv".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\swprv".DllUnregisterServer
+  ServiceMain="C:\Windows\System32\swprv".ServiceMain

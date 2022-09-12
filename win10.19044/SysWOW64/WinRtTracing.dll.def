@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\WinRtTracing".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\WinRtTracing".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\WinRtTracing".DllGetClassObject

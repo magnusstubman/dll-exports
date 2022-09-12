@@ -1,0 +1,7 @@
+EXPORTS
+  InternetDeInitializeAutoProxyDll="C:\Windows\System32\jsproxy".InternetDeInitializeAutoProxyDll
+  InternetDeInitializeAutoProxyDllEx="C:\Windows\System32\jsproxy".InternetDeInitializeAutoProxyDllEx
+  InternetGetProxyInfo="C:\Windows\System32\jsproxy".InternetGetProxyInfo
+  InternetGetProxyInfoEx="C:\Windows\System32\jsproxy".InternetGetProxyInfoEx
+  InternetInitializeAutoProxyDll="C:\Windows\System32\jsproxy".InternetInitializeAutoProxyDll
+  InternetInitializeAutoProxyDllEx="C:\Windows\System32\jsproxy".InternetInitializeAutoProxyDllEx

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\TempSignedLicenseExchangeTask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\TempSignedLicenseExchangeTask".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\TempSignedLicenseExchangeTask".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\TempSignedLicenseExchangeTask".DllUnregisterServer

@@ -1,0 +1,4 @@
+EXPORTS
+  CloseOSObject="C:\Windows\SysWOW64\perfos".CloseOSObject
+  CollectOSObjectData="C:\Windows\SysWOW64\perfos".CollectOSObjectData
+  OpenOSObject="C:\Windows\SysWOW64\perfos".OpenOSObject

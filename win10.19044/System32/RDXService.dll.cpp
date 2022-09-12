@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\RDXService.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\RDXService.DllGetClassObject\"")
+#pragma comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\System32\\RDXService.GetProxyDllInfo\"")
+#pragma comment(linker, "/export:OpenRDXDocumentW=\"C:\\Windows\\System32\\RDXService.OpenRDXDocumentW\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\RDXService.ServiceMain\"")

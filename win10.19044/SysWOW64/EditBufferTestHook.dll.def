@@ -1,0 +1,5 @@
+EXPORTS
+  CreateEditBufferTestHook="C:\Windows\SysWOW64\EditBufferTestHook".CreateEditBufferTestHook
+  CreateEditBufferTestHookClient="C:\Windows\SysWOW64\EditBufferTestHook".CreateEditBufferTestHookClient
+  EnableTestHook="C:\Windows\SysWOW64\EditBufferTestHook".EnableTestHook
+  GetTestHookEnabled="C:\Windows\SysWOW64\EditBufferTestHook".GetTestHookEnabled

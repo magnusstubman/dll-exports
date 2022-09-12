@@ -1,0 +1,5 @@
+EXPORTS
+  AcsHlpNbConnection="C:\Windows\System32\rasadhlp".AcsHlpNbConnection
+  WSAttemptAutodialAddr="C:\Windows\System32\rasadhlp".WSAttemptAutodialAddr
+  WSAttemptAutodialName="C:\Windows\System32\rasadhlp".WSAttemptAutodialName
+  WSNoteSuccessfulHostentLookup="C:\Windows\System32\rasadhlp".WSNoteSuccessfulHostentLookup

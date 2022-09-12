@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\assignedaccessmanagersvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\assignedaccessmanagersvc".DllGetClassObject
+  ServiceMain="C:\Windows\System32\assignedaccessmanagersvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\assignedaccessmanagersvc".SvchostPushServiceGlobals

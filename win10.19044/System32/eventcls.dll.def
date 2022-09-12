@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\eventcls".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\eventcls".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\eventcls".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\eventcls".DllUnregisterServer

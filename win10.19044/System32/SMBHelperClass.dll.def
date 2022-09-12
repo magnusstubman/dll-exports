@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SMBHelperClass".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SMBHelperClass".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\SMBHelperClass".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\SMBHelperClass".DllUnregisterServer

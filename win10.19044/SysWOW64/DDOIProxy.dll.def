@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\DDOIProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\DDOIProxy".DllGetClassObject

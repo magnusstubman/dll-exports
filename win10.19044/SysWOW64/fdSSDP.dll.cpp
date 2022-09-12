@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\fdSSDP.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\fdSSDP.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\fdSSDP.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\fdSSDP.DllUnregisterServer\"")
+#pragma comment(linker, "/export:FdphostSessionChange=\"C:\\Windows\\SysWOW64\\fdSSDP.FdphostSessionChange\"")
+#pragma comment(linker, "/export:FdphostSetComContext=\"C:\\Windows\\SysWOW64\\fdSSDP.FdphostSetComContext\"")
+#pragma comment(linker, "/export:FdphostSetSharedService=\"C:\\Windows\\SysWOW64\\fdSSDP.FdphostSetSharedService\"")

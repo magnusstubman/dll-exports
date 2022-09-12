@@ -1,0 +1,12 @@
+EXPORTS
+  IEShims_CreateFileW="C:\Windows\System32\eShims".IEShims_CreateFileW
+  IEShims_FindClose="C:\Windows\System32\eShims".IEShims_FindClose
+  IEShims_FindFirstFileW="C:\Windows\System32\eShims".IEShims_FindFirstFileW
+  IEShims_GetFileAttributesExW="C:\Windows\System32\eShims".IEShims_GetFileAttributesExW
+  IEShims_GetFileAttributesW="C:\Windows\System32\eShims".IEShims_GetFileAttributesW
+  IEShims_GetFullPathNameW="C:\Windows\System32\eShims".IEShims_GetFullPathNameW
+  IEShims_GetLongPathNameW="C:\Windows\System32\eShims".IEShims_GetLongPathNameW
+  IEShims_Initialize="C:\Windows\System32\eShims".IEShims_Initialize
+  IEShims_Uninitialize="C:\Windows\System32\eShims".IEShims_Uninitialize
+  IEShims_WNetGetConnectionW="C:\Windows\System32\eShims".IEShims_WNetGetConnectionW
+  RegisterFlashShimHandler="C:\Windows\System32\eShims".RegisterFlashShimHandler

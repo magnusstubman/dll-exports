@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\scansetting".DllCanUnloadNow
+  DllMain="C:\Windows\System32\scansetting".DllMain
+  GetDefaultProfileScan="C:\Windows\System32\scansetting".GetDefaultProfileScan
+  GetImageDialog="C:\Windows\System32\scansetting".GetImageDialog
+  ProfilesDialog="C:\Windows\System32\scansetting".ProfilesDialog
+  ProgDlgTakeFgIfShowing="C:\Windows\System32\scansetting".ProgDlgTakeFgIfShowing

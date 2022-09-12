@@ -1,0 +1,11 @@
+EXPORTS
+  CreateAudioReverb="C:\Windows\System32\XAudio2_9".CreateAudioReverb
+  CreateAudioReverbV2_8="C:\Windows\System32\XAudio2_9".CreateAudioReverbV2_8
+  CreateAudioVolumeMeter="C:\Windows\System32\XAudio2_9".CreateAudioVolumeMeter
+  CreateFX="C:\Windows\System32\XAudio2_9".CreateFX
+  X3DAudioCalculate="C:\Windows\System32\XAudio2_9".X3DAudioCalculate
+  X3DAudioInitialize="C:\Windows\System32\XAudio2_9".X3DAudioInitialize
+  XAudio2Create="C:\Windows\System32\XAudio2_9".XAudio2Create
+  XAudio2CreateV2_9="C:\Windows\System32\XAudio2_9".XAudio2CreateV2_9
+  XAudio2CreateWithSharedContexts="C:\Windows\System32\XAudio2_9".XAudio2CreateWithSharedContexts
+  XAudio2CreateWithVersionInfo="C:\Windows\System32\XAudio2_9".XAudio2CreateWithVersionInfo

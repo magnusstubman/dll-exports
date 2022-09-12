@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Mirage.Internal".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Mirage.Internal".DllGetActivationFactory
+  DllGetActivationFactoryMirageInternal="C:\Windows\System32\Windows.Mirage.Internal".DllGetActivationFactoryMirageInternal
+  DllGetClassObject="C:\Windows\System32\Windows.Mirage.Internal".DllGetClassObject
+  InjectDependencyInternal="C:\Windows\System32\Windows.Mirage.Internal".InjectDependencyInternal

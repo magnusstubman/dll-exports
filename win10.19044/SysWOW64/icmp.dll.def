@@ -1,0 +1,9 @@
+EXPORTS
+  IcmpCloseHandle="C:\Windows\SysWOW64\icmp".IcmpCloseHandle
+  IcmpCreateFile="C:\Windows\SysWOW64\icmp".IcmpCreateFile
+  IcmpParseReplies="C:\Windows\SysWOW64\icmp".IcmpParseReplies
+  IcmpSendEcho="C:\Windows\SysWOW64\icmp".IcmpSendEcho
+  IcmpSendEcho2="C:\Windows\SysWOW64\icmp".IcmpSendEcho2
+  do_echo_rep="C:\Windows\SysWOW64\icmp".do_echo_rep
+  do_echo_req="C:\Windows\SysWOW64\icmp".do_echo_req
+  register_icmp="C:\Windows\SysWOW64\icmp".register_icmp

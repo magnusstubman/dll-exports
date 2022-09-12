@@ -1,0 +1,4 @@
+EXPORTS
+  WdiDiagnosticModuleMain="C:\Windows\System32\pots".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\System32\pots".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\System32\pots".WdiHandleInstance

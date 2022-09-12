@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\fdWNet".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\fdWNet".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\fdWNet".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\fdWNet".DllUnregisterServer

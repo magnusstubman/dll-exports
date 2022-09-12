@@ -1,0 +1,5 @@
+EXPORTS
+  EapPeerFreeErrorMemory="C:\Windows\System32\WcnEapPeerProxy".EapPeerFreeErrorMemory
+  EapPeerFreeMemory="C:\Windows\System32\WcnEapPeerProxy".EapPeerFreeMemory
+  EapPeerGetInfo="C:\Windows\System32\WcnEapPeerProxy".EapPeerGetInfo
+  EapPeerGetMethodProperties="C:\Windows\System32\WcnEapPeerProxy".EapPeerGetMethodProperties

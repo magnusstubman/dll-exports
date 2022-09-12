@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Cortana.ProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.Cortana.ProxyStub".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.Cortana.ProxyStub".GetProxyDllInfo

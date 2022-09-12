@@ -1,0 +1,17 @@
+EXPORTS
+  WSHAddressToString="C:\Windows\System32\wshunix".WSHAddressToString
+  WSHEnumProtocols="C:\Windows\System32\wshunix".WSHEnumProtocols
+  WSHGetBroadcastSockaddr="C:\Windows\System32\wshunix".WSHGetBroadcastSockaddr
+  WSHGetProviderGuid="C:\Windows\System32\wshunix".WSHGetProviderGuid
+  WSHGetSockaddrType="C:\Windows\System32\wshunix".WSHGetSockaddrType
+  WSHGetSocketInformation="C:\Windows\System32\wshunix".WSHGetSocketInformation
+  WSHGetWSAProtocolInfo="C:\Windows\System32\wshunix".WSHGetWSAProtocolInfo
+  WSHGetWildcardSockaddr="C:\Windows\System32\wshunix".WSHGetWildcardSockaddr
+  WSHGetWinsockMapping="C:\Windows\System32\wshunix".WSHGetWinsockMapping
+  WSHIoctl="C:\Windows\System32\wshunix".WSHIoctl
+  WSHJoinLeaf="C:\Windows\System32\wshunix".WSHJoinLeaf
+  WSHNotify="C:\Windows\System32\wshunix".WSHNotify
+  WSHOpenSocket="C:\Windows\System32\wshunix".WSHOpenSocket
+  WSHOpenSocket2="C:\Windows\System32\wshunix".WSHOpenSocket2
+  WSHSetSocketInformation="C:\Windows\System32\wshunix".WSHSetSocketInformation
+  WSHStringToAddress="C:\Windows\System32\wshunix".WSHStringToAddress

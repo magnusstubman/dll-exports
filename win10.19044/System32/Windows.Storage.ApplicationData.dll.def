@@ -1,0 +1,5 @@
+EXPORTS
+  CleanupTemporaryState="C:\Windows\System32\Windows.Storage.ApplicationData".CleanupTemporaryState
+  DllCanUnloadNow="C:\Windows\System32\Windows.Storage.ApplicationData".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Storage.ApplicationData".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Storage.ApplicationData".DllGetClassObject

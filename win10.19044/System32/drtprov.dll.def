@@ -1,0 +1,10 @@
+EXPORTS
+  DrtCreateDerivedKey="C:\Windows\System32\drtprov".DrtCreateDerivedKey
+  DrtCreateDerivedKeySecurityProvider="C:\Windows\System32\drtprov".DrtCreateDerivedKeySecurityProvider
+  DrtCreateDnsBootstrapResolver="C:\Windows\System32\drtprov".DrtCreateDnsBootstrapResolver
+  DrtCreateNullSecurityProvider="C:\Windows\System32\drtprov".DrtCreateNullSecurityProvider
+  DrtCreatePnrpBootstrapResolver="C:\Windows\System32\drtprov".DrtCreatePnrpBootstrapResolver
+  DrtDeleteDerivedKeySecurityProvider="C:\Windows\System32\drtprov".DrtDeleteDerivedKeySecurityProvider
+  DrtDeleteDnsBootstrapResolver="C:\Windows\System32\drtprov".DrtDeleteDnsBootstrapResolver
+  DrtDeleteNullSecurityProvider="C:\Windows\System32\drtprov".DrtDeleteNullSecurityProvider
+  DrtDeletePnrpBootstrapResolver="C:\Windows\System32\drtprov".DrtDeletePnrpBootstrapResolver

@@ -1,0 +1,10 @@
+EXPORTS
+  CloseGenericCounters="C:\Windows\SysWOW64\aspnet_counters".CloseGenericCounters
+  CloseStateCounters="C:\Windows\SysWOW64\aspnet_counters".CloseStateCounters
+  CloseVersion4Counters="C:\Windows\SysWOW64\aspnet_counters".CloseVersion4Counters
+  CollectGenericCounters="C:\Windows\SysWOW64\aspnet_counters".CollectGenericCounters
+  CollectStateCounters="C:\Windows\SysWOW64\aspnet_counters".CollectStateCounters
+  CollectVersion4Counters="C:\Windows\SysWOW64\aspnet_counters".CollectVersion4Counters
+  OpenGenericCounters="C:\Windows\SysWOW64\aspnet_counters".OpenGenericCounters
+  OpenStateCounters="C:\Windows\SysWOW64\aspnet_counters".OpenStateCounters
+  OpenVersion4Counters="C:\Windows\SysWOW64\aspnet_counters".OpenVersion4Counters

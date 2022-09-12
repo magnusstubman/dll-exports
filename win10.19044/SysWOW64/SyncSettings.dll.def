@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\SyncSettings".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\SyncSettings".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\SyncSettings".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\SysWOW64\SyncSettings".GetProxyDllInfo
+  GetSetting="C:\Windows\SysWOW64\SyncSettings".GetSetting

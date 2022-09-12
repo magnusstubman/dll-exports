@@ -1,0 +1,5 @@
+EXPORTS
+  XblGameSave_GetUserStorageRoot="C:\Windows\System32\XblGameSaveExt".XblGameSave_GetUserStorageRoot
+  XblGameSave_NTMSCreateInstance="C:\Windows\System32\XblGameSaveExt".XblGameSave_NTMSCreateInstance
+  XblGameSave_NTMSServerStart="C:\Windows\System32\XblGameSaveExt".XblGameSave_NTMSServerStart
+  XblGameSave_NTMSServerStop="C:\Windows\System32\XblGameSaveExt".XblGameSave_NTMSServerStop

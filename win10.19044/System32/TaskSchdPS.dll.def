@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\TaskSchdPS".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\TaskSchdPS".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\TaskSchdPS".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\TaskSchdPS".DllUnregisterServer

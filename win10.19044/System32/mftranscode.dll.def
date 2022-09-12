@@ -1,0 +1,9 @@
+EXPORTS
+  GetTranscodeComponentCreator="C:\Windows\System32\mftranscode".GetTranscodeComponentCreator
+  MFCreateSmartRemuxEngine="C:\Windows\System32\mftranscode".MFCreateSmartRemuxEngine
+  MFCreateTranscodeEngine="C:\Windows\System32\mftranscode".MFCreateTranscodeEngine
+  MFCreateTranscodeProfile="C:\Windows\System32\mftranscode".MFCreateTranscodeProfile
+  MFCreateTranscodeSinkActivate="C:\Windows\System32\mftranscode".MFCreateTranscodeSinkActivate
+  MFCreateTranscodeTopology="C:\Windows\System32\mftranscode".MFCreateTranscodeTopology
+  MFCreateTranscodeTopologyFromByteStream="C:\Windows\System32\mftranscode".MFCreateTranscodeTopologyFromByteStream
+  MFTranscodeGetAudioOutputAvailableTypes="C:\Windows\System32\mftranscode".MFTranscodeGetAudioOutputAvailableTypes

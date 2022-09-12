@@ -1,0 +1,12 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\WinTypes".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\WinTypes".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\WinTypes".DllGetClassObject
+  RoCreateNonAgilePropertySet="C:\Windows\SysWOW64\WinTypes".RoCreateNonAgilePropertySet
+  RoCreatePropertySetSerializer="C:\Windows\SysWOW64\WinTypes".RoCreatePropertySetSerializer
+  RoGetBufferMarshaler="C:\Windows\SysWOW64\WinTypes".RoGetBufferMarshaler
+  RoGetMetaDataFile="C:\Windows\SysWOW64\WinTypes".RoGetMetaDataFile
+  RoIsApiContractMajorVersionPresent="C:\Windows\SysWOW64\WinTypes".RoIsApiContractMajorVersionPresent
+  RoIsApiContractPresent="C:\Windows\SysWOW64\WinTypes".RoIsApiContractPresent
+  RoParseTypeName="C:\Windows\SysWOW64\WinTypes".RoParseTypeName
+  RoResolveNamespace="C:\Windows\SysWOW64\WinTypes".RoResolveNamespace

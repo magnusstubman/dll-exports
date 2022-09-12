@@ -1,0 +1,6 @@
+EXPORTS
+  DetectNAT="C:\Windows\System32\igdDiag".DetectNAT
+  DllCanUnloadNow="C:\Windows\System32\igdDiag".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\igdDiag".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\igdDiag".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\igdDiag".DllUnregisterServer

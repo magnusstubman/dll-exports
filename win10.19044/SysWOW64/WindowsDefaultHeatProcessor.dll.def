@@ -1,0 +1,2 @@
+EXPORTS
+  CreateHeatProcessor="C:\Windows\SysWOW64\WindowsDefaultHeatProcessor".CreateHeatProcessor

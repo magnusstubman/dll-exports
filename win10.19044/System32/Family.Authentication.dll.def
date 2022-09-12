@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Family.Authentication".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Family.Authentication".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Family.Authentication".DllGetClassObject

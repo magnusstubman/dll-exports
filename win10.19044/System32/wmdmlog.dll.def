@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wmdmlog".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wmdmlog".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wmdmlog".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wmdmlog".DllUnregisterServer

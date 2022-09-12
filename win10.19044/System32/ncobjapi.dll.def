@@ -1,0 +1,11 @@
+EXPORTS
+  WmiAddObjectProp="C:\Windows\System32\ncobjapi".WmiAddObjectProp
+  WmiCommitObject="C:\Windows\System32\ncobjapi".WmiCommitObject
+  WmiCreateObject="C:\Windows\System32\ncobjapi".WmiCreateObject
+  WmiCreateObjectWithFormat="C:\Windows\System32\ncobjapi".WmiCreateObjectWithFormat
+  WmiCreateObjectWithProps="C:\Windows\System32\ncobjapi".WmiCreateObjectWithProps
+  WmiDestroyObject="C:\Windows\System32\ncobjapi".WmiDestroyObject
+  WmiEventSourceConnect="C:\Windows\System32\ncobjapi".WmiEventSourceConnect
+  WmiEventSourceDisconnect="C:\Windows\System32\ncobjapi".WmiEventSourceDisconnect
+  WmiIsObjectActive="C:\Windows\System32\ncobjapi".WmiIsObjectActive
+  WmiSetAndCommitObject="C:\Windows\System32\ncobjapi".WmiSetAndCommitObject

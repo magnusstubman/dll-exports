@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\directmanipulation".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\directmanipulation".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\directmanipulation".DllGetClassObject
+  InitializeDManipHook="C:\Windows\System32\directmanipulation".InitializeDManipHook

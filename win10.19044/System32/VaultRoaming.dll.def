@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\VaultRoaming".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\VaultRoaming".DllGetClassObject
+  DllInstall="C:\Windows\System32\VaultRoaming".DllInstall
+  DllRegisterServer="C:\Windows\System32\VaultRoaming".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\VaultRoaming".DllUnregisterServer

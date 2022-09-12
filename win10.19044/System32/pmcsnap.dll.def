@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\pmcsnap".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\pmcsnap".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\pmcsnap".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\pmcsnap".DllUnregisterServer

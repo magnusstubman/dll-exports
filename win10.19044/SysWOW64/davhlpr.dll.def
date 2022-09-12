@@ -1,0 +1,14 @@
+EXPORTS
+  DavAddConnection="C:\Windows\SysWOW64\davhlpr".DavAddConnection
+  DavCheckAndConvertHttpUrlToUncName="C:\Windows\SysWOW64\davhlpr".DavCheckAndConvertHttpUrlToUncName
+  DavDeleteConnection="C:\Windows\SysWOW64\davhlpr".DavDeleteConnection
+  DavFlushFile="C:\Windows\SysWOW64\davhlpr".DavFlushFile
+  DavGetExtendedError="C:\Windows\SysWOW64\davhlpr".DavGetExtendedError
+  DavGetHTTPFromUNCPath="C:\Windows\SysWOW64\davhlpr".DavGetHTTPFromUNCPath
+  DavGetUNCFromHTTPPath="C:\Windows\SysWOW64\davhlpr".DavGetUNCFromHTTPPath
+  DavParseUncServerName="C:\Windows\SysWOW64\davhlpr".DavParseUncServerName
+  DavRemoveDummyShareFromFileName="C:\Windows\SysWOW64\davhlpr".DavRemoveDummyShareFromFileName
+  DavRemoveDummyShareFromFileNameEx="C:\Windows\SysWOW64\davhlpr".DavRemoveDummyShareFromFileNameEx
+  DavUrlDecodeToNtPath="C:\Windows\SysWOW64\davhlpr".DavUrlDecodeToNtPath
+  DavUrlDecodeUtf8="C:\Windows\SysWOW64\davhlpr".DavUrlDecodeUtf8
+  DavUrlEncodeNtPath="C:\Windows\SysWOW64\davhlpr".DavUrlEncodeNtPath

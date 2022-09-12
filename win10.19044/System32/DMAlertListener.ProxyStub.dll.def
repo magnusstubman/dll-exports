@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DMAlertListener.ProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DMAlertListener.ProxyStub".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\DMAlertListener.ProxyStub".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\DMAlertListener.ProxyStub".DllUnregisterServer

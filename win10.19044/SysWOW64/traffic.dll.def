@@ -1,0 +1,23 @@
+EXPORTS
+  TcAddFilter="C:\Windows\SysWOW64\traffic".TcAddFilter
+  TcAddFlow="C:\Windows\SysWOW64\traffic".TcAddFlow
+  TcCloseInterface="C:\Windows\SysWOW64\traffic".TcCloseInterface
+  TcDeleteFilter="C:\Windows\SysWOW64\traffic".TcDeleteFilter
+  TcDeleteFlow="C:\Windows\SysWOW64\traffic".TcDeleteFlow
+  TcDeregisterClient="C:\Windows\SysWOW64\traffic".TcDeregisterClient
+  TcEnumerateFlows="C:\Windows\SysWOW64\traffic".TcEnumerateFlows
+  TcEnumerateInterfaces="C:\Windows\SysWOW64\traffic".TcEnumerateInterfaces
+  TcGetFlowNameA="C:\Windows\SysWOW64\traffic".TcGetFlowNameA
+  TcGetFlowNameW="C:\Windows\SysWOW64\traffic".TcGetFlowNameW
+  TcGetInterfaceList="C:\Windows\SysWOW64\traffic".TcGetInterfaceList
+  TcModifyFlow="C:\Windows\SysWOW64\traffic".TcModifyFlow
+  TcOpenInterfaceA="C:\Windows\SysWOW64\traffic".TcOpenInterfaceA
+  TcOpenInterfaceW="C:\Windows\SysWOW64\traffic".TcOpenInterfaceW
+  TcQueryFlowA="C:\Windows\SysWOW64\traffic".TcQueryFlowA
+  TcQueryFlowW="C:\Windows\SysWOW64\traffic".TcQueryFlowW
+  TcQueryInterface="C:\Windows\SysWOW64\traffic".TcQueryInterface
+  TcRegisterClient="C:\Windows\SysWOW64\traffic".TcRegisterClient
+  TcSetFlowA="C:\Windows\SysWOW64\traffic".TcSetFlowA
+  TcSetFlowW="C:\Windows\SysWOW64\traffic".TcSetFlowW
+  TcSetInterface="C:\Windows\SysWOW64\traffic".TcSetInterface
+  TcSetSocketFlow="C:\Windows\SysWOW64\traffic".TcSetSocketFlow

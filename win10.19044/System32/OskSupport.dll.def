@@ -1,0 +1,3 @@
+EXPORTS
+  InitializeOSKSupport="C:\Windows\System32\OskSupport".InitializeOSKSupport
+  UninitializeOSKSupport="C:\Windows\System32\OskSupport".UninitializeOSKSupport

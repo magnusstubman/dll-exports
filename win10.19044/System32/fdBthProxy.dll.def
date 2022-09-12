@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fdBthProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fdBthProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\fdBthProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fdBthProxy".DllUnregisterServer

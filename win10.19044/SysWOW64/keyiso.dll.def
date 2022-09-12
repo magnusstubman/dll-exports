@@ -1,0 +1,3 @@
+EXPORTS
+  KeyIsoServiceMain="C:\Windows\SysWOW64\keyiso".KeyIsoServiceMain
+  KeyIsoSetAuditingInterface="C:\Windows\SysWOW64\keyiso".KeyIsoSetAuditingInterface

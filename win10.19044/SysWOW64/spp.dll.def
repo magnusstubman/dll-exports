@@ -1,0 +1,14 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\spp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\spp".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\spp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\spp".DllUnregisterServer
+  SppFreeBadWritersArray="C:\Windows\SysWOW64\spp".SppFreeBadWritersArray
+  SppFreeClientPropArray="C:\Windows\SysWOW64\spp".SppFreeClientPropArray
+  SppFreeExternalGroupPropArray="C:\Windows\SysWOW64\spp".SppFreeExternalGroupPropArray
+  SppFreeGroupPropArray="C:\Windows\SysWOW64\spp".SppFreeGroupPropArray
+  SppFreeMetadataProp="C:\Windows\SysWOW64\spp".SppFreeMetadataProp
+  SxTracerDebuggerBreak="C:\Windows\SysWOW64\spp".SxTracerDebuggerBreak
+  SxTracerGetThreadContextDebug="C:\Windows\SysWOW64\spp".SxTracerGetThreadContextDebug
+  SxTracerGetThreadContextRetail="C:\Windows\SysWOW64\spp".SxTracerGetThreadContextRetail
+  SxTracerShouldTrackFailure="C:\Windows\SysWOW64\spp".SxTracerShouldTrackFailure

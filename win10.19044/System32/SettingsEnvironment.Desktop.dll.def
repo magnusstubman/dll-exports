@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsEnvironment.Desktop".DllCanUnloadNow
+  GetDesktopSettingsEnvironment="C:\Windows\System32\SettingsEnvironment.Desktop".GetDesktopSettingsEnvironment

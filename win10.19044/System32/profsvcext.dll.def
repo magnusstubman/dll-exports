@@ -1,0 +1,8 @@
+EXPORTS
+  ConnectToRoamingVhdProfile="C:\Windows\System32\profsvcext".ConnectToRoamingVhdProfile
+  CreateRoamingProviderInstance="C:\Windows\System32\profsvcext".CreateRoamingProviderInstance
+  InitializeSuspendFolderPolicyAndUploadTaskConfig="C:\Windows\System32\profsvcext".InitializeSuspendFolderPolicyAndUploadTaskConfig
+  RefreshSuspendFolderPolicyAndUploadTaskConfig="C:\Windows\System32\profsvcext".RefreshSuspendFolderPolicyAndUploadTaskConfig
+  StartRoamingClassFactories="C:\Windows\System32\profsvcext".StartRoamingClassFactories
+  StopRoamingClassFactories="C:\Windows\System32\profsvcext".StopRoamingClassFactories
+  WaitForNetworkForRoamingProfile="C:\Windows\System32\profsvcext".WaitForNetworkForRoamingProfile

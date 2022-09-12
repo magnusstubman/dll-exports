@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DafPrintProvider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DafPrintProvider".DllGetClassObject

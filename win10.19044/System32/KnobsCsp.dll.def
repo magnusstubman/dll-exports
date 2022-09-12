@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\KnobsCsp".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\KnobsCsp".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\KnobsCsp".DllGetClassObject

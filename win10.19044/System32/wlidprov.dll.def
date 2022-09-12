@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wlidprov".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wlidprov".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wlidprov".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wlidprov".DllUnregisterServer

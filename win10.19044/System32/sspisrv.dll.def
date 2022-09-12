@@ -1,0 +1,6 @@
+EXPORTS
+  SspiSrvClientCallback="C:\Windows\System32\sspisrv".SspiSrvClientCallback
+  SspiSrvInitialize="C:\Windows\System32\sspisrv".SspiSrvInitialize
+  SspirAcquireCredentialsHandle="C:\Windows\System32\sspisrv".SspirAcquireCredentialsHandle
+  SspirDeleteSecurityContext="C:\Windows\System32\sspisrv".SspirDeleteSecurityContext
+  SspirProcessSecurityContext="C:\Windows\System32\sspisrv".SspirProcessSecurityContext

@@ -1,0 +1,12 @@
+EXPORTS
+  BiRtCreateEventForApp="C:\Windows\System32\biwinrt".BiRtCreateEventForApp
+  BiRtDeleteEventForApp="C:\Windows\System32\biwinrt".BiRtDeleteEventForApp
+  BiRtEnumerateBrokeredEvents="C:\Windows\System32\biwinrt".BiRtEnumerateBrokeredEvents
+  BiRtIsValidActivationTypeForEventType="C:\Windows\System32\biwinrt".BiRtIsValidActivationTypeForEventType
+  BiRtQueryBrokerEventId="C:\Windows\System32\biwinrt".BiRtQueryBrokerEventId
+  BiRtRegisterWorkItem="C:\Windows\System32\biwinrt".BiRtRegisterWorkItem
+  BiRtRegisterWorkItemClsid="C:\Windows\System32\biwinrt".BiRtRegisterWorkItemClsid
+  DllCanUnloadNow="C:\Windows\System32\biwinrt".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\biwinrt".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\biwinrt".DllGetClassObject
+  DllMain="C:\Windows\System32\biwinrt".DllMain

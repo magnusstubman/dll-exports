@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\StartTileData".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\StartTileData".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\StartTileData".DllGetClassObject
+  GetSetting="C:\Windows\System32\StartTileData".GetSetting
+  HasMigratedTDLData="C:\Windows\System32\StartTileData".HasMigratedTDLData
+  TryMigrateTDLData="C:\Windows\System32\StartTileData".TryMigrateTDLData

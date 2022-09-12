@@ -1,0 +1,12 @@
+EXPORTS
+  ComDBClaimNextFreePort="C:\Windows\SysWOW64\msports".ComDBClaimNextFreePort
+  ComDBClaimPort="C:\Windows\SysWOW64\msports".ComDBClaimPort
+  ComDBClose="C:\Windows\SysWOW64\msports".ComDBClose
+  ComDBGetCurrentPortUsage="C:\Windows\SysWOW64\msports".ComDBGetCurrentPortUsage
+  ComDBOpen="C:\Windows\SysWOW64\msports".ComDBOpen
+  ComDBReleasePort="C:\Windows\SysWOW64\msports".ComDBReleasePort
+  ComDBResizeDatabase="C:\Windows\SysWOW64\msports".ComDBResizeDatabase
+  ParallelPortPropPageProvider="C:\Windows\SysWOW64\msports".ParallelPortPropPageProvider
+  PortsClassInstaller="C:\Windows\SysWOW64\msports".PortsClassInstaller
+  SerialDisplayAdvancedSettings="C:\Windows\SysWOW64\msports".SerialDisplayAdvancedSettings
+  SerialPortPropPageProvider="C:\Windows\SysWOW64\msports".SerialPortPropPageProvider

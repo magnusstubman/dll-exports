@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\raschapext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\raschapext".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\raschapext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\raschapext".DllUnregisterServer
+  RasChapExt_FreeMemory="C:\Windows\System32\raschapext".RasChapExt_FreeMemory
+  RasChapExt_GetConfigForceNotDomainJoined="C:\Windows\System32\raschapext".RasChapExt_GetConfigForceNotDomainJoined
+  RasChapExt_GetConfigIgnoreIASLogon="C:\Windows\System32\raschapext".RasChapExt_GetConfigIgnoreIASLogon
+  RasChapExt_GetConfigKeepCredentialsOnFailure="C:\Windows\System32\raschapext".RasChapExt_GetConfigKeepCredentialsOnFailure
+  RasChapExt_GetUserCredentials="C:\Windows\System32\raschapext".RasChapExt_GetUserCredentials
+  RasChapExt_InvokeConfigUI="C:\Windows\System32\raschapext".RasChapExt_InvokeConfigUI
+  RasChapExt_InvokeInteractiveUI="C:\Windows\System32\raschapext".RasChapExt_InvokeInteractiveUI
+  RasChapExt_ShowHelp="C:\Windows\System32\raschapext".RasChapExt_ShowHelp

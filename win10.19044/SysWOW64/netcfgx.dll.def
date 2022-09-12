@@ -1,0 +1,12 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\netcfgx".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\netcfgx".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\netcfgx".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\netcfgx".DllUnregisterServer
+  LanaCfgFromCommandArgs="C:\Windows\SysWOW64\netcfgx".LanaCfgFromCommandArgs
+  NetCfgDiagFromCommandArgs="C:\Windows\SysWOW64\netcfgx".NetCfgDiagFromCommandArgs
+  NetCfgDiagRepairRegistryBindings="C:\Windows\SysWOW64\netcfgx".NetCfgDiagRepairRegistryBindings
+  NetClassInstaller="C:\Windows\SysWOW64\netcfgx".NetClassInstaller
+  NetPropPageProvider="C:\Windows\SysWOW64\netcfgx".NetPropPageProvider
+  OnMachineUILanguageInit="C:\Windows\SysWOW64\netcfgx".OnMachineUILanguageInit
+  OnMachineUILanguageSwitch="C:\Windows\SysWOW64\netcfgx".OnMachineUILanguageSwitch

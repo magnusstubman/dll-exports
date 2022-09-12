@@ -1,0 +1,10 @@
+EXPORTS
+  CloseGenericCounters="C:\Windows\System32\aspnet_counters".CloseGenericCounters
+  CloseStateCounters="C:\Windows\System32\aspnet_counters".CloseStateCounters
+  CloseVersion4Counters="C:\Windows\System32\aspnet_counters".CloseVersion4Counters
+  CollectGenericCounters="C:\Windows\System32\aspnet_counters".CollectGenericCounters
+  CollectStateCounters="C:\Windows\System32\aspnet_counters".CollectStateCounters
+  CollectVersion4Counters="C:\Windows\System32\aspnet_counters".CollectVersion4Counters
+  OpenGenericCounters="C:\Windows\System32\aspnet_counters".OpenGenericCounters
+  OpenStateCounters="C:\Windows\System32\aspnet_counters".OpenStateCounters
+  OpenVersion4Counters="C:\Windows\System32\aspnet_counters".OpenVersion4Counters

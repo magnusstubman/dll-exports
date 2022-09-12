@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\AarSvc".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\AarSvc".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\AarSvc".DllGetClassObject
+  ServiceMain="C:\Windows\System32\AarSvc".ServiceMain

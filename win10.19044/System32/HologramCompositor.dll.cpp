@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CreateHolographicCompositor=\"C:\\Windows\\System32\\HologramCompositor.CreateHolographicCompositor\"")
+#pragma comment(linker, "/export:DwmInitializeEngine=\"C:\\Windows\\System32\\HologramCompositor.DwmInitializeEngine\"")
+#pragma comment(linker, "/export:DwmInitializePort=\"C:\\Windows\\System32\\HologramCompositor.DwmInitializePort\"")
+#pragma comment(linker, "/export:DwmRenderDesktopForDDA=\"C:\\Windows\\System32\\HologramCompositor.DwmRenderDesktopForDDA\"")
+#pragma comment(linker, "/export:DwmShutdownEngine=\"C:\\Windows\\System32\\HologramCompositor.DwmShutdownEngine\"")
+#pragma comment(linker, "/export:DwmVersionCheck=\"C:\\Windows\\System32\\HologramCompositor.DwmVersionCheck\"")
+#pragma comment(linker, "/export:GetMPCInputPostProcessor=\"C:\\Windows\\System32\\HologramCompositor.GetMPCInputPostProcessor\"")

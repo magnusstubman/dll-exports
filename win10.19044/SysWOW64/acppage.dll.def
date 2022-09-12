@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\acppage".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\acppage".DllGetClassObject
+  GetExeFromLnk="C:\Windows\SysWOW64\acppage".GetExeFromLnk

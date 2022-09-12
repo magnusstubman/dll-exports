@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\cic".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\cic".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\cic".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\cic".DllUnregisterServer

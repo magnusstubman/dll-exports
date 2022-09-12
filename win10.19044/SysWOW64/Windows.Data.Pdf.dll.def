@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.Data.Pdf".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.Data.Pdf".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.Data.Pdf".DllGetClassObject
+  PdfCreateRenderer="C:\Windows\SysWOW64\Windows.Data.Pdf".PdfCreateRenderer

@@ -1,0 +1,15 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\CertPKICmdlet".DllMain
+  ExportCertificate="C:\Windows\SysWOW64\CertPKICmdlet".ExportCertificate
+  ExportPFXCertificate="C:\Windows\SysWOW64\CertPKICmdlet".ExportPFXCertificate
+  FindCertificate="C:\Windows\SysWOW64\CertPKICmdlet".FindCertificate
+  FreeCertResults="C:\Windows\SysWOW64\CertPKICmdlet".FreeCertResults
+  FreeResourceString="C:\Windows\SysWOW64\CertPKICmdlet".FreeResourceString
+  GetCertificateFromEnrollmentInternal="C:\Windows\SysWOW64\CertPKICmdlet".GetCertificateFromEnrollmentInternal
+  ImportCertificate="C:\Windows\SysWOW64\CertPKICmdlet".ImportCertificate
+  ImportPFXCertificate="C:\Windows\SysWOW64\CertPKICmdlet".ImportPFXCertificate
+  IsSecureKernelRunning="C:\Windows\SysWOW64\CertPKICmdlet".IsSecureKernelRunning
+  IsSmartCard="C:\Windows\SysWOW64\CertPKICmdlet".IsSmartCard
+  LoadResourceString="C:\Windows\SysWOW64\CertPKICmdlet".LoadResourceString
+  SuppressFreeCert="C:\Windows\SysWOW64\CertPKICmdlet".SuppressFreeCert
+  SuppressFreeStore="C:\Windows\SysWOW64\CertPKICmdlet".SuppressFreeStore

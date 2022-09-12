@@ -1,0 +1,19 @@
+EXPORTS
+  BeginFileMapEnumeration="C:\Windows\System32\sfc_os".BeginFileMapEnumeration
+  CloseFileMapEnumeration="C:\Windows\System32\sfc_os".CloseFileMapEnumeration
+  GetNextFileMapContent="C:\Windows\System32\sfc_os".GetNextFileMapContent
+  SRSetRestorePointA="C:\Windows\System32\sfc_os".SRSetRestorePointA
+  SRSetRestorePointW="C:\Windows\System32\sfc_os".SRSetRestorePointW
+  SfcClose="C:\Windows\System32\sfc_os".SfcClose
+  SfcConnectToServer="C:\Windows\System32\sfc_os".SfcConnectToServer
+  SfcFileException="C:\Windows\System32\sfc_os".SfcFileException
+  SfcGetNextProtectedFile="C:\Windows\System32\sfc_os".SfcGetNextProtectedFile
+  SfcInitProt="C:\Windows\System32\sfc_os".SfcInitProt
+  SfcInitiateScan="C:\Windows\System32\sfc_os".SfcInitiateScan
+  SfcInstallProtectedFiles="C:\Windows\System32\sfc_os".SfcInstallProtectedFiles
+  SfcIsFileProtected="C:\Windows\System32\sfc_os".SfcIsFileProtected
+  SfcIsKeyProtected="C:\Windows\System32\sfc_os".SfcIsKeyProtected
+  SfcTerminateWatcherThread="C:\Windows\System32\sfc_os".SfcTerminateWatcherThread
+  SfpDeleteCatalog="C:\Windows\System32\sfc_os".SfpDeleteCatalog
+  SfpInstallCatalog="C:\Windows\System32\sfc_os".SfpInstallCatalog
+  SfpVerifyFile="C:\Windows\System32\sfc_os".SfpVerifyFile

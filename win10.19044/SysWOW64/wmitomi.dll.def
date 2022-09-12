@@ -1,0 +1,14 @@
+EXPORTS
+  ??0CCritSec@@QAE@XZ="C:\Windows\SysWOW64\wmitomi".??0CCritSec@@QAE@XZ
+  ??0MIServer@@QAE@XZ="C:\Windows\SysWOW64\wmitomi".??0MIServer@@QAE@XZ
+  ??1CCritSec@@QAE@XZ="C:\Windows\SysWOW64\wmitomi".??1CCritSec@@QAE@XZ
+  ??4CAutoSetActivityId@@QAEAAV0@ABV0@@Z="C:\Windows\SysWOW64\wmitomi".??4CAutoSetActivityId@@QAEAAV0@ABV0@@Z
+  ??4CCritSec@@QAEAAV0@ABV0@@Z="C:\Windows\SysWOW64\wmitomi".??4CCritSec@@QAEAAV0@ABV0@@Z
+  ??4MIServer@@QAEAAV0@$$QAV0@@Z="C:\Windows\SysWOW64\wmitomi".??4MIServer@@QAEAAV0@$$QAV0@@Z
+  ??4MIServer@@QAEAAV0@ABV0@@Z="C:\Windows\SysWOW64\wmitomi".??4MIServer@@QAEAAV0@ABV0@@Z
+  ?SetAdapter@AdapterContextBase@@QAEJPAUIUnknown@@@Z="C:\Windows\SysWOW64\wmitomi".?SetAdapter@AdapterContextBase@@QAEJPAUIUnknown@@@Z
+  Adapter_CreateAdapterObject="C:\Windows\SysWOW64\wmitomi".Adapter_CreateAdapterObject
+  Adapter_DllCanUnloadNow="C:\Windows\SysWOW64\wmitomi".Adapter_DllCanUnloadNow
+  Adapter_DllGetClassObject="C:\Windows\SysWOW64\wmitomi".Adapter_DllGetClassObject
+  Adapter_RegisterDLL="C:\Windows\SysWOW64\wmitomi".Adapter_RegisterDLL
+  Adapter_UnRegisterDLL="C:\Windows\SysWOW64\wmitomi".Adapter_UnRegisterDLL

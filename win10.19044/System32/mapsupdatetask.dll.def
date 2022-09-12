@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mapsupdatetask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mapsupdatetask".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mapsupdatetask".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mapsupdatetask".DllUnregisterServer

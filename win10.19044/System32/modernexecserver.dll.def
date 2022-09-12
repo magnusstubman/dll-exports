@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\modernexecserver".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\modernexecserver".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\modernexecserver".DllGetClassObject

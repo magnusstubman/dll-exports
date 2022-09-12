@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\VmApplicationHealthMonitorProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\VmApplicationHealthMonitorProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\VmApplicationHealthMonitorProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\VmApplicationHealthMonitorProxy".DllUnregisterServer

@@ -1,0 +1,3 @@
+EXPORTS
+  CreateInstanceOfHostPolicy="C:\Windows\System32\LSCSHostPolicy".CreateInstanceOfHostPolicy
+  ReleaseInstanceOfHostPolicy="C:\Windows\System32\LSCSHostPolicy".ReleaseInstanceOfHostPolicy

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.AppDefaults".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.AppDefaults".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.AppDefaults".DllGetClassObject
+  GetSetting="C:\Windows\System32\Windows.UI.AppDefaults".GetSetting

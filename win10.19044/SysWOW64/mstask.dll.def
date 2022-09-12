@@ -1,0 +1,27 @@
+EXPORTS
+  ConvertAtJobsToTasks="C:\Windows\SysWOW64\mstask".ConvertAtJobsToTasks
+  DllCanUnloadNow="C:\Windows\SysWOW64\mstask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mstask".DllGetClassObject
+  GetNetScheduleAccountInformation="C:\Windows\SysWOW64\mstask".GetNetScheduleAccountInformation
+  NetrJobAdd="C:\Windows\SysWOW64\mstask".NetrJobAdd
+  NetrJobDel="C:\Windows\SysWOW64\mstask".NetrJobDel
+  NetrJobEnum="C:\Windows\SysWOW64\mstask".NetrJobEnum
+  NetrJobGetInfo="C:\Windows\SysWOW64\mstask".NetrJobGetInfo
+  SAGetAccountInformation="C:\Windows\SysWOW64\mstask".SAGetAccountInformation
+  SAGetNSAccountInformation="C:\Windows\SysWOW64\mstask".SAGetNSAccountInformation
+  SASetAccountInformation="C:\Windows\SysWOW64\mstask".SASetAccountInformation
+  SASetNSAccountInformation="C:\Windows\SysWOW64\mstask".SASetNSAccountInformation
+  SetNetScheduleAccountInformation="C:\Windows\SysWOW64\mstask".SetNetScheduleAccountInformation
+  _ConvertAtJobsToTasks@0="C:\Windows\SysWOW64\mstask"._ConvertAtJobsToTasks@0
+  _DllCanUnloadNow@0="C:\Windows\SysWOW64\mstask"._DllCanUnloadNow@0
+  _DllGetClassObject@12="C:\Windows\SysWOW64\mstask"._DllGetClassObject@12
+  _GetNetScheduleAccountInformation@12="C:\Windows\SysWOW64\mstask"._GetNetScheduleAccountInformation@12
+  _NetrJobAdd@12="C:\Windows\SysWOW64\mstask"._NetrJobAdd@12
+  _NetrJobDel@12="C:\Windows\SysWOW64\mstask"._NetrJobDel@12
+  _NetrJobEnum@20="C:\Windows\SysWOW64\mstask"._NetrJobEnum@20
+  _NetrJobGetInfo@12="C:\Windows\SysWOW64\mstask"._NetrJobGetInfo@12
+  _SAGetAccountInformation@16="C:\Windows\SysWOW64\mstask"._SAGetAccountInformation@16
+  _SAGetNSAccountInformation@12="C:\Windows\SysWOW64\mstask"._SAGetNSAccountInformation@12
+  _SASetAccountInformation@20="C:\Windows\SysWOW64\mstask"._SASetAccountInformation@20
+  _SASetNSAccountInformation@12="C:\Windows\SysWOW64\mstask"._SASetNSAccountInformation@12
+  _SetNetScheduleAccountInformation@12="C:\Windows\SysWOW64\mstask"._SetNetScheduleAccountInformation@12

@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInternetMailSyncServiceLayer="C:\Windows\System32\internetmail".CreateInternetMailSyncServiceLayer
+  DllCanUnloadNow="C:\Windows\System32\internetmail".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\internetmail".DllGetClassObject
+  GetAutoConfigManager="C:\Windows\System32\internetmail".GetAutoConfigManager
+  OneStopFactory="C:\Windows\System32\internetmail".OneStopFactory

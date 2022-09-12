@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\WPDSp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\WPDSp".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\WPDSp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\WPDSp".DllUnregisterServer

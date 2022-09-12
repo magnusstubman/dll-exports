@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RemovableMediaProvisioningPlugin".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\RemovableMediaProvisioningPlugin".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\RemovableMediaProvisioningPlugin".DllGetClassObject

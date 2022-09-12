@@ -1,0 +1,7 @@
+EXPORTS
+  AddDemoAppLicense="C:\Windows\SysWOW64\oemlicense".AddDemoAppLicense
+  HrAddAppxLicense="C:\Windows\SysWOW64\oemlicense".HrAddAppxLicense
+  HrInstallClipLicense="C:\Windows\SysWOW64\oemlicense".HrInstallClipLicense
+  HrNotifyPhoneLicenseReady="C:\Windows\SysWOW64\oemlicense".HrNotifyPhoneLicenseReady
+  HrRemoveAppxLicense="C:\Windows\SysWOW64\oemlicense".HrRemoveAppxLicense
+  RemoveDemoAppLicense="C:\Windows\SysWOW64\oemlicense".RemoveDemoAppLicense

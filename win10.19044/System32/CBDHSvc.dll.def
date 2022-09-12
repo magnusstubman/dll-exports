@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\CBDHSvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\CBDHSvc".SvchostPushServiceGlobals

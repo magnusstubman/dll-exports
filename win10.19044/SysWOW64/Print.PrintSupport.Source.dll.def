@@ -1,0 +1,26 @@
+EXPORTS
+  CreateAndStartPsaSession="C:\Windows\SysWOW64\Print.PrintSupport.Source".CreateAndStartPsaSession
+  CreatePsaManagerForUserContextAbi="C:\Windows\SysWOW64\Print.PrintSupport.Source".CreatePsaManagerForUserContextAbi
+  CreatePsaSessionForUserContext="C:\Windows\SysWOW64\Print.PrintSupport.Source".CreatePsaSessionForUserContext
+  CreatePsaSourceStream="C:\Windows\SysWOW64\Print.PrintSupport.Source".CreatePsaSourceStream
+  CreateSoftwareDevnode="C:\Windows\SysWOW64\Print.PrintSupport.Source".CreateSoftwareDevnode
+  DllCanUnloadNow="C:\Windows\SysWOW64\Print.PrintSupport.Source".DllCanUnloadNow
+  GetAppUserModelId="C:\Windows\SysWOW64\Print.PrintSupport.Source".GetAppUserModelId
+  GetEntryPoint="C:\Windows\SysWOW64\Print.PrintSupport.Source".GetEntryPoint
+  HasAppWithContract="C:\Windows\SysWOW64\Print.PrintSupport.Source".HasAppWithContract
+  IsActivationContractSupported="C:\Windows\SysWOW64\Print.PrintSupport.Source".IsActivationContractSupported
+  IsIppPrinterPsaEnabledForContractAsCurrentUser="C:\Windows\SysWOW64\Print.PrintSupport.Source".IsIppPrinterPsaEnabledForContractAsCurrentUser
+  IsPsaContractActivatableForDevice="C:\Windows\SysWOW64\Print.PrintSupport.Source".IsPsaContractActivatableForDevice
+  IsPsaEnabledForContract="C:\Windows\SysWOW64\Print.PrintSupport.Source".IsPsaEnabledForContract
+  IsPsaEnabledForContractAsCurrentUser="C:\Windows\SysWOW64\Print.PrintSupport.Source".IsPsaEnabledForContractAsCurrentUser
+  LaunchPsaAppForError="C:\Windows\SysWOW64\Print.PrintSupport.Source".LaunchPsaAppForError
+  LaunchSystemSettingsBroker="C:\Windows\SysWOW64\Print.PrintSupport.Source".LaunchSystemSettingsBroker
+  QueryAndSubscribePdmPrinterChangeNotification="C:\Windows\SysWOW64\Print.PrintSupport.Source".QueryAndSubscribePdmPrinterChangeNotification
+  RegeneratePdcForApp="C:\Windows\SysWOW64\Print.PrintSupport.Source".RegeneratePdcForApp
+  RemovePsaSession="C:\Windows\SysWOW64\Print.PrintSupport.Source".RemovePsaSession
+  RemovePsaSessionForUserContext="C:\Windows\SysWOW64\Print.PrintSupport.Source".RemovePsaSessionForUserContext
+  SetJobIdForPsaSession="C:\Windows\SysWOW64\Print.PrintSupport.Source".SetJobIdForPsaSession
+  SetPrintTicketPsa="C:\Windows\SysWOW64\Print.PrintSupport.Source".SetPrintTicketPsa
+  UpdatePDC="C:\Windows\SysWOW64\Print.PrintSupport.Source".UpdatePDC
+  UpdatePdcRegenerationRegKey="C:\Windows\SysWOW64\Print.PrintSupport.Source".UpdatePdcRegenerationRegKey
+  ValidatePrintTicket="C:\Windows\SysWOW64\Print.PrintSupport.Source".ValidatePrintTicket

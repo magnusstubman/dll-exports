@@ -1,0 +1,5 @@
+EXPORTS
+  CreatePDFFactory="C:\Windows\System32\PrintRenderAPIHost".CreatePDFFactory
+  CreateXPSToPDFConverter="C:\Windows\System32\PrintRenderAPIHost".CreateXPSToPDFConverter
+  DllCanUnloadNow="C:\Windows\System32\PrintRenderAPIHost".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\PrintRenderAPIHost".DllGetClassObject

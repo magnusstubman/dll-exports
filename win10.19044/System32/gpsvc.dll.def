@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\gpsvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\gpsvc".DllGetClassObject
+  GenerateRsopPolicy="C:\Windows\System32\gpsvc".GenerateRsopPolicy
+  GroupPolicyClientServiceMain="C:\Windows\System32\gpsvc".GroupPolicyClientServiceMain
+  IsSecureCachingDisabled="C:\Windows\System32\gpsvc".IsSecureCachingDisabled
+  ProcessGroupPolicyCompletedExInternal="C:\Windows\System32\gpsvc".ProcessGroupPolicyCompletedExInternal
+  ProcessGroupPolicyCompletedInternal="C:\Windows\System32\gpsvc".ProcessGroupPolicyCompletedInternal
+  RsopAccessCheckByTypeInternal="C:\Windows\System32\gpsvc".RsopAccessCheckByTypeInternal
+  RsopFileAccessCheckInternal="C:\Windows\System32\gpsvc".RsopFileAccessCheckInternal
+  RsopResetPolicySettingStatusInternal="C:\Windows\System32\gpsvc".RsopResetPolicySettingStatusInternal
+  RsopSetPolicySettingStatusInternal="C:\Windows\System32\gpsvc".RsopSetPolicySettingStatusInternal
+  SvchostPushServiceGlobals="C:\Windows\System32\gpsvc".SvchostPushServiceGlobals

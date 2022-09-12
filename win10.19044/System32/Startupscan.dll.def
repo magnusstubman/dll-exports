@@ -1,0 +1,6 @@
+EXPORTS
+  DllMain="C:\Windows\System32\Startupscan".DllMain
+  SusResetNotification="C:\Windows\System32\Startupscan".SusResetNotification
+  SusRunOEMTaskOffline="C:\Windows\System32\Startupscan".SusRunOEMTaskOffline
+  SusRunOEMTaskOnline="C:\Windows\System32\Startupscan".SusRunOEMTaskOnline
+  SusRunTask="C:\Windows\System32\Startupscan".SusRunTask

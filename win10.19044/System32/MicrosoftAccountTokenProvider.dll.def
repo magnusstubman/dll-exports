@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MicrosoftAccountTokenProvider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MicrosoftAccountTokenProvider".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MicrosoftAccountTokenProvider".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MicrosoftAccountTokenProvider".DllUnregisterServer

@@ -1,0 +1,3 @@
+EXPORTS
+  RegisterDataMarketRPCInterface="C:\Windows\System32\datamarketsvc".RegisterDataMarketRPCInterface
+  UnregisterDataMarketRPCInterface="C:\Windows\System32\datamarketsvc".UnregisterDataMarketRPCInterface

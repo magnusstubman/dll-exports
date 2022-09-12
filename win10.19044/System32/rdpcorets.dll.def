@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\rdpcorets".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\rdpcorets".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\rdpcorets".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\rdpcorets".DllUnregisterServer
+  RFX_CreateGFXService="C:\Windows\System32\rdpcorets".RFX_CreateGFXService
+  RFX_CreatePluginFactory="C:\Windows\System32\rdpcorets".RFX_CreatePluginFactory

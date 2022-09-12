@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ClipboardServer".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\ClipboardServer".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\ClipboardServer".DllGetClassObject

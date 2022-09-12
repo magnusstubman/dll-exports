@@ -1,0 +1,10 @@
+EXPORTS
+  CreateSystemInputHost="C:\Windows\System32\ISM".CreateSystemInputHost
+  IsSystemInputHostStandalone="C:\Windows\System32\ISM".IsSystemInputHostStandalone
+  NotifyInputSinkParented="C:\Windows\System32\ISM".NotifyInputSinkParented
+  NotifyInputSinkRemoved="C:\Windows\System32\ISM".NotifyInputSinkRemoved
+  Register3DCompositor="C:\Windows\System32\ISM".Register3DCompositor
+  RegisterManipulationThread="C:\Windows\System32\ISM".RegisterManipulationThread
+  SetManipulationInputTarget="C:\Windows\System32\ISM".SetManipulationInputTarget
+  StopAndEndInertia="C:\Windows\System32\ISM".StopAndEndInertia
+  Unregister3DCompositor="C:\Windows\System32\ISM".Unregister3DCompositor

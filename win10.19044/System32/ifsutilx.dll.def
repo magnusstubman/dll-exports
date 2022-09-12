@@ -1,0 +1,7 @@
+EXPORTS
+  CheckSnapshotPresence="C:\Windows\System32\ifsutilx".CheckSnapshotPresence
+  CreateVolumeSnapshot="C:\Windows\System32\ifsutilx".CreateVolumeSnapshot
+  GetSnapshotErrorMessage="C:\Windows\System32\ifsutilx".GetSnapshotErrorMessage
+  InitializeCOM="C:\Windows\System32\ifsutilx".InitializeCOM
+  ReleaseVolumeSnapshot="C:\Windows\System32\ifsutilx".ReleaseVolumeSnapshot
+  UninitializeCOM="C:\Windows\System32\ifsutilx".UninitializeCOM

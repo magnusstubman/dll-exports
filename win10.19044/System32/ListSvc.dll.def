@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ListSvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ListSvc".DllGetClassObject
+  ListenerServiceMain="C:\Windows\System32\ListSvc".ListenerServiceMain

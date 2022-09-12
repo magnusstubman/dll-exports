@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DAMediaManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\DAMediaManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\DAMediaManager".DllGetClassObject

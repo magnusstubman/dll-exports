@@ -1,0 +1,15 @@
+EXPORTS
+  CreateApplicationBarProxy="C:\Windows\System32\Windows.UI.Xaml.Phone".CreateApplicationBarProxy
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.Xaml.Phone".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.Xaml.Phone".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.Xaml.Phone".DllGetClassObject
+  GetDependencyLocatorStorage="C:\Windows\System32\Windows.UI.Xaml.Phone".GetDependencyLocatorStorage
+  SendTelemetryOnSuspend="C:\Windows\System32\Windows.UI.Xaml.Phone".SendTelemetryOnSuspend
+  XamlControlsCalculateFlyoutPlacement="C:\Windows\System32\Windows.UI.Xaml.Phone".XamlControlsCalculateFlyoutPlacement
+  XamlControlsGetDatePickerSelection="C:\Windows\System32\Windows.UI.Xaml.Phone".XamlControlsGetDatePickerSelection
+  XamlControlsGetListPickerSelection="C:\Windows\System32\Windows.UI.Xaml.Phone".XamlControlsGetListPickerSelection
+  XamlControlsGetPlatformMetadataProvider="C:\Windows\System32\Windows.UI.Xaml.Phone".XamlControlsGetPlatformMetadataProvider
+  XamlControlsGetPlatformResourcesModuleHandle="C:\Windows\System32\Windows.UI.Xaml.Phone".XamlControlsGetPlatformResourcesModuleHandle
+  XamlControlsGetTimePickerSelection="C:\Windows\System32\Windows.UI.Xaml.Phone".XamlControlsGetTimePickerSelection
+  XamlControlsTestHookCreateLoopingSelector="C:\Windows\System32\Windows.UI.Xaml.Phone".XamlControlsTestHookCreateLoopingSelector
+  XamlTestHookFreePhoneResourceLibrary="C:\Windows\System32\Windows.UI.Xaml.Phone".XamlTestHookFreePhoneResourceLibrary

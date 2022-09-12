@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\rdvgocl32".DllMain
+  clGetExtensionFunctionAddress="C:\Windows\SysWOW64\rdvgocl32".clGetExtensionFunctionAddress
+  clIcdGetPlatformIDsKHR="C:\Windows\SysWOW64\rdvgocl32".clIcdGetPlatformIDsKHR

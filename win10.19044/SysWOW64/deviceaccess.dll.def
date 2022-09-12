@@ -1,0 +1,10 @@
+EXPORTS
+  BrokeredOpenCommPort="C:\Windows\SysWOW64\deviceaccess".BrokeredOpenCommPort
+  CreateDeviceAccessInstance="C:\Windows\SysWOW64\deviceaccess".CreateDeviceAccessInstance
+  DllCanUnloadNow="C:\Windows\SysWOW64\deviceaccess".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\deviceaccess".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\deviceaccess".DllGetClassObject
+  ProcessTrackerInsertOrWait="C:\Windows\SysWOW64\deviceaccess".ProcessTrackerInsertOrWait
+  ProcessTrackerRemove="C:\Windows\SysWOW64\deviceaccess".ProcessTrackerRemove
+  ServiceMain="C:\Windows\SysWOW64\deviceaccess".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\SysWOW64\deviceaccess".SvchostPushServiceGlobals

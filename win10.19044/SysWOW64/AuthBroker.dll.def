@@ -1,0 +1,12 @@
+EXPORTS
+  AuthBrokerClearThreadClientContext="C:\Windows\SysWOW64\AuthBroker".AuthBrokerClearThreadClientContext
+  AuthBrokerCreateClientContext="C:\Windows\SysWOW64\AuthBroker".AuthBrokerCreateClientContext
+  AuthBrokerFreeClientContext="C:\Windows\SysWOW64\AuthBroker".AuthBrokerFreeClientContext
+  AuthBrokerSetThreadClientContext="C:\Windows\SysWOW64\AuthBroker".AuthBrokerSetThreadClientContext
+  DllCanUnloadNow="C:\Windows\SysWOW64\AuthBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\AuthBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\AuthBroker".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\AuthBroker".DllInstall
+  DllRegisterServer="C:\Windows\SysWOW64\AuthBroker".DllRegisterServer
+  FindCallingThreadImmersiveWindow="C:\Windows\SysWOW64\AuthBroker".FindCallingThreadImmersiveWindow
+  PurgeAuthHostSsoCache="C:\Windows\SysWOW64\AuthBroker".PurgeAuthHostSsoCache

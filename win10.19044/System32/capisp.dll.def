@@ -1,0 +1,6 @@
+EXPORTS
+  CAPISysPrep_Generalize="C:\Windows\System32\capisp".CAPISysPrep_Generalize
+  CryptoSysPrep_Clean="C:\Windows\System32\capisp".CryptoSysPrep_Clean
+  CryptoSysPrep_Specialize="C:\Windows\System32\capisp".CryptoSysPrep_Specialize
+  CryptoSysPrep_Specialize_Clone="C:\Windows\System32\capisp".CryptoSysPrep_Specialize_Clone
+  CryptoSysPrep_Specialize_Offline="C:\Windows\System32\capisp".CryptoSysPrep_Specialize_Offline

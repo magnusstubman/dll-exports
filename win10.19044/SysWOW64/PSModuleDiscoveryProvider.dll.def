@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\PSModuleDiscoveryProvider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\PSModuleDiscoveryProvider".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\PSModuleDiscoveryProvider".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\PSModuleDiscoveryProvider".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\PSModuleDiscoveryProvider".DllUnregisterServer
+  GetProviderClassID="C:\Windows\SysWOW64\PSModuleDiscoveryProvider".GetProviderClassID
+  MI_Main="C:\Windows\SysWOW64\PSModuleDiscoveryProvider".MI_Main

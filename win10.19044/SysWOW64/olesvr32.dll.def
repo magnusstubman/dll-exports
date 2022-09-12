@@ -1,0 +1,24 @@
+EXPORTS
+  DeleteClientInfo="C:\Windows\SysWOW64\olesvr32".DeleteClientInfo
+  DocWndProc="C:\Windows\SysWOW64\olesvr32".DocWndProc
+  EnumForTerminate="C:\Windows\SysWOW64\olesvr32".EnumForTerminate
+  FindItemWnd="C:\Windows\SysWOW64\olesvr32".FindItemWnd
+  ItemCallBack="C:\Windows\SysWOW64\olesvr32".ItemCallBack
+  ItemWndProc="C:\Windows\SysWOW64\olesvr32".ItemWndProc
+  OleBlockServer="C:\Windows\SysWOW64\olesvr32".OleBlockServer
+  OleQueryServerVersion="C:\Windows\SysWOW64\olesvr32".OleQueryServerVersion
+  OleRegisterServer="C:\Windows\SysWOW64\olesvr32".OleRegisterServer
+  OleRegisterServerDoc="C:\Windows\SysWOW64\olesvr32".OleRegisterServerDoc
+  OleRenameServerDoc="C:\Windows\SysWOW64\olesvr32".OleRenameServerDoc
+  OleRevertServerDoc="C:\Windows\SysWOW64\olesvr32".OleRevertServerDoc
+  OleRevokeObject="C:\Windows\SysWOW64\olesvr32".OleRevokeObject
+  OleRevokeServer="C:\Windows\SysWOW64\olesvr32".OleRevokeServer
+  OleRevokeServerDoc="C:\Windows\SysWOW64\olesvr32".OleRevokeServerDoc
+  OleSavedServerDoc="C:\Windows\SysWOW64\olesvr32".OleSavedServerDoc
+  OleUnblockServer="C:\Windows\SysWOW64\olesvr32".OleUnblockServer
+  SendDataMsg="C:\Windows\SysWOW64\olesvr32".SendDataMsg
+  SendRenameMsg="C:\Windows\SysWOW64\olesvr32".SendRenameMsg
+  SrvrWndProc="C:\Windows\SysWOW64\olesvr32".SrvrWndProc
+  TerminateClients="C:\Windows\SysWOW64\olesvr32".TerminateClients
+  TerminateDocClients="C:\Windows\SysWOW64\olesvr32".TerminateDocClients
+  WEP="C:\Windows\SysWOW64\olesvr32".WEP

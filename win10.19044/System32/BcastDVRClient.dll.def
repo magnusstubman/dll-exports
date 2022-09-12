@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\BcastDVRClient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\BcastDVRClient".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\BcastDVRClient".DllGetClassObject

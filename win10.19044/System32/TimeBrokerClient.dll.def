@@ -1,0 +1,11 @@
+EXPORTS
+  TbCreateCEvent="C:\Windows\System32\TimeBrokerClient".TbCreateCEvent
+  TbCreateEvent="C:\Windows\System32\TimeBrokerClient".TbCreateEvent
+  TbDeleteCEvent="C:\Windows\System32\TimeBrokerClient".TbDeleteCEvent
+  TbDeleteEvent="C:\Windows\System32\TimeBrokerClient".TbDeleteEvent
+  TbEnumerateEvents="C:\Windows\System32\TimeBrokerClient".TbEnumerateEvents
+  TbQueryCEventData="C:\Windows\System32\TimeBrokerClient".TbQueryCEventData
+  TbQueryCEventTriggerTime="C:\Windows\System32\TimeBrokerClient".TbQueryCEventTriggerTime
+  TbQueryEventData="C:\Windows\System32\TimeBrokerClient".TbQueryEventData
+  TbUpdateCEvent="C:\Windows\System32\TimeBrokerClient".TbUpdateCEvent
+  TbUpdateEvent="C:\Windows\System32\TimeBrokerClient".TbUpdateEvent

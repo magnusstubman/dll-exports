@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wiascanprofiles".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wiascanprofiles".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wiascanprofiles".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wiascanprofiles".DllUnregisterServer

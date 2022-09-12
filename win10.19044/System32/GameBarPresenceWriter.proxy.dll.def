@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\GameBarPresenceWriter.proxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\GameBarPresenceWriter.proxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\GameBarPresenceWriter.proxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\GameBarPresenceWriter.proxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\GameBarPresenceWriter.proxy".GetProxyDllInfo

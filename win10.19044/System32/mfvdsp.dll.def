@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mfvdsp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mfvdsp".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mfvdsp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mfvdsp".DllUnregisterServer

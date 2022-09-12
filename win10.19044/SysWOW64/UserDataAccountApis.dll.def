@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\UserDataAccountApis".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\UserDataAccountApis".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\UserDataAccountApis".DllGetClassObject

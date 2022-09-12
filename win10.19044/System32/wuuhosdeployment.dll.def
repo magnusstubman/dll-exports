@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wuuhosdeployment".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wuuhosdeployment".DllGetClassObject
+  DllMain="C:\Windows\System32\wuuhosdeployment".DllMain
+  WUCreateExpressionEvaluator="C:\Windows\System32\wuuhosdeployment".WUCreateExpressionEvaluator
+  WUCreateUpdateHandler="C:\Windows\System32\wuuhosdeployment".WUCreateUpdateHandler

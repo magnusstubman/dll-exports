@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\DragDropExperienceCommon".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\DragDropExperienceCommon".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\DragDropExperienceCommon".DllGetClassObject

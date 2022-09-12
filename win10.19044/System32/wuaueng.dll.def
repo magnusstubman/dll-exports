@@ -1,0 +1,6 @@
+EXPORTS
+  DllMain="C:\Windows\System32\wuaueng".DllMain
+  GeneralizeForImaging="C:\Windows\System32\wuaueng".GeneralizeForImaging
+  WUCreateExpressionEvaluator="C:\Windows\System32\wuaueng".WUCreateExpressionEvaluator
+  WUCreateUpdateHandler="C:\Windows\System32\wuaueng".WUCreateUpdateHandler
+  WUServiceMain="C:\Windows\System32\wuaueng".WUServiceMain

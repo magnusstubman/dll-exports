@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.Playback.ProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.Media.Playback.ProxyStub".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\Windows.Media.Playback.ProxyStub".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Media.Playback.ProxyStub".DllUnregisterServer

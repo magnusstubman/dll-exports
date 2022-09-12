@@ -1,0 +1,4 @@
+EXPORTS
+  RtcOrtcAlloc="C:\Windows\SysWOW64\ortcengine".RtcOrtcAlloc
+  RtcOrtcFree="C:\Windows\SysWOW64\ortcengine".RtcOrtcFree
+  RtcOrtcGetBrokerFactory="C:\Windows\SysWOW64\ortcengine".RtcOrtcGetBrokerFactory

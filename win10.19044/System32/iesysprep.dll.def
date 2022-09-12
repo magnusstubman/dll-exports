@@ -1,0 +1,6 @@
+EXPORTS
+  Sysprep_Cleanup_IE="C:\Windows\System32\iesysprep".Sysprep_Cleanup_IE
+  Sysprep_Generalize_IE="C:\Windows\System32\iesysprep".Sysprep_Generalize_IE
+  Sysprep_Offline_Specialize_IE="C:\Windows\System32\iesysprep".Sysprep_Offline_Specialize_IE
+  Sysprep_Online_Specialize_IE="C:\Windows\System32\iesysprep".Sysprep_Online_Specialize_IE
+  Sysprep_Specialize_IE="C:\Windows\System32\iesysprep".Sysprep_Specialize_IE

@@ -1,0 +1,9 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\dsquery".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dsquery".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\dsquery".DllInstall
+  DllRegisterServer="C:\Windows\SysWOW64\dsquery".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\dsquery".DllUnregisterServer
+  OpenQueryWindow="C:\Windows\SysWOW64\dsquery".OpenQueryWindow
+  OpenSavedDsQuery="C:\Windows\SysWOW64\dsquery".OpenSavedDsQuery
+  OpenSavedDsQueryW="C:\Windows\SysWOW64\dsquery".OpenSavedDsQueryW

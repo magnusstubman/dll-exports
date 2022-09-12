@@ -1,0 +1,27 @@
+EXPORTS
+  CredPackAuthenticationBufferA="C:\Windows\System32\credui".CredPackAuthenticationBufferA
+  CredPackAuthenticationBufferW="C:\Windows\System32\credui".CredPackAuthenticationBufferW
+  CredUICmdLinePromptForCredentialsA="C:\Windows\System32\credui".CredUICmdLinePromptForCredentialsA
+  CredUICmdLinePromptForCredentialsW="C:\Windows\System32\credui".CredUICmdLinePromptForCredentialsW
+  CredUIConfirmCredentialsA="C:\Windows\System32\credui".CredUIConfirmCredentialsA
+  CredUIConfirmCredentialsW="C:\Windows\System32\credui".CredUIConfirmCredentialsW
+  CredUIInitControls="C:\Windows\System32\credui".CredUIInitControls
+  CredUIParseUserNameA="C:\Windows\System32\credui".CredUIParseUserNameA
+  CredUIParseUserNameW="C:\Windows\System32\credui".CredUIParseUserNameW
+  CredUIPromptForCredentialsA="C:\Windows\System32\credui".CredUIPromptForCredentialsA
+  CredUIPromptForCredentialsW="C:\Windows\System32\credui".CredUIPromptForCredentialsW
+  CredUIPromptForWindowsCredentialsA="C:\Windows\System32\credui".CredUIPromptForWindowsCredentialsA
+  CredUIPromptForWindowsCredentialsW="C:\Windows\System32\credui".CredUIPromptForWindowsCredentialsW
+  CredUIPromptForWindowsCredentialsWorker="C:\Windows\System32\credui".CredUIPromptForWindowsCredentialsWorker
+  CredUIReadSSOCredA="C:\Windows\System32\credui".CredUIReadSSOCredA
+  CredUIReadSSOCredW="C:\Windows\System32\credui".CredUIReadSSOCredW
+  CredUIStoreSSOCredA="C:\Windows\System32\credui".CredUIStoreSSOCredA
+  CredUIStoreSSOCredW="C:\Windows\System32\credui".CredUIStoreSSOCredW
+  CredUnPackAuthenticationBufferA="C:\Windows\System32\credui".CredUnPackAuthenticationBufferA
+  CredUnPackAuthenticationBufferW="C:\Windows\System32\credui".CredUnPackAuthenticationBufferW
+  SspiGetCredUIContext="C:\Windows\System32\credui".SspiGetCredUIContext
+  SspiIsPromptingNeeded="C:\Windows\System32\credui".SspiIsPromptingNeeded
+  SspiPromptForCredentialsA="C:\Windows\System32\credui".SspiPromptForCredentialsA
+  SspiPromptForCredentialsW="C:\Windows\System32\credui".SspiPromptForCredentialsW
+  SspiUnmarshalCredUIContext="C:\Windows\System32\credui".SspiUnmarshalCredUIContext
+  SspiUpdateCredentials="C:\Windows\System32\credui".SspiUpdateCredentials

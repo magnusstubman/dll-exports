@@ -1,0 +1,20 @@
+EXPORTS
+  CheckPackageManagerOutOfProc="C:\Windows\SysWOW64\provplatformdesktop".CheckPackageManagerOutOfProc
+  CheckUserConsent="C:\Windows\SysWOW64\provplatformdesktop".CheckUserConsent
+  ConfigureAppLaunch="C:\Windows\SysWOW64\provplatformdesktop".ConfigureAppLaunch
+  CreateAutomaticRedeploymentFailureNotificationTask="C:\Windows\SysWOW64\provplatformdesktop".CreateAutomaticRedeploymentFailureNotificationTask
+  DllCanUnloadNow="C:\Windows\SysWOW64\provplatformdesktop".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\provplatformdesktop".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\provplatformdesktop".DllGetClassObject
+  GetDeviceId="C:\Windows\SysWOW64\provplatformdesktop".GetDeviceId
+  GetPackagePassword="C:\Windows\SysWOW64\provplatformdesktop".GetPackagePassword
+  GetProvisioningTargetUser="C:\Windows\SysWOW64\provplatformdesktop".GetProvisioningTargetUser
+  InitiateMgmtRefresh="C:\Windows\SysWOW64\provplatformdesktop".InitiateMgmtRefresh
+  InitiateSystemReset="C:\Windows\SysWOW64\provplatformdesktop".InitiateSystemReset
+  MgmtRefreshPrecheck="C:\Windows\SysWOW64\provplatformdesktop".MgmtRefreshPrecheck
+  MgmtRefreshRebootSystem="C:\Windows\SysWOW64\provplatformdesktop".MgmtRefreshRebootSystem
+  MgmtRefreshReleaseSession="C:\Windows\SysWOW64\provplatformdesktop".MgmtRefreshReleaseSession
+  MgmtRefreshStageSession="C:\Windows\SysWOW64\provplatformdesktop".MgmtRefreshStageSession
+  MgmtRefreshUnstageSession="C:\Windows\SysWOW64\provplatformdesktop".MgmtRefreshUnstageSession
+  ReportInstallationError="C:\Windows\SysWOW64\provplatformdesktop".ReportInstallationError
+  SetDeviceName="C:\Windows\SysWOW64\provplatformdesktop".SetDeviceName

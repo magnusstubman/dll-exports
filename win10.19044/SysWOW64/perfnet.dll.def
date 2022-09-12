@@ -1,0 +1,4 @@
+EXPORTS
+  CloseNetSvcsObject="C:\Windows\SysWOW64\perfnet".CloseNetSvcsObject
+  CollectNetSvcsObjectData="C:\Windows\SysWOW64\perfnet".CollectNetSvcsObjectData
+  OpenNetSvcsObject="C:\Windows\SysWOW64\perfnet".OpenNetSvcsObject

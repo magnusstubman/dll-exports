@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.Networking".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.Networking".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.Networking".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\Windows.Networking".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\Windows.Networking".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\Windows.Networking".DllUnregisterServer
+  SetSocketMediaStreamingMode="C:\Windows\SysWOW64\Windows.Networking".SetSocketMediaStreamingMode

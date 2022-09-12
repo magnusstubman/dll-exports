@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Networking.Proximity".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Networking.Proximity".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Networking.Proximity".DllGetClassObject
+  ProximityConnect="C:\Windows\System32\Windows.Networking.Proximity".ProximityConnect

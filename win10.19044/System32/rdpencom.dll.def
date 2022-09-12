@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\rdpencom".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\rdpencom".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\rdpencom".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\rdpencom".DllUnregisterServer

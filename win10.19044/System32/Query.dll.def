@@ -1,0 +1,11 @@
+EXPORTS
+  BindIFilterFromStorage="C:\Windows\System32\Query".BindIFilterFromStorage
+  BindIFilterFromStream="C:\Windows\System32\Query".BindIFilterFromStream
+  DllCanUnloadNow="C:\Windows\System32\Query".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Query".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\Query".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Query".DllUnregisterServer
+  LoadBinaryFilter="C:\Windows\System32\Query".LoadBinaryFilter
+  LoadIFilter="C:\Windows\System32\Query".LoadIFilter
+  LoadIFilterEx="C:\Windows\System32\Query".LoadIFilterEx
+  LoadTextFilter="C:\Windows\System32\Query".LoadTextFilter

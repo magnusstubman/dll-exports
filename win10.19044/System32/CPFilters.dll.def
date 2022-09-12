@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CPFilters".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\CPFilters".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\CPFilters".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\CPFilters".DllUnregisterServer
+  UpdatePlayready="C:\Windows\System32\CPFilters".UpdatePlayready

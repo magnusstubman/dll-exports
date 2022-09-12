@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\qasf".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\qasf".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\qasf".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\qasf".DllUnregisterServer

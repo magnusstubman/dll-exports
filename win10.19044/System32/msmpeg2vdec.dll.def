@@ -1,0 +1,9 @@
+EXPORTS
+  ?GetSurface@CVIDEOfilter@@QEAAJHPEAEJ@Z="C:\Windows\System32\msmpeg2vdec".?GetSurface@CVIDEOfilter@@QEAAJHPEAEJ@Z
+  ?GetSurfaceSize@CVIDEOfilter@@QEAAJHPEAJ@Z="C:\Windows\System32\msmpeg2vdec".?GetSurfaceSize@CVIDEOfilter@@QEAAJHPEAJ@Z
+  ?LoadSurface@CVIDEOfilter@@QEAAJHPEAEK@Z="C:\Windows\System32\msmpeg2vdec".?LoadSurface@CVIDEOfilter@@QEAAJHPEAEK@Z
+  DllCanUnloadNow="C:\Windows\System32\msmpeg2vdec".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\msmpeg2vdec".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\msmpeg2vdec".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msmpeg2vdec".DllUnregisterServer
+  GetH264DecoderFunctionTable="C:\Windows\System32\msmpeg2vdec".GetH264DecoderFunctionTable

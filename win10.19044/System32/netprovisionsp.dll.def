@@ -1,0 +1,3 @@
+EXPORTS
+  NetpCertProviderInitialize="C:\Windows\System32\netprovisionsp".NetpCertProviderInitialize
+  NetpPolProviderInitialize="C:\Windows\System32\netprovisionsp".NetpPolProviderInitialize

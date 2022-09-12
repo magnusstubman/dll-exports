@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\pstorec".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\pstorec".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\pstorec".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\pstorec".DllUnregisterServer
+  PStoreCreateInstance="C:\Windows\SysWOW64\pstorec".PStoreCreateInstance
+  PStoreEnumProviders="C:\Windows\SysWOW64\pstorec".PStoreEnumProviders

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ConsoleLogon".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\ConsoleLogon".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\ConsoleLogon".DllGetClassObject

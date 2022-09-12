@@ -1,0 +1,14 @@
+EXPORTS
+  ?CancelWriteICR@@YGJPAPAUIComponentRecords@@@Z="C:\Windows\SysWOW64\catsrv".?CancelWriteICR@@YGJPAPAUIComponentRecords@@@Z
+  ?GetReadICR@@YGJHPAPAUIComponentRecords@@@Z="C:\Windows\SysWOW64\catsrv".?GetReadICR@@YGJHPAPAUIComponentRecords@@@Z
+  ?GetWriteICR@@YGJPAPAUIComponentRecords@@@Z="C:\Windows\SysWOW64\catsrv".?GetWriteICR@@YGJPAPAUIComponentRecords@@@Z
+  ?ReleaseReadICR@@YGXPAPAUIComponentRecords@@@Z="C:\Windows\SysWOW64\catsrv".?ReleaseReadICR@@YGXPAPAUIComponentRecords@@@Z
+  ?SaveWriteICR@@YGJPAPAUIComponentRecords@@@Z="C:\Windows\SysWOW64\catsrv".?SaveWriteICR@@YGJPAPAUIComponentRecords@@@Z
+  CreateComponentLibraryTS="C:\Windows\SysWOW64\catsrv".CreateComponentLibraryTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\catsrv".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\catsrv".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\catsrv".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\catsrv".DllUnregisterServer
+  GetAppImport="C:\Windows\SysWOW64\catsrv".GetAppImport
+  GetCatalogCRMClerk="C:\Windows\SysWOW64\catsrv".GetCatalogCRMClerk
+  OpenComponentLibraryTS="C:\Windows\SysWOW64\catsrv".OpenComponentLibraryTS

@@ -1,0 +1,4 @@
+EXPORTS
+  InstallNTDSProvider="C:\Windows\SysWOW64\winrnr".InstallNTDSProvider
+  NSPStartup="C:\Windows\SysWOW64\winrnr".NSPStartup
+  RemoveNTDSProvider="C:\Windows\SysWOW64\winrnr".RemoveNTDSProvider

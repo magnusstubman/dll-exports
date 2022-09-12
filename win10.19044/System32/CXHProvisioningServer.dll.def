@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CXHProvisioningServer".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\CXHProvisioningServer".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\CXHProvisioningServer".DllGetClassObject

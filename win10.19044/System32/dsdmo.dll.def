@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dsdmo".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dsdmo".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dsdmo".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dsdmo".DllUnregisterServer

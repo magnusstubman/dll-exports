@@ -1,0 +1,4 @@
+EXPORTS
+  DiscpEstablishServiceLinkage="C:\Windows\System32\iscsiexe".DiscpEstablishServiceLinkage
+  ServiceMain="C:\Windows\System32\iscsiexe".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\iscsiexe".SvchostPushServiceGlobals

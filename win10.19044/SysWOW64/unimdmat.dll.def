@@ -1,0 +1,20 @@
+EXPORTS
+  UmAbortCurrentModemCommand="C:\Windows\SysWOW64\unimdmat".UmAbortCurrentModemCommand
+  UmAnswerModem="C:\Windows\SysWOW64\unimdmat".UmAnswerModem
+  UmCloseModem="C:\Windows\SysWOW64\unimdmat".UmCloseModem
+  UmDeinitializeModemDriver="C:\Windows\SysWOW64\unimdmat".UmDeinitializeModemDriver
+  UmDialModem="C:\Windows\SysWOW64\unimdmat".UmDialModem
+  UmDuplicateDeviceHandle="C:\Windows\SysWOW64\unimdmat".UmDuplicateDeviceHandle
+  UmGenerateDigit="C:\Windows\SysWOW64\unimdmat".UmGenerateDigit
+  UmGetDiagnostics="C:\Windows\SysWOW64\unimdmat".UmGetDiagnostics
+  UmHangupModem="C:\Windows\SysWOW64\unimdmat".UmHangupModem
+  UmInitModem="C:\Windows\SysWOW64\unimdmat".UmInitModem
+  UmInitializeModemDriver="C:\Windows\SysWOW64\unimdmat".UmInitializeModemDriver
+  UmIssueCommand="C:\Windows\SysWOW64\unimdmat".UmIssueCommand
+  UmLogDiagnostics="C:\Windows\SysWOW64\unimdmat".UmLogDiagnostics
+  UmLogStringA="C:\Windows\SysWOW64\unimdmat".UmLogStringA
+  UmMonitorModem="C:\Windows\SysWOW64\unimdmat".UmMonitorModem
+  UmOpenModem="C:\Windows\SysWOW64\unimdmat".UmOpenModem
+  UmSetPassthroughMode="C:\Windows\SysWOW64\unimdmat".UmSetPassthroughMode
+  UmSetSpeakerPhoneState="C:\Windows\SysWOW64\unimdmat".UmSetSpeakerPhoneState
+  UmWaveAction="C:\Windows\SysWOW64\unimdmat".UmWaveAction

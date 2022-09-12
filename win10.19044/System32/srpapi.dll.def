@@ -1,0 +1,22 @@
+EXPORTS
+  AiEvaluatePlugin="C:\Windows\System32\srpapi".AiEvaluatePlugin
+  AppIDDecodeAttributeString="C:\Windows\System32\srpapi".AppIDDecodeAttributeString
+  AppIDEncodeAttributeString="C:\Windows\System32\srpapi".AppIDEncodeAttributeString
+  AppIDFreeAttributeString="C:\Windows\System32\srpapi".AppIDFreeAttributeString
+  SrpCloseThreadNetworkContext="C:\Windows\System32\srpapi".SrpCloseThreadNetworkContext
+  SrpCloseTrackInstall="C:\Windows\System32\srpapi".SrpCloseTrackInstall
+  SrpCreateThreadNetworkContext="C:\Windows\System32\srpapi".SrpCreateThreadNetworkContext
+  SrpDisablePermissiveModeFileEncryption="C:\Windows\System32\srpapi".SrpDisablePermissiveModeFileEncryption
+  SrpDoesPolicyAllowAppExecution="C:\Windows\System32\srpapi".SrpDoesPolicyAllowAppExecution
+  SrpEnablePermissiveModeFileEncryption="C:\Windows\System32\srpapi".SrpEnablePermissiveModeFileEncryption
+  SrpGetAllowedEnterprises="C:\Windows\System32\srpapi".SrpGetAllowedEnterprises
+  SrpGetAppxFqbnFromPackageFullName="C:\Windows\System32\srpapi".SrpGetAppxFqbnFromPackageFullName
+  SrpGetEnterpriseIds="C:\Windows\System32\srpapi".SrpGetEnterpriseIds
+  SrpGetEnterprisePolicy="C:\Windows\System32\srpapi".SrpGetEnterprisePolicy
+  SrpInheritEnterpriseContext="C:\Windows\System32\srpapi".SrpInheritEnterpriseContext
+  SrpInheritOriginClaim="C:\Windows\System32\srpapi".SrpInheritOriginClaim
+  SrpIsAllowed="C:\Windows\System32\srpapi".SrpIsAllowed
+  SrpIsTokenService="C:\Windows\System32\srpapi".SrpIsTokenService
+  SrpOpenTrackInstall="C:\Windows\System32\srpapi".SrpOpenTrackInstall
+  SrpRestoreEnterpriseContext="C:\Windows\System32\srpapi".SrpRestoreEnterpriseContext
+  SrpSetTokenEnterpriseId="C:\Windows\System32\srpapi".SrpSetTokenEnterpriseId

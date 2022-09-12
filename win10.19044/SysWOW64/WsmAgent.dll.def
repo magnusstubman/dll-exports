@@ -1,0 +1,10 @@
+EXPORTS
+  ??1CWSManCriticalSectionWithConditionVar@@QAE@XZ="C:\Windows\SysWOW64\WsmAgent".??1CWSManCriticalSectionWithConditionVar@@QAE@XZ
+  ?GetInitError@CWSManCriticalSection@@QBEKXZ="C:\Windows\SysWOW64\WsmAgent".?GetInitError@CWSManCriticalSection@@QBEKXZ
+  DllCanUnloadNow="C:\Windows\SysWOW64\WsmAgent".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\WsmAgent".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\WsmAgent".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\WsmAgent".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\WsmAgent".DllUnregisterServer
+  GetProviderClassID="C:\Windows\SysWOW64\WsmAgent".GetProviderClassID
+  MI_Main="C:\Windows\SysWOW64\WsmAgent".MI_Main

@@ -1,0 +1,3 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\SysWOW64\msrd3x40".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\msrd3x40".DllUnregisterServer

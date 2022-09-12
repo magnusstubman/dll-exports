@@ -1,0 +1,19 @@
+EXPORTS
+  EapHostPeerBeginSession="C:\Windows\SysWOW64\eappprxy".EapHostPeerBeginSession
+  EapHostPeerClearConnection="C:\Windows\SysWOW64\eappprxy".EapHostPeerClearConnection
+  EapHostPeerEndSession="C:\Windows\SysWOW64\eappprxy".EapHostPeerEndSession
+  EapHostPeerFreeEapError="C:\Windows\SysWOW64\eappprxy".EapHostPeerFreeEapError
+  EapHostPeerFreeRuntimeMemory="C:\Windows\SysWOW64\eappprxy".EapHostPeerFreeRuntimeMemory
+  EapHostPeerGetAuthStatus="C:\Windows\SysWOW64\eappprxy".EapHostPeerGetAuthStatus
+  EapHostPeerGetDataToUnplumbCredentials="C:\Windows\SysWOW64\eappprxy".EapHostPeerGetDataToUnplumbCredentials
+  EapHostPeerGetEncryptedPassword="C:\Windows\SysWOW64\eappprxy".EapHostPeerGetEncryptedPassword
+  EapHostPeerGetIdentity="C:\Windows\SysWOW64\eappprxy".EapHostPeerGetIdentity
+  EapHostPeerGetResponseAttributes="C:\Windows\SysWOW64\eappprxy".EapHostPeerGetResponseAttributes
+  EapHostPeerGetResult="C:\Windows\SysWOW64\eappprxy".EapHostPeerGetResult
+  EapHostPeerGetSendPacket="C:\Windows\SysWOW64\eappprxy".EapHostPeerGetSendPacket
+  EapHostPeerGetUIContext="C:\Windows\SysWOW64\eappprxy".EapHostPeerGetUIContext
+  EapHostPeerInitialize="C:\Windows\SysWOW64\eappprxy".EapHostPeerInitialize
+  EapHostPeerProcessReceivedPacket="C:\Windows\SysWOW64\eappprxy".EapHostPeerProcessReceivedPacket
+  EapHostPeerSetResponseAttributes="C:\Windows\SysWOW64\eappprxy".EapHostPeerSetResponseAttributes
+  EapHostPeerSetUIContext="C:\Windows\SysWOW64\eappprxy".EapHostPeerSetUIContext
+  EapHostPeerUninitialize="C:\Windows\SysWOW64\eappprxy".EapHostPeerUninitialize

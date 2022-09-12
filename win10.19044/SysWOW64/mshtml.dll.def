@@ -1,0 +1,23 @@
+EXPORTS
+  ClearPhishingFilterData="C:\Windows\SysWOW64\mshtml".ClearPhishingFilterData
+  ConvertAndEscapePostData="C:\Windows\SysWOW64\mshtml".ConvertAndEscapePostData
+  CreateCoreWebView="C:\Windows\SysWOW64\mshtml".CreateCoreWebView
+  CreateHTMLPropertyPage="C:\Windows\SysWOW64\mshtml".CreateHTMLPropertyPage
+  DllCanUnloadNow="C:\Windows\SysWOW64\mshtml".DllCanUnloadNow
+  DllEnumClassObjects="C:\Windows\SysWOW64\mshtml".DllEnumClassObjects
+  DllGetClassObject="C:\Windows\SysWOW64\mshtml".DllGetClassObject
+  GetColorValueFromString="C:\Windows\SysWOW64\mshtml".GetColorValueFromString
+  GetWebPlatformObject="C:\Windows\SysWOW64\mshtml".GetWebPlatformObject
+  IEIsXMLNSRegistered="C:\Windows\SysWOW64\mshtml".IEIsXMLNSRegistered
+  IERegisterXMLNS="C:\Windows\SysWOW64\mshtml".IERegisterXMLNS
+  InitializeLocalHtmlEngine="C:\Windows\SysWOW64\mshtml".InitializeLocalHtmlEngine
+  MatchExactGetIDsOfNames="C:\Windows\SysWOW64\mshtml".MatchExactGetIDsOfNames
+  PrintHTML="C:\Windows\SysWOW64\mshtml".PrintHTML
+  RunHTMLApplication="C:\Windows\SysWOW64\mshtml".RunHTMLApplication
+  ShowHTMLDialog="C:\Windows\SysWOW64\mshtml".ShowHTMLDialog
+  ShowHTMLDialogEx="C:\Windows\SysWOW64\mshtml".ShowHTMLDialogEx
+  ShowModalDialog="C:\Windows\SysWOW64\mshtml".ShowModalDialog
+  ShowModelessHTMLDialog="C:\Windows\SysWOW64\mshtml".ShowModelessHTMLDialog
+  TravelLogCreateInstance="C:\Windows\SysWOW64\mshtml".TravelLogCreateInstance
+  TravelLogStgCreateInstance="C:\Windows\SysWOW64\mshtml".TravelLogStgCreateInstance
+  UninitializeLocalHtmlEngine="C:\Windows\SysWOW64\mshtml".UninitializeLocalHtmlEngine

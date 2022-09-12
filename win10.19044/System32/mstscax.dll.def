@@ -1,0 +1,12 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mstscax".DllCanUnloadNow
+  DllCancelAuthentication="C:\Windows\System32\mstscax".DllCancelAuthentication
+  DllDeleteSavedCreds="C:\Windows\System32\mstscax".DllDeleteSavedCreds
+  DllGetClaimsToken="C:\Windows\System32\mstscax".DllGetClaimsToken
+  DllGetClassObject="C:\Windows\System32\mstscax".DllGetClassObject
+  DllGetTscCtlVer="C:\Windows\System32\mstscax".DllGetTscCtlVer
+  DllLogoffClaimsToken="C:\Windows\System32\mstscax".DllLogoffClaimsToken
+  DllRegisterServer="C:\Windows\System32\mstscax".DllRegisterServer
+  DllSetAuthProperties="C:\Windows\System32\mstscax".DllSetAuthProperties
+  DllSetClaimsToken="C:\Windows\System32\mstscax".DllSetClaimsToken
+  DllUnregisterServer="C:\Windows\System32\mstscax".DllUnregisterServer

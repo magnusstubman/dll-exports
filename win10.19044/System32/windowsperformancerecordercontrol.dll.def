@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\windowsperformancerecordercontrol".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\windowsperformancerecordercontrol".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\windowsperformancerecordercontrol".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\windowsperformancerecordercontrol".DllUnregisterServer
+  WPRCControlLogging="C:\Windows\System32\windowsperformancerecordercontrol".WPRCControlLogging
+  WPRCCreateInstance="C:\Windows\System32\windowsperformancerecordercontrol".WPRCCreateInstance
+  WPRCCreateInstanceUnderInstanceName="C:\Windows\System32\windowsperformancerecordercontrol".WPRCCreateInstanceUnderInstanceName
+  WPRCDisableBuiltinProfiles="C:\Windows\System32\windowsperformancerecordercontrol".WPRCDisableBuiltinProfiles
+  WPRCFormatError="C:\Windows\System32\windowsperformancerecordercontrol".WPRCFormatError
+  WPRCQueryBuiltInProfiles="C:\Windows\System32\windowsperformancerecordercontrol".WPRCQueryBuiltInProfiles
+  WPRCReleaseInstanceByName="C:\Windows\System32\windowsperformancerecordercontrol".WPRCReleaseInstanceByName
+  WPRCRemoveLogging="C:\Windows\System32\windowsperformancerecordercontrol".WPRCRemoveLogging

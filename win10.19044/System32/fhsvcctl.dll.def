@@ -1,0 +1,15 @@
+EXPORTS
+  DllMain="C:\Windows\System32\fhsvcctl".DllMain
+  FhQueryConfiguredUsersCount="C:\Windows\System32\fhsvcctl".FhQueryConfiguredUsersCount
+  FhServiceBlockBackup="C:\Windows\System32\fhsvcctl".FhServiceBlockBackup
+  FhServiceClearProtectionState="C:\Windows\System32\fhsvcctl".FhServiceClearProtectionState
+  FhServiceClosePipe="C:\Windows\System32\fhsvcctl".FhServiceClosePipe
+  FhServiceEnterMaintenanceMode="C:\Windows\System32\fhsvcctl".FhServiceEnterMaintenanceMode
+  FhServiceExitMaintenanceMode="C:\Windows\System32\fhsvcctl".FhServiceExitMaintenanceMode
+  FhServiceMigrationFinished="C:\Windows\System32\fhsvcctl".FhServiceMigrationFinished
+  FhServiceMigrationStarting="C:\Windows\System32\fhsvcctl".FhServiceMigrationStarting
+  FhServiceOpenPipe="C:\Windows\System32\fhsvcctl".FhServiceOpenPipe
+  FhServiceReloadConfiguration="C:\Windows\System32\fhsvcctl".FhServiceReloadConfiguration
+  FhServiceStartBackup="C:\Windows\System32\fhsvcctl".FhServiceStartBackup
+  FhServiceStopBackup="C:\Windows\System32\fhsvcctl".FhServiceStopBackup
+  FhServiceUnblockBackup="C:\Windows\System32\fhsvcctl".FhServiceUnblockBackup

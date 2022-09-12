@@ -1,0 +1,15 @@
+EXPORTS
+  CmdBatNotificationStub="C:\Windows\SysWOW64\cmdext".CmdBatNotificationStub
+  DoSHChangeNotify="C:\Windows\SysWOW64\cmdext".DoSHChangeNotify
+  FindFirstStreamWStub="C:\Windows\SysWOW64\cmdext".FindFirstStreamWStub
+  FindNextStreamWStub="C:\Windows\SysWOW64\cmdext".FindNextStreamWStub
+  GetBinaryTypeWStub="C:\Windows\SysWOW64\cmdext".GetBinaryTypeWStub
+  GetVDMCurrentDirectoriesStub="C:\Windows\SysWOW64\cmdext".GetVDMCurrentDirectoriesStub
+  LookupAccountSidWStub="C:\Windows\SysWOW64\cmdext".LookupAccountSidWStub
+  MessageBeepStub="C:\Windows\SysWOW64\cmdext".MessageBeepStub
+  QueryFullProcessImageNameWStub="C:\Windows\SysWOW64\cmdext".QueryFullProcessImageNameWStub
+  SaferWorker="C:\Windows\SysWOW64\cmdext".SaferWorker
+  ShellExecuteWorker="C:\Windows\SysWOW64\cmdext".ShellExecuteWorker
+  WNetAddConnection2WStub="C:\Windows\SysWOW64\cmdext".WNetAddConnection2WStub
+  WNetCancelConnection2WStub="C:\Windows\SysWOW64\cmdext".WNetCancelConnection2WStub
+  WNetGetConnectionWStub="C:\Windows\SysWOW64\cmdext".WNetGetConnectionWStub

@@ -1,0 +1,8 @@
+EXPORTS
+  CleanupProximityService="C:\Windows\System32\ProximityService".CleanupProximityService
+  GetProximityClientCount="C:\Windows\System32\ProximityService".GetProximityClientCount
+  InitProximityService="C:\Windows\System32\ProximityService".InitProximityService
+  InitProximityServiceEx="C:\Windows\System32\ProximityService".InitProximityServiceEx
+  ServiceMain="C:\Windows\System32\ProximityService".ServiceMain
+  SessionChangedEvent="C:\Windows\System32\ProximityService".SessionChangedEvent
+  SvchostPushServiceGlobals="C:\Windows\System32\ProximityService".SvchostPushServiceGlobals

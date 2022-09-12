@@ -1,0 +1,11 @@
+EXPORTS
+  CreateDeploymentSession="C:\Windows\System32\UpdateAgent".CreateDeploymentSession
+  CreateDeploymentSessionEx="C:\Windows\System32\UpdateAgent".CreateDeploymentSessionEx
+  CreateOfflineDeploymentSession="C:\Windows\System32\UpdateAgent".CreateOfflineDeploymentSession
+  UA_CommitActionList="C:\Windows\System32\UpdateAgent".UA_CommitActionList
+  UA_CreateActionList="C:\Windows\System32\UpdateAgent".UA_CreateActionList
+  UA_CreateDownloadList="C:\Windows\System32\UpdateAgent".UA_CreateDownloadList
+  UA_CreateDownloadListFromActionList="C:\Windows\System32\UpdateAgent".UA_CreateDownloadListFromActionList
+  UA_CreatePackageListFromDownloadList="C:\Windows\System32\UpdateAgent".UA_CreatePackageListFromDownloadList
+  UA_InstallActionList="C:\Windows\System32\UpdateAgent".UA_InstallActionList
+  UA_ReleaseDownloadList="C:\Windows\System32\UpdateAgent".UA_ReleaseDownloadList

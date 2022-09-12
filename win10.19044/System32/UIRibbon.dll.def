@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\UIRibbon".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\UIRibbon".DllGetClassObject
+  DllMain="C:\Windows\System32\UIRibbon".DllMain

@@ -1,0 +1,8 @@
+EXPORTS
+  DirectInputCreateA="C:\Windows\SysWOW64\dinput".DirectInputCreateA
+  DirectInputCreateEx="C:\Windows\SysWOW64\dinput".DirectInputCreateEx
+  DirectInputCreateW="C:\Windows\SysWOW64\dinput".DirectInputCreateW
+  DllCanUnloadNow="C:\Windows\SysWOW64\dinput".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dinput".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\dinput".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\dinput".DllUnregisterServer

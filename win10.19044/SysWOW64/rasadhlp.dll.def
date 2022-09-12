@@ -1,0 +1,5 @@
+EXPORTS
+  AcsHlpNbConnection="C:\Windows\SysWOW64\rasadhlp".AcsHlpNbConnection
+  WSAttemptAutodialAddr="C:\Windows\SysWOW64\rasadhlp".WSAttemptAutodialAddr
+  WSAttemptAutodialName="C:\Windows\SysWOW64\rasadhlp".WSAttemptAutodialName
+  WSNoteSuccessfulHostentLookup="C:\Windows\SysWOW64\rasadhlp".WSNoteSuccessfulHostentLookup

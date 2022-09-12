@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\setupcln".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\setupcln".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\setupcln".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\setupcln".DllUnregisterServer

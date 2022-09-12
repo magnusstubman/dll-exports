@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\sdohlp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\sdohlp".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\sdohlp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\sdohlp".DllUnregisterServer

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fhcat".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fhcat".DllGetClassObject
+  DllInstall="C:\Windows\System32\fhcat".DllInstall
+  DllRegisterServer="C:\Windows\System32\fhcat".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fhcat".DllUnregisterServer

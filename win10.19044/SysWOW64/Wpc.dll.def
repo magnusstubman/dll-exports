@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Wpc".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Wpc".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Wpc".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\Wpc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\Wpc".DllUnregisterServer
+  WpcTimeRestrictionsCreateLocalOverride="C:\Windows\SysWOW64\Wpc".WpcTimeRestrictionsCreateLocalOverride

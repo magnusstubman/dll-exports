@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mfsrcsnk".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mfsrcsnk".DllGetClassObject
+  MFCreateAVIMediaSink="C:\Windows\System32\mfsrcsnk".MFCreateAVIMediaSink
+  MFCreateWAVEMediaSink="C:\Windows\System32\mfsrcsnk".MFCreateWAVEMediaSink

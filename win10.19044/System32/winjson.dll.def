@@ -1,0 +1,4 @@
+EXPORTS
+  WinJsonCloseHandle="C:\Windows\System32\winjson".WinJsonCloseHandle
+  WinJsonSendRequest="C:\Windows\System32\winjson".WinJsonSendRequest
+  WinJsonSendRequestAsync="C:\Windows\System32\winjson".WinJsonSendRequestAsync

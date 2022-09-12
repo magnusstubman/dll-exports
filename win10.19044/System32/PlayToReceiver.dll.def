@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PlayToReceiver".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\PlayToReceiver".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\PlayToReceiver".DllGetClassObject

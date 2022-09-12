@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\XblAuthTokenBrokerExt".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\XblAuthTokenBrokerExt".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\XblAuthTokenBrokerExt".DllGetClassObject

@@ -1,0 +1,17 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Networking.Vpn".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Networking.Vpn".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Networking.Vpn".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.Networking.Vpn".DllMain
+  DllRegisterServer="C:\Windows\System32\Windows.Networking.Vpn".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Networking.Vpn".DllUnregisterServer
+  LaunchStoreForPluginW="C:\Windows\System32\Windows.Networking.Vpn".LaunchStoreForPluginW
+  VpnClientGetCostedNetworkSettings="C:\Windows\System32\Windows.Networking.Vpn".VpnClientGetCostedNetworkSettings
+  VpnClientGetProxyForUrlAndSingleSessionDeviceUser="C:\Windows\System32\Windows.Networking.Vpn".VpnClientGetProxyForUrlAndSingleSessionDeviceUser
+  VpnClientPluginGetSecurity="C:\Windows\System32\Windows.Networking.Vpn".VpnClientPluginGetSecurity
+  VpnClientPluginInstall="C:\Windows\System32\Windows.Networking.Vpn".VpnClientPluginInstall
+  VpnClientPluginManifestFind="C:\Windows\System32\Windows.Networking.Vpn".VpnClientPluginManifestFind
+  VpnClientPluginUninstall="C:\Windows\System32\Windows.Networking.Vpn".VpnClientPluginUninstall
+  VpnClientSetCostedNetworkSettings="C:\Windows\System32\Windows.Networking.Vpn".VpnClientSetCostedNetworkSettings
+  VpnPluginEnumerate="C:\Windows\System32\Windows.Networking.Vpn".VpnPluginEnumerate
+  VpnPluginListFree="C:\Windows\System32\Windows.Networking.Vpn".VpnPluginListFree

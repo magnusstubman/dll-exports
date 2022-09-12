@@ -1,0 +1,5 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\System32\sxsstore".DllGetClassObject
+  DllMain="C:\Windows\System32\sxsstore".DllMain
+  SxsStoreFinalize="C:\Windows\System32\sxsstore".SxsStoreFinalize
+  SxsStoreInitialize="C:\Windows\System32\sxsstore".SxsStoreInitialize

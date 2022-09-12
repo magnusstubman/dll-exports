@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\cca".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\cca".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\cca".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\cca".DllUnregisterServer

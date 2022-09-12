@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\InputCloudStore".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\InputCloudStore".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\InputCloudStore".DllGetClassObject

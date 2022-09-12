@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\VideoHandlers".DllCanUnloadNow
+  GetSetting="C:\Windows\System32\VideoHandlers".GetSetting
+  NotifyVideoHandler="C:\Windows\System32\VideoHandlers".NotifyVideoHandler

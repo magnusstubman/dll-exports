@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\UserMgrProxy".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\UserMgrProxy".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\UserMgrProxy".DllGetClassObject

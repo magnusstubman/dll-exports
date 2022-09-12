@@ -1,0 +1,24 @@
+EXPORTS
+  ADsPropCheckIfWritable="C:\Windows\System32\dsprop".ADsPropCheckIfWritable
+  ADsPropCreateNotifyObj="C:\Windows\System32\dsprop".ADsPropCreateNotifyObj
+  ADsPropGetInitInfo="C:\Windows\System32\dsprop".ADsPropGetInitInfo
+  ADsPropSendErrorMessage="C:\Windows\System32\dsprop".ADsPropSendErrorMessage
+  ADsPropSetHwnd="C:\Windows\System32\dsprop".ADsPropSetHwnd
+  ADsPropSetHwndWithTitle="C:\Windows\System32\dsprop".ADsPropSetHwndWithTitle
+  ADsPropShowErrorDialog="C:\Windows\System32\dsprop".ADsPropShowErrorDialog
+  BringSheetToForeground="C:\Windows\System32\dsprop".BringSheetToForeground
+  CheckADsError="C:\Windows\System32\dsprop".CheckADsError
+  CrackName="C:\Windows\System32\dsprop".CrackName
+  DSPROP_GetGCSearchOnDomain="C:\Windows\System32\dsprop".DSPROP_GetGCSearchOnDomain
+  DllCanUnloadNow="C:\Windows\System32\dsprop".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dsprop".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dsprop".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dsprop".DllUnregisterServer
+  ErrMsg="C:\Windows\System32\dsprop".ErrMsg
+  ErrMsgParam="C:\Windows\System32\dsprop".ErrMsgParam
+  FindSheet="C:\Windows\System32\dsprop".FindSheet
+  IsSheetAlreadyUp="C:\Windows\System32\dsprop".IsSheetAlreadyUp
+  MsgBox="C:\Windows\System32\dsprop".MsgBox
+  PostADsPropSheet="C:\Windows\System32\dsprop".PostADsPropSheet
+  ReportError="C:\Windows\System32\dsprop".ReportError
+  Smart_PADS_ATTR_INFO__Empty="C:\Windows\System32\dsprop".Smart_PADS_ATTR_INFO__Empty

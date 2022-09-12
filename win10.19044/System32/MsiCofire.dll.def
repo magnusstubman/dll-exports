@@ -1,0 +1,5 @@
+EXPORTS
+  DllMain="C:\Windows\System32\MsiCofire".DllMain
+  WdiDiagnosticModuleMain="C:\Windows\System32\MsiCofire".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\System32\MsiCofire".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\System32\MsiCofire".WdiHandleInstance

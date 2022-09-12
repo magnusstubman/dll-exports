@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\cscobj".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\cscobj".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\cscobj".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\cscobj".DllUnregisterServer
+  ProcessGroupPolicy="C:\Windows\System32\cscobj".ProcessGroupPolicy
+  ProcessPolicy="C:\Windows\System32\cscobj".ProcessPolicy

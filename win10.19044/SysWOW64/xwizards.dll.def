@@ -1,0 +1,22 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\xwizards".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\xwizards".DllGetClassObject
+  ProcessXMLFileA="C:\Windows\SysWOW64\xwizards".ProcessXMLFileA
+  ProcessXMLFileW="C:\Windows\SysWOW64\xwizards".ProcessXMLFileW
+  ResetRegistrationA="C:\Windows\SysWOW64\xwizards".ResetRegistrationA
+  ResetRegistrationW="C:\Windows\SysWOW64\xwizards".ResetRegistrationW
+  RunPropertySheetA="C:\Windows\SysWOW64\xwizards".RunPropertySheetA
+  RunPropertySheetW="C:\Windows\SysWOW64\xwizards".RunPropertySheetW
+  RunWizardA="C:\Windows\SysWOW64\xwizards".RunWizardA
+  RunWizardW="C:\Windows\SysWOW64\xwizards".RunWizardW
+  XWProcessXMLFile="C:\Windows\SysWOW64\xwizards".XWProcessXMLFile
+  XWRegisterHost="C:\Windows\SysWOW64\xwizards".XWRegisterHost
+  XWRegisterPageWithPage="C:\Windows\SysWOW64\xwizards".XWRegisterPageWithPage
+  XWRegisterPageWithTask="C:\Windows\SysWOW64\xwizards".XWRegisterPageWithTask
+  XWRegisterTaskWithHost="C:\Windows\SysWOW64\xwizards".XWRegisterTaskWithHost
+  XWUnregisterHost="C:\Windows\SysWOW64\xwizards".XWUnregisterHost
+  XWUnregisterHostTaskLink="C:\Windows\SysWOW64\xwizards".XWUnregisterHostTaskLink
+  XWUnregisterPage="C:\Windows\SysWOW64\xwizards".XWUnregisterPage
+  XWUnregisterPagesLink="C:\Windows\SysWOW64\xwizards".XWUnregisterPagesLink
+  XWUnregisterTask="C:\Windows\SysWOW64\xwizards".XWUnregisterTask
+  XWUnregisterTaskPageLink="C:\Windows\SysWOW64\xwizards".XWUnregisterTaskPageLink

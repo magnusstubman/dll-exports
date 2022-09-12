@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\cellulardatacapabilityhandler".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\cellulardatacapabilityhandler".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\cellulardatacapabilityhandler".DllGetClassObject
+  DllMain="C:\Windows\System32\cellulardatacapabilityhandler".DllMain

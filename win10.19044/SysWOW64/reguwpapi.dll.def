@@ -1,0 +1,15 @@
+EXPORTS
+  RegCopyTreeFromApp="C:\Windows\SysWOW64\reguwpapi".RegCopyTreeFromApp
+  RegCreateKeyFromApp="C:\Windows\SysWOW64\reguwpapi".RegCreateKeyFromApp
+  RegDeleteKeyFromApp="C:\Windows\SysWOW64\reguwpapi".RegDeleteKeyFromApp
+  RegDeleteTreeFromApp="C:\Windows\SysWOW64\reguwpapi".RegDeleteTreeFromApp
+  RegDeleteValueFromApp="C:\Windows\SysWOW64\reguwpapi".RegDeleteValueFromApp
+  RegEnumKeyFromApp="C:\Windows\SysWOW64\reguwpapi".RegEnumKeyFromApp
+  RegEnumValueFromApp="C:\Windows\SysWOW64\reguwpapi".RegEnumValueFromApp
+  RegGetValueFromApp="C:\Windows\SysWOW64\reguwpapi".RegGetValueFromApp
+  RegLoadAppKeyFromApp="C:\Windows\SysWOW64\reguwpapi".RegLoadAppKeyFromApp
+  RegOpenKeyFromApp="C:\Windows\SysWOW64\reguwpapi".RegOpenKeyFromApp
+  RegQueryInfoKeyFromApp="C:\Windows\SysWOW64\reguwpapi".RegQueryInfoKeyFromApp
+  RegQueryMultipleValuesFromApp="C:\Windows\SysWOW64\reguwpapi".RegQueryMultipleValuesFromApp
+  RegQueryValueFromApp="C:\Windows\SysWOW64\reguwpapi".RegQueryValueFromApp
+  RegSetValueFromApp="C:\Windows\SysWOW64\reguwpapi".RegSetValueFromApp

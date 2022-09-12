@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LockScreenData".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\LockScreenData".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\LockScreenData".DllGetClassObject

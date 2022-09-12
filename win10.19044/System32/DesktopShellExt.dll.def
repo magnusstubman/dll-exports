@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DesktopShellExt".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\DesktopShellExt".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\DesktopShellExt".DllGetClassObject

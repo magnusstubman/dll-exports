@@ -1,0 +1,11 @@
+EXPORTS
+  BindIFilterFromStorage="C:\Windows\SysWOW64\Query".BindIFilterFromStorage
+  BindIFilterFromStream="C:\Windows\SysWOW64\Query".BindIFilterFromStream
+  DllCanUnloadNow="C:\Windows\SysWOW64\Query".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\Query".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\Query".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\Query".DllUnregisterServer
+  LoadBinaryFilter="C:\Windows\SysWOW64\Query".LoadBinaryFilter
+  LoadIFilter="C:\Windows\SysWOW64\Query".LoadIFilter
+  LoadIFilterEx="C:\Windows\SysWOW64\Query".LoadIFilterEx
+  LoadTextFilter="C:\Windows\SysWOW64\Query".LoadTextFilter

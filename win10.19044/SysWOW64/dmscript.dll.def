@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\dmscript".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dmscript".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\dmscript".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\dmscript".DllUnregisterServer

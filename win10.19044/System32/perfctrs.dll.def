@@ -1,0 +1,19 @@
+EXPORTS
+  CloseDhcpPerformanceData="C:\Windows\System32\perfctrs".CloseDhcpPerformanceData
+  CloseIPXPerformanceData="C:\Windows\System32\perfctrs".CloseIPXPerformanceData
+  CloseNWNBPerformanceData="C:\Windows\System32\perfctrs".CloseNWNBPerformanceData
+  CloseNbfPerformanceData="C:\Windows\System32\perfctrs".CloseNbfPerformanceData
+  CloseSPXPerformanceData="C:\Windows\System32\perfctrs".CloseSPXPerformanceData
+  CloseTcpIpPerformanceData="C:\Windows\System32\perfctrs".CloseTcpIpPerformanceData
+  CollectDhcpPerformanceData="C:\Windows\System32\perfctrs".CollectDhcpPerformanceData
+  CollectIPXPerformanceData="C:\Windows\System32\perfctrs".CollectIPXPerformanceData
+  CollectNWNBPerformanceData="C:\Windows\System32\perfctrs".CollectNWNBPerformanceData
+  CollectNbfPerformanceData="C:\Windows\System32\perfctrs".CollectNbfPerformanceData
+  CollectSPXPerformanceData="C:\Windows\System32\perfctrs".CollectSPXPerformanceData
+  CollectTcpIpPerformanceData="C:\Windows\System32\perfctrs".CollectTcpIpPerformanceData
+  OpenDhcpPerformanceData="C:\Windows\System32\perfctrs".OpenDhcpPerformanceData
+  OpenIPXPerformanceData="C:\Windows\System32\perfctrs".OpenIPXPerformanceData
+  OpenNWNBPerformanceData="C:\Windows\System32\perfctrs".OpenNWNBPerformanceData
+  OpenNbfPerformanceData="C:\Windows\System32\perfctrs".OpenNbfPerformanceData
+  OpenSPXPerformanceData="C:\Windows\System32\perfctrs".OpenSPXPerformanceData
+  OpenTcpIpPerformanceData="C:\Windows\System32\perfctrs".OpenTcpIpPerformanceData

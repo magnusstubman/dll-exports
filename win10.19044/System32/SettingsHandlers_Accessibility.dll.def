@@ -1,0 +1,3 @@
+EXPORTS
+  GetSetting="C:\Windows\System32\SettingsHandlers_Accessibility".GetSetting
+  GetSettingForUser="C:\Windows\System32\SettingsHandlers_Accessibility".GetSettingForUser

@@ -1,0 +1,18 @@
+EXPORTS
+  CreateDefaultWindowsLiveAccount="C:\Windows\SysWOW64\accountaccessor".CreateDefaultWindowsLiveAccount
+  DllCanUnloadNow="C:\Windows\SysWOW64\accountaccessor".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\accountaccessor".DllGetClassObject
+  FindMatchingPartnership="C:\Windows\SysWOW64\accountaccessor".FindMatchingPartnership
+  GetConversationSyncDateFilter="C:\Windows\SysWOW64\accountaccessor".GetConversationSyncDateFilter
+  GetConversationSyncEnabled="C:\Windows\SysWOW64\accountaccessor".GetConversationSyncEnabled
+  GetUnifiedInboxEnabled="C:\Windows\SysWOW64\accountaccessor".GetUnifiedInboxEnabled
+  GetUnifiedInboxServerValue="C:\Windows\SysWOW64\accountaccessor".GetUnifiedInboxServerValue
+  IsExtendedConversationSyncDateFiltersSupported="C:\Windows\SysWOW64\accountaccessor".IsExtendedConversationSyncDateFiltersSupported
+  LoadGoldenPartnershipAccessor="C:\Windows\SysWOW64\accountaccessor".LoadGoldenPartnershipAccessor
+  SetConversationSyncDateFilter="C:\Windows\SysWOW64\accountaccessor".SetConversationSyncDateFilter
+  SetConversationSyncEnabled="C:\Windows\SysWOW64\accountaccessor".SetConversationSyncEnabled
+  SetUnifiedInboxEnabled="C:\Windows\SysWOW64\accountaccessor".SetUnifiedInboxEnabled
+  UnenrollAndMarkAccountForDeletion="C:\Windows\SysWOW64\accountaccessor".UnenrollAndMarkAccountForDeletion
+  UpdateGoogleAccountConversationFlags="C:\Windows\SysWOW64\accountaccessor".UpdateGoogleAccountConversationFlags
+  UpdateGoogleAccountServerSendsMeetingProp="C:\Windows\SysWOW64\accountaccessor".UpdateGoogleAccountServerSendsMeetingProp
+  UpdateWebDavAccountProperties="C:\Windows\SysWOW64\accountaccessor".UpdateWebDavAccountProperties

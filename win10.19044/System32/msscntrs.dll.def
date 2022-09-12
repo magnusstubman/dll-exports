@@ -1,0 +1,6 @@
+EXPORTS
+  Close="C:\Windows\System32\msscntrs".Close
+  Collect="C:\Windows\System32\msscntrs".Collect
+  DllRegisterServer="C:\Windows\System32\msscntrs".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msscntrs".DllUnregisterServer
+  Open="C:\Windows\System32\msscntrs".Open

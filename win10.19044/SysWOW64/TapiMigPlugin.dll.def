@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\TapiMigPlugin".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\TapiMigPlugin".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\TapiMigPlugin".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\TapiMigPlugin".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\TapiMigPlugin".DllUnregisterServer

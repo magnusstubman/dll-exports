@@ -1,0 +1,3 @@
+EXPORTS
+  EncryptDumpFile="C:\Windows\System32\WerEnc".EncryptDumpFile
+  EncryptDumpStream="C:\Windows\System32\WerEnc".EncryptDumpStream

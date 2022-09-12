@@ -1,0 +1,10 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\VAN".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\VAN".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\VAN".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\VAN".DllUnregisterServer
+  HideVAN="C:\Windows\SysWOW64\VAN".HideVAN
+  RunVANW="C:\Windows\SysWOW64\VAN".RunVANW
+  ShowVAN="C:\Windows\SysWOW64\VAN".ShowVAN
+  ShutdownVAN="C:\Windows\SysWOW64\VAN".ShutdownVAN
+  VanUIManager_CreateInstance="C:\Windows\SysWOW64\VAN".VanUIManager_CreateInstance

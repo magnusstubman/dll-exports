@@ -1,0 +1,6 @@
+EXPORTS
+  DllAddRef="C:\Windows\System32\cmstplua".DllAddRef
+  DllCanUnloadNow="C:\Windows\System32\cmstplua".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\cmstplua".DllGetClassObject
+  DllMain="C:\Windows\System32\cmstplua".DllMain
+  DllRelease="C:\Windows\System32\cmstplua".DllRelease

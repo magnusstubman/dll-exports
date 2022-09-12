@@ -1,0 +1,10 @@
+EXPORTS
+  TxfGetThreadMiniVersionForCreate="C:\Windows\SysWOW64\txfw32".TxfGetThreadMiniVersionForCreate
+  TxfLogCreateFileReadContext="C:\Windows\SysWOW64\txfw32".TxfLogCreateFileReadContext
+  TxfLogCreateRangeReadContext="C:\Windows\SysWOW64\txfw32".TxfLogCreateRangeReadContext
+  TxfLogDestroyReadContext="C:\Windows\SysWOW64\txfw32".TxfLogDestroyReadContext
+  TxfLogReadRecords="C:\Windows\SysWOW64\txfw32".TxfLogReadRecords
+  TxfLogRecordGetFileName="C:\Windows\SysWOW64\txfw32".TxfLogRecordGetFileName
+  TxfLogRecordGetGenericType="C:\Windows\SysWOW64\txfw32".TxfLogRecordGetGenericType
+  TxfReadMetadataInfo="C:\Windows\SysWOW64\txfw32".TxfReadMetadataInfo
+  TxfSetThreadMiniVersionForCreate="C:\Windows\SysWOW64\txfw32".TxfSetThreadMiniVersionForCreate

@@ -1,0 +1,14 @@
+EXPORTS
+  CPlApplet="C:\Windows\System32\hotplug".CPlApplet
+  DllGetClassObject="C:\Windows\System32\hotplug".DllGetClassObject
+  HotPlugChildWithInvalidIdW="C:\Windows\System32\hotplug".HotPlugChildWithInvalidIdW
+  HotPlugDriverBlockedW="C:\Windows\System32\hotplug".HotPlugDriverBlockedW
+  HotPlugEjectDevice="C:\Windows\System32\hotplug".HotPlugEjectDevice
+  HotPlugEjectDeviceEx="C:\Windows\System32\hotplug".HotPlugEjectDeviceEx
+  HotPlugEjectVetoedW="C:\Windows\System32\hotplug".HotPlugEjectVetoedW
+  HotPlugHibernateVetoedW="C:\Windows\System32\hotplug".HotPlugHibernateVetoedW
+  HotPlugRemovalVetoedW="C:\Windows\System32\hotplug".HotPlugRemovalVetoedW
+  HotPlugSafeRemovalDriveNotificationW="C:\Windows\System32\hotplug".HotPlugSafeRemovalDriveNotificationW
+  HotPlugSafeRemovalNotificationW="C:\Windows\System32\hotplug".HotPlugSafeRemovalNotificationW
+  HotPlugStandbyVetoedW="C:\Windows\System32\hotplug".HotPlugStandbyVetoedW
+  HotPlugWarmEjectVetoedW="C:\Windows\System32\hotplug".HotPlugWarmEjectVetoedW

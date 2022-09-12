@@ -1,0 +1,6 @@
+EXPORTS
+  NgcLocalAddCredential="C:\Windows\SysWOW64\ngclocal".NgcLocalAddCredential
+  NgcLocalAddCredentialSilent="C:\Windows\SysWOW64\ngclocal".NgcLocalAddCredentialSilent
+  NgcLocalChangeCredential="C:\Windows\SysWOW64\ngclocal".NgcLocalChangeCredential
+  NgcLocalFindCredential="C:\Windows\SysWOW64\ngclocal".NgcLocalFindCredential
+  NgcLocalRemoveCredential="C:\Windows\SysWOW64\ngclocal".NgcLocalRemoveCredential

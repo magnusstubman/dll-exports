@@ -1,0 +1,9 @@
+EXPORTS
+  DllMain="C:\Windows\System32\appsruprov".DllMain
+  LogMemoryPerfCounters="C:\Windows\System32\appsruprov".LogMemoryPerfCounters
+  LogMemoryPerfCountersPeriodically="C:\Windows\System32\appsruprov".LogMemoryPerfCountersPeriodically
+  PsmQueryApplicationPerformanceInformation="C:\Windows\System32\appsruprov".PsmQueryApplicationPerformanceInformation
+  PsmQueryApplicationPerformanceInformation2="C:\Windows\System32\appsruprov".PsmQueryApplicationPerformanceInformation2
+  PsmQueryQuotaInformation="C:\Windows\System32\appsruprov".PsmQueryQuotaInformation
+  SruInitializeProvider="C:\Windows\System32\appsruprov".SruInitializeProvider
+  SruUninitializeProvider="C:\Windows\System32\appsruprov".SruUninitializeProvider

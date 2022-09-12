@@ -1,0 +1,19 @@
+EXPORTS
+  DestroyAddressParser="C:\Windows\SysWOW64\AddressParser".DestroyAddressParser
+  GetCity="C:\Windows\SysWOW64\AddressParser".GetCity
+  GetCountryName="C:\Windows\SysWOW64\AddressParser".GetCountryName
+  GetCountryStringFromIndex="C:\Windows\SysWOW64\AddressParser".GetCountryStringFromIndex
+  GetFullAddress="C:\Windows\SysWOW64\AddressParser".GetFullAddress
+  GetNewAddressParser="C:\Windows\SysWOW64\AddressParser".GetNewAddressParser
+  GetPostalCode="C:\Windows\SysWOW64\AddressParser".GetPostalCode
+  GetState="C:\Windows\SysWOW64\AddressParser".GetState
+  GetStreet="C:\Windows\SysWOW64\AddressParser".GetStreet
+  ParseAddress="C:\Windows\SysWOW64\AddressParser".ParseAddress
+  RebuildAddress="C:\Windows\SysWOW64\AddressParser".RebuildAddress
+  SetCity="C:\Windows\SysWOW64\AddressParser".SetCity
+  SetCountryName="C:\Windows\SysWOW64\AddressParser".SetCountryName
+  SetFullAddress="C:\Windows\SysWOW64\AddressParser".SetFullAddress
+  SetPostalCode="C:\Windows\SysWOW64\AddressParser".SetPostalCode
+  SetState="C:\Windows\SysWOW64\AddressParser".SetState
+  SetStreet="C:\Windows\SysWOW64\AddressParser".SetStreet
+  UpdateDefCountry="C:\Windows\SysWOW64\AddressParser".UpdateDefCountry

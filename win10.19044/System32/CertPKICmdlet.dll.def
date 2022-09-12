@@ -1,0 +1,15 @@
+EXPORTS
+  DllMain="C:\Windows\System32\CertPKICmdlet".DllMain
+  ExportCertificate="C:\Windows\System32\CertPKICmdlet".ExportCertificate
+  ExportPFXCertificate="C:\Windows\System32\CertPKICmdlet".ExportPFXCertificate
+  FindCertificate="C:\Windows\System32\CertPKICmdlet".FindCertificate
+  FreeCertResults="C:\Windows\System32\CertPKICmdlet".FreeCertResults
+  FreeResourceString="C:\Windows\System32\CertPKICmdlet".FreeResourceString
+  GetCertificateFromEnrollmentInternal="C:\Windows\System32\CertPKICmdlet".GetCertificateFromEnrollmentInternal
+  ImportCertificate="C:\Windows\System32\CertPKICmdlet".ImportCertificate
+  ImportPFXCertificate="C:\Windows\System32\CertPKICmdlet".ImportPFXCertificate
+  IsSecureKernelRunning="C:\Windows\System32\CertPKICmdlet".IsSecureKernelRunning
+  IsSmartCard="C:\Windows\System32\CertPKICmdlet".IsSmartCard
+  LoadResourceString="C:\Windows\System32\CertPKICmdlet".LoadResourceString
+  SuppressFreeCert="C:\Windows\System32\CertPKICmdlet".SuppressFreeCert
+  SuppressFreeStore="C:\Windows\System32\CertPKICmdlet".SuppressFreeStore

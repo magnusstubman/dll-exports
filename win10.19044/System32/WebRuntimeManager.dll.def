@@ -1,0 +1,7 @@
+EXPORTS
+  CreateMessagePortEventDispatcher="C:\Windows\System32\WebRuntimeManager".CreateMessagePortEventDispatcher
+  CreateServiceWorkerClientMessageDispatcher="C:\Windows\System32\WebRuntimeManager".CreateServiceWorkerClientMessageDispatcher
+  CreateWebRuntimeFactory="C:\Windows\System32\WebRuntimeManager".CreateWebRuntimeFactory
+  CreateWebRuntimeNotificationFromEventArg="C:\Windows\System32\WebRuntimeManager".CreateWebRuntimeNotificationFromEventArg
+  DllGetActivationFactory="C:\Windows\System32\WebRuntimeManager".DllGetActivationFactory
+  EnsureServiceWorkerManagerComponent="C:\Windows\System32\WebRuntimeManager".EnsureServiceWorkerManagerComponent

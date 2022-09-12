@@ -1,0 +1,22 @@
+EXPORTS
+  CreateAppContainerProfileWorker="C:\Windows\SysWOW64\profext".CreateAppContainerProfileWorker
+  CreateDirectoryJunctionsForSystemWorker="C:\Windows\SysWOW64\profext".CreateDirectoryJunctionsForSystemWorker
+  CreateDirectoryJunctionsForUserProfileWorker="C:\Windows\SysWOW64\profext".CreateDirectoryJunctionsForUserProfileWorker
+  CreateGroupExWorker="C:\Windows\SysWOW64\profext".CreateGroupExWorker
+  CreateLinkFileExWorker="C:\Windows\SysWOW64\profext".CreateLinkFileExWorker
+  DeleteAppContainerProfileWorker="C:\Windows\SysWOW64\profext".DeleteAppContainerProfileWorker
+  DeleteGroupWorker="C:\Windows\SysWOW64\profext".DeleteGroupWorker
+  DeleteLinkFileWorker="C:\Windows\SysWOW64\profext".DeleteLinkFileWorker
+  DeriveAppContainerSidFromAppContainerNameWorker="C:\Windows\SysWOW64\profext".DeriveAppContainerSidFromAppContainerNameWorker
+  DeriveRestrictedAppContainerSidFromAppContainerSidAndRestrictedNameWorker="C:\Windows\SysWOW64\profext".DeriveRestrictedAppContainerSidFromAppContainerSidAndRestrictedNameWorker
+  GetAppContainerFolderPathWorker="C:\Windows\SysWOW64\profext".GetAppContainerFolderPathWorker
+  GetAppContainerRegistryLocationWorker="C:\Windows\SysWOW64\profext".GetAppContainerRegistryLocationWorker
+  IsAppContainerProfilePresentWorker="C:\Windows\SysWOW64\profext".IsAppContainerProfilePresentWorker
+  LookupAppContainerDisplayNameWorker="C:\Windows\SysWOW64\profext".LookupAppContainerDisplayNameWorker
+  ProcessGroupPolicyCompletedExWorker="C:\Windows\SysWOW64\profext".ProcessGroupPolicyCompletedExWorker
+  ProcessGroupPolicyCompletedWorker="C:\Windows\SysWOW64\profext".ProcessGroupPolicyCompletedWorker
+  RsopAccessCheckByTypeWorker="C:\Windows\SysWOW64\profext".RsopAccessCheckByTypeWorker
+  RsopFileAccessCheckWorker="C:\Windows\SysWOW64\profext".RsopFileAccessCheckWorker
+  RsopResetPolicySettingStatusWorker="C:\Windows\SysWOW64\profext".RsopResetPolicySettingStatusWorker
+  RsopSetPolicySettingStatusWorker="C:\Windows\SysWOW64\profext".RsopSetPolicySettingStatusWorker
+  UpdateAppContainerProfileWorker="C:\Windows\SysWOW64\profext".UpdateAppContainerProfileWorker

@@ -1,0 +1,27 @@
+EXPORTS
+  NsiAllocateAndGetPersistentDataWithMaskTable="C:\Windows\System32\nsi".NsiAllocateAndGetPersistentDataWithMaskTable
+  NsiAllocateAndGetTable="C:\Windows\System32\nsi".NsiAllocateAndGetTable
+  NsiCancelChangeNotification="C:\Windows\System32\nsi".NsiCancelChangeNotification
+  NsiDeregisterChangeNotification="C:\Windows\System32\nsi".NsiDeregisterChangeNotification
+  NsiDeregisterChangeNotificationEx="C:\Windows\System32\nsi".NsiDeregisterChangeNotificationEx
+  NsiEnumerateObjectsAllParameters="C:\Windows\System32\nsi".NsiEnumerateObjectsAllParameters
+  NsiEnumerateObjectsAllParametersEx="C:\Windows\System32\nsi".NsiEnumerateObjectsAllParametersEx
+  NsiEnumerateObjectsAllPersistentParametersWithMask="C:\Windows\System32\nsi".NsiEnumerateObjectsAllPersistentParametersWithMask
+  NsiFreePersistentDataWithMaskTable="C:\Windows\System32\nsi".NsiFreePersistentDataWithMaskTable
+  NsiFreeTable="C:\Windows\System32\nsi".NsiFreeTable
+  NsiGetAllParameters="C:\Windows\System32\nsi".NsiGetAllParameters
+  NsiGetAllParametersEx="C:\Windows\System32\nsi".NsiGetAllParametersEx
+  NsiGetAllPersistentParametersWithMask="C:\Windows\System32\nsi".NsiGetAllPersistentParametersWithMask
+  NsiGetObjectSecurity="C:\Windows\System32\nsi".NsiGetObjectSecurity
+  NsiGetParameter="C:\Windows\System32\nsi".NsiGetParameter
+  NsiGetParameterEx="C:\Windows\System32\nsi".NsiGetParameterEx
+  NsiRegisterChangeNotification="C:\Windows\System32\nsi".NsiRegisterChangeNotification
+  NsiRegisterChangeNotificationEx="C:\Windows\System32\nsi".NsiRegisterChangeNotificationEx
+  NsiRequestChangeNotification="C:\Windows\System32\nsi".NsiRequestChangeNotification
+  NsiRequestChangeNotificationEx="C:\Windows\System32\nsi".NsiRequestChangeNotificationEx
+  NsiSetAllParameters="C:\Windows\System32\nsi".NsiSetAllParameters
+  NsiSetAllParametersEx="C:\Windows\System32\nsi".NsiSetAllParametersEx
+  NsiSetAllPersistentParametersWithMask="C:\Windows\System32\nsi".NsiSetAllPersistentParametersWithMask
+  NsiSetObjectSecurity="C:\Windows\System32\nsi".NsiSetObjectSecurity
+  NsiSetParameter="C:\Windows\System32\nsi".NsiSetParameter
+  NsiSetParameterEx="C:\Windows\System32\nsi".NsiSetParameterEx

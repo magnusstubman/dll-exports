@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\photowiz".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\photowiz".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\photowiz".DllInstall
+  DllMain="C:\Windows\SysWOW64\photowiz".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\photowiz".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\photowiz".DllUnregisterServer
+  UsePPWForPrintTo="C:\Windows\SysWOW64\photowiz".UsePPWForPrintTo

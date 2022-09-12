@@ -1,0 +1,9 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\gpprnext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\gpprnext".DllGetClassObject
+  DllMain="C:\Windows\System32\gpprnext".DllMain
+  DllRegisterServer="C:\Windows\System32\gpprnext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\gpprnext".DllUnregisterServer
+  PrinterGenerateGroupPolicy="C:\Windows\System32\gpprnext".PrinterGenerateGroupPolicy
+  PrinterProcessGroupPolicy="C:\Windows\System32\gpprnext".PrinterProcessGroupPolicy
+  PrinterProcessGroupPolicyEx="C:\Windows\System32\gpprnext".PrinterProcessGroupPolicyEx

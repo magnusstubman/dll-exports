@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceCtrlHandler="C:\Windows\System32\sensrsvc".ServiceCtrlHandler
+  ServiceMain="C:\Windows\System32\sensrsvc".ServiceMain

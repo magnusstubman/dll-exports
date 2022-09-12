@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\System32\Microsoft.Bluetooth.UserService".DllMain
+  ServiceMain="C:\Windows\System32\Microsoft.Bluetooth.UserService".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\Microsoft.Bluetooth.UserService".SvchostPushServiceGlobals

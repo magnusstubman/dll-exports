@@ -1,0 +1,17 @@
+EXPORTS
+  HvciGetConfig="C:\Windows\System32\vbsapi".HvciGetConfig
+  HvciGetConfigFromVBSKey="C:\Windows\System32\vbsapi".HvciGetConfigFromVBSKey
+  HvciIncompatibilityScanCancel="C:\Windows\System32\vbsapi".HvciIncompatibilityScanCancel
+  HvciIncompatibilityScanFree="C:\Windows\System32\vbsapi".HvciIncompatibilityScanFree
+  HvciIncompatibilityScanGetResult="C:\Windows\System32\vbsapi".HvciIncompatibilityScanGetResult
+  HvciIncompatibilityScanInitialize="C:\Windows\System32\vbsapi".HvciIncompatibilityScanInitialize
+  HvciIncompatibilityScanOverrideDriverCompatDatabase="C:\Windows\System32\vbsapi".HvciIncompatibilityScanOverrideDriverCompatDatabase
+  HvciIncompatibilityScanOverrideServicesKey="C:\Windows\System32\vbsapi".HvciIncompatibilityScanOverrideServicesKey
+  HvciIncompatibilityScanStart="C:\Windows\System32\vbsapi".HvciIncompatibilityScanStart
+  HvciIsActive="C:\Windows\System32\vbsapi".HvciIsActive
+  VbsGetIssues="C:\Windows\System32\vbsapi".VbsGetIssues
+  VbsIsCapable="C:\Windows\System32\vbsapi".VbsIsCapable
+  VbsIsRecommended="C:\Windows\System32\vbsapi".VbsIsRecommended
+  VbsIsScenarioEnabled="C:\Windows\System32\vbsapi".VbsIsScenarioEnabled
+  VbsSetScenarioEnable="C:\Windows\System32\vbsapi".VbsSetScenarioEnable
+  VbsSetScenarioEnableToVBSKey="C:\Windows\System32\vbsapi".VbsSetScenarioEnableToVBSKey

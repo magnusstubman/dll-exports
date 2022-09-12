@@ -1,0 +1,5 @@
+EXPORTS
+  DisplaySaveSettingsEx="C:\Windows\System32\Display".DisplaySaveSettingsEx
+  DllCanUnloadNow="C:\Windows\System32\Display".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Display".DllGetClassObject
+  ShowAdapterSettings="C:\Windows\System32\Display".ShowAdapterSettings

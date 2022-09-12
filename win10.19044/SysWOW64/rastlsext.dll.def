@@ -1,0 +1,16 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\rastlsext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\rastlsext".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\rastlsext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\rastlsext".DllUnregisterServer
+  RasTlsExt_FreeMemory="C:\Windows\SysWOW64\rastlsext".RasTlsExt_FreeMemory
+  RasTlsExt_GetConfigCacheOnlyCertValidation="C:\Windows\SysWOW64\rastlsext".RasTlsExt_GetConfigCacheOnlyCertValidation
+  RasTlsExt_GetConfigForceNotDomainJoined="C:\Windows\SysWOW64\rastlsext".RasTlsExt_GetConfigForceNotDomainJoined
+  RasTlsExt_GetPinUserBlob="C:\Windows\SysWOW64\rastlsext".RasTlsExt_GetPinUserBlob
+  RasTlsExt_GetServerCertDetails="C:\Windows\SysWOW64\rastlsext".RasTlsExt_GetServerCertDetails
+  RasTlsExt_PackUserBlob="C:\Windows\SysWOW64\rastlsext".RasTlsExt_PackUserBlob
+  RasTlsExt_SelectCertificate="C:\Windows\SysWOW64\rastlsext".RasTlsExt_SelectCertificate
+  RasTlsExt_ShowHelp="C:\Windows\SysWOW64\rastlsext".RasTlsExt_ShowHelp
+  RasTlsExt_UnpackUserBlob="C:\Windows\SysWOW64\rastlsext".RasTlsExt_UnpackUserBlob
+  RasTlsExt_ValidateServer="C:\Windows\SysWOW64\rastlsext".RasTlsExt_ValidateServer
+  RasTlsExt_ValidateServerDialogProc="C:\Windows\SysWOW64\rastlsext".RasTlsExt_ValidateServerDialogProc

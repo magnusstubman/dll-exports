@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\CryptoWinRT".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\CryptoWinRT".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\CryptoWinRT".DllGetClassObject

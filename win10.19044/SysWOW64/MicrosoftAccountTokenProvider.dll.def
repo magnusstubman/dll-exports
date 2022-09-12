@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MicrosoftAccountTokenProvider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MicrosoftAccountTokenProvider".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\MicrosoftAccountTokenProvider".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\MicrosoftAccountTokenProvider".DllUnregisterServer

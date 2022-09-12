@@ -1,0 +1,23 @@
+EXPORTS
+  ClipCallServer="C:\Windows\System32\Clipc".ClipCallServer
+  ClipCleanUpState="C:\Windows\System32\Clipc".ClipCleanUpState
+  ClipClose="C:\Windows\System32\Clipc".ClipClose
+  ClipGatherDiagnostics="C:\Windows\System32\Clipc".ClipGatherDiagnostics
+  ClipGenerateClientChallengeData="C:\Windows\System32\Clipc".ClipGenerateClientChallengeData
+  ClipGenerateDeviceLicenseRequest="C:\Windows\System32\Clipc".ClipGenerateDeviceLicenseRequest
+  ClipGetAssociatedResults="C:\Windows\System32\Clipc".ClipGetAssociatedResults
+  ClipGetDeviceHardwareData="C:\Windows\System32\Clipc".ClipGetDeviceHardwareData
+  ClipGetFileIdFromAssociateId="C:\Windows\System32\Clipc".ClipGetFileIdFromAssociateId
+  ClipGetLicenseAndPolicyForPfn="C:\Windows\System32\Clipc".ClipGetLicenseAndPolicyForPfn
+  ClipGetLicenseData="C:\Windows\System32\Clipc".ClipGetLicenseData
+  ClipGetQueryResults="C:\Windows\System32\Clipc".ClipGetQueryResults
+  ClipGetSubscriptionStatus="C:\Windows\System32\Clipc".ClipGetSubscriptionStatus
+  ClipInstallLicense="C:\Windows\System32\Clipc".ClipInstallLicense
+  ClipOpen="C:\Windows\System32\Clipc".ClipOpen
+  ClipQueryAssociateId="C:\Windows\System32\Clipc".ClipQueryAssociateId
+  ClipRefreshLicense="C:\Windows\System32\Clipc".ClipRefreshLicense
+  ClipUninstallLicense="C:\Windows\System32\Clipc".ClipUninstallLicense
+  GetExchangeDeviceUniqueID="C:\Windows\System32\Clipc".GetExchangeDeviceUniqueID
+  GetOfflineDeviceUniqueID="C:\Windows\System32\Clipc".GetOfflineDeviceUniqueID
+  SLQueryLicenseValueFromApp="C:\Windows\System32\Clipc".SLQueryLicenseValueFromApp
+  SLQueryLicenseValueFromApp2="C:\Windows\System32\Clipc".SLQueryLicenseValueFromApp2

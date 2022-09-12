@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ReAgentTask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ReAgentTask".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\ReAgentTask".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\ReAgentTask".DllUnregisterServer

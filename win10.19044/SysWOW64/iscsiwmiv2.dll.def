@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\iscsiwmiv2".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\iscsiwmiv2".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\iscsiwmiv2".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\iscsiwmiv2".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\iscsiwmiv2".DllUnregisterServer
+  GetProviderClassID="C:\Windows\SysWOW64\iscsiwmiv2".GetProviderClassID
+  MI_Main="C:\Windows\SysWOW64\iscsiwmiv2".MI_Main

@@ -1,0 +1,6 @@
+EXPORTS
+  CdeGetProfileList="C:\Windows\System32\wcmsvc".CdeGetProfileList
+  CdeQueryParameter="C:\Windows\System32\wcmsvc".CdeQueryParameter
+  CdeSetParameter="C:\Windows\System32\wcmsvc".CdeSetParameter
+  SvchostPushServiceGlobals="C:\Windows\System32\wcmsvc".SvchostPushServiceGlobals
+  WcmSvcMain="C:\Windows\System32\wcmsvc".WcmSvcMain

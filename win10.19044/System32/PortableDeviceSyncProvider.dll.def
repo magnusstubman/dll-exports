@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PortableDeviceSyncProvider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\PortableDeviceSyncProvider".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\PortableDeviceSyncProvider".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\PortableDeviceSyncProvider".DllUnregisterServer

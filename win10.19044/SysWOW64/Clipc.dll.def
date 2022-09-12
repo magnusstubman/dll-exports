@@ -1,0 +1,23 @@
+EXPORTS
+  ClipCallServer="C:\Windows\SysWOW64\Clipc".ClipCallServer
+  ClipCleanUpState="C:\Windows\SysWOW64\Clipc".ClipCleanUpState
+  ClipClose="C:\Windows\SysWOW64\Clipc".ClipClose
+  ClipGatherDiagnostics="C:\Windows\SysWOW64\Clipc".ClipGatherDiagnostics
+  ClipGenerateClientChallengeData="C:\Windows\SysWOW64\Clipc".ClipGenerateClientChallengeData
+  ClipGenerateDeviceLicenseRequest="C:\Windows\SysWOW64\Clipc".ClipGenerateDeviceLicenseRequest
+  ClipGetAssociatedResults="C:\Windows\SysWOW64\Clipc".ClipGetAssociatedResults
+  ClipGetDeviceHardwareData="C:\Windows\SysWOW64\Clipc".ClipGetDeviceHardwareData
+  ClipGetFileIdFromAssociateId="C:\Windows\SysWOW64\Clipc".ClipGetFileIdFromAssociateId
+  ClipGetLicenseAndPolicyForPfn="C:\Windows\SysWOW64\Clipc".ClipGetLicenseAndPolicyForPfn
+  ClipGetLicenseData="C:\Windows\SysWOW64\Clipc".ClipGetLicenseData
+  ClipGetQueryResults="C:\Windows\SysWOW64\Clipc".ClipGetQueryResults
+  ClipGetSubscriptionStatus="C:\Windows\SysWOW64\Clipc".ClipGetSubscriptionStatus
+  ClipInstallLicense="C:\Windows\SysWOW64\Clipc".ClipInstallLicense
+  ClipOpen="C:\Windows\SysWOW64\Clipc".ClipOpen
+  ClipQueryAssociateId="C:\Windows\SysWOW64\Clipc".ClipQueryAssociateId
+  ClipRefreshLicense="C:\Windows\SysWOW64\Clipc".ClipRefreshLicense
+  ClipUninstallLicense="C:\Windows\SysWOW64\Clipc".ClipUninstallLicense
+  GetExchangeDeviceUniqueID="C:\Windows\SysWOW64\Clipc".GetExchangeDeviceUniqueID
+  GetOfflineDeviceUniqueID="C:\Windows\SysWOW64\Clipc".GetOfflineDeviceUniqueID
+  SLQueryLicenseValueFromApp="C:\Windows\SysWOW64\Clipc".SLQueryLicenseValueFromApp
+  SLQueryLicenseValueFromApp2="C:\Windows\SysWOW64\Clipc".SLQueryLicenseValueFromApp2

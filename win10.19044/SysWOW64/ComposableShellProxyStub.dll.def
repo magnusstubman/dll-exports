@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ComposableShellProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ComposableShellProxyStub".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\SysWOW64\ComposableShellProxyStub".GetProxyDllInfo

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MSVideoDSP".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\MSVideoDSP".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\MSVideoDSP".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\MSVideoDSP".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\MSVideoDSP".DllUnregisterServer

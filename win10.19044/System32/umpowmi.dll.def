@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\umpowmi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\umpowmi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\umpowmi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\umpowmi".DllUnregisterServer

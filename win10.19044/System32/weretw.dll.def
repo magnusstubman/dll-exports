@@ -1,0 +1,3 @@
+EXPORTS
+  WerMergeEtl="C:\Windows\System32\weretw".WerMergeEtl
+  WerMergeEtlEx="C:\Windows\System32\weretw".WerMergeEtlEx

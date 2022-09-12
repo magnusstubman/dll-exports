@@ -1,0 +1,11 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wsp_fs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wsp_fs".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\wsp_fs".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\wsp_fs".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wsp_fs".DllUnregisterServer
+  GetProviderClassID="C:\Windows\SysWOW64\wsp_fs".GetProviderClassID
+  MI_Main="C:\Windows\SysWOW64\wsp_fs".MI_Main
+  PreShutdown="C:\Windows\SysWOW64\wsp_fs".PreShutdown
+  SetShutdownCallback="C:\Windows\SysWOW64\wsp_fs".SetShutdownCallback
+  SmpUnload="C:\Windows\SysWOW64\wsp_fs".SmpUnload

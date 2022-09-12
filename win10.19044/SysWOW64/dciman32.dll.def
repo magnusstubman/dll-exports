@@ -1,0 +1,21 @@
+EXPORTS
+  DCIBeginAccess="C:\Windows\SysWOW64\dciman32".DCIBeginAccess
+  DCICloseProvider="C:\Windows\SysWOW64\dciman32".DCICloseProvider
+  DCICreateOffscreen="C:\Windows\SysWOW64\dciman32".DCICreateOffscreen
+  DCICreateOverlay="C:\Windows\SysWOW64\dciman32".DCICreateOverlay
+  DCICreatePrimary="C:\Windows\SysWOW64\dciman32".DCICreatePrimary
+  DCIDestroy="C:\Windows\SysWOW64\dciman32".DCIDestroy
+  DCIDraw="C:\Windows\SysWOW64\dciman32".DCIDraw
+  DCIEndAccess="C:\Windows\SysWOW64\dciman32".DCIEndAccess
+  DCIEnum="C:\Windows\SysWOW64\dciman32".DCIEnum
+  DCIOpenProvider="C:\Windows\SysWOW64\dciman32".DCIOpenProvider
+  DCISetClipList="C:\Windows\SysWOW64\dciman32".DCISetClipList
+  DCISetDestination="C:\Windows\SysWOW64\dciman32".DCISetDestination
+  DCISetSrcDestClip="C:\Windows\SysWOW64\dciman32".DCISetSrcDestClip
+  GetDCRegionData="C:\Windows\SysWOW64\dciman32".GetDCRegionData
+  GetWindowRegionData="C:\Windows\SysWOW64\dciman32".GetWindowRegionData
+  WinWatchClose="C:\Windows\SysWOW64\dciman32".WinWatchClose
+  WinWatchDidStatusChange="C:\Windows\SysWOW64\dciman32".WinWatchDidStatusChange
+  WinWatchGetClipList="C:\Windows\SysWOW64\dciman32".WinWatchGetClipList
+  WinWatchNotify="C:\Windows\SysWOW64\dciman32".WinWatchNotify
+  WinWatchOpen="C:\Windows\SysWOW64\dciman32".WinWatchOpen

@@ -1,0 +1,13 @@
+EXPORTS
+  EapPeerConfigBlob2Xml="C:\Windows\SysWOW64\SimCfg".EapPeerConfigBlob2Xml
+  EapPeerConfigXml2Blob="C:\Windows\SysWOW64\SimCfg".EapPeerConfigXml2Blob
+  EapPeerCredentialsXml2Blob="C:\Windows\SysWOW64\SimCfg".EapPeerCredentialsXml2Blob
+  EapPeerFreeErrorMemory="C:\Windows\SysWOW64\SimCfg".EapPeerFreeErrorMemory
+  EapPeerFreeMemory="C:\Windows\SysWOW64\SimCfg".EapPeerFreeMemory
+  EapPeerGetConfigBlobAndUserBlob="C:\Windows\SysWOW64\SimCfg".EapPeerGetConfigBlobAndUserBlob
+  EapPeerGetIdentityPageGuid="C:\Windows\SysWOW64\SimCfg".EapPeerGetIdentityPageGuid
+  EapPeerInvokeConfigUI="C:\Windows\SysWOW64\SimCfg".EapPeerInvokeConfigUI
+  EapPeerInvokeIdentityUI="C:\Windows\SysWOW64\SimCfg".EapPeerInvokeIdentityUI
+  EapPeerInvokeInteractiveUI="C:\Windows\SysWOW64\SimCfg".EapPeerInvokeInteractiveUI
+  InternalFunction01="C:\Windows\SysWOW64\SimCfg".InternalFunction01
+  InternalFunction02="C:\Windows\SysWOW64\SimCfg".InternalFunction02

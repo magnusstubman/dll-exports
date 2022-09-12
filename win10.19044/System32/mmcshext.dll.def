@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mmcshext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mmcshext".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mmcshext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mmcshext".DllUnregisterServer

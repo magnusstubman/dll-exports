@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\FontGlyphAnimator".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\FontGlyphAnimator".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\FontGlyphAnimator".DllGetClassObject

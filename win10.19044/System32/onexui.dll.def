@@ -1,0 +1,5 @@
+EXPORTS
+  OneXGetUserFriendlyText="C:\Windows\System32\onexui".OneXGetUserFriendlyText
+  OneXMapEAPHostInteractiveUIToOneXUIResponse="C:\Windows\System32\onexui".OneXMapEAPHostInteractiveUIToOneXUIResponse
+  OneXShowUI="C:\Windows\System32\onexui".OneXShowUI
+  OneXShowUIFromEAPCreds="C:\Windows\System32\onexui".OneXShowUIFromEAPCreds

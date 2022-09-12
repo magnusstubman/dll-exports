@@ -1,0 +1,9 @@
+EXPORTS
+  ??0MIFree@@QEAA@PEAX@Z="C:\Windows\System32\prvdmofcomp".??0MIFree@@QEAA@PEAX@Z
+  ??1MIFree@@QEAA@XZ="C:\Windows\System32\prvdmofcomp".??1MIFree@@QEAA@XZ
+  ??4MIServer@@QEAAAEAV0@$$QEAV0@@Z="C:\Windows\System32\prvdmofcomp".??4MIServer@@QEAAAEAV0@$$QEAV0@@Z
+  ??4MIServer@@QEAAAEAV0@AEBV0@@Z="C:\Windows\System32\prvdmofcomp".??4MIServer@@QEAAAEAV0@AEBV0@@Z
+  CompileSchemaToWMI="C:\Windows\System32\prvdmofcomp".CompileSchemaToWMI
+  CreateRegisterParameter="C:\Windows\System32\prvdmofcomp".CreateRegisterParameter
+  GetProviderSchema="C:\Windows\System32\prvdmofcomp".GetProviderSchema
+  GetProviderSchemaFile="C:\Windows\System32\prvdmofcomp".GetProviderSchemaFile

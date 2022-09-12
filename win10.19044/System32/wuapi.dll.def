@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wuapi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wuapi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wuapi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wuapi".DllUnregisterServer

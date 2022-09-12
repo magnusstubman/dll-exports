@@ -1,0 +1,5 @@
+EXPORTS
+  DisplayApphelpDialog="C:\Windows\SysWOW64\pcaui".DisplayApphelpDialog
+  PcaLaunchApplicationWithConsent="C:\Windows\SysWOW64\pcaui".PcaLaunchApplicationWithConsent
+  PcaPersistSettingsAndLaunchApplication="C:\Windows\SysWOW64\pcaui".PcaPersistSettingsAndLaunchApplication
+  PcaShowDialog="C:\Windows\SysWOW64\pcaui".PcaShowDialog

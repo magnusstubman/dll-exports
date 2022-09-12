@@ -1,0 +1,4 @@
+EXPORTS
+  FDResPub_MainHosted="C:\Windows\System32\FDResPub".FDResPub_MainHosted
+  ServiceMain="C:\Windows\System32\FDResPub".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\FDResPub".SvchostPushServiceGlobals

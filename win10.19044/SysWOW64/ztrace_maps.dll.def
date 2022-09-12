@@ -1,0 +1,20 @@
+EXPORTS
+  ZTraceClose="C:\Windows\SysWOW64\ztrace_maps".ZTraceClose
+  ZTraceEnabledHelper="C:\Windows\SysWOW64\ztrace_maps".ZTraceEnabledHelper
+  ZTraceHelper="C:\Windows\SysWOW64\ztrace_maps".ZTraceHelper
+  ZTraceHelperNoThis="C:\Windows\SysWOW64\ztrace_maps".ZTraceHelperNoThis
+  ZTraceHelperV="C:\Windows\SysWOW64\ztrace_maps".ZTraceHelperV
+  ZTraceHelperVC="C:\Windows\SysWOW64\ztrace_maps".ZTraceHelperVC
+  ZTraceInit="C:\Windows\SysWOW64\ztrace_maps".ZTraceInit
+  ZTraceReportIgnore="C:\Windows\SysWOW64\ztrace_maps".ZTraceReportIgnore
+  ZTraceReportIgnoreC="C:\Windows\SysWOW64\ztrace_maps".ZTraceReportIgnoreC
+  ZTraceReportIgnoreNoThis="C:\Windows\SysWOW64\ztrace_maps".ZTraceReportIgnoreNoThis
+  ZTraceReportOrigination="C:\Windows\SysWOW64\ztrace_maps".ZTraceReportOrigination
+  ZTraceReportOriginationC="C:\Windows\SysWOW64\ztrace_maps".ZTraceReportOriginationC
+  ZTraceReportOriginationNoThis="C:\Windows\SysWOW64\ztrace_maps".ZTraceReportOriginationNoThis
+  ZTraceReportPropagation="C:\Windows\SysWOW64\ztrace_maps".ZTraceReportPropagation
+  ZTraceReportPropagationC="C:\Windows\SysWOW64\ztrace_maps".ZTraceReportPropagationC
+  ZTraceReportPropagationNoThis="C:\Windows\SysWOW64\ztrace_maps".ZTraceReportPropagationNoThis
+  ZTraceTestCopyTrace="C:\Windows\SysWOW64\ztrace_maps".ZTraceTestCopyTrace
+  ZTraceTestForceClose="C:\Windows\SysWOW64\ztrace_maps".ZTraceTestForceClose
+  ZTraceTestInit="C:\Windows\SysWOW64\ztrace_maps".ZTraceTestInit

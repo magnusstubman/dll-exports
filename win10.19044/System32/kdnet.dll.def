@@ -1,0 +1,6 @@
+EXPORTS
+  KdInitialize="C:\Windows\System32\kdnet".KdInitialize
+  KdPower="C:\Windows\System32\kdnet".KdPower
+  KdReceivePacket="C:\Windows\System32\kdnet".KdReceivePacket
+  KdSendPacket="C:\Windows\System32\kdnet".KdSendPacket
+  KdSetHiberRange="C:\Windows\System32\kdnet".KdSetHiberRange

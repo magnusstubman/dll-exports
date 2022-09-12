@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\embeddedmodesvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\embeddedmodesvc".DllGetClassObject
+  ServiceMain="C:\Windows\System32\embeddedmodesvc".ServiceMain

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\srhelper".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\srhelper".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\srhelper".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\srhelper".DllUnregisterServer

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\remoteaudioendpoint".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\remoteaudioendpoint".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\remoteaudioendpoint".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\remoteaudioendpoint".DllUnregisterServer

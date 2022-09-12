@@ -1,0 +1,13 @@
+EXPORTS
+  I_BrowserDebugCall="C:\Windows\SysWOW64\browcli".I_BrowserDebugCall
+  I_BrowserDebugTrace="C:\Windows\SysWOW64\browcli".I_BrowserDebugTrace
+  I_BrowserQueryEmulatedDomains="C:\Windows\SysWOW64\browcli".I_BrowserQueryEmulatedDomains
+  I_BrowserQueryOtherDomains="C:\Windows\SysWOW64\browcli".I_BrowserQueryOtherDomains
+  I_BrowserQueryStatistics="C:\Windows\SysWOW64\browcli".I_BrowserQueryStatistics
+  I_BrowserResetNetlogonState="C:\Windows\SysWOW64\browcli".I_BrowserResetNetlogonState
+  I_BrowserResetStatistics="C:\Windows\SysWOW64\browcli".I_BrowserResetStatistics
+  I_BrowserServerEnum="C:\Windows\SysWOW64\browcli".I_BrowserServerEnum
+  I_BrowserSetNetlogonState="C:\Windows\SysWOW64\browcli".I_BrowserSetNetlogonState
+  NetBrowserStatisticsGet="C:\Windows\SysWOW64\browcli".NetBrowserStatisticsGet
+  NetServerEnum="C:\Windows\SysWOW64\browcli".NetServerEnum
+  NetServerEnumEx="C:\Windows\SysWOW64\browcli".NetServerEnumEx

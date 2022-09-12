@@ -1,0 +1,16 @@
+EXPORTS
+  CSm16ReleaseHandler_Release32="C:\Windows\SysWOW64\olethk32".CSm16ReleaseHandler_Release32
+  CallbackProcessing_3216="C:\Windows\SysWOW64\olethk32".CallbackProcessing_3216
+  ConvertHr1632Thunk="C:\Windows\SysWOW64\olethk32".ConvertHr1632Thunk
+  ConvertHr3216Thunk="C:\Windows\SysWOW64\olethk32".ConvertHr3216Thunk
+  ConvertObjDescriptor="C:\Windows\SysWOW64\olethk32".ConvertObjDescriptor
+  IUnknownObj32="C:\Windows\SysWOW64\olethk32".IUnknownObj32
+  IntOpInitialize="C:\Windows\SysWOW64\olethk32".IntOpInitialize
+  IntOpUninitialize="C:\Windows\SysWOW64\olethk32".IntOpUninitialize
+  InvokeOn32="C:\Windows\SysWOW64\olethk32".InvokeOn32
+  RegisterOleWOWHandlers="C:\Windows\SysWOW64\olethk32".RegisterOleWOWHandlers
+  ThkAddAppCompatFlag="C:\Windows\SysWOW64\olethk32".ThkAddAppCompatFlag
+  ThkMgrInitialize="C:\Windows\SysWOW64\olethk32".ThkMgrInitialize
+  ThkMgrUninitialize="C:\Windows\SysWOW64\olethk32".ThkMgrUninitialize
+  TransformHRESULT_1632="C:\Windows\SysWOW64\olethk32".TransformHRESULT_1632
+  TransformHRESULT_3216="C:\Windows\SysWOW64\olethk32".TransformHRESULT_3216

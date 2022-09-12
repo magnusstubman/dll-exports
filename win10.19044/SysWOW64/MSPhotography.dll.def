@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MSPhotography".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\MSPhotography".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\MSPhotography".DllGetClassObject

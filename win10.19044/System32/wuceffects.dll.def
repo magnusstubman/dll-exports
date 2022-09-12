@@ -1,0 +1,5 @@
+EXPORTS
+  CompileEffectDescription="C:\Windows\System32\wuceffects".CompileEffectDescription
+  CreateEffectDescription="C:\Windows\System32\wuceffects".CreateEffectDescription
+  DeserializeEffectDescription="C:\Windows\System32\wuceffects".DeserializeEffectDescription
+  SerializeEffectDescription="C:\Windows\System32\wuceffects".SerializeEffectDescription

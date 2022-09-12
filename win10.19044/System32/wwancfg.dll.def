@@ -1,0 +1,3 @@
+EXPORTS
+  GetResourceString="C:\Windows\System32\wwancfg".GetResourceString
+  InitHelperDll="C:\Windows\System32\wwancfg".InitHelperDll

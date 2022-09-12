@@ -1,0 +1,9 @@
+EXPORTS
+  KsCreateAllocator="C:\Windows\SysWOW64\ksuser".KsCreateAllocator
+  KsCreateAllocator2="C:\Windows\SysWOW64\ksuser".KsCreateAllocator2
+  KsCreateClock="C:\Windows\SysWOW64\ksuser".KsCreateClock
+  KsCreateClock2="C:\Windows\SysWOW64\ksuser".KsCreateClock2
+  KsCreatePin="C:\Windows\SysWOW64\ksuser".KsCreatePin
+  KsCreatePin2="C:\Windows\SysWOW64\ksuser".KsCreatePin2
+  KsCreateTopologyNode="C:\Windows\SysWOW64\ksuser".KsCreateTopologyNode
+  KsCreateTopologyNode2="C:\Windows\SysWOW64\ksuser".KsCreateTopologyNode2

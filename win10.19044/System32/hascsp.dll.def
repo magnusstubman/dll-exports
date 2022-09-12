@@ -1,0 +1,12 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\hascsp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\hascsp".DllGetClassObject
+  DllMain="C:\Windows\System32\hascsp".DllMain
+  DllRegisterServer="C:\Windows\System32\hascsp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\hascsp".DllUnregisterServer
+  GetForceRetrieve="C:\Windows\System32\hascsp".GetForceRetrieve
+  GetHealthCert="C:\Windows\System32\hascsp".GetHealthCert
+  GetNonce="C:\Windows\System32\hascsp".GetNonce
+  PolicyManager_PreCheck="C:\Windows\System32\hascsp".PolicyManager_PreCheck
+  SetForceRetrieve="C:\Windows\System32\hascsp".SetForceRetrieve
+  SetNonce="C:\Windows\System32\hascsp".SetNonce

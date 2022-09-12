@@ -1,0 +1,3 @@
+EXPORTS
+  GetHookAPIs="C:\Windows\System32\KeyboardFilterShim".GetHookAPIs
+  NotifyShims="C:\Windows\System32\KeyboardFilterShim".NotifyShims

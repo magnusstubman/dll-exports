@@ -1,0 +1,17 @@
+EXPORTS
+  HgfsNP_RegisterRemote="C:\Windows\SysWOW64\vmhgfs".HgfsNP_RegisterRemote
+  HgfsNP_UnregisterRemote="C:\Windows\SysWOW64\vmhgfs".HgfsNP_UnregisterRemote
+  NPAddConnection="C:\Windows\SysWOW64\vmhgfs".NPAddConnection
+  NPAddConnection3="C:\Windows\SysWOW64\vmhgfs".NPAddConnection3
+  NPCancelConnection="C:\Windows\SysWOW64\vmhgfs".NPCancelConnection
+  NPCloseEnum="C:\Windows\SysWOW64\vmhgfs".NPCloseEnum
+  NPEnumResource="C:\Windows\SysWOW64\vmhgfs".NPEnumResource
+  NPFormatNetworkName="C:\Windows\SysWOW64\vmhgfs".NPFormatNetworkName
+  NPGetCaps="C:\Windows\SysWOW64\vmhgfs".NPGetCaps
+  NPGetConnection="C:\Windows\SysWOW64\vmhgfs".NPGetConnection
+  NPGetConnection3="C:\Windows\SysWOW64\vmhgfs".NPGetConnection3
+  NPGetConnectionPerformance="C:\Windows\SysWOW64\vmhgfs".NPGetConnectionPerformance
+  NPGetResourceInformation="C:\Windows\SysWOW64\vmhgfs".NPGetResourceInformation
+  NPGetResourceParent="C:\Windows\SysWOW64\vmhgfs".NPGetResourceParent
+  NPGetUniversalName="C:\Windows\SysWOW64\vmhgfs".NPGetUniversalName
+  NPOpenEnum="C:\Windows\SysWOW64\vmhgfs".NPOpenEnum

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Cortana.OneCore".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Cortana.OneCore".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Cortana.OneCore".DllGetClassObject

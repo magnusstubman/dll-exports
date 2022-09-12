@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ActivationClient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\ActivationClient".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\ActivationClient".DllGetClassObject

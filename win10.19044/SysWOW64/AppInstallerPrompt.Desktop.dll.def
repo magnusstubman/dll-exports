@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AppInstallerPrompt.Desktop".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\AppInstallerPrompt.Desktop".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\AppInstallerPrompt.Desktop".DllGetClassObject

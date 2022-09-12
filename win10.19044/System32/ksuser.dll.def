@@ -1,0 +1,9 @@
+EXPORTS
+  KsCreateAllocator="C:\Windows\System32\ksuser".KsCreateAllocator
+  KsCreateAllocator2="C:\Windows\System32\ksuser".KsCreateAllocator2
+  KsCreateClock="C:\Windows\System32\ksuser".KsCreateClock
+  KsCreateClock2="C:\Windows\System32\ksuser".KsCreateClock2
+  KsCreatePin="C:\Windows\System32\ksuser".KsCreatePin
+  KsCreatePin2="C:\Windows\System32\ksuser".KsCreatePin2
+  KsCreateTopologyNode="C:\Windows\System32\ksuser".KsCreateTopologyNode
+  KsCreateTopologyNode2="C:\Windows\System32\ksuser".KsCreateTopologyNode2

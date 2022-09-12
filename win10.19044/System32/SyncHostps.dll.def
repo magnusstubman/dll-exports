@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SyncHostps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SyncHostps".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\SyncHostps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\SyncHostps".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\SyncHostps".GetProxyDllInfo

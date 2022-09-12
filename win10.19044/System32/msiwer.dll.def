@@ -1,0 +1,4 @@
+EXPORTS
+  OutOfProcessExceptionEventCallback="C:\Windows\System32\msiwer".OutOfProcessExceptionEventCallback
+  OutOfProcessExceptionEventDebuggerLaunchCallback="C:\Windows\System32\msiwer".OutOfProcessExceptionEventDebuggerLaunchCallback
+  OutOfProcessExceptionEventSignatureCallback="C:\Windows\System32\msiwer".OutOfProcessExceptionEventSignatureCallback

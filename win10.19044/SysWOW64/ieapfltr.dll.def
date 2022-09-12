@@ -1,0 +1,14 @@
+EXPORTS
+  CreateIAppRep2="C:\Windows\SysWOW64\ieapfltr".CreateIAppRep2
+  CreateIAppRepParm2="C:\Windows\SysWOW64\ieapfltr".CreateIAppRepParm2
+  CreateIUrlReputationSolution2="C:\Windows\SysWOW64\ieapfltr".CreateIUrlReputationSolution2
+  CreateUrlBlockBroker="C:\Windows\SysWOW64\ieapfltr".CreateUrlBlockBroker
+  CreateUrlBlockClient="C:\Windows\SysWOW64\ieapfltr".CreateUrlBlockClient
+  DestroyUrlBlockBroker="C:\Windows\SysWOW64\ieapfltr".DestroyUrlBlockBroker
+  DestroyUrlBlockClient="C:\Windows\SysWOW64\ieapfltr".DestroyUrlBlockClient
+  DllCanUnloadNow="C:\Windows\SysWOW64\ieapfltr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ieapfltr".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\ieapfltr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\ieapfltr".DllUnregisterServer
+  GetUrlBlockBroker="C:\Windows\SysWOW64\ieapfltr".GetUrlBlockBroker
+  GetUrlBlockClient="C:\Windows\SysWOW64\ieapfltr".GetUrlBlockClient

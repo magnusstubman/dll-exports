@@ -1,0 +1,5 @@
+EXPORTS
+  CreateCmtStoreObject="C:\Windows\System32\AdmTmpl".CreateCmtStoreObject
+  CreateParserObject="C:\Windows\System32\AdmTmpl".CreateParserObject
+  DllCanUnloadNow="C:\Windows\System32\AdmTmpl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\AdmTmpl".DllGetClassObject

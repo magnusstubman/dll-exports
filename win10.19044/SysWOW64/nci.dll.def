@@ -1,0 +1,3 @@
+EXPORTS
+  NciGetConnectionName="C:\Windows\SysWOW64\nci".NciGetConnectionName
+  NciSetConnectionName="C:\Windows\SysWOW64\nci".NciSetConnectionName

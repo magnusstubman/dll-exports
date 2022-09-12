@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\CIWmi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\CIWmi".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\CIWmi".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\CIWmi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\CIWmi".DllUnregisterServer
+  GetProviderClassID="C:\Windows\SysWOW64\CIWmi".GetProviderClassID
+  MI_Main="C:\Windows\SysWOW64\CIWmi".MI_Main

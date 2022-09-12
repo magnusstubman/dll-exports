@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\adprovider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\adprovider".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\adprovider".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\adprovider".DllUnregisterServer

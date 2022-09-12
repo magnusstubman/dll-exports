@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mfksproxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mfksproxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mfksproxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mfksproxy".DllUnregisterServer

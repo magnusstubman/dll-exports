@@ -1,0 +1,9 @@
+EXPORTS
+  D3D11RefGetLastCreation="C:\Windows\SysWOW64\d3d10warp".D3D11RefGetLastCreation
+  D3DLayerGetInterface="C:\Windows\SysWOW64\d3d10warp".D3DLayerGetInterface
+  OpenAdapter="C:\Windows\SysWOW64\d3d10warp".OpenAdapter
+  OpenAdapter10_2="C:\Windows\SysWOW64\d3d10warp".OpenAdapter10_2
+  OpenAdapter12="C:\Windows\SysWOW64\d3d10warp".OpenAdapter12
+  OpenDisplayAdapter1="C:\Windows\SysWOW64\d3d10warp".OpenDisplayAdapter1
+  QueryDListForApplication1="C:\Windows\SysWOW64\d3d10warp".QueryDListForApplication1
+  VSD3DDebugConnectionBuffer="C:\Windows\SysWOW64\d3d10warp".VSD3DDebugConnectionBuffer

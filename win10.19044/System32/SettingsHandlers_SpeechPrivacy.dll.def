@@ -1,0 +1,3 @@
+EXPORTS
+  GetSetting="C:\Windows\System32\SettingsHandlers_SpeechPrivacy".GetSetting
+  GetSettingsManagerSingleton="C:\Windows\System32\SettingsHandlers_SpeechPrivacy".GetSettingsManagerSingleton

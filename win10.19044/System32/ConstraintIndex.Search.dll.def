@@ -1,0 +1,17 @@
+EXPORTS
+  BuildConstraintIndex="C:\Windows\System32\ConstraintIndex.Search".BuildConstraintIndex
+  BuildConstraintIndexInMemory="C:\Windows\System32\ConstraintIndex.Search".BuildConstraintIndexInMemory
+  BuildFilterTrie="C:\Windows\System32\ConstraintIndex.Search".BuildFilterTrie
+  BuildFilterTrieInMemory="C:\Windows\System32\ConstraintIndex.Search".BuildFilterTrieInMemory
+  CSGGetBestEntityScore="C:\Windows\System32\ConstraintIndex.Search".CSGGetBestEntityScore
+  CreateCSGSuggest="C:\Windows\System32\ConstraintIndex.Search".CreateCSGSuggest
+  CreateCSGSuggestInMemory="C:\Windows\System32\ConstraintIndex.Search".CreateCSGSuggestInMemory
+  CreateConstraintIndex="C:\Windows\System32\ConstraintIndex.Search".CreateConstraintIndex
+  CreateConstraintIndexInMemory="C:\Windows\System32\ConstraintIndex.Search".CreateConstraintIndexInMemory
+  DeleteCSGSuggest="C:\Windows\System32\ConstraintIndex.Search".DeleteCSGSuggest
+  DeleteConstraintIndex="C:\Windows\System32\ConstraintIndex.Search".DeleteConstraintIndex
+  DllCanUnloadNow="C:\Windows\System32\ConstraintIndex.Search".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ConstraintIndex.Search".DllGetActivationFactory
+  GetAttributeRank="C:\Windows\System32\ConstraintIndex.Search".GetAttributeRank
+  GetEntitySuggestions="C:\Windows\System32\ConstraintIndex.Search".GetEntitySuggestions
+  GetSegmentRank="C:\Windows\System32\ConstraintIndex.Search".GetSegmentRank

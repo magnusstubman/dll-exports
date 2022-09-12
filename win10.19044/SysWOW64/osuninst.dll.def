@@ -1,0 +1,6 @@
+EXPORTS
+  ExecuteUninstall="C:\Windows\SysWOW64\osuninst".ExecuteUninstall
+  GetUninstallImageSize="C:\Windows\SysWOW64\osuninst".GetUninstallImageSize
+  IsUninstallImageValid="C:\Windows\SysWOW64\osuninst".IsUninstallImageValid
+  ProvideUiAlerts="C:\Windows\SysWOW64\osuninst".ProvideUiAlerts
+  RemoveUninstallImage="C:\Windows\SysWOW64\osuninst".RemoveUninstallImage

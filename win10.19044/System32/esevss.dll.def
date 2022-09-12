@@ -1,0 +1,9 @@
+EXPORTS
+  EseShadowCreateShadow="C:\Windows\System32\esevss".EseShadowCreateShadow
+  EseShadowCreateSimpleShadow="C:\Windows\System32\esevss".EseShadowCreateSimpleShadow
+  EseShadowInit="C:\Windows\System32\esevss".EseShadowInit
+  EseShadowMountShadow="C:\Windows\System32\esevss".EseShadowMountShadow
+  EseShadowMountSimpleShadow="C:\Windows\System32\esevss".EseShadowMountSimpleShadow
+  EseShadowPurgeShadow="C:\Windows\System32\esevss".EseShadowPurgeShadow
+  EseShadowTerm="C:\Windows\System32\esevss".EseShadowTerm
+  VssIdToString="C:\Windows\System32\esevss".VssIdToString

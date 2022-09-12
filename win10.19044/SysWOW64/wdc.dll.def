@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wdc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wdc".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wdc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wdc".DllUnregisterServer
+  WdcParseLegacyFile="C:\Windows\SysWOW64\wdc".WdcParseLegacyFile
+  WdcRunTaskAsInteractiveUser="C:\Windows\SysWOW64\wdc".WdcRunTaskAsInteractiveUser

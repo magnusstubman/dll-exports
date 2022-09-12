@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MsCtfMonitor".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MsCtfMonitor".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MsCtfMonitor".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MsCtfMonitor".DllUnregisterServer
+  DoMsCtfMonitor="C:\Windows\System32\MsCtfMonitor".DoMsCtfMonitor
+  InitLocalMsCtfMonitor="C:\Windows\System32\MsCtfMonitor".InitLocalMsCtfMonitor
+  UninitLocalMsCtfMonitor="C:\Windows\System32\MsCtfMonitor".UninitLocalMsCtfMonitor

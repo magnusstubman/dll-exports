@@ -1,0 +1,27 @@
+EXPORTS
+  AVrfAPILookupCallback="C:\Windows\System32\verifier".AVrfAPILookupCallback
+  VerifierAddFreeMemoryCallback="C:\Windows\System32\verifier".VerifierAddFreeMemoryCallback
+  VerifierCheckPageHeapAllocation="C:\Windows\System32\verifier".VerifierCheckPageHeapAllocation
+  VerifierCreateRpcPageHeap="C:\Windows\System32\verifier".VerifierCreateRpcPageHeap
+  VerifierDeleteFreeMemoryCallback="C:\Windows\System32\verifier".VerifierDeleteFreeMemoryCallback
+  VerifierDestroyRpcPageHeap="C:\Windows\System32\verifier".VerifierDestroyRpcPageHeap
+  VerifierDisableFaultInjectionExclusionRange="C:\Windows\System32\verifier".VerifierDisableFaultInjectionExclusionRange
+  VerifierDisableFaultInjectionTargetRange="C:\Windows\System32\verifier".VerifierDisableFaultInjectionTargetRange
+  VerifierEnableFaultInjectionExclusionRange="C:\Windows\System32\verifier".VerifierEnableFaultInjectionExclusionRange
+  VerifierEnableFaultInjectionTargetRange="C:\Windows\System32\verifier".VerifierEnableFaultInjectionTargetRange
+  VerifierEnumerateResource="C:\Windows\System32\verifier".VerifierEnumerateResource
+  VerifierForceNormalHeap="C:\Windows\System32\verifier".VerifierForceNormalHeap
+  VerifierGetInfoForException="C:\Windows\System32\verifier".VerifierGetInfoForException
+  VerifierGetMemoryForDump="C:\Windows\System32\verifier".VerifierGetMemoryForDump
+  VerifierGetPropertyValueByName="C:\Windows\System32\verifier".VerifierGetPropertyValueByName
+  VerifierGetProviderHelper="C:\Windows\System32\verifier".VerifierGetProviderHelper
+  VerifierIsAddressInAnyPageHeap="C:\Windows\System32\verifier".VerifierIsAddressInAnyPageHeap
+  VerifierIsCurrentThreadHoldingLocks="C:\Windows\System32\verifier".VerifierIsCurrentThreadHoldingLocks
+  VerifierIsDllEntryActive="C:\Windows\System32\verifier".VerifierIsDllEntryActive
+  VerifierIsPerUserSettingsEnabled="C:\Windows\System32\verifier".VerifierIsPerUserSettingsEnabled
+  VerifierQueryRuntimeFlags="C:\Windows\System32\verifier".VerifierQueryRuntimeFlags
+  VerifierRedirectStopFunctions="C:\Windows\System32\verifier".VerifierRedirectStopFunctions
+  VerifierSetFaultInjectionProbability="C:\Windows\System32\verifier".VerifierSetFaultInjectionProbability
+  VerifierSetFlags="C:\Windows\System32\verifier".VerifierSetFlags
+  VerifierSetRuntimeFlags="C:\Windows\System32\verifier".VerifierSetRuntimeFlags
+  VerifierStopMessage="C:\Windows\System32\verifier".VerifierStopMessage

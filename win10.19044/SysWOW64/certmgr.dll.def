@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\certmgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\certmgr".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\certmgr".DllInstall
+  DllRegisterServer="C:\Windows\SysWOW64\certmgr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\certmgr".DllUnregisterServer

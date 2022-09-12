@@ -1,0 +1,2 @@
+EXPORTS
+  InitializeLsaExtension="C:\Windows\System32\efslsaext".InitializeLsaExtension

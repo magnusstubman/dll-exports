@@ -1,0 +1,10 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\MrmDeploy".DllMain
+  GetCanonicalMergedPriFileName="C:\Windows\SysWOW64\MrmDeploy".GetCanonicalMergedPriFileName
+  GetCanonicalMergedPriFileNameForPackages="C:\Windows\SysWOW64\MrmDeploy".GetCanonicalMergedPriFileNameForPackages
+  GetInitInfoByPackageFullName="C:\Windows\SysWOW64\MrmDeploy".GetInitInfoByPackageFullName
+  GetOrCreatePriFileForApplicablePackages="C:\Windows\SysWOW64\MrmDeploy".GetOrCreatePriFileForApplicablePackages
+  GetOrCreatePriFileForAvailablePackages="C:\Windows\SysWOW64\MrmDeploy".GetOrCreatePriFileForAvailablePackages
+  GetOrCreatePriFileForRelatedPackages="C:\Windows\SysWOW64\MrmDeploy".GetOrCreatePriFileForRelatedPackages
+  GetPriFileForPackageOnly="C:\Windows\SysWOW64\MrmDeploy".GetPriFileForPackageOnly
+  MergeRelatedPriFiles="C:\Windows\SysWOW64\MrmDeploy".MergeRelatedPriFiles

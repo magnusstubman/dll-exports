@@ -1,0 +1,17 @@
+EXPORTS
+  WSHAddressToString="C:\Windows\System32\wshrm".WSHAddressToString
+  WSHEnumProtocols="C:\Windows\System32\wshrm".WSHEnumProtocols
+  WSHGetBroadcastSockaddr="C:\Windows\System32\wshrm".WSHGetBroadcastSockaddr
+  WSHGetProviderGuid="C:\Windows\System32\wshrm".WSHGetProviderGuid
+  WSHGetSockaddrType="C:\Windows\System32\wshrm".WSHGetSockaddrType
+  WSHGetSocketInformation="C:\Windows\System32\wshrm".WSHGetSocketInformation
+  WSHGetWSAProtocolInfo="C:\Windows\System32\wshrm".WSHGetWSAProtocolInfo
+  WSHGetWildcardSockaddr="C:\Windows\System32\wshrm".WSHGetWildcardSockaddr
+  WSHGetWinsockMapping="C:\Windows\System32\wshrm".WSHGetWinsockMapping
+  WSHIoctl="C:\Windows\System32\wshrm".WSHIoctl
+  WSHJoinLeaf="C:\Windows\System32\wshrm".WSHJoinLeaf
+  WSHNotify="C:\Windows\System32\wshrm".WSHNotify
+  WSHOpenSocket="C:\Windows\System32\wshrm".WSHOpenSocket
+  WSHOpenSocket2="C:\Windows\System32\wshrm".WSHOpenSocket2
+  WSHSetSocketInformation="C:\Windows\System32\wshrm".WSHSetSocketInformation
+  WSHStringToAddress="C:\Windows\System32\wshrm".WSHStringToAddress

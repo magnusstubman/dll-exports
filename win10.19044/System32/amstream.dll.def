@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\amstream".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\amstream".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\amstream".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\amstream".DllUnregisterServer

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\appmgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\appmgr".DllGetClassObject
+  GenerateScript="C:\Windows\SysWOW64\appmgr".GenerateScript

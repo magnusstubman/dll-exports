@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\threadpoolwinrt".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\threadpoolwinrt".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\threadpoolwinrt".DllGetClassObject
+  DllMain="C:\Windows\System32\threadpoolwinrt".DllMain

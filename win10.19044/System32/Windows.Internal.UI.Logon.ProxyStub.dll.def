@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.UI.Logon.ProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.UI.Logon.ProxyStub".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.Internal.UI.Logon.ProxyStub".GetProxyDllInfo

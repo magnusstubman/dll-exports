@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\softkbd".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\softkbd".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\softkbd".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\softkbd".DllUnregisterServer

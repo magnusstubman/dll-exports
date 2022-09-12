@@ -1,0 +1,13 @@
+EXPORTS
+  CreateExplorerSessionKey="C:\Windows\SysWOW64\userinitext".CreateExplorerSessionKey
+  DisplayMessageAndExitWindows="C:\Windows\SysWOW64\userinitext".DisplayMessageAndExitWindows
+  ImmWorker="C:\Windows\SysWOW64\userinitext".ImmWorker
+  IsSubDesktopSession="C:\Windows\SysWOW64\userinitext".IsSubDesktopSession
+  IsTSAppCompatOn="C:\Windows\SysWOW64\userinitext".IsTSAppCompatOn
+  LoadRemoteFontsAndInitMiscWorker="C:\Windows\SysWOW64\userinitext".LoadRemoteFontsAndInitMiscWorker
+  PerformXForestLogonCheck="C:\Windows\SysWOW64\userinitext".PerformXForestLogonCheck
+  ProcesRemoteSessionInitialCommand="C:\Windows\SysWOW64\userinitext".ProcesRemoteSessionInitialCommand
+  ProcessTermSrvIniFiles="C:\Windows\SysWOW64\userinitext".ProcessTermSrvIniFiles
+  SetShellDesktopSwitchEvent="C:\Windows\SysWOW64\userinitext".SetShellDesktopSwitchEvent
+  SetupHotKeyForKeyboardLayout="C:\Windows\SysWOW64\userinitext".SetupHotKeyForKeyboardLayout
+  UserinitExt="C:\Windows\SysWOW64\userinitext".UserinitExt

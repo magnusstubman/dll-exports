@@ -1,0 +1,21 @@
+EXPORTS
+  AppRegEnum="C:\Windows\SysWOW64\odbcconf".AppRegEnum
+  CloseAppRegEnum="C:\Windows\SysWOW64\odbcconf".CloseAppRegEnum
+  DllCanUnloadNow="C:\Windows\SysWOW64\odbcconf".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\odbcconf".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\odbcconf".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\odbcconf".DllUnregisterServer
+  ExecuteAction="C:\Windows\SysWOW64\odbcconf".ExecuteAction
+  OpenAppRegEnum="C:\Windows\SysWOW64\odbcconf".OpenAppRegEnum
+  QueryApplication="C:\Windows\SysWOW64\odbcconf".QueryApplication
+  RefreshAppRegEnum="C:\Windows\SysWOW64\odbcconf".RefreshAppRegEnum
+  RegisterApplication="C:\Windows\SysWOW64\odbcconf".RegisterApplication
+  RunDLL32_RegisterApplication="C:\Windows\SysWOW64\odbcconf".RunDLL32_RegisterApplication
+  RunDLL32_UnregisterApplication="C:\Windows\SysWOW64\odbcconf".RunDLL32_UnregisterApplication
+  SetActionEnum="C:\Windows\SysWOW64\odbcconf".SetActionEnum
+  SetActionLogFile="C:\Windows\SysWOW64\odbcconf".SetActionLogFile
+  SetActionLogMode="C:\Windows\SysWOW64\odbcconf".SetActionLogMode
+  SetActionLogModeSz="C:\Windows\SysWOW64\odbcconf".SetActionLogModeSz
+  SetActionName="C:\Windows\SysWOW64\odbcconf".SetActionName
+  SetSilent="C:\Windows\SysWOW64\odbcconf".SetSilent
+  UnregisterApplication="C:\Windows\SysWOW64\odbcconf".UnregisterApplication

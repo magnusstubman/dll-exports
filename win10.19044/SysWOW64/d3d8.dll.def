@@ -1,0 +1,6 @@
+EXPORTS
+  DebugSetMute="C:\Windows\SysWOW64\d3d8".DebugSetMute
+  Direct3D8EnableMaximizedWindowedModeShim="C:\Windows\SysWOW64\d3d8".Direct3D8EnableMaximizedWindowedModeShim
+  Direct3DCreate8="C:\Windows\SysWOW64\d3d8".Direct3DCreate8
+  ValidatePixelShader="C:\Windows\SysWOW64\d3d8".ValidatePixelShader
+  ValidateVertexShader="C:\Windows\SysWOW64\d3d8".ValidateVertexShader

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\webplatstorageserver".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\webplatstorageserver".DllGetClassObject
+  DllInstall="C:\Windows\System32\webplatstorageserver".DllInstall
+  DllRegisterServer="C:\Windows\System32\webplatstorageserver".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\webplatstorageserver".DllUnregisterServer

@@ -1,0 +1,21 @@
+EXPORTS
+  ActivateInputProfile="C:\Windows\SysWOW64\input".ActivateInputProfile
+  CPlApplet="C:\Windows\SysWOW64\input".CPlApplet
+  EnumEnabledLayoutOrTip="C:\Windows\SysWOW64\input".EnumEnabledLayoutOrTip
+  EnumEnabledLayoutOrTipPrivate="C:\Windows\SysWOW64\input".EnumEnabledLayoutOrTipPrivate
+  EnumLayoutOrTipForSetup="C:\Windows\SysWOW64\input".EnumLayoutOrTipForSetup
+  GetDefaultLayout="C:\Windows\SysWOW64\input".GetDefaultLayout
+  GetLayoutDescription="C:\Windows\SysWOW64\input".GetLayoutDescription
+  InputDll_DownlevelEnumLayoutOrTipForSetup="C:\Windows\SysWOW64\input".InputDll_DownlevelEnumLayoutOrTipForSetup
+  InputDll_DownlevelInitialize="C:\Windows\SysWOW64\input".InputDll_DownlevelInitialize
+  InputDll_DownlevelSetUILanguage="C:\Windows\SysWOW64\input".InputDll_DownlevelSetUILanguage
+  InputDll_DownlevelUninitialize="C:\Windows\SysWOW64\input".InputDll_DownlevelUninitialize
+  InstallLayoutOrTip="C:\Windows\SysWOW64\input".InstallLayoutOrTip
+  InstallLayoutOrTipOffline="C:\Windows\SysWOW64\input".InstallLayoutOrTipOffline
+  InstallLayoutOrTipPrivate="C:\Windows\SysWOW64\input".InstallLayoutOrTipPrivate
+  InstallLayoutOrTipUserReg="C:\Windows\SysWOW64\input".InstallLayoutOrTipUserReg
+  QueryLayoutOrTipString="C:\Windows\SysWOW64\input".QueryLayoutOrTipString
+  QueryLayoutOrTipStringUserReg="C:\Windows\SysWOW64\input".QueryLayoutOrTipStringUserReg
+  SaveDefaultUserInputSettings="C:\Windows\SysWOW64\input".SaveDefaultUserInputSettings
+  SaveSystemAcctInputSettings="C:\Windows\SysWOW64\input".SaveSystemAcctInputSettings
+  SetDefaultLayoutOrTip="C:\Windows\SysWOW64\input".SetDefaultLayoutOrTip

@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:SRSetRestorePoint=\"C:\\Windows\\System32\\sfc.SRSetRestorePoint\"")
+#pragma comment(linker, "/export:SRSetRestorePointA=\"C:\\Windows\\System32\\sfc.SRSetRestorePointA\"")
+#pragma comment(linker, "/export:SRSetRestorePointW=\"C:\\Windows\\System32\\sfc.SRSetRestorePointW\"")
+#pragma comment(linker, "/export:SfcGetNextProtectedFile=\"C:\\Windows\\System32\\sfc.SfcGetNextProtectedFile\"")
+#pragma comment(linker, "/export:SfcIsFileProtected=\"C:\\Windows\\System32\\sfc.SfcIsFileProtected\"")
+#pragma comment(linker, "/export:SfcIsKeyProtected=\"C:\\Windows\\System32\\sfc.SfcIsKeyProtected\"")
+#pragma comment(linker, "/export:SfpVerifyFile=\"C:\\Windows\\System32\\sfc.SfpVerifyFile\"")

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RoamingSecurity".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\RoamingSecurity".DllGetClassObject
+  DllInstall="C:\Windows\System32\RoamingSecurity".DllInstall
+  DllRegisterServer="C:\Windows\System32\RoamingSecurity".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\RoamingSecurity".DllUnregisterServer

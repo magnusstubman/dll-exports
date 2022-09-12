@@ -1,0 +1,14 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\netshell".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\netshell".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\netshell".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\netshell".DllUnregisterServer
+  HrCreateDesktopIcon="C:\Windows\System32\netshell".HrCreateDesktopIcon
+  HrGetIconFromMediaType="C:\Windows\System32\netshell".HrGetIconFromMediaType
+  HrGetIconFromMediaTypeEx="C:\Windows\System32\netshell".HrGetIconFromMediaTypeEx
+  HrLaunchConnection="C:\Windows\System32\netshell".HrLaunchConnection
+  HrLaunchConnectionEx="C:\Windows\System32\netshell".HrLaunchConnectionEx
+  HrRenameConnection="C:\Windows\System32\netshell".HrRenameConnection
+  NcFreeNetconProperties="C:\Windows\System32\netshell".NcFreeNetconProperties
+  NcIsValidConnectionName="C:\Windows\System32\netshell".NcIsValidConnectionName
+  StartNCW="C:\Windows\System32\netshell".StartNCW

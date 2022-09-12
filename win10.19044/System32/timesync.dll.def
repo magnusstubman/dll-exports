@@ -1,0 +1,6 @@
+EXPORTS
+  FreeTimeStatusInfo="C:\Windows\System32\timesync".FreeTimeStatusInfo
+  GetTimeStatusInfo="C:\Windows\System32\timesync".GetTimeStatusInfo
+  SetNTPSync="C:\Windows\System32\timesync".SetNTPSync
+  StartTimeService="C:\Windows\System32\timesync".StartTimeService
+  SyncW32Time="C:\Windows\System32\timesync".SyncW32Time

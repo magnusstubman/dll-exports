@@ -1,0 +1,5 @@
+EXPORTS
+  DabApiBufferFree="C:\Windows\SysWOW64\dabapi".DabApiBufferFree
+  DabGetLastScheduledRunTime="C:\Windows\SysWOW64\dabapi".DabGetLastScheduledRunTime
+  DabRegisterTriggerConsumer="C:\Windows\SysWOW64\dabapi".DabRegisterTriggerConsumer
+  DabUnregisterTriggerConsumer="C:\Windows\SysWOW64\dabapi".DabUnregisterTriggerConsumer

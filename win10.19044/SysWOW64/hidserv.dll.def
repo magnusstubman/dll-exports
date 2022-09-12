@@ -1,0 +1,3 @@
+EXPORTS
+  InstallHidserv="C:\Windows\SysWOW64\hidserv".InstallHidserv
+  ServiceMain="C:\Windows\SysWOW64\hidserv".ServiceMain

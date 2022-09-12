@@ -1,0 +1,3 @@
+EXPORTS
+  DDACLSys_Offline_Specialize="C:\Windows\SysWOW64\DDACLSys".DDACLSys_Offline_Specialize
+  DDACLSys_Specialize="C:\Windows\SysWOW64\DDACLSys".DDACLSys_Specialize

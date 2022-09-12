@@ -1,0 +1,5 @@
+EXPORTS
+  DllMain="C:\Windows\System32\Windows.SharedPC.AccountManager".DllMain
+  ServiceMain="C:\Windows\System32\Windows.SharedPC.AccountManager".ServiceMain
+  StartMaintenance="C:\Windows\System32\Windows.SharedPC.AccountManager".StartMaintenance
+  SvchostPushServiceGlobals="C:\Windows\System32\Windows.SharedPC.AccountManager".SvchostPushServiceGlobals

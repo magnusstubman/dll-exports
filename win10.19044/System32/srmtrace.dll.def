@@ -1,0 +1,12 @@
+EXPORTS
+  SrmGetTracingContextPerThread="C:\Windows\System32\srmtrace".SrmGetTracingContextPerThread
+  SrmGetTracingModuleInfo="C:\Windows\System32\srmtrace".SrmGetTracingModuleInfo
+  SrmGetTracingSequenceNumber="C:\Windows\System32\srmtrace".SrmGetTracingSequenceNumber
+  SrmIsTracingEnabled="C:\Windows\System32\srmtrace".SrmIsTracingEnabled
+  SrmIsTracingEnabledOnFunction="C:\Windows\System32\srmtrace".SrmIsTracingEnabledOnFunction
+  SrmIsTracingEnabledOnModule="C:\Windows\System32\srmtrace".SrmIsTracingEnabledOnModule
+  SrmIsTracingEnabledPerThread="C:\Windows\System32\srmtrace".SrmIsTracingEnabledPerThread
+  SrmSetTracingContextPerThread="C:\Windows\System32\srmtrace".SrmSetTracingContextPerThread
+  SrmTraceInitialize="C:\Windows\System32\srmtrace".SrmTraceInitialize
+  SrmTraceMessage="C:\Windows\System32\srmtrace".SrmTraceMessage
+  SrmTraceUninitialize="C:\Windows\System32\srmtrace".SrmTraceUninitialize

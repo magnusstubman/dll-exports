@@ -1,0 +1,14 @@
+EXPORTS
+  DisableSR="C:\Windows\SysWOW64\srclient".DisableSR
+  DisableSRInternal="C:\Windows\SysWOW64\srclient".DisableSRInternal
+  EnableSR="C:\Windows\SysWOW64\srclient".EnableSR
+  EnableSREx="C:\Windows\SysWOW64\srclient".EnableSREx
+  EnableSRInternal="C:\Windows\SysWOW64\srclient".EnableSRInternal
+  SRNewSystemId="C:\Windows\SysWOW64\srclient".SRNewSystemId
+  SRRemoveRestorePoint="C:\Windows\SysWOW64\srclient".SRRemoveRestorePoint
+  SRSetRestorePointA="C:\Windows\SysWOW64\srclient".SRSetRestorePointA
+  SRSetRestorePointInternal="C:\Windows\SysWOW64\srclient".SRSetRestorePointInternal
+  SRSetRestorePointW="C:\Windows\SysWOW64\srclient".SRSetRestorePointW
+  SetSRStateAfterSetup="C:\Windows\SysWOW64\srclient".SetSRStateAfterSetup
+  SysprepCleanup="C:\Windows\SysWOW64\srclient".SysprepCleanup
+  SysprepGeneralize="C:\Windows\SysWOW64\srclient".SysprepGeneralize

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ErrorDetails".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\ErrorDetails".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\ErrorDetails".DllGetClassObject

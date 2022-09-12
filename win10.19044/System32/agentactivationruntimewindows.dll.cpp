@@ -1,0 +1,1 @@
+#pragma comment(linker, "/export:?GetAgentActivationRuntimePalComponentFactory@@YAPEAVIAgentActivationRuntimePalComponentFactory@VoiceAgentServices@Microsoft@@XZ=\"C:\\Windows\\System32\\agentactivationruntimewindows.?GetAgentActivationRuntimePalComponentFactory@@YAPEAVIAgentActivationRuntimePalComponentFactory@VoiceAgentServices@Microsoft@@XZ\"")

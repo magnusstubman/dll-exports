@@ -1,0 +1,3 @@
+EXPORTS
+  NrpStartRpcServer="C:\Windows\System32\nrpsrv".NrpStartRpcServer
+  NrpStopRpcServer="C:\Windows\System32\nrpsrv".NrpStopRpcServer

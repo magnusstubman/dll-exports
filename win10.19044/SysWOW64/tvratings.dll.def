@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\tvratings".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\tvratings".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\tvratings".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\tvratings".DllUnregisterServer

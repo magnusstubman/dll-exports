@@ -1,0 +1,7 @@
+EXPORTS
+  ConfigureRegistrationIEZoneMappings="C:\Windows\System32\deviceregistration".ConfigureRegistrationIEZoneMappings
+  DiscoverRegistrationService="C:\Windows\System32\deviceregistration".DiscoverRegistrationService
+  GetRegistrationInfo="C:\Windows\System32\deviceregistration".GetRegistrationInfo
+  IsRegistrationAvailable="C:\Windows\System32\deviceregistration".IsRegistrationAvailable
+  RegisterDevice="C:\Windows\System32\deviceregistration".RegisterDevice
+  UnRegisterDevice="C:\Windows\System32\deviceregistration".UnRegisterDevice

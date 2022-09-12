@@ -1,0 +1,10 @@
+EXPORTS
+  DeprovisionApplicationCapabilities="C:\Windows\SysWOW64\capauthz".DeprovisionApplicationCapabilities
+  ProvisionApplicationCapabilities="C:\Windows\SysWOW64\capauthz".ProvisionApplicationCapabilities
+  ProvisionApplicationCapabilitiesEx="C:\Windows\SysWOW64\capauthz".ProvisionApplicationCapabilitiesEx
+  QueryApplicationCapabilities="C:\Windows\SysWOW64\capauthz".QueryApplicationCapabilities
+  QueryApplicationCapabilitiesEx="C:\Windows\SysWOW64\capauthz".QueryApplicationCapabilitiesEx
+  SCCDFreeParsedElements="C:\Windows\SysWOW64\capauthz".SCCDFreeParsedElements
+  SCCDParseFile="C:\Windows\SysWOW64\capauthz".SCCDParseFile
+  SCCDValidateAppxFile="C:\Windows\SysWOW64\capauthz".SCCDValidateAppxFile
+  SCCDValidateCatalogFile="C:\Windows\SysWOW64\capauthz".SCCDValidateCatalogFile

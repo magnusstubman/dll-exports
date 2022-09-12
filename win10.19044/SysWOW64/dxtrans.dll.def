@@ -1,0 +1,12 @@
+EXPORTS
+  ?DXConstOverArray@@YGXPAVDXPMSAMPLE@@ABV1@K@Z="C:\Windows\SysWOW64\dxtrans".?DXConstOverArray@@YGXPAVDXPMSAMPLE@@ABV1@K@Z
+  ?DXConstUnderArray@@YGXPAVDXPMSAMPLE@@ABV1@K@Z="C:\Windows\SysWOW64\dxtrans".?DXConstUnderArray@@YGXPAVDXPMSAMPLE@@ABV1@K@Z
+  ?DXDitherArray@@YGXPBUDXDITHERDESC@@@Z="C:\Windows\SysWOW64\dxtrans".?DXDitherArray@@YGXPBUDXDITHERDESC@@@Z
+  ?DXLinearInterpolateArray@@YGXPBVDXBASESAMPLE@@PAUDXLIMAPINFO@@PAV1@K@Z="C:\Windows\SysWOW64\dxtrans".?DXLinearInterpolateArray@@YGXPBVDXBASESAMPLE@@PAUDXLIMAPINFO@@PAV1@K@Z
+  ?DXOverArray@@YGXPAVDXPMSAMPLE@@PBV1@K@Z="C:\Windows\SysWOW64\dxtrans".?DXOverArray@@YGXPAVDXPMSAMPLE@@PBV1@K@Z
+  ?DXOverArrayMMX@@YGXPAVDXPMSAMPLE@@PBV1@K@Z="C:\Windows\SysWOW64\dxtrans".?DXOverArrayMMX@@YGXPAVDXPMSAMPLE@@PBV1@K@Z
+  DllCanUnloadNow="C:\Windows\SysWOW64\dxtrans".DllCanUnloadNow
+  DllEnumClassObjects="C:\Windows\SysWOW64\dxtrans".DllEnumClassObjects
+  DllGetClassObject="C:\Windows\SysWOW64\dxtrans".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\dxtrans".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\dxtrans".DllUnregisterServer

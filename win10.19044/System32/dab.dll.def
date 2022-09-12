@@ -1,0 +1,5 @@
+EXPORTS
+  DabInitialize="C:\Windows\System32\dab".DabInitialize
+  DabPowerStateChanged="C:\Windows\System32\dab".DabPowerStateChanged
+  DabSessionStateChanged="C:\Windows\System32\dab".DabSessionStateChanged
+  DabTerminate="C:\Windows\System32\dab".DabTerminate

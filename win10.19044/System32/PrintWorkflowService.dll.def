@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PrintWorkflowService".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\PrintWorkflowService".DllGetActivationFactory
+  ServiceMain="C:\Windows\System32\PrintWorkflowService".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\PrintWorkflowService".SvchostPushServiceGlobals

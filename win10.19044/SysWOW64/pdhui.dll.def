@@ -1,0 +1,11 @@
+EXPORTS
+  PdhUiBrowseCountersA="C:\Windows\SysWOW64\pdhui".PdhUiBrowseCountersA
+  PdhUiBrowseCountersExA="C:\Windows\SysWOW64\pdhui".PdhUiBrowseCountersExA
+  PdhUiBrowseCountersExHA="C:\Windows\SysWOW64\pdhui".PdhUiBrowseCountersExHA
+  PdhUiBrowseCountersExHW="C:\Windows\SysWOW64\pdhui".PdhUiBrowseCountersExHW
+  PdhUiBrowseCountersExW="C:\Windows\SysWOW64\pdhui".PdhUiBrowseCountersExW
+  PdhUiBrowseCountersHA="C:\Windows\SysWOW64\pdhui".PdhUiBrowseCountersHA
+  PdhUiBrowseCountersHW="C:\Windows\SysWOW64\pdhui".PdhUiBrowseCountersHW
+  PdhUiBrowseCountersW="C:\Windows\SysWOW64\pdhui".PdhUiBrowseCountersW
+  PdhUiSelectDataSourceA="C:\Windows\SysWOW64\pdhui".PdhUiSelectDataSourceA
+  PdhUiSelectDataSourceW="C:\Windows\SysWOW64\pdhui".PdhUiSelectDataSourceW

@@ -1,0 +1,25 @@
+EXPORTS
+  WahCloseApcHelper="C:\Windows\System32\ws2help".WahCloseApcHelper
+  WahCloseHandleHelper="C:\Windows\System32\ws2help".WahCloseHandleHelper
+  WahCloseNotificationHandleHelper="C:\Windows\System32\ws2help".WahCloseNotificationHandleHelper
+  WahCloseSocketHandle="C:\Windows\System32\ws2help".WahCloseSocketHandle
+  WahCloseThread="C:\Windows\System32\ws2help".WahCloseThread
+  WahCompleteRequest="C:\Windows\System32\ws2help".WahCompleteRequest
+  WahCreateHandleContextTable="C:\Windows\System32\ws2help".WahCreateHandleContextTable
+  WahCreateNotificationHandle="C:\Windows\System32\ws2help".WahCreateNotificationHandle
+  WahCreateSocketHandle="C:\Windows\System32\ws2help".WahCreateSocketHandle
+  WahDestroyHandleContextTable="C:\Windows\System32\ws2help".WahDestroyHandleContextTable
+  WahDisableNonIFSHandleSupport="C:\Windows\System32\ws2help".WahDisableNonIFSHandleSupport
+  WahEnableNonIFSHandleSupport="C:\Windows\System32\ws2help".WahEnableNonIFSHandleSupport
+  WahEnumerateHandleContexts="C:\Windows\System32\ws2help".WahEnumerateHandleContexts
+  WahInsertHandleContext="C:\Windows\System32\ws2help".WahInsertHandleContext
+  WahNotifyAllProcesses="C:\Windows\System32\ws2help".WahNotifyAllProcesses
+  WahOpenApcHelper="C:\Windows\System32\ws2help".WahOpenApcHelper
+  WahOpenCurrentThread="C:\Windows\System32\ws2help".WahOpenCurrentThread
+  WahOpenHandleHelper="C:\Windows\System32\ws2help".WahOpenHandleHelper
+  WahOpenNotificationHandleHelper="C:\Windows\System32\ws2help".WahOpenNotificationHandleHelper
+  WahQueueUserApc="C:\Windows\System32\ws2help".WahQueueUserApc
+  WahReferenceContextByHandle="C:\Windows\System32\ws2help".WahReferenceContextByHandle
+  WahRemoveHandleContext="C:\Windows\System32\ws2help".WahRemoveHandleContext
+  WahWaitForNotification="C:\Windows\System32\ws2help".WahWaitForNotification
+  WahWriteLSPEvent="C:\Windows\System32\ws2help".WahWriteLSPEvent

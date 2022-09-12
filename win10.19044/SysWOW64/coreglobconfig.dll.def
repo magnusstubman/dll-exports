@@ -1,0 +1,12 @@
+EXPORTS
+  CreateUserSpecificGlobalizationSettings="C:\Windows\SysWOW64\coreglobconfig".CreateUserSpecificGlobalizationSettings
+  DllCanUnloadNow="C:\Windows\SysWOW64\coreglobconfig".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\coreglobconfig".DllGetClassObject
+  GetDisplayLanguageLocalizedName="C:\Windows\SysWOW64\coreglobconfig".GetDisplayLanguageLocalizedName
+  GetDisplayLanguageNativeName="C:\Windows\SysWOW64\coreglobconfig".GetDisplayLanguageNativeName
+  GetSupportedDisplayLanguages="C:\Windows\SysWOW64\coreglobconfig".GetSupportedDisplayLanguages
+  SetDisplayLanguageCore="C:\Windows\SysWOW64\coreglobconfig".SetDisplayLanguageCore
+  SetUserDisplayLanguageCore="C:\Windows\SysWOW64\coreglobconfig".SetUserDisplayLanguageCore
+  SyncLanguageDataFromCloud="C:\Windows\SysWOW64\coreglobconfig".SyncLanguageDataFromCloud
+  SyncLanguageDataToCloud="C:\Windows\SysWOW64\coreglobconfig".SyncLanguageDataToCloud
+  UpdateDefaultGlobalizationSettings="C:\Windows\SysWOW64\coreglobconfig".UpdateDefaultGlobalizationSettings

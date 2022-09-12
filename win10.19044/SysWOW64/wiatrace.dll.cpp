@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:WIATRACE_DecrementIndentLevel=\"C:\\Windows\\SysWOW64\\wiatrace.WIATRACE_DecrementIndentLevel\"")
+#pragma comment(linker, "/export:WIATRACE_GetIndentLevel=\"C:\\Windows\\SysWOW64\\wiatrace.WIATRACE_GetIndentLevel\"")
+#pragma comment(linker, "/export:WIATRACE_GetTraceSettings=\"C:\\Windows\\SysWOW64\\wiatrace.WIATRACE_GetTraceSettings\"")
+#pragma comment(linker, "/export:WIATRACE_IncrementIndentLevel=\"C:\\Windows\\SysWOW64\\wiatrace.WIATRACE_IncrementIndentLevel\"")
+#pragma comment(linker, "/export:WIATRACE_Init=\"C:\\Windows\\SysWOW64\\wiatrace.WIATRACE_Init\"")
+#pragma comment(linker, "/export:WIATRACE_OutputString=\"C:\\Windows\\SysWOW64\\wiatrace.WIATRACE_OutputString\"")
+#pragma comment(linker, "/export:WIATRACE_SetTraceSettings=\"C:\\Windows\\SysWOW64\\wiatrace.WIATRACE_SetTraceSettings\"")
+#pragma comment(linker, "/export:WIATRACE_Term=\"C:\\Windows\\SysWOW64\\wiatrace.WIATRACE_Term\"")

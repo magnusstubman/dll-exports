@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\NaturalLanguage6".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\NaturalLanguage6".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\NaturalLanguage6".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\NaturalLanguage6".DllUnregisterServer

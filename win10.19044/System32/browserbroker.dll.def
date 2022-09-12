@@ -1,0 +1,2 @@
+EXPORTS
+  COMServerDllMain="C:\Windows\System32\browserbroker".COMServerDllMain

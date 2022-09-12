@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\findnetprinters".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\findnetprinters".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\findnetprinters".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\findnetprinters".DllUnregisterServer

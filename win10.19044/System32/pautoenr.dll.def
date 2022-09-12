@@ -1,0 +1,4 @@
+EXPORTS
+  CertAutoEnrollment="C:\Windows\System32\pautoenr".CertAutoEnrollment
+  CertAutoRemove="C:\Windows\System32\pautoenr".CertAutoRemove
+  DimsProvEntry="C:\Windows\System32\pautoenr".DimsProvEntry

@@ -1,0 +1,21 @@
+EXPORTS
+  CDBuildIntegrityVect="C:\Windows\System32\cryptdll".CDBuildIntegrityVect
+  CDBuildVect="C:\Windows\System32\cryptdll".CDBuildVect
+  CDFindCommonCSystem="C:\Windows\System32\cryptdll".CDFindCommonCSystem
+  CDFindCommonCSystemWithKey="C:\Windows\System32\cryptdll".CDFindCommonCSystemWithKey
+  CDGenerateRandomBits="C:\Windows\System32\cryptdll".CDGenerateRandomBits
+  CDGetIntegrityVect="C:\Windows\System32\cryptdll".CDGetIntegrityVect
+  CDLocateCSystem="C:\Windows\System32\cryptdll".CDLocateCSystem
+  CDLocateCheckSum="C:\Windows\System32\cryptdll".CDLocateCheckSum
+  CDLocateRng="C:\Windows\System32\cryptdll".CDLocateRng
+  CDRegisterCSystem="C:\Windows\System32\cryptdll".CDRegisterCSystem
+  CDRegisterCheckSum="C:\Windows\System32\cryptdll".CDRegisterCheckSum
+  CDRegisterRng="C:\Windows\System32\cryptdll".CDRegisterRng
+  HMACwithSHA="C:\Windows\System32\cryptdll".HMACwithSHA
+  KRBFXCF2="C:\Windows\System32\cryptdll".KRBFXCF2
+  MD5Final="C:\Windows\System32\cryptdll".MD5Final
+  MD5Init="C:\Windows\System32\cryptdll".MD5Init
+  MD5Update="C:\Windows\System32\cryptdll".MD5Update
+  PBKDF2="C:\Windows\System32\cryptdll".PBKDF2
+  aesCTSDecryptMsg="C:\Windows\System32\cryptdll".aesCTSDecryptMsg
+  aesCTSEncryptMsg="C:\Windows\System32\cryptdll".aesCTSEncryptMsg

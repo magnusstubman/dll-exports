@@ -1,0 +1,25 @@
+EXPORTS
+  CreateDefaultProviderResolver="C:\Windows\System32\Windows.Storage.Search".CreateDefaultProviderResolver
+  CreateResultSetFactory="C:\Windows\System32\Windows.Storage.Search".CreateResultSetFactory
+  CreateSingleVisibleInList="C:\Windows\System32\Windows.Storage.Search".CreateSingleVisibleInList
+  DllCanUnloadNow="C:\Windows\System32\Windows.Storage.Search".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.Storage.Search".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.Storage.Search".DllMain
+  DllRegisterServer="C:\Windows\System32\Windows.Storage.Search".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Storage.Search".DllUnregisterServer
+  GetGatherAdmin="C:\Windows\System32\Windows.Storage.Search".GetGatherAdmin
+  GetScopeFolderType="C:\Windows\System32\Windows.Storage.Search".GetScopeFolderType
+  IsMSSearchEnabled="C:\Windows\System32\Windows.Storage.Search".IsMSSearchEnabled
+  IsShellItemInSearchIndex="C:\Windows\System32\Windows.Storage.Search".IsShellItemInSearchIndex
+  SEARCH_RemoteLocationsCscStateCache_IsRemoteLocationInCsc="C:\Windows\System32\Windows.Storage.Search".SEARCH_RemoteLocationsCscStateCache_IsRemoteLocationInCsc
+  SEARCH_WriteAutoListContents="C:\Windows\System32\Windows.Storage.Search".SEARCH_WriteAutoListContents
+  SHCreateAutoList="C:\Windows\System32\Windows.Storage.Search".SHCreateAutoList
+  SHCreateAutoListWithID="C:\Windows\System32\Windows.Storage.Search".SHCreateAutoListWithID
+  SHCreateScope="C:\Windows\System32\Windows.Storage.Search".SHCreateScope
+  SHCreateScopeFromIDListsEx="C:\Windows\System32\Windows.Storage.Search".SHCreateScopeFromIDListsEx
+  SHCreateScopeFromShellItemArray="C:\Windows\System32\Windows.Storage.Search".SHCreateScopeFromShellItemArray
+  SHCreateScopeItemFromIDList="C:\Windows\System32\Windows.Storage.Search".SHCreateScopeItemFromIDList
+  SHCreateScopeItemFromKnownFolder="C:\Windows\System32\Windows.Storage.Search".SHCreateScopeItemFromKnownFolder
+  SHCreateScopeItemFromShellItem="C:\Windows\System32\Windows.Storage.Search".SHCreateScopeItemFromShellItem
+  SHCreateSearchIDListFromAutoList="C:\Windows\System32\Windows.Storage.Search".SHCreateSearchIDListFromAutoList
+  SHCreateTransientVFolderIDList="C:\Windows\System32\Windows.Storage.Search".SHCreateTransientVFolderIDList

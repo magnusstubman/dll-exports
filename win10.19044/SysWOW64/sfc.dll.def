@@ -1,0 +1,8 @@
+EXPORTS
+  SRSetRestorePoint="C:\Windows\SysWOW64\sfc".SRSetRestorePoint
+  SRSetRestorePointA="C:\Windows\SysWOW64\sfc".SRSetRestorePointA
+  SRSetRestorePointW="C:\Windows\SysWOW64\sfc".SRSetRestorePointW
+  SfcGetNextProtectedFile="C:\Windows\SysWOW64\sfc".SfcGetNextProtectedFile
+  SfcIsFileProtected="C:\Windows\SysWOW64\sfc".SfcIsFileProtected
+  SfcIsKeyProtected="C:\Windows\SysWOW64\sfc".SfcIsKeyProtected
+  SfpVerifyFile="C:\Windows\SysWOW64\sfc".SfpVerifyFile

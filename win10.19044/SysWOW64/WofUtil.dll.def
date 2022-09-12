@@ -1,0 +1,12 @@
+EXPORTS
+  WofEnumEntries="C:\Windows\SysWOW64\WofUtil".WofEnumEntries
+  WofFileEnumFiles="C:\Windows\SysWOW64\WofUtil".WofFileEnumFiles
+  WofGetDriverVersion="C:\Windows\SysWOW64\WofUtil".WofGetDriverVersion
+  WofIsExternalFile="C:\Windows\SysWOW64\WofUtil".WofIsExternalFile
+  WofSetFileDataLocation="C:\Windows\SysWOW64\WofUtil".WofSetFileDataLocation
+  WofShouldCompressBinaries="C:\Windows\SysWOW64\WofUtil".WofShouldCompressBinaries
+  WofWimAddEntry="C:\Windows\SysWOW64\WofUtil".WofWimAddEntry
+  WofWimEnumFiles="C:\Windows\SysWOW64\WofUtil".WofWimEnumFiles
+  WofWimRemoveEntry="C:\Windows\SysWOW64\WofUtil".WofWimRemoveEntry
+  WofWimSuspendEntry="C:\Windows\SysWOW64\WofUtil".WofWimSuspendEntry
+  WofWimUpdateEntry="C:\Windows\SysWOW64\WofUtil".WofWimUpdateEntry

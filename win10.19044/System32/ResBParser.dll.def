@@ -1,0 +1,4 @@
+EXPORTS
+  DecodeReadResBDeinit="C:\Windows\System32\ResBParser".DecodeReadResBDeinit
+  DecodeReadResBInit="C:\Windows\System32\ResBParser".DecodeReadResBInit
+  EnumerateResBStrings="C:\Windows\System32\ResBParser".EnumerateResBStrings

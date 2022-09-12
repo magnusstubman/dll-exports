@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\AppListBackupLauncher".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\AppListBackupLauncher".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\AppListBackupLauncher".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\AppListBackupLauncher".DllUnregisterServer

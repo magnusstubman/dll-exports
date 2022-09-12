@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\WpcApi.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\WpcApi.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\WpcApi.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\WpcApi.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\WpcApi.DllUnregisterServer\"")
+#pragma comment(linker, "/export:WpcSetupNotifyHomeSharedAccountChanged=\"C:\\Windows\\System32\\WpcApi.WpcSetupNotifyHomeSharedAccountChanged\"")

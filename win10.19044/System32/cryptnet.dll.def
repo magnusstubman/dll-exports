@@ -1,0 +1,24 @@
+EXPORTS
+  CertDllVerifyCTLUsage="C:\Windows\System32\cryptnet".CertDllVerifyCTLUsage
+  CertDllVerifyRevocation="C:\Windows\System32\cryptnet".CertDllVerifyRevocation
+  CryptCancelAsyncRetrieval="C:\Windows\System32\cryptnet".CryptCancelAsyncRetrieval
+  CryptFlushTimeValidObject="C:\Windows\System32\cryptnet".CryptFlushTimeValidObject
+  CryptGetObjectUrl="C:\Windows\System32\cryptnet".CryptGetObjectUrl
+  CryptGetTimeValidObject="C:\Windows\System32\cryptnet".CryptGetTimeValidObject
+  CryptInstallCancelRetrieval="C:\Windows\System32\cryptnet".CryptInstallCancelRetrieval
+  CryptRetrieveObjectByUrlA="C:\Windows\System32\cryptnet".CryptRetrieveObjectByUrlA
+  CryptRetrieveObjectByUrlW="C:\Windows\System32\cryptnet".CryptRetrieveObjectByUrlW
+  CryptUninstallCancelRetrieval="C:\Windows\System32\cryptnet".CryptUninstallCancelRetrieval
+  DllRegisterServer="C:\Windows\System32\cryptnet".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\cryptnet".DllUnregisterServer
+  I_CryptConvertIriToAsciiOrUnicode="C:\Windows\System32\cryptnet".I_CryptConvertIriToAsciiOrUnicode
+  I_CryptConvertIriToAsciiOrUnicodeWithFlags="C:\Windows\System32\cryptnet".I_CryptConvertIriToAsciiOrUnicodeWithFlags
+  I_CryptNetAutoFlush="C:\Windows\System32\cryptnet".I_CryptNetAutoFlush
+  I_CryptNetEnumUrlCacheEntry="C:\Windows\System32\cryptnet".I_CryptNetEnumUrlCacheEntry
+  I_CryptNetFlushOfflineUrl="C:\Windows\System32\cryptnet".I_CryptNetFlushOfflineUrl
+  I_CryptNetGetConnectivity="C:\Windows\System32\cryptnet".I_CryptNetGetConnectivity
+  I_CryptNetGetHostNameFromUrl="C:\Windows\System32\cryptnet".I_CryptNetGetHostNameFromUrl
+  I_CryptNetGetUserDsStoreUrl="C:\Windows\System32\cryptnet".I_CryptNetGetUserDsStoreUrl
+  I_CryptNetSetUrlCacheFlushInfo="C:\Windows\System32\cryptnet".I_CryptNetSetUrlCacheFlushInfo
+  I_CryptNetSetUrlCachePreFetchInfo="C:\Windows\System32\cryptnet".I_CryptNetSetUrlCachePreFetchInfo
+  LdapProvOpenStore="C:\Windows\System32\cryptnet".LdapProvOpenStore

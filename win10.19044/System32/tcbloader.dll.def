@@ -1,0 +1,9 @@
+EXPORTS
+  OslGenRandomBytes="C:\Windows\System32\tcbloader".OslGenRandomBytes
+  OslGetControlSubkeyCell="C:\Windows\System32\tcbloader".OslGetControlSubkeyCell
+  OslGetExportRoutineInModule="C:\Windows\System32\tcbloader".OslGetExportRoutineInModule
+  OslGetStringValue="C:\Windows\System32\tcbloader".OslGetStringValue
+  OslGetValue="C:\Windows\System32\tcbloader".OslGetValue
+  OslIsRunningInSecureKernel="C:\Windows\System32\tcbloader".OslIsRunningInSecureKernel
+  TcbLoadEntry="C:\Windows\System32\tcbloader".TcbLoadEntry
+  TcbResumeEntry="C:\Windows\System32\tcbloader".TcbResumeEntry

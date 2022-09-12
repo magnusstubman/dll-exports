@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\TabbtnEx".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\TabbtnEx".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\TabbtnEx".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\TabbtnEx".DllUnregisterServer

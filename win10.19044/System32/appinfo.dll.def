@@ -1,0 +1,5 @@
+EXPORTS
+  AiDisableDesktopRpcInterface="C:\Windows\System32\appinfo".AiDisableDesktopRpcInterface
+  AiEnableDesktopRpcInterface="C:\Windows\System32\appinfo".AiEnableDesktopRpcInterface
+  ServiceMain="C:\Windows\System32\appinfo".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\appinfo".SvchostPushServiceGlobals

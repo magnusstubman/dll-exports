@@ -1,0 +1,15 @@
+EXPORTS
+  CreatePatchFileA="C:\Windows\System32\mspatchc".CreatePatchFileA
+  CreatePatchFileByHandles="C:\Windows\System32\mspatchc".CreatePatchFileByHandles
+  CreatePatchFileByHandlesEx="C:\Windows\System32\mspatchc".CreatePatchFileByHandlesEx
+  CreatePatchFileExA="C:\Windows\System32\mspatchc".CreatePatchFileExA
+  CreatePatchFileExW="C:\Windows\System32\mspatchc".CreatePatchFileExW
+  CreatePatchFileW="C:\Windows\System32\mspatchc".CreatePatchFileW
+  ExtractPatchHeaderToFileA="C:\Windows\System32\mspatchc".ExtractPatchHeaderToFileA
+  ExtractPatchHeaderToFileByHandles="C:\Windows\System32\mspatchc".ExtractPatchHeaderToFileByHandles
+  ExtractPatchHeaderToFileW="C:\Windows\System32\mspatchc".ExtractPatchHeaderToFileW
+  GetFilePatchSignatureA="C:\Windows\System32\mspatchc".GetFilePatchSignatureA
+  GetFilePatchSignatureByBuffer="C:\Windows\System32\mspatchc".GetFilePatchSignatureByBuffer
+  GetFilePatchSignatureByHandle="C:\Windows\System32\mspatchc".GetFilePatchSignatureByHandle
+  GetFilePatchSignatureW="C:\Windows\System32\mspatchc".GetFilePatchSignatureW
+  NormalizeFileForPatchSignature="C:\Windows\System32\mspatchc".NormalizeFileForPatchSignature

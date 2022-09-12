@@ -1,0 +1,2 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\dplayx".DllMain

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\EditionUpgradeHelper".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\EditionUpgradeHelper".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\EditionUpgradeHelper".DllGetClassObject

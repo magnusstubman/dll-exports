@@ -1,0 +1,26 @@
+EXPORTS
+  SamOfflineAddMemberToAlias="C:\Windows\System32\offlinesam".SamOfflineAddMemberToAlias
+  SamOfflineCloseHandle="C:\Windows\System32\offlinesam".SamOfflineCloseHandle
+  SamOfflineConnect="C:\Windows\System32\offlinesam".SamOfflineConnect
+  SamOfflineConnectExternal="C:\Windows\System32\offlinesam".SamOfflineConnectExternal
+  SamOfflineConnectForInstaller="C:\Windows\System32\offlinesam".SamOfflineConnectForInstaller
+  SamOfflineCreateAliasInDomain="C:\Windows\System32\offlinesam".SamOfflineCreateAliasInDomain
+  SamOfflineCreateUserInDomain="C:\Windows\System32\offlinesam".SamOfflineCreateUserInDomain
+  SamOfflineDeleteAlias="C:\Windows\System32\offlinesam".SamOfflineDeleteAlias
+  SamOfflineDeleteUser="C:\Windows\System32\offlinesam".SamOfflineDeleteUser
+  SamOfflineEnumerateAliasesInDomain="C:\Windows\System32\offlinesam".SamOfflineEnumerateAliasesInDomain
+  SamOfflineEnumerateDomainsInSamServer="C:\Windows\System32\offlinesam".SamOfflineEnumerateDomainsInSamServer
+  SamOfflineEnumerateUsersInDomain2="C:\Windows\System32\offlinesam".SamOfflineEnumerateUsersInDomain2
+  SamOfflineFreeMemory="C:\Windows\System32\offlinesam".SamOfflineFreeMemory
+  SamOfflineGetMembersInAlias="C:\Windows\System32\offlinesam".SamOfflineGetMembersInAlias
+  SamOfflineLookupDomainInSamServer="C:\Windows\System32\offlinesam".SamOfflineLookupDomainInSamServer
+  SamOfflineLookupNamesInDomain="C:\Windows\System32\offlinesam".SamOfflineLookupNamesInDomain
+  SamOfflineOpenAlias="C:\Windows\System32\offlinesam".SamOfflineOpenAlias
+  SamOfflineOpenDomain="C:\Windows\System32\offlinesam".SamOfflineOpenDomain
+  SamOfflineOpenUser="C:\Windows\System32\offlinesam".SamOfflineOpenUser
+  SamOfflineQueryInformationAlias="C:\Windows\System32\offlinesam".SamOfflineQueryInformationAlias
+  SamOfflineQueryInformationUser="C:\Windows\System32\offlinesam".SamOfflineQueryInformationUser
+  SamOfflineRemoveMemberFromAlias="C:\Windows\System32\offlinesam".SamOfflineRemoveMemberFromAlias
+  SamOfflineRidToSid="C:\Windows\System32\offlinesam".SamOfflineRidToSid
+  SamOfflineSetInformationAlias="C:\Windows\System32\offlinesam".SamOfflineSetInformationAlias
+  SamOfflineSetInformationUser="C:\Windows\System32\offlinesam".SamOfflineSetInformationUser

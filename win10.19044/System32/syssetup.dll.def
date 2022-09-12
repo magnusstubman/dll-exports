@@ -1,0 +1,12 @@
+EXPORTS
+  AsrAddSifEntryA="C:\Windows\System32\syssetup".AsrAddSifEntryA
+  AsrAddSifEntryW="C:\Windows\System32\syssetup".AsrAddSifEntryW
+  AsrCreateStateFileA="C:\Windows\System32\syssetup".AsrCreateStateFileA
+  AsrCreateStateFileW="C:\Windows\System32\syssetup".AsrCreateStateFileW
+  AsrFreeContext="C:\Windows\System32\syssetup".AsrFreeContext
+  AsrRestorePlugPlayRegistryData="C:\Windows\System32\syssetup".AsrRestorePlugPlayRegistryData
+  GetAnswerFileSetting="C:\Windows\System32\syssetup".GetAnswerFileSetting
+  SetupChangeFontSize="C:\Windows\System32\syssetup".SetupChangeFontSize
+  SetupInfObjectInstallActionW="C:\Windows\System32\syssetup".SetupInfObjectInstallActionW
+  SetupSetDisplay="C:\Windows\System32\syssetup".SetupSetDisplay
+  WaitForSamService="C:\Windows\System32\syssetup".WaitForSamService

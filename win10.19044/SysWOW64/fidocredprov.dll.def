@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\fidocredprov".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\fidocredprov".DllGetClassObject

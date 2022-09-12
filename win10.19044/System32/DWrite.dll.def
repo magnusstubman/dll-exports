@@ -1,0 +1,2 @@
+EXPORTS
+  DWriteCreateFactory="C:\Windows\System32\DWrite".DWriteCreateFactory

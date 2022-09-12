@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wmpps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wmpps".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wmpps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wmpps".DllUnregisterServer

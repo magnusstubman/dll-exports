@@ -1,0 +1,4 @@
+EXPORTS
+  MitLibInitialize="C:\Windows\SysWOW64\PayloadRestrictions".MitLibInitialize
+  MitLibQueryMitigations="C:\Windows\SysWOW64\PayloadRestrictions".MitLibQueryMitigations
+  MitLibUninitialize="C:\Windows\SysWOW64\PayloadRestrictions".MitLibUninitialize

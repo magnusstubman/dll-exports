@@ -1,0 +1,12 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Print.Workflow.Source".DllCanUnloadNow
+  WfpAbortSession="C:\Windows\System32\Print.Workflow.Source".WfpAbortSession
+  WfpCloseSession="C:\Windows\System32\Print.Workflow.Source".WfpCloseSession
+  WfpCreateWorkflowSession="C:\Windows\System32\Print.Workflow.Source".WfpCreateWorkflowSession
+  WfpGetOutputFileName="C:\Windows\System32\Print.Workflow.Source".WfpGetOutputFileName
+  WfpGetWorkFlowStream="C:\Windows\System32\Print.Workflow.Source".WfpGetWorkFlowStream
+  WfpSetJobInfo="C:\Windows\System32\Print.Workflow.Source".WfpSetJobInfo
+  WfpSetOutputFileName="C:\Windows\System32\Print.Workflow.Source".WfpSetOutputFileName
+  WfpSetPrintTicket="C:\Windows\System32\Print.Workflow.Source".WfpSetPrintTicket
+  WfpSetXpsDataType="C:\Windows\System32\Print.Workflow.Source".WfpSetXpsDataType
+  WfpWaitforJobCompletion="C:\Windows\System32\Print.Workflow.Source".WfpWaitforJobCompletion

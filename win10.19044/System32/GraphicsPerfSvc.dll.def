@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\System32\GraphicsPerfSvc".DllMain
+  ServiceMain="C:\Windows\System32\GraphicsPerfSvc".ServiceMain
+  SvchostPushServiceGlobalsEx="C:\Windows\System32\GraphicsPerfSvc".SvchostPushServiceGlobalsEx

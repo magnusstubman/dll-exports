@@ -1,0 +1,3 @@
+EXPORTS
+  CreateInputController="C:\Windows\System32\InputController".CreateInputController
+  CreateInputControllerEx="C:\Windows\System32\InputController".CreateInputControllerEx

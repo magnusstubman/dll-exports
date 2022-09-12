@@ -1,0 +1,16 @@
+EXPORTS
+  ??0CPortABC@@QAE@ABV0@@Z="C:\Windows\SysWOW64\tcpmonui".??0CPortABC@@QAE@ABV0@@Z
+  ??0CPortABC@@QAE@XZ="C:\Windows\SysWOW64\tcpmonui".??0CPortABC@@QAE@XZ
+  ??0CTcpMibABC@@QAE@ABV0@@Z="C:\Windows\SysWOW64\tcpmonui".??0CTcpMibABC@@QAE@ABV0@@Z
+  ??0CTcpMibABC@@QAE@XZ="C:\Windows\SysWOW64\tcpmonui".??0CTcpMibABC@@QAE@XZ
+  ??1CPortABC@@UAE@XZ="C:\Windows\SysWOW64\tcpmonui".??1CPortABC@@UAE@XZ
+  ??1CTcpMibABC@@UAE@XZ="C:\Windows\SysWOW64\tcpmonui".??1CTcpMibABC@@UAE@XZ
+  ??4CPortABC@@QAEAAV0@ABV0@@Z="C:\Windows\SysWOW64\tcpmonui".??4CPortABC@@QAEAAV0@ABV0@@Z
+  ??4CTcpMibABC@@QAEAAV0@ABV0@@Z="C:\Windows\SysWOW64\tcpmonui".??4CTcpMibABC@@QAEAAV0@ABV0@@Z
+  ??_7CPortABC@@6B@="C:\Windows\SysWOW64\tcpmonui".??_7CPortABC@@6B@
+  ??_7CTcpMibABC@@6B@="C:\Windows\SysWOW64\tcpmonui".??_7CTcpMibABC@@6B@
+  ?Read@CPortABC@@UAEKQAXPAEKPAK@Z="C:\Windows\SysWOW64\tcpmonui".?Read@CPortABC@@UAEKQAXPAEKPAK@Z
+  InitializePrintMonitorUI="C:\Windows\SysWOW64\tcpmonui".InitializePrintMonitorUI
+  InitializePrintMonitorUI2="C:\Windows\SysWOW64\tcpmonui".InitializePrintMonitorUI2
+  LocalAddPortUI="C:\Windows\SysWOW64\tcpmonui".LocalAddPortUI
+  LocalConfigurePortUI="C:\Windows\SysWOW64\tcpmonui".LocalConfigurePortUI

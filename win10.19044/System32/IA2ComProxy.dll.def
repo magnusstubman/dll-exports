@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\IA2ComProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\IA2ComProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\IA2ComProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\IA2ComProxy".DllUnregisterServer

@@ -1,0 +1,14 @@
+EXPORTS
+  Cab_CheckIsCabinet="C:\Windows\System32\cabapi".Cab_CheckIsCabinet
+  Cab_CreateCab="C:\Windows\System32\cabapi".Cab_CreateCab
+  Cab_CreateCabSelected="C:\Windows\System32\cabapi".Cab_CreateCabSelected
+  Cab_Extract="C:\Windows\System32\cabapi".Cab_Extract
+  Cab_ExtractOne="C:\Windows\System32\cabapi".Cab_ExtractOne
+  Cab_ExtractOneToBuffer="C:\Windows\System32\cabapi".Cab_ExtractOneToBuffer
+  Cab_ExtractSelected="C:\Windows\System32\cabapi".Cab_ExtractSelected
+  Cab_ExtractSelectedToTarget="C:\Windows\System32\cabapi".Cab_ExtractSelectedToTarget
+  Cab_FreeBuffer="C:\Windows\System32\cabapi".Cab_FreeBuffer
+  Cab_FreeFileList="C:\Windows\System32\cabapi".Cab_FreeFileList
+  Cab_FreeFileSizeList="C:\Windows\System32\cabapi".Cab_FreeFileSizeList
+  Cab_GetFileList="C:\Windows\System32\cabapi".Cab_GetFileList
+  Cab_GetFileSizeList="C:\Windows\System32\cabapi".Cab_GetFileSizeList

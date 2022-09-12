@@ -1,0 +1,3 @@
+EXPORTS
+  GenerateActionQueue="C:\Windows\System32\ActionQueue".GenerateActionQueue
+  ProcessActionQueue="C:\Windows\System32\ActionQueue".ProcessActionQueue

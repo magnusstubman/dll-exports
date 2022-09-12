@@ -1,0 +1,5 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\SysWOW64\wlidnsp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wlidnsp".DllUnregisterServer
+  NSPCleanup="C:\Windows\SysWOW64\wlidnsp".NSPCleanup
+  NSPStartup="C:\Windows\SysWOW64\wlidnsp".NSPStartup

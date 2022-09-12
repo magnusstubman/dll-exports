@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\CallButtons".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\CallButtons".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\CallButtons".DllGetClassObject

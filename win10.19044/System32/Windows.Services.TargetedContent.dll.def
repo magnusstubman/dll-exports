@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Services.TargetedContent".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Services.TargetedContent".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Services.TargetedContent".DllGetClassObject

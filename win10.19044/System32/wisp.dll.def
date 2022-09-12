@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wisp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wisp".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wisp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wisp".DllUnregisterServer

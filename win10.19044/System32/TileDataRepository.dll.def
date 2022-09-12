@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\TileDataRepository".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\TileDataRepository".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\TileDataRepository".DllGetClassObject

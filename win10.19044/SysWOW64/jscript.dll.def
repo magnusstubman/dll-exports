@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\jscript".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\jscript".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\jscript".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\jscript".DllUnregisterServer

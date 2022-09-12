@@ -1,0 +1,7 @@
+EXPORTS
+  BaseGetProcessCrtlRoutine="C:\Windows\System32\basesrv".BaseGetProcessCrtlRoutine
+  BaseSetProcessCreateNotify="C:\Windows\System32\basesrv".BaseSetProcessCreateNotify
+  BaseSrvNlsLogon="C:\Windows\System32\basesrv".BaseSrvNlsLogon
+  BaseSrvNlsUpdateRegistryCache="C:\Windows\System32\basesrv".BaseSrvNlsUpdateRegistryCache
+  BaseSrvRegisterSxS="C:\Windows\System32\basesrv".BaseSrvRegisterSxS
+  ServerDllInitialization="C:\Windows\System32\basesrv".ServerDllInitialization

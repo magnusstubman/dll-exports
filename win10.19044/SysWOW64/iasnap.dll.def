@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\iasnap".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\iasnap".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\iasnap".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\iasnap".DllUnregisterServer

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\McpManagementProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\McpManagementProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\McpManagementProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\McpManagementProxy".DllUnregisterServer

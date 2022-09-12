@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MSVidCtl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MSVidCtl".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MSVidCtl".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MSVidCtl".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\MSVidCtl".GetProxyDllInfo

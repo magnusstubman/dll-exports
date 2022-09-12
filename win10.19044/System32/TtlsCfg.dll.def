@@ -1,0 +1,18 @@
+EXPORTS
+  EapPeerConfigBlob2Xml="C:\Windows\System32\TtlsCfg".EapPeerConfigBlob2Xml
+  EapPeerConfigXml2Blob="C:\Windows\System32\TtlsCfg".EapPeerConfigXml2Blob
+  EapPeerCreateMethodConfiguration="C:\Windows\System32\TtlsCfg".EapPeerCreateMethodConfiguration
+  EapPeerCredentialsXml2Blob="C:\Windows\System32\TtlsCfg".EapPeerCredentialsXml2Blob
+  EapPeerFreeErrorMemory="C:\Windows\System32\TtlsCfg".EapPeerFreeErrorMemory
+  EapPeerFreeMemory="C:\Windows\System32\TtlsCfg".EapPeerFreeMemory
+  EapPeerGetConfigBlobAndUserBlob="C:\Windows\System32\TtlsCfg".EapPeerGetConfigBlobAndUserBlob
+  EapPeerGetIdentityPageGuid="C:\Windows\System32\TtlsCfg".EapPeerGetIdentityPageGuid
+  EapPeerGetMethodProperties="C:\Windows\System32\TtlsCfg".EapPeerGetMethodProperties
+  EapPeerGetNextPageGuid="C:\Windows\System32\TtlsCfg".EapPeerGetNextPageGuid
+  EapPeerInvokeConfigUI="C:\Windows\System32\TtlsCfg".EapPeerInvokeConfigUI
+  EapPeerInvokeIdentityUI="C:\Windows\System32\TtlsCfg".EapPeerInvokeIdentityUI
+  EapPeerInvokeInteractiveUI="C:\Windows\System32\TtlsCfg".EapPeerInvokeInteractiveUI
+  EapPeerQueryCredentialInputFields="C:\Windows\System32\TtlsCfg".EapPeerQueryCredentialInputFields
+  EapPeerQueryInteractiveUIInputFields="C:\Windows\System32\TtlsCfg".EapPeerQueryInteractiveUIInputFields
+  EapPeerQueryUIBlobFromInteractiveUIInputFields="C:\Windows\System32\TtlsCfg".EapPeerQueryUIBlobFromInteractiveUIInputFields
+  EapPeerQueryUserBlobFromCredentialInputFields="C:\Windows\System32\TtlsCfg".EapPeerQueryUserBlobFromCredentialInputFields

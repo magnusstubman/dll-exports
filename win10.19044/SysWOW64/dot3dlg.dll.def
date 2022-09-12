@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\dot3dlg".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dot3dlg".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\dot3dlg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\dot3dlg".DllUnregisterServer
+  Dot3ACCanShowBalloon="C:\Windows\SysWOW64\dot3dlg".Dot3ACCanShowBalloon
+  Dot3ACOnBalloonClick="C:\Windows\SysWOW64\dot3dlg".Dot3ACOnBalloonClick

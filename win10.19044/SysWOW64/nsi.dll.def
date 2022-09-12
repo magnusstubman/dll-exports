@@ -1,0 +1,27 @@
+EXPORTS
+  NsiAllocateAndGetPersistentDataWithMaskTable="C:\Windows\SysWOW64\nsi".NsiAllocateAndGetPersistentDataWithMaskTable
+  NsiAllocateAndGetTable="C:\Windows\SysWOW64\nsi".NsiAllocateAndGetTable
+  NsiCancelChangeNotification="C:\Windows\SysWOW64\nsi".NsiCancelChangeNotification
+  NsiDeregisterChangeNotification="C:\Windows\SysWOW64\nsi".NsiDeregisterChangeNotification
+  NsiDeregisterChangeNotificationEx="C:\Windows\SysWOW64\nsi".NsiDeregisterChangeNotificationEx
+  NsiEnumerateObjectsAllParameters="C:\Windows\SysWOW64\nsi".NsiEnumerateObjectsAllParameters
+  NsiEnumerateObjectsAllParametersEx="C:\Windows\SysWOW64\nsi".NsiEnumerateObjectsAllParametersEx
+  NsiEnumerateObjectsAllPersistentParametersWithMask="C:\Windows\SysWOW64\nsi".NsiEnumerateObjectsAllPersistentParametersWithMask
+  NsiFreePersistentDataWithMaskTable="C:\Windows\SysWOW64\nsi".NsiFreePersistentDataWithMaskTable
+  NsiFreeTable="C:\Windows\SysWOW64\nsi".NsiFreeTable
+  NsiGetAllParameters="C:\Windows\SysWOW64\nsi".NsiGetAllParameters
+  NsiGetAllParametersEx="C:\Windows\SysWOW64\nsi".NsiGetAllParametersEx
+  NsiGetAllPersistentParametersWithMask="C:\Windows\SysWOW64\nsi".NsiGetAllPersistentParametersWithMask
+  NsiGetObjectSecurity="C:\Windows\SysWOW64\nsi".NsiGetObjectSecurity
+  NsiGetParameter="C:\Windows\SysWOW64\nsi".NsiGetParameter
+  NsiGetParameterEx="C:\Windows\SysWOW64\nsi".NsiGetParameterEx
+  NsiRegisterChangeNotification="C:\Windows\SysWOW64\nsi".NsiRegisterChangeNotification
+  NsiRegisterChangeNotificationEx="C:\Windows\SysWOW64\nsi".NsiRegisterChangeNotificationEx
+  NsiRequestChangeNotification="C:\Windows\SysWOW64\nsi".NsiRequestChangeNotification
+  NsiRequestChangeNotificationEx="C:\Windows\SysWOW64\nsi".NsiRequestChangeNotificationEx
+  NsiSetAllParameters="C:\Windows\SysWOW64\nsi".NsiSetAllParameters
+  NsiSetAllParametersEx="C:\Windows\SysWOW64\nsi".NsiSetAllParametersEx
+  NsiSetAllPersistentParametersWithMask="C:\Windows\SysWOW64\nsi".NsiSetAllPersistentParametersWithMask
+  NsiSetObjectSecurity="C:\Windows\SysWOW64\nsi".NsiSetObjectSecurity
+  NsiSetParameter="C:\Windows\SysWOW64\nsi".NsiSetParameter
+  NsiSetParameterEx="C:\Windows\SysWOW64\nsi".NsiSetParameterEx

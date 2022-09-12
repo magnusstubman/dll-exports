@@ -1,0 +1,2 @@
+EXPORTS
+  CreateVirtualMonitorManager="C:\Windows\System32\VirtualMonitorManager".CreateVirtualMonitorManager

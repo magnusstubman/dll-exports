@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\dskquota".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dskquota".DllGetClassObject
+  ProcessGroupPolicy="C:\Windows\SysWOW64\dskquota".ProcessGroupPolicy

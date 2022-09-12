@@ -1,0 +1,20 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\msv1_0".DllMain
+  LsaApCallPackage="C:\Windows\SysWOW64\msv1_0".LsaApCallPackage
+  LsaApCallPackagePassthrough="C:\Windows\SysWOW64\msv1_0".LsaApCallPackagePassthrough
+  LsaApCallPackageUntrusted="C:\Windows\SysWOW64\msv1_0".LsaApCallPackageUntrusted
+  LsaApInitializePackage="C:\Windows\SysWOW64\msv1_0".LsaApInitializePackage
+  LsaApLogonTerminated="C:\Windows\SysWOW64\msv1_0".LsaApLogonTerminated
+  LsaApLogonUserEx2="C:\Windows\SysWOW64\msv1_0".LsaApLogonUserEx2
+  Msv1_0ExportSubAuthenticationRoutine="C:\Windows\SysWOW64\msv1_0".Msv1_0ExportSubAuthenticationRoutine
+  Msv1_0SubAuthenticationPresent="C:\Windows\SysWOW64\msv1_0".Msv1_0SubAuthenticationPresent
+  MsvGetLogonAttemptCount="C:\Windows\SysWOW64\msv1_0".MsvGetLogonAttemptCount
+  MsvIsIpAddressLocal="C:\Windows\SysWOW64\msv1_0".MsvIsIpAddressLocal
+  MsvIsLocalhostAliases="C:\Windows\SysWOW64\msv1_0".MsvIsLocalhostAliases
+  MsvSamLogoff="C:\Windows\SysWOW64\msv1_0".MsvSamLogoff
+  MsvSamValidate="C:\Windows\SysWOW64\msv1_0".MsvSamValidate
+  MsvValidateTarget="C:\Windows\SysWOW64\msv1_0".MsvValidateTarget
+  SpInitialize="C:\Windows\SysWOW64\msv1_0".SpInitialize
+  SpInstanceInit="C:\Windows\SysWOW64\msv1_0".SpInstanceInit
+  SpLsaModeInitialize="C:\Windows\SysWOW64\msv1_0".SpLsaModeInitialize
+  SpUserModeInitialize="C:\Windows\SysWOW64\msv1_0".SpUserModeInitialize

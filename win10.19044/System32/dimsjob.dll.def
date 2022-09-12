@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dimsjob".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dimsjob".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dimsjob".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dimsjob".DllUnregisterServer

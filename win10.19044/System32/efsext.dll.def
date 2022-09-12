@@ -1,0 +1,13 @@
+EXPORTS
+  EdpPlatform_QueryUserSessionState="C:\Windows\System32\efsext".EdpPlatform_QueryUserSessionState
+  EdpPlatform_RegisterUserSessionNotification="C:\Windows\System32\efsext".EdpPlatform_RegisterUserSessionNotification
+  EdpPlatform_ShowDialog="C:\Windows\System32\efsext".EdpPlatform_ShowDialog
+  EdpPlatform_ShowUI="C:\Windows\System32\efsext".EdpPlatform_ShowUI
+  EdpPlatform_UnregisterUserSessionNotification="C:\Windows\System32\efsext".EdpPlatform_UnregisterUserSessionNotification
+  EfsPlatform_GetCallerID="C:\Windows\System32\efsext".EfsPlatform_GetCallerID
+  EfsPlatform_IsCallerAutomaticallyDelegated="C:\Windows\System32\efsext".EfsPlatform_IsCallerAutomaticallyDelegated
+  EfsPlatform_LaunchPromptUI="C:\Windows\System32\efsext".EfsPlatform_LaunchPromptUI
+  EfsPlatform_SuspendNotificationsAndEncryptFile="C:\Windows\System32\efsext".EfsPlatform_SuspendNotificationsAndEncryptFile
+  EfsPlatform_UnpackSecurePin="C:\Windows\System32\efsext".EfsPlatform_UnpackSecurePin
+  FVE_LaunchConsentPromptUI="C:\Windows\System32\efsext".FVE_LaunchConsentPromptUI
+  FVE_LaunchSDCardUI="C:\Windows\System32\efsext".FVE_LaunchSDCardUI

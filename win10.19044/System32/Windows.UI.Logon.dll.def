@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.Logon".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.Logon".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.Logon".DllGetClassObject

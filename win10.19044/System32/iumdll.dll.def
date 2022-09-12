@@ -1,0 +1,25 @@
+EXPORTS
+  IumAssignMemoryToSocDomain="C:\Windows\System32\iumdll".IumAssignMemoryToSocDomain
+  IumAwaitSmc="C:\Windows\System32\iumdll".IumAwaitSmc
+  IumCreateSecureDevice="C:\Windows\System32\iumdll".IumCreateSecureDevice
+  IumCreateSecureSection="C:\Windows\System32\iumdll".IumCreateSecureSection
+  IumCreateSecureSectionSpecifyPages="C:\Windows\System32\iumdll".IumCreateSecureSectionSpecifyPages
+  IumCrypto="C:\Windows\System32\iumdll".IumCrypto
+  IumDmaMapMemory="C:\Windows\System32\iumdll".IumDmaMapMemory
+  IumEmitSmc="C:\Windows\System32\iumdll".IumEmitSmc
+  IumFlushSecureSectionBuffers="C:\Windows\System32\iumdll".IumFlushSecureSectionBuffers
+  IumGetDmaEnabler="C:\Windows\System32\iumdll".IumGetDmaEnabler
+  IumGetExposedSecureSection="C:\Windows\System32\iumdll".IumGetExposedSecureSection
+  IumGetIdk="C:\Windows\System32\iumdll".IumGetIdk
+  IumMapSecureIo="C:\Windows\System32\iumdll".IumMapSecureIo
+  IumOpenCurrentExtension="C:\Windows\System32\iumdll".IumOpenCurrentExtension
+  IumOpenSecureSection="C:\Windows\System32\iumdll".IumOpenSecureSection
+  IumPostMailbox="C:\Windows\System32\iumdll".IumPostMailbox
+  IumProtectSecureIo="C:\Windows\System32\iumdll".IumProtectSecureIo
+  IumQuerySecureDeviceInformation="C:\Windows\System32\iumdll".IumQuerySecureDeviceInformation
+  IumSecureStorageGet="C:\Windows\System32\iumdll".IumSecureStorageGet
+  IumSecureStoragePut="C:\Windows\System32\iumdll".IumSecureStoragePut
+  IumSetDmaTargetProperties="C:\Windows\System32\iumdll".IumSetDmaTargetProperties
+  IumSetPolicyExtension="C:\Windows\System32\iumdll".IumSetPolicyExtension
+  IumUnmapSecureIo="C:\Windows\System32\iumdll".IumUnmapSecureIo
+  IumUpdateSecureDeviceState="C:\Windows\System32\iumdll".IumUpdateSecureDeviceState

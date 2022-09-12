@@ -1,0 +1,4 @@
+EXPORTS
+  CreateInputTypeAttributes="C:\Windows\System32\MTF".CreateInputTypeAttributes
+  DllCanUnloadNow="C:\Windows\System32\MTF".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MTF".DllGetClassObject

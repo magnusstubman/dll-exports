@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\InputInjectionBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\InputInjectionBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\InputInjectionBroker".DllGetClassObject

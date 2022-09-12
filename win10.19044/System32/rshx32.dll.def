@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\rshx32".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\rshx32".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\rshx32".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\rshx32".DllUnregisterServer
+  EditFSSecurity="C:\Windows\System32\rshx32".EditFSSecurity

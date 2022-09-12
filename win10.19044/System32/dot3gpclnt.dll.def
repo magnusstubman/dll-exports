@@ -1,0 +1,6 @@
+EXPORTS
+  DeserializeLANPolicy="C:\Windows\System32\dot3gpclnt".DeserializeLANPolicy
+  GenerateLANPolicy="C:\Windows\System32\dot3gpclnt".GenerateLANPolicy
+  LANGPADeInit="C:\Windows\System32\dot3gpclnt".LANGPADeInit
+  LANGPAInit="C:\Windows\System32\dot3gpclnt".LANGPAInit
+  ProcessLANPolicyEx="C:\Windows\System32\dot3gpclnt".ProcessLANPolicyEx

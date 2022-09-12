@@ -1,0 +1,5 @@
+EXPORTS
+  JetErrFormattedMessage="C:\Windows\SysWOW64\msjter40".JetErrFormattedMessage
+  JetErrIDAForError="C:\Windows\SysWOW64\msjter40".JetErrIDAForError
+  JetErrIDARawMessage="C:\Windows\SysWOW64\msjter40".JetErrIDARawMessage
+  JetErrRawMessage="C:\Windows\SysWOW64\msjter40".JetErrRawMessage

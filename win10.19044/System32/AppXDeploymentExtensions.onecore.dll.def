@@ -1,0 +1,4 @@
+EXPORTS
+  LoadCategoryNameTable="C:\Windows\System32\AppXDeploymentExtensions.onecore".LoadCategoryNameTable
+  LoadExtensionRegistrationTable="C:\Windows\System32\AppXDeploymentExtensions.onecore".LoadExtensionRegistrationTable
+  ShellRefresh="C:\Windows\System32\AppXDeploymentExtensions.onecore".ShellRefresh

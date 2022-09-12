@@ -1,0 +1,11 @@
+EXPORTS
+  iumCryptEncodeObject="C:\Windows\System32\iumcrypt".iumCryptEncodeObject
+  iumCryptEncodeObjectEx="C:\Windows\System32\iumcrypt".iumCryptEncodeObjectEx
+  iumCryptExportPublicKeyInfoFromBCryptKeyHandle="C:\Windows\System32\iumcrypt".iumCryptExportPublicKeyInfoFromBCryptKeyHandle
+  iumCryptFindOIDInfo="C:\Windows\System32\iumcrypt".iumCryptFindOIDInfo
+  iumCryptMsgClose="C:\Windows\System32\iumcrypt".iumCryptMsgClose
+  iumCryptMsgDuplicate="C:\Windows\System32\iumcrypt".iumCryptMsgDuplicate
+  iumCryptMsgGetParam="C:\Windows\System32\iumcrypt".iumCryptMsgGetParam
+  iumCryptMsgOpenToEncode="C:\Windows\System32\iumcrypt".iumCryptMsgOpenToEncode
+  iumCryptMsgUpdate="C:\Windows\System32\iumcrypt".iumCryptMsgUpdate
+  iumCryptSignAndEncodeCertificate="C:\Windows\System32\iumcrypt".iumCryptSignAndEncodeCertificate

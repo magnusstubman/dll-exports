@@ -1,0 +1,21 @@
+EXPORTS
+  CoCreateActivity="C:\Windows\System32\comsvcs".CoCreateActivity
+  CoEnterServiceDomain="C:\Windows\System32\comsvcs".CoEnterServiceDomain
+  CoLeaveServiceDomain="C:\Windows\System32\comsvcs".CoLeaveServiceDomain
+  CoLoadServices="C:\Windows\System32\comsvcs".CoLoadServices
+  ComSvcsExceptionFilter="C:\Windows\System32\comsvcs".ComSvcsExceptionFilter
+  ComSvcsLogError="C:\Windows\System32\comsvcs".ComSvcsLogError
+  CosGetCallContext="C:\Windows\System32\comsvcs".CosGetCallContext
+  DispManGetContext="C:\Windows\System32\comsvcs".DispManGetContext
+  DllCanUnloadNow="C:\Windows\System32\comsvcs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\comsvcs".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\comsvcs".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\comsvcs".DllUnregisterServer
+  GetMTAThreadPoolMetrics="C:\Windows\System32\comsvcs".GetMTAThreadPoolMetrics
+  GetManagedExtensions="C:\Windows\System32\comsvcs".GetManagedExtensions
+  GetObjectContext="C:\Windows\System32\comsvcs".GetObjectContext
+  GetTrkSvrObject="C:\Windows\System32\comsvcs".GetTrkSvrObject
+  MTSCreateActivity="C:\Windows\System32\comsvcs".MTSCreateActivity
+  MiniDumpW="C:\Windows\System32\comsvcs".MiniDumpW
+  RecycleSurrogate="C:\Windows\System32\comsvcs".RecycleSurrogate
+  SafeRef="C:\Windows\System32\comsvcs".SafeRef

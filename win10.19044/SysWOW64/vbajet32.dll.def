@@ -1,0 +1,3 @@
+EXPORTS
+  LoadExprSrvDll="C:\Windows\SysWOW64\vbajet32".LoadExprSrvDll
+  VBAGetExprSrv="C:\Windows\SysWOW64\vbajet32".VBAGetExprSrv

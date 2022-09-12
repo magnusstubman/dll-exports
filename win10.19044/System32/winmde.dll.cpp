@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\winmde.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\winmde.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\winmde.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\winmde.DllUnregisterServer\"")
+#pragma comment(linker, "/export:MFCreateNetVRoot=\"C:\\Windows\\System32\\winmde.MFCreateNetVRoot\"")
+#pragma comment(linker, "/export:MFCreateWMPMDEOpCenter=\"C:\\Windows\\System32\\winmde.MFCreateWMPMDEOpCenter\"")
+#pragma comment(linker, "/export:MFCreateWinMDEOpCenter=\"C:\\Windows\\System32\\winmde.MFCreateWinMDEOpCenter\"")

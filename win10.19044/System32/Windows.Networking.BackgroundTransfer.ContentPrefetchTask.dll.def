@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Networking.BackgroundTransfer.ContentPrefetchTask".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Networking.BackgroundTransfer.ContentPrefetchTask".DllGetActivationFactory

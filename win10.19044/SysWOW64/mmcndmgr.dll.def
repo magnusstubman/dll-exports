@@ -1,0 +1,6 @@
+EXPORTS
+  CreateExecutivePlatform="C:\Windows\SysWOW64\mmcndmgr".CreateExecutivePlatform
+  DllCanUnloadNow="C:\Windows\SysWOW64\mmcndmgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mmcndmgr".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\mmcndmgr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mmcndmgr".DllUnregisterServer

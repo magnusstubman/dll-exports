@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\DfsShlEx".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\DfsShlEx".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\DfsShlEx".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\DfsShlEx".DllUnregisterServer

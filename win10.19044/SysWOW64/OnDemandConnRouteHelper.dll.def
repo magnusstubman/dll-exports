@@ -1,0 +1,9 @@
+EXPORTS
+  FreeInterfaceContextTable="C:\Windows\SysWOW64\OnDemandConnRouteHelper".FreeInterfaceContextTable
+  GetInterfaceContextTableForHostName="C:\Windows\SysWOW64\OnDemandConnRouteHelper".GetInterfaceContextTableForHostName
+  OnDemandAddRouteRequest="C:\Windows\SysWOW64\OnDemandConnRouteHelper".OnDemandAddRouteRequest
+  OnDemandGetRoutingHint="C:\Windows\SysWOW64\OnDemandConnRouteHelper".OnDemandGetRoutingHint
+  OnDemandRegisterNotification="C:\Windows\SysWOW64\OnDemandConnRouteHelper".OnDemandRegisterNotification
+  OnDemandRemoveMatchingRoute="C:\Windows\SysWOW64\OnDemandConnRouteHelper".OnDemandRemoveMatchingRoute
+  OnDemandRemoveRouteRequest="C:\Windows\SysWOW64\OnDemandConnRouteHelper".OnDemandRemoveRouteRequest
+  OnDemandUnRegisterNotification="C:\Windows\SysWOW64\OnDemandConnRouteHelper".OnDemandUnRegisterNotification

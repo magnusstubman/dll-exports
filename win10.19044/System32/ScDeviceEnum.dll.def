@@ -1,0 +1,3 @@
+EXPORTS
+  ScDeviceEnumServiceMain="C:\Windows\System32\ScDeviceEnum".ScDeviceEnumServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\ScDeviceEnum".SvchostPushServiceGlobals

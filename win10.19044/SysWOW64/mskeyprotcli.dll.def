@@ -1,0 +1,2 @@
+EXPORTS
+  GetKeyProtectionInterface="C:\Windows\SysWOW64\mskeyprotcli".GetKeyProtectionInterface

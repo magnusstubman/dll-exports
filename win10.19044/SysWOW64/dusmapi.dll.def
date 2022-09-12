@@ -1,0 +1,27 @@
+EXPORTS
+  DusmEnumConnectionList="C:\Windows\SysWOW64\dusmapi".DusmEnumConnectionList
+  DusmEnumProfileList="C:\Windows\SysWOW64\dusmapi".DusmEnumProfileList
+  DusmFlushCostCache="C:\Windows\SysWOW64\dusmapi".DusmFlushCostCache
+  DusmFree="C:\Windows\SysWOW64\dusmapi".DusmFree
+  DusmGetAttributedNetworkUsage="C:\Windows\SysWOW64\dusmapi".DusmGetAttributedNetworkUsage
+  DusmGetConnectionListNetworkUsage="C:\Windows\SysWOW64\dusmapi".DusmGetConnectionListNetworkUsage
+  DusmGetNetworkUsage="C:\Windows\SysWOW64\dusmapi".DusmGetNetworkUsage
+  DusmGetProviderNetworkUsage="C:\Windows\SysWOW64\dusmapi".DusmGetProviderNetworkUsage
+  DusmQueryBackgroundRestriction="C:\Windows\SysWOW64\dusmapi".DusmQueryBackgroundRestriction
+  DusmQueryConnectionProperties="C:\Windows\SysWOW64\dusmapi".DusmQueryConnectionProperties
+  DusmQueryCost="C:\Windows\SysWOW64\dusmapi".DusmQueryCost
+  DusmQueryDataPlan="C:\Windows\SysWOW64\dusmapi".DusmQueryDataPlan
+  DusmQueryGlobalDpuState="C:\Windows\SysWOW64\dusmapi".DusmQueryGlobalDpuState
+  DusmQueryOperatorCost="C:\Windows\SysWOW64\dusmapi".DusmQueryOperatorCost
+  DusmQueryOperatorDataPlan="C:\Windows\SysWOW64\dusmapi".DusmQueryOperatorDataPlan
+  DusmQuerySource="C:\Windows\SysWOW64\dusmapi".DusmQuerySource
+  DusmQueryUserCost="C:\Windows\SysWOW64\dusmapi".DusmQueryUserCost
+  DusmQueryUserDataPlan="C:\Windows\SysWOW64\dusmapi".DusmQueryUserDataPlan
+  DusmResetNetworkUsage="C:\Windows\SysWOW64\dusmapi".DusmResetNetworkUsage
+  DusmSetAttributionMapping="C:\Windows\SysWOW64\dusmapi".DusmSetAttributionMapping
+  DusmSetBackgroundRestriction="C:\Windows\SysWOW64\dusmapi".DusmSetBackgroundRestriction
+  DusmSetOperatorCost="C:\Windows\SysWOW64\dusmapi".DusmSetOperatorCost
+  DusmSetOperatorDataPlan="C:\Windows\SysWOW64\dusmapi".DusmSetOperatorDataPlan
+  DusmSetSource="C:\Windows\SysWOW64\dusmapi".DusmSetSource
+  DusmSetUserCost="C:\Windows\SysWOW64\dusmapi".DusmSetUserCost
+  DusmSetUserDataPlan="C:\Windows\SysWOW64\dusmapi".DusmSetUserDataPlan

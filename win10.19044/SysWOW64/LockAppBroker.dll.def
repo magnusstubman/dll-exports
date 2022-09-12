@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\LockAppBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\LockAppBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\LockAppBroker".DllGetClassObject

@@ -1,0 +1,19 @@
+EXPORTS
+  CreateTexture="C:\Windows\SysWOW64\d3dim700".CreateTexture
+  D3DBreakVBLock="C:\Windows\SysWOW64\d3dim700".D3DBreakVBLock
+  D3DFree="C:\Windows\SysWOW64\d3dim700".D3DFree
+  D3DMalloc="C:\Windows\SysWOW64\d3dim700".D3DMalloc
+  D3DRealloc="C:\Windows\SysWOW64\d3dim700".D3DRealloc
+  D3DTextureUpdate="C:\Windows\SysWOW64\d3dim700".D3DTextureUpdate
+  DestroyTexture="C:\Windows\SysWOW64\d3dim700".DestroyTexture
+  Direct3DCreate="C:\Windows\SysWOW64\d3dim700".Direct3DCreate
+  Direct3DCreateDevice="C:\Windows\SysWOW64\d3dim700".Direct3DCreateDevice
+  Direct3D_HALCleanUp="C:\Windows\SysWOW64\d3dim700".Direct3D_HALCleanUp
+  FlushD3DDevices="C:\Windows\SysWOW64\d3dim700".FlushD3DDevices
+  GetLOD="C:\Windows\SysWOW64\d3dim700".GetLOD
+  GetPriority="C:\Windows\SysWOW64\d3dim700".GetPriority
+  PaletteAssociateNotify="C:\Windows\SysWOW64\d3dim700".PaletteAssociateNotify
+  PaletteUpdateNotify="C:\Windows\SysWOW64\d3dim700".PaletteUpdateNotify
+  SetLOD="C:\Windows\SysWOW64\d3dim700".SetLOD
+  SetPriority="C:\Windows\SysWOW64\d3dim700".SetPriority
+  SurfaceFlipNotify="C:\Windows\SysWOW64\d3dim700".SurfaceFlipNotify

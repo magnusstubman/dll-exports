@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MSOpusDecoder".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MSOpusDecoder".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MSOpusDecoder".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MSOpusDecoder".DllUnregisterServer

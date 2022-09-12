@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\encapi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\encapi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\encapi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\encapi".DllUnregisterServer

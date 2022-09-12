@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dskquota".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dskquota".DllGetClassObject
+  ProcessGroupPolicy="C:\Windows\System32\dskquota".ProcessGroupPolicy

@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\System32\win32spl".DllMain
+  InitializePrintMonitor2="C:\Windows\System32\win32spl".InitializePrintMonitor2
+  InitializePrintProvidor="C:\Windows\System32\win32spl".InitializePrintProvidor

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\qdvd".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\qdvd".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\qdvd".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\qdvd".DllUnregisterServer

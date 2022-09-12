@@ -1,0 +1,3 @@
+EXPORTS
+  DrtCreateIpv6UdpTransport="C:\Windows\System32\drttransport".DrtCreateIpv6UdpTransport
+  DrtDeleteIpv6UdpTransport="C:\Windows\System32\drttransport".DrtDeleteIpv6UdpTransport

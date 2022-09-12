@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DevicePairingProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DevicePairingProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\DevicePairingProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\DevicePairingProxy".DllUnregisterServer

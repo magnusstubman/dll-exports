@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\msctfp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\msctfp".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\msctfp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msctfp".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\msctfp".GetProxyDllInfo

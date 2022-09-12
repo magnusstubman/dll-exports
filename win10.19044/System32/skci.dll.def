@@ -1,0 +1,17 @@
+EXPORTS
+  SkciCompareSigningLevels="C:\Windows\System32\skci".SkciCompareSigningLevels
+  SkciCreateCodeCatalog="C:\Windows\System32\skci".SkciCreateCodeCatalog
+  SkciCreateSecureImage="C:\Windows\System32\skci".SkciCreateSecureImage
+  SkciFinalizeSecureImageHash="C:\Windows\System32\skci".SkciFinalizeSecureImageHash
+  SkciFinishImageValidation="C:\Windows\System32\skci".SkciFinishImageValidation
+  SkciFreeImageContext="C:\Windows\System32\skci".SkciFreeImageContext
+  SkciInitialize="C:\Windows\System32\skci".SkciInitialize
+  SkciMatchHotPatch="C:\Windows\System32\skci".SkciMatchHotPatch
+  SkciQueryImageAuthorID="C:\Windows\System32\skci".SkciQueryImageAuthorID
+  SkciQueryImageUniqueID="C:\Windows\System32\skci".SkciQueryImageUniqueID
+  SkciQueryInformation="C:\Windows\System32\skci".SkciQueryInformation
+  SkciSetCodeIntegrityPolicy="C:\Windows\System32\skci".SkciSetCodeIntegrityPolicy
+  SkciTransferVersionResource="C:\Windows\System32\skci".SkciTransferVersionResource
+  SkciValidateAmeCertChain="C:\Windows\System32\skci".SkciValidateAmeCertChain
+  SkciValidateDynamicCodePages="C:\Windows\System32\skci".SkciValidateDynamicCodePages
+  SkciValidateImageData="C:\Windows\System32\skci".SkciValidateImageData

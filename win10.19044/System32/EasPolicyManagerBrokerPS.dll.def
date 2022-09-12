@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\EasPolicyManagerBrokerPS".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\EasPolicyManagerBrokerPS".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\EasPolicyManagerBrokerPS".GetProxyDllInfo

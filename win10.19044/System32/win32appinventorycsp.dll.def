@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\win32appinventorycsp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\win32appinventorycsp".DllGetClassObject

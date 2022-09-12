@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MaintenanceUI".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MaintenanceUI".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MaintenanceUI".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MaintenanceUI".DllUnregisterServer
+  StartMaintenance="C:\Windows\System32\MaintenanceUI".StartMaintenance
+  StopMaintenance="C:\Windows\System32\MaintenanceUI".StopMaintenance

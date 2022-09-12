@@ -1,0 +1,9 @@
+EXPORTS
+  DOProcessGroupPolicy="C:\Windows\System32\domgmt".DOProcessGroupPolicy
+  DllCanUnloadNow="C:\Windows\System32\domgmt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\domgmt".DllGetClassObject
+  DllMain="C:\Windows\System32\domgmt".DllMain
+  DllRegisterServer="C:\Windows\System32\domgmt".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\domgmt".DllUnregisterServer
+  GetProviderClassID="C:\Windows\System32\domgmt".GetProviderClassID
+  MI_Main="C:\Windows\System32\domgmt".MI_Main

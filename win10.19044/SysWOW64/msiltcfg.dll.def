@@ -1,0 +1,15 @@
+EXPORTS
+  MsiAdvertiseScriptW="C:\Windows\SysWOW64\msiltcfg".MsiAdvertiseScriptW
+  MsiConfigureProductExW="C:\Windows\SysWOW64\msiltcfg".MsiConfigureProductExW
+  MsiDecomposeDescriptorW="C:\Windows\SysWOW64\msiltcfg".MsiDecomposeDescriptorW
+  MsiGetComponentPathW="C:\Windows\SysWOW64\msiltcfg".MsiGetComponentPathW
+  MsiGetProductInfoW="C:\Windows\SysWOW64\msiltcfg".MsiGetProductInfoW
+  MsiIsProductElevatedW="C:\Windows\SysWOW64\msiltcfg".MsiIsProductElevatedW
+  MsiProvideComponentFromDescriptorW="C:\Windows\SysWOW64\msiltcfg".MsiProvideComponentFromDescriptorW
+  MsiQueryFeatureStateFromDescriptorW="C:\Windows\SysWOW64\msiltcfg".MsiQueryFeatureStateFromDescriptorW
+  MsiQueryFeatureStateW="C:\Windows\SysWOW64\msiltcfg".MsiQueryFeatureStateW
+  MsiQueryProductStateW="C:\Windows\SysWOW64\msiltcfg".MsiQueryProductStateW
+  MsiReinstallProductW="C:\Windows\SysWOW64\msiltcfg".MsiReinstallProductW
+  MsiSetInternalUI="C:\Windows\SysWOW64\msiltcfg".MsiSetInternalUI
+  RestartMsi="C:\Windows\SysWOW64\msiltcfg".RestartMsi
+  ShutdownMsi="C:\Windows\SysWOW64\msiltcfg".ShutdownMsi

@@ -1,0 +1,3 @@
+EXPORTS
+  BluetoothClassInstaller="C:\Windows\System32\bthci".BluetoothClassInstaller
+  BluetoothPropPageProvider="C:\Windows\System32\bthci".BluetoothPropPageProvider

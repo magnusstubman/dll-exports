@@ -1,0 +1,16 @@
+EXPORTS
+  AssertFail="C:\Windows\System32\vsstrace".AssertFail
+  VssGetTracingContextPerThread="C:\Windows\System32\vsstrace".VssGetTracingContextPerThread
+  VssGetTracingModuleInfo="C:\Windows\System32\vsstrace".VssGetTracingModuleInfo
+  VssGetTracingSequenceNumber="C:\Windows\System32\vsstrace".VssGetTracingSequenceNumber
+  VssIsKernelDebuggerAttached="C:\Windows\System32\vsstrace".VssIsKernelDebuggerAttached
+  VssIsTracingEnabled="C:\Windows\System32\vsstrace".VssIsTracingEnabled
+  VssIsTracingEnabledOnFunction="C:\Windows\System32\vsstrace".VssIsTracingEnabledOnFunction
+  VssIsTracingEnabledOnModule="C:\Windows\System32\vsstrace".VssIsTracingEnabledOnModule
+  VssIsTracingEnabledPerThread="C:\Windows\System32\vsstrace".VssIsTracingEnabledPerThread
+  VssSetDebugReport="C:\Windows\System32\vsstrace".VssSetDebugReport
+  VssSetTracingContextPerThread="C:\Windows\System32\vsstrace".VssSetTracingContextPerThread
+  VssTraceBinary="C:\Windows\System32\vsstrace".VssTraceBinary
+  VssTraceInitialize="C:\Windows\System32\vsstrace".VssTraceInitialize
+  VssTraceMessage="C:\Windows\System32\vsstrace".VssTraceMessage
+  VssTraceUninitialize="C:\Windows\System32\vsstrace".VssTraceUninitialize

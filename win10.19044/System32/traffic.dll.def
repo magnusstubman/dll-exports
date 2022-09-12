@@ -1,0 +1,23 @@
+EXPORTS
+  TcAddFilter="C:\Windows\System32\traffic".TcAddFilter
+  TcAddFlow="C:\Windows\System32\traffic".TcAddFlow
+  TcCloseInterface="C:\Windows\System32\traffic".TcCloseInterface
+  TcDeleteFilter="C:\Windows\System32\traffic".TcDeleteFilter
+  TcDeleteFlow="C:\Windows\System32\traffic".TcDeleteFlow
+  TcDeregisterClient="C:\Windows\System32\traffic".TcDeregisterClient
+  TcEnumerateFlows="C:\Windows\System32\traffic".TcEnumerateFlows
+  TcEnumerateInterfaces="C:\Windows\System32\traffic".TcEnumerateInterfaces
+  TcGetFlowNameA="C:\Windows\System32\traffic".TcGetFlowNameA
+  TcGetFlowNameW="C:\Windows\System32\traffic".TcGetFlowNameW
+  TcGetInterfaceList="C:\Windows\System32\traffic".TcGetInterfaceList
+  TcModifyFlow="C:\Windows\System32\traffic".TcModifyFlow
+  TcOpenInterfaceA="C:\Windows\System32\traffic".TcOpenInterfaceA
+  TcOpenInterfaceW="C:\Windows\System32\traffic".TcOpenInterfaceW
+  TcQueryFlowA="C:\Windows\System32\traffic".TcQueryFlowA
+  TcQueryFlowW="C:\Windows\System32\traffic".TcQueryFlowW
+  TcQueryInterface="C:\Windows\System32\traffic".TcQueryInterface
+  TcRegisterClient="C:\Windows\System32\traffic".TcRegisterClient
+  TcSetFlowA="C:\Windows\System32\traffic".TcSetFlowA
+  TcSetFlowW="C:\Windows\System32\traffic".TcSetFlowW
+  TcSetInterface="C:\Windows\System32\traffic".TcSetInterface
+  TcSetSocketFlow="C:\Windows\System32\traffic".TcSetSocketFlow

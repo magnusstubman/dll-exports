@@ -1,0 +1,4 @@
+EXPORTS
+  ParseExtrasXmlForExtensionInfo="C:\Windows\SysWOW64\ExtrasXmlParser".ParseExtrasXmlForExtensionInfo
+  ParseExtrasXmlForNabSyncExtensionInfo="C:\Windows\SysWOW64\ExtrasXmlParser".ParseExtrasXmlForNabSyncExtensionInfo
+  ParseExtrasXmlForSmsInterceptExtensionInfo="C:\Windows\SysWOW64\ExtrasXmlParser".ParseExtrasXmlForSmsInterceptExtensionInfo

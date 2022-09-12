@@ -1,0 +1,6 @@
+EXPORTS
+  DoAction="C:\Windows\System32\elslad".DoAction
+  FreePropertyBag="C:\Windows\System32\elslad".FreePropertyBag
+  FreeService="C:\Windows\System32\elslad".FreeService
+  InitService="C:\Windows\System32\elslad".InitService
+  RecognizeText="C:\Windows\System32\elslad".RecognizeText

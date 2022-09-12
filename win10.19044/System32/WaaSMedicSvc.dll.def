@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\System32\WaaSMedicSvc".DllMain
+  ServiceMain="C:\Windows\System32\WaaSMedicSvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\WaaSMedicSvc".SvchostPushServiceGlobals

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RDXService".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\RDXService".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\RDXService".GetProxyDllInfo
+  OpenRDXDocumentW="C:\Windows\System32\RDXService".OpenRDXDocumentW
+  ServiceMain="C:\Windows\System32\RDXService".ServiceMain

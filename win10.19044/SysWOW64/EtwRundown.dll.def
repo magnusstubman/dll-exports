@@ -1,0 +1,3 @@
+EXPORTS
+  EtwLogHeapRundown="C:\Windows\SysWOW64\EtwRundown".EtwLogHeapRundown
+  EtwLogSysConfigRundown="C:\Windows\SysWOW64\EtwRundown".EtwLogSysConfigRundown

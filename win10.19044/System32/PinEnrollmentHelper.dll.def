@@ -1,0 +1,10 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PinEnrollmentHelper".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\PinEnrollmentHelper".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\PinEnrollmentHelper".DllGetClassObject
+  EnablePinForSignIn="C:\Windows\System32\PinEnrollmentHelper".EnablePinForSignIn
+  EnrollEnterpriseKey="C:\Windows\System32\PinEnrollmentHelper".EnrollEnterpriseKey
+  EnrollPin="C:\Windows\System32\PinEnrollmentHelper".EnrollPin
+  GetProxyDllInfo="C:\Windows\System32\PinEnrollmentHelper".GetProxyDllInfo
+  IsArsoAllowedByPolicy="C:\Windows\System32\PinEnrollmentHelper".IsArsoAllowedByPolicy
+  IsEnrollmentPermittedForLocalAccountWithoutPassword="C:\Windows\System32\PinEnrollmentHelper".IsEnrollmentPermittedForLocalAccountWithoutPassword

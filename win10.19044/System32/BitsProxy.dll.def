@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\BitsProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\BitsProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\BitsProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\BitsProxy".DllUnregisterServer

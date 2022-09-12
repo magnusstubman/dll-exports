@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_Clipboard".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\SettingsHandlers_Clipboard".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_Clipboard".DllGetClassObject
+  GetSetting="C:\Windows\System32\SettingsHandlers_Clipboard".GetSetting

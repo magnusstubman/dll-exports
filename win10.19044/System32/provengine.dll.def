@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\provengine".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\provengine".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\provengine".DllGetClassObject

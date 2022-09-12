@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\cdprt".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\cdprt".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\cdprt".DllGetClassObject

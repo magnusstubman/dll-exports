@@ -1,0 +1,5 @@
+EXPORTS
+  DUIRemoveSubscriptionDialogModal="C:\Windows\SysWOW64\RADCUI".DUIRemoveSubscriptionDialogModal
+  DUISubscribeWizardModal="C:\Windows\SysWOW64\RADCUI".DUISubscribeWizardModal
+  DllCanUnloadNow="C:\Windows\SysWOW64\RADCUI".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\RADCUI".DllGetClassObject

@@ -1,0 +1,4 @@
+EXPORTS
+  IMServiceMain="C:\Windows\System32\pnrpsvc".IMServiceMain
+  SVCServiceMain="C:\Windows\System32\pnrpsvc".SVCServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\pnrpsvc".SvchostPushServiceGlobals

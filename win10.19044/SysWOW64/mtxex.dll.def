@@ -1,0 +1,5 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\SysWOW64\mtxex".DllGetClassObject
+  GetObjectContext="C:\Windows\SysWOW64\mtxex".GetObjectContext
+  MTSCreateActivity="C:\Windows\SysWOW64\mtxex".MTSCreateActivity
+  SafeRef="C:\Windows\SysWOW64\mtxex".SafeRef

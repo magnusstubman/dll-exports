@@ -1,0 +1,4 @@
+EXPORTS
+  CPlApplet="C:\Windows\System32\cliconfg".CPlApplet
+  ClientConfigureAddEdit="C:\Windows\System32\cliconfg".ClientConfigureAddEdit
+  OnInitDialogMain="C:\Windows\System32\cliconfg".OnInitDialogMain

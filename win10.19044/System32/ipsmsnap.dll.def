@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ipsmsnap".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ipsmsnap".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\ipsmsnap".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\ipsmsnap".DllUnregisterServer

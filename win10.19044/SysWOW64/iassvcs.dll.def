@@ -1,0 +1,25 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\iassvcs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\iassvcs".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\iassvcs".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\iassvcs".DllUnregisterServer
+  IASAdler32="C:\Windows\SysWOW64\iassvcs".IASAdler32
+  IASAllocateUniqueID="C:\Windows\SysWOW64\iassvcs".IASAllocateUniqueID
+  IASGetDictionary="C:\Windows\SysWOW64\iassvcs".IASGetDictionary
+  IASGetHostByName="C:\Windows\SysWOW64\iassvcs".IASGetHostByName
+  IASGetLocalDictionary="C:\Windows\SysWOW64\iassvcs".IASGetLocalDictionary
+  IASGetProductLimits="C:\Windows\SysWOW64\iassvcs".IASGetProductLimits
+  IASGlobalLock="C:\Windows\SysWOW64\iassvcs".IASGlobalLock
+  IASGlobalUnlock="C:\Windows\SysWOW64\iassvcs".IASGlobalUnlock
+  IASInitialize="C:\Windows\SysWOW64\iassvcs".IASInitialize
+  IASRadiusCrypt="C:\Windows\SysWOW64\iassvcs".IASRadiusCrypt
+  IASRegisterComponent="C:\Windows\SysWOW64\iassvcs".IASRegisterComponent
+  IASReportEvent="C:\Windows\SysWOW64\iassvcs".IASReportEvent
+  IASReportLicenseViolation="C:\Windows\SysWOW64\iassvcs".IASReportLicenseViolation
+  IASReportSecurityEvent="C:\Windows\SysWOW64\iassvcs".IASReportSecurityEvent
+  IASRequestThread="C:\Windows\SysWOW64\iassvcs".IASRequestThread
+  IASSetMaxNumberOfThreads="C:\Windows\SysWOW64\iassvcs".IASSetMaxNumberOfThreads
+  IASSetMaxThreadIdle="C:\Windows\SysWOW64\iassvcs".IASSetMaxThreadIdle
+  IASShutdown="C:\Windows\SysWOW64\iassvcs".IASShutdown
+  IASUninitialize="C:\Windows\SysWOW64\iassvcs".IASUninitialize
+  IASVariantChangeType="C:\Windows\SysWOW64\iassvcs".IASVariantChangeType

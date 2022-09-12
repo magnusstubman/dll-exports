@@ -1,0 +1,8 @@
+EXPORTS
+  GMSAAdd="C:\Windows\SysWOW64\gmsaclient".GMSAAdd
+  GMSACheckIfExistsInAD="C:\Windows\SysWOW64\gmsaclient".GMSACheckIfExistsInAD
+  GMSACleanup="C:\Windows\SysWOW64\gmsaclient".GMSACleanup
+  GMSADelete="C:\Windows\SysWOW64\gmsaclient".GMSADelete
+  GMSAGetPassword="C:\Windows\SysWOW64\gmsaclient".GMSAGetPassword
+  GMSAInit="C:\Windows\SysWOW64\gmsaclient".GMSAInit
+  GMSARefreshPasswords="C:\Windows\SysWOW64\gmsaclient".GMSARefreshPasswords

@@ -1,0 +1,14 @@
+EXPORTS
+  DavAddConnection="C:\Windows\System32\davhlpr".DavAddConnection
+  DavCheckAndConvertHttpUrlToUncName="C:\Windows\System32\davhlpr".DavCheckAndConvertHttpUrlToUncName
+  DavDeleteConnection="C:\Windows\System32\davhlpr".DavDeleteConnection
+  DavFlushFile="C:\Windows\System32\davhlpr".DavFlushFile
+  DavGetExtendedError="C:\Windows\System32\davhlpr".DavGetExtendedError
+  DavGetHTTPFromUNCPath="C:\Windows\System32\davhlpr".DavGetHTTPFromUNCPath
+  DavGetUNCFromHTTPPath="C:\Windows\System32\davhlpr".DavGetUNCFromHTTPPath
+  DavParseUncServerName="C:\Windows\System32\davhlpr".DavParseUncServerName
+  DavRemoveDummyShareFromFileName="C:\Windows\System32\davhlpr".DavRemoveDummyShareFromFileName
+  DavRemoveDummyShareFromFileNameEx="C:\Windows\System32\davhlpr".DavRemoveDummyShareFromFileNameEx
+  DavUrlDecodeToNtPath="C:\Windows\System32\davhlpr".DavUrlDecodeToNtPath
+  DavUrlDecodeUtf8="C:\Windows\System32\davhlpr".DavUrlDecodeUtf8
+  DavUrlEncodeNtPath="C:\Windows\System32\davhlpr".DavUrlEncodeNtPath

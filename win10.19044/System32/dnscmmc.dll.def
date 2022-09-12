@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dnscmmc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dnscmmc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dnscmmc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dnscmmc".DllUnregisterServer

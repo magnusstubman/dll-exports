@@ -1,0 +1,8 @@
+EXPORTS
+  L2GPPolicyDataDelete="C:\Windows\System32\l2gpstore".L2GPPolicyDataDelete
+  L2GPPolicyDataDeleteAll="C:\Windows\System32\l2gpstore".L2GPPolicyDataDeleteAll
+  L2GPPolicyDataRead="C:\Windows\System32\l2gpstore".L2GPPolicyDataRead
+  L2GPPolicyDataWrite="C:\Windows\System32\l2gpstore".L2GPPolicyDataWrite
+  L2GPPolicyFreeMem="C:\Windows\System32\l2gpstore".L2GPPolicyFreeMem
+  L2GPPolicyStoreClose="C:\Windows\System32\l2gpstore".L2GPPolicyStoreClose
+  L2GPPolicyStoreOpen="C:\Windows\System32\l2gpstore".L2GPPolicyStoreOpen

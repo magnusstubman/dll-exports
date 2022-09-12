@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WindowsInternal.ComposableShell.ComposerFramework".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\WindowsInternal.ComposableShell.ComposerFramework".DllGetActivationFactory

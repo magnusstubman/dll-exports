@@ -1,0 +1,25 @@
+EXPORTS
+  DhcpAddServerDS="C:\Windows\System32\dsauth".DhcpAddServerDS
+  DhcpDeleteServerDS="C:\Windows\System32\dsauth".DhcpDeleteServerDS
+  DhcpDsAddServer="C:\Windows\System32\dsauth".DhcpDsAddServer
+  DhcpDsCleanupDS="C:\Windows\System32\dsauth".DhcpDsCleanupDS
+  DhcpDsDelServer="C:\Windows\System32\dsauth".DhcpDsDelServer
+  DhcpDsEnumServers="C:\Windows\System32\dsauth".DhcpDsEnumServers
+  DhcpDsGetAttribs="C:\Windows\System32\dsauth".DhcpDsGetAttribs
+  DhcpDsGetLists="C:\Windows\System32\dsauth".DhcpDsGetLists
+  DhcpDsGetRoot="C:\Windows\System32\dsauth".DhcpDsGetRoot
+  DhcpDsInitDS="C:\Windows\System32\dsauth".DhcpDsInitDS
+  DhcpDsSetLists="C:\Windows\System32\dsauth".DhcpDsSetLists
+  DhcpDsValidateService="C:\Windows\System32\dsauth".DhcpDsValidateService
+  DhcpEnumServersDS="C:\Windows\System32\dsauth".DhcpEnumServersDS
+  StoreBeginSearch="C:\Windows\System32\dsauth".StoreBeginSearch
+  StoreCleanupHandle="C:\Windows\System32\dsauth".StoreCleanupHandle
+  StoreCollectAttributes="C:\Windows\System32\dsauth".StoreCollectAttributes
+  StoreCreateObjectVA="C:\Windows\System32\dsauth".StoreCreateObjectVA
+  StoreDeleteObject="C:\Windows\System32\dsauth".StoreDeleteObject
+  StoreEndSearch="C:\Windows\System32\dsauth".StoreEndSearch
+  StoreGetHandle="C:\Windows\System32\dsauth".StoreGetHandle
+  StoreInitHandle="C:\Windows\System32\dsauth".StoreInitHandle
+  StoreSearchGetNext="C:\Windows\System32\dsauth".StoreSearchGetNext
+  StoreSetSearchOneLevel="C:\Windows\System32\dsauth".StoreSetSearchOneLevel
+  StoreSetSearchSubTree="C:\Windows\System32\dsauth".StoreSetSearchSubTree

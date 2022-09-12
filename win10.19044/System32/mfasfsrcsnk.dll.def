@@ -1,0 +1,22 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mfasfsrcsnk".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mfasfsrcsnk".DllGetClassObject
+  MFCreateASFContentInfo="C:\Windows\System32\mfasfsrcsnk".MFCreateASFContentInfo
+  MFCreateASFIndexer="C:\Windows\System32\mfasfsrcsnk".MFCreateASFIndexer
+  MFCreateASFIndexerByteStream="C:\Windows\System32\mfasfsrcsnk".MFCreateASFIndexerByteStream
+  MFCreateASFMediaSink="C:\Windows\System32\mfasfsrcsnk".MFCreateASFMediaSink
+  MFCreateASFMediaSinkActivate="C:\Windows\System32\mfasfsrcsnk".MFCreateASFMediaSinkActivate
+  MFCreateASFMediaSinkActivateFromByteStream="C:\Windows\System32\mfasfsrcsnk".MFCreateASFMediaSinkActivateFromByteStream
+  MFCreateASFMediaSinkActivateNoInit="C:\Windows\System32\mfasfsrcsnk".MFCreateASFMediaSinkActivateNoInit
+  MFCreateASFMultiplexer="C:\Windows\System32\mfasfsrcsnk".MFCreateASFMultiplexer
+  MFCreateASFMutex="C:\Windows\System32\mfasfsrcsnk".MFCreateASFMutex
+  MFCreateASFProfile="C:\Windows\System32\mfasfsrcsnk".MFCreateASFProfile
+  MFCreateASFProfileFromPresentationDescriptor="C:\Windows\System32\mfasfsrcsnk".MFCreateASFProfileFromPresentationDescriptor
+  MFCreateASFSplitter="C:\Windows\System32\mfasfsrcsnk".MFCreateASFSplitter
+  MFCreateASFStreamConfig="C:\Windows\System32\mfasfsrcsnk".MFCreateASFStreamConfig
+  MFCreateASFStreamPrioritization="C:\Windows\System32\mfasfsrcsnk".MFCreateASFStreamPrioritization
+  MFCreateASFStreamSelector="C:\Windows\System32\mfasfsrcsnk".MFCreateASFStreamSelector
+  MFCreateASFStreamingMediaSink="C:\Windows\System32\mfasfsrcsnk".MFCreateASFStreamingMediaSink
+  MFCreateASFStreamingMediaSinkActivate="C:\Windows\System32\mfasfsrcsnk".MFCreateASFStreamingMediaSinkActivate
+  MFCreateASFStreamingMediaSinkActivateNoInit="C:\Windows\System32\mfasfsrcsnk".MFCreateASFStreamingMediaSinkActivateNoInit
+  MFCreatePresentationDescriptorFromASFProfile="C:\Windows\System32\mfasfsrcsnk".MFCreatePresentationDescriptorFromASFProfile

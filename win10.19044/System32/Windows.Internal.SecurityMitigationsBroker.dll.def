@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.SecurityMitigationsBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Internal.SecurityMitigationsBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.SecurityMitigationsBroker".DllGetClassObject
+  QueryACGPolicyForDriverId="C:\Windows\System32\Windows.Internal.SecurityMitigationsBroker".QueryACGPolicyForDriverId

@@ -1,0 +1,7 @@
+EXPORTS
+  NetDriverInstallClose="C:\Windows\SysWOW64\NetDriverInstall".NetDriverInstallClose
+  NetDriverInstallCommit="C:\Windows\SysWOW64\NetDriverInstall".NetDriverInstallCommit
+  NetDriverInstallInitialize="C:\Windows\SysWOW64\NetDriverInstall".NetDriverInstallInitialize
+  NetDriverInstallProcessAdditions="C:\Windows\SysWOW64\NetDriverInstall".NetDriverInstallProcessAdditions
+  NetDriverInstallProcessRemovals="C:\Windows\SysWOW64\NetDriverInstall".NetDriverInstallProcessRemovals
+  NetDriverInstallSync="C:\Windows\SysWOW64\NetDriverInstall".NetDriverInstallSync

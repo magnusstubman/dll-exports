@@ -1,0 +1,11 @@
+EXPORTS
+  DllAddRef="C:\Windows\SysWOW64\cmlua".DllAddRef
+  DllCanUnloadNow="C:\Windows\SysWOW64\cmlua".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\cmlua".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\cmlua".DllMain
+  DllRelease="C:\Windows\SysWOW64\cmlua".DllRelease
+  _GetCoCreateInstanceAsAdminHandle="C:\Windows\SysWOW64\cmlua"._GetCoCreateInstanceAsAdminHandle
+  _RemoveShieldIcon="C:\Windows\SysWOW64\cmlua"._RemoveShieldIcon
+  _SetShieldButton="C:\Windows\SysWOW64\cmlua"._SetShieldButton
+  _SetShieldIcon="C:\Windows\SysWOW64\cmlua"._SetShieldIcon
+  _ThrowErrorBox="C:\Windows\SysWOW64\cmlua"._ThrowErrorBox

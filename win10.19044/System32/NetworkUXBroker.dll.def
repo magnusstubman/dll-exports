@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\NetworkUXBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\NetworkUXBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\NetworkUXBroker".DllGetClassObject
+  DllMain="C:\Windows\System32\NetworkUXBroker".DllMain
+  DllRegisterServer="C:\Windows\System32\NetworkUXBroker".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\NetworkUXBroker".DllUnregisterServer

@@ -1,0 +1,26 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\winbioext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\winbioext".DllGetClassObject
+  WinBioAcquireFocus="C:\Windows\System32\winbioext".WinBioAcquireFocus
+  WinBioAsyncEnumDatabases="C:\Windows\System32\winbioext".WinBioAsyncEnumDatabases
+  WinBioAsyncMonitorFrameworkChanges="C:\Windows\System32\winbioext".WinBioAsyncMonitorFrameworkChanges
+  WinBioCaptureSample="C:\Windows\System32\winbioext".WinBioCaptureSample
+  WinBioCaptureSampleWithCallback="C:\Windows\System32\winbioext".WinBioCaptureSampleWithCallback
+  WinBioEnrollCaptureWithCallback="C:\Windows\System32\winbioext".WinBioEnrollCaptureWithCallback
+  WinBioEnumDatabases="C:\Windows\System32\winbioext".WinBioEnumDatabases
+  WinBioGetDomainLogonSetting="C:\Windows\System32\winbioext".WinBioGetDomainLogonSetting
+  WinBioGetEnabledSetting="C:\Windows\System32\winbioext".WinBioGetEnabledSetting
+  WinBioGetLogonSetting="C:\Windows\System32\winbioext".WinBioGetLogonSetting
+  WinBioIdentifyWithCallback="C:\Windows\System32\winbioext".WinBioIdentifyWithCallback
+  WinBioIsLegacy="C:\Windows\System32\winbioext".WinBioIsLegacy
+  WinBioLocateSensor="C:\Windows\System32\winbioext".WinBioLocateSensor
+  WinBioLocateSensorWithCallback="C:\Windows\System32\winbioext".WinBioLocateSensorWithCallback
+  WinBioLogonIdentifiedUser="C:\Windows\System32\winbioext".WinBioLogonIdentifiedUser
+  WinBioNotifyPasswordChange="C:\Windows\System32\winbioext".WinBioNotifyPasswordChange
+  WinBioOpenSession="C:\Windows\System32\winbioext".WinBioOpenSession
+  WinBioRegisterEventMonitor="C:\Windows\System32\winbioext".WinBioRegisterEventMonitor
+  WinBioRegisterServiceMonitor="C:\Windows\System32\winbioext".WinBioRegisterServiceMonitor
+  WinBioReleaseFocus="C:\Windows\System32\winbioext".WinBioReleaseFocus
+  WinBioUnregisterEventMonitor="C:\Windows\System32\winbioext".WinBioUnregisterEventMonitor
+  WinBioUnregisterServiceMonitor="C:\Windows\System32\winbioext".WinBioUnregisterServiceMonitor
+  WinBioVerifyWithCallback="C:\Windows\System32\winbioext".WinBioVerifyWithCallback

@@ -1,0 +1,7 @@
+EXPORTS
+  CreateForegroundTaskManager="C:\Windows\SysWOW64\ExecModelClient".CreateForegroundTaskManager
+  CreateModernVoipPolicy="C:\Windows\SysWOW64\ExecModelClient".CreateModernVoipPolicy
+  DllCanUnloadNow="C:\Windows\SysWOW64\ExecModelClient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\ExecModelClient".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\ExecModelClient".DllGetClassObject
+  TestHook_CancelShutdown="C:\Windows\SysWOW64\ExecModelClient".TestHook_CancelShutdown

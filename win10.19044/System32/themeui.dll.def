@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\themeui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\themeui".DllGetClassObject
+  DllInstall="C:\Windows\System32\themeui".DllInstall

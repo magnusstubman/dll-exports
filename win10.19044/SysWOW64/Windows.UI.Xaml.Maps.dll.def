@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.UI.Xaml.Maps".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.UI.Xaml.Maps".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.UI.Xaml.Maps".DllGetClassObject
+  GetDependencyLocatorStorage="C:\Windows\SysWOW64\Windows.UI.Xaml.Maps".GetDependencyLocatorStorage
+  XamlTestHookFreeMapsResourceLibrary="C:\Windows\SysWOW64\Windows.UI.Xaml.Maps".XamlTestHookFreeMapsResourceLibrary

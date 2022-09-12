@@ -1,0 +1,14 @@
+EXPORTS
+  AmsiCloseSession="C:\Windows\System32\amsi".AmsiCloseSession
+  AmsiInitialize="C:\Windows\System32\amsi".AmsiInitialize
+  AmsiOpenSession="C:\Windows\System32\amsi".AmsiOpenSession
+  AmsiScanBuffer="C:\Windows\System32\amsi".AmsiScanBuffer
+  AmsiScanString="C:\Windows\System32\amsi".AmsiScanString
+  AmsiUacInitialize="C:\Windows\System32\amsi".AmsiUacInitialize
+  AmsiUacScan="C:\Windows\System32\amsi".AmsiUacScan
+  AmsiUacUninitialize="C:\Windows\System32\amsi".AmsiUacUninitialize
+  AmsiUninitialize="C:\Windows\System32\amsi".AmsiUninitialize
+  DllCanUnloadNow="C:\Windows\System32\amsi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\amsi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\amsi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\amsi".DllUnregisterServer

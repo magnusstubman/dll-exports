@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dpapiprovider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dpapiprovider".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dpapiprovider".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dpapiprovider".DllUnregisterServer

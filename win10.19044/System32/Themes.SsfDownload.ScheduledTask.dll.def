@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Themes.SsfDownload.ScheduledTask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Themes.SsfDownload.ScheduledTask".DllGetClassObject

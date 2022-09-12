@@ -1,0 +1,22 @@
+EXPORTS
+  GetDeviceID="C:\Windows\System32\tbs".GetDeviceID
+  GetDeviceIDString="C:\Windows\System32\tbs".GetDeviceIDString
+  GetDeviceIDWithTimeout="C:\Windows\System32\tbs".GetDeviceIDWithTimeout
+  Tbsi_Context_Create="C:\Windows\System32\tbs".Tbsi_Context_Create
+  Tbsi_Create_Attestation_From_Log="C:\Windows\System32\tbs".Tbsi_Create_Attestation_From_Log
+  Tbsi_Create_Windows_Key="C:\Windows\System32\tbs".Tbsi_Create_Windows_Key
+  Tbsi_FilterLog="C:\Windows\System32\tbs".Tbsi_FilterLog
+  Tbsi_GetDeviceInfo="C:\Windows\System32\tbs".Tbsi_GetDeviceInfo
+  Tbsi_Get_OwnerAuth="C:\Windows\System32\tbs".Tbsi_Get_OwnerAuth
+  Tbsi_Get_TCG_Log="C:\Windows\System32\tbs".Tbsi_Get_TCG_Log
+  Tbsi_Get_TCG_Log_Ex="C:\Windows\System32\tbs".Tbsi_Get_TCG_Log_Ex
+  Tbsi_Get_TCG_Logs="C:\Windows\System32\tbs".Tbsi_Get_TCG_Logs
+  Tbsi_Physical_Presence_Command="C:\Windows\System32\tbs".Tbsi_Physical_Presence_Command
+  Tbsi_Revoke_Attestation="C:\Windows\System32\tbs".Tbsi_Revoke_Attestation
+  Tbsi_ShaHash="C:\Windows\System32\tbs".Tbsi_ShaHash
+  Tbsip_Cancel_Commands="C:\Windows\System32\tbs".Tbsip_Cancel_Commands
+  Tbsip_Context_Close="C:\Windows\System32\tbs".Tbsip_Context_Close
+  Tbsip_Submit_Command="C:\Windows\System32\tbs".Tbsip_Submit_Command
+  Tbsip_Submit_Command_NonBlocking="C:\Windows\System32\tbs".Tbsip_Submit_Command_NonBlocking
+  Tbsip_TestInterruptInformation="C:\Windows\System32\tbs".Tbsip_TestInterruptInformation
+  Tbsip_TestMorBit="C:\Windows\System32\tbs".Tbsip_TestMorBit

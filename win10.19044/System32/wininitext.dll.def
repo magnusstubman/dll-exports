@@ -1,0 +1,8 @@
+EXPORTS
+  GetLoggedOnUserCount="C:\Windows\System32\wininitext".GetLoggedOnUserCount
+  LaunchUmfdHostWithVirtualAccountWorker="C:\Windows\System32\wininitext".LaunchUmfdHostWithVirtualAccountWorker
+  PrimaryTerminalAndHookWorker="C:\Windows\System32\wininitext".PrimaryTerminalAndHookWorker
+  StartLoadingFontsWorker="C:\Windows\System32\wininitext".StartLoadingFontsWorker
+  UIStartupWorker="C:\Windows\System32\wininitext".UIStartupWorker
+  WaitForWinstationShutdown="C:\Windows\System32\wininitext".WaitForWinstationShutdown
+  WinStationSystemShutdownStartedWorker="C:\Windows\System32\wininitext".WinStationSystemShutdownStartedWorker

@@ -1,0 +1,9 @@
+EXPORTS
+  IcmpCloseHandle="C:\Windows\System32\icmp".IcmpCloseHandle
+  IcmpCreateFile="C:\Windows\System32\icmp".IcmpCreateFile
+  IcmpParseReplies="C:\Windows\System32\icmp".IcmpParseReplies
+  IcmpSendEcho="C:\Windows\System32\icmp".IcmpSendEcho
+  IcmpSendEcho2="C:\Windows\System32\icmp".IcmpSendEcho2
+  do_echo_rep="C:\Windows\System32\icmp".do_echo_rep
+  do_echo_req="C:\Windows\System32\icmp".do_echo_req
+  register_icmp="C:\Windows\System32\icmp".register_icmp

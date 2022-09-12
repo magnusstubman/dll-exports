@@ -1,0 +1,18 @@
+EXPORTS
+  Bcp47GetDistanceCString="C:\Windows\SysWOW64\BCP47mrm".Bcp47GetDistanceCString
+  Bcp47GetNeutralFormCString="C:\Windows\SysWOW64\BCP47mrm".Bcp47GetNeutralFormCString
+  Bcp47IsValid="C:\Windows\SysWOW64\BCP47mrm".Bcp47IsValid
+  CompareBcp47Tags="C:\Windows\SysWOW64\BCP47mrm".CompareBcp47Tags
+  FormatLanguageList="C:\Windows\SysWOW64\BCP47mrm".FormatLanguageList
+  FormatLanguageTag="C:\Windows\SysWOW64\BCP47mrm".FormatLanguageTag
+  GetApplicationLanguagesWithUserLanguagesFallback="C:\Windows\SysWOW64\BCP47mrm".GetApplicationLanguagesWithUserLanguagesFallback
+  GetApplicationLayoutDirection="C:\Windows\SysWOW64\BCP47mrm".GetApplicationLayoutDirection
+  GetClosenessOfUnIsoRegionTags="C:\Windows\SysWOW64\BCP47mrm".GetClosenessOfUnIsoRegionTags
+  GetCompositeRegionCode="C:\Windows\SysWOW64\BCP47mrm".GetCompositeRegionCode
+  GetDistanceOfClosestLanguageInList="C:\Windows\SysWOW64\BCP47mrm".GetDistanceOfClosestLanguageInList
+  GetLanguageDirectionality="C:\Windows\SysWOW64\BCP47mrm".GetLanguageDirectionality
+  GetMrtDisplayLanguageList="C:\Windows\SysWOW64\BCP47mrm".GetMrtDisplayLanguageList
+  GetParentCompositeRegionCode="C:\Windows\SysWOW64\BCP47mrm".GetParentCompositeRegionCode
+  IsValidTag="C:\Windows\SysWOW64\BCP47mrm".IsValidTag
+  IsValidUnIsoRegionTag="C:\Windows\SysWOW64\BCP47mrm".IsValidUnIsoRegionTag
+  IsWellFormedTag="C:\Windows\SysWOW64\BCP47mrm".IsWellFormedTag

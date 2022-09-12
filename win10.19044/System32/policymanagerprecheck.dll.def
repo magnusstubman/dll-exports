@@ -1,0 +1,6 @@
+EXPORTS
+  PolicyManagerTranslationProxy_GetPolicyValue="C:\Windows\System32\policymanagerprecheck".PolicyManagerTranslationProxy_GetPolicyValue
+  PolicyManagerTranslationProxy_SetPolicyValue="C:\Windows\System32\policymanagerprecheck".PolicyManagerTranslationProxy_SetPolicyValue
+  PolicyManager_Apply="C:\Windows\System32\policymanagerprecheck".PolicyManager_Apply
+  PolicyManager_PostApply="C:\Windows\System32\policymanagerprecheck".PolicyManager_PostApply
+  PolicyManager_PreCheck="C:\Windows\System32\policymanagerprecheck".PolicyManager_PreCheck

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wpnclient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\wpnclient".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\wpnclient".DllGetClassObject

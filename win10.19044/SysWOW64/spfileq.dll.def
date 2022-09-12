@@ -1,0 +1,19 @@
+EXPORTS
+  SpFileQueueClose="C:\Windows\SysWOW64\spfileq".SpFileQueueClose
+  SpFileQueueCommit="C:\Windows\SysWOW64\spfileq".SpFileQueueCommit
+  SpFileQueueCopy="C:\Windows\SysWOW64\spfileq".SpFileQueueCopy
+  SpFileQueueDelete="C:\Windows\SysWOW64\spfileq".SpFileQueueDelete
+  SpFileQueueFileInUse="C:\Windows\SysWOW64\spfileq".SpFileQueueFileInUse
+  SpFileQueueGetFlags="C:\Windows\SysWOW64\spfileq".SpFileQueueGetFlags
+  SpFileQueueGetQueueCount="C:\Windows\SysWOW64\spfileq".SpFileQueueGetQueueCount
+  SpFileQueueNodeGetSecurityDescriptor="C:\Windows\SysWOW64\spfileq".SpFileQueueNodeGetSecurityDescriptor
+  SpFileQueueNodeGetSourceFilename="C:\Windows\SysWOW64\spfileq".SpFileQueueNodeGetSourceFilename
+  SpFileQueueNodeGetSourcePath="C:\Windows\SysWOW64\spfileq".SpFileQueueNodeGetSourcePath
+  SpFileQueueNodeGetSourceRootPath="C:\Windows\SysWOW64\spfileq".SpFileQueueNodeGetSourceRootPath
+  SpFileQueueNodeGetStyleFlags="C:\Windows\SysWOW64\spfileq".SpFileQueueNodeGetStyleFlags
+  SpFileQueueNodeGetTargetDirectory="C:\Windows\SysWOW64\spfileq".SpFileQueueNodeGetTargetDirectory
+  SpFileQueueNodeGetTargetFilename="C:\Windows\SysWOW64\spfileq".SpFileQueueNodeGetTargetFilename
+  SpFileQueueNodeRemove="C:\Windows\SysWOW64\spfileq".SpFileQueueNodeRemove
+  SpFileQueueOpen="C:\Windows\SysWOW64\spfileq".SpFileQueueOpen
+  SpFileQueueRename="C:\Windows\SysWOW64\spfileq".SpFileQueueRename
+  SpFileQueueSetFlags="C:\Windows\SysWOW64\spfileq".SpFileQueueSetFlags

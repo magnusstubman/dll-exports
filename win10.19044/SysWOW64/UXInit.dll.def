@@ -1,0 +1,13 @@
+EXPORTS
+  ThemeUserLogoff="C:\Windows\SysWOW64\UXInit".ThemeUserLogoff
+  ThemeUserLogon="C:\Windows\SysWOW64\UXInit".ThemeUserLogon
+  ThemeUserStartShell="C:\Windows\SysWOW64\UXInit".ThemeUserStartShell
+  ThemeUserTSReconnect="C:\Windows\SysWOW64\UXInit".ThemeUserTSReconnect
+  ThemeWatchForStart="C:\Windows\SysWOW64\UXInit".ThemeWatchForStart
+  ThemesOnCreateSession="C:\Windows\SysWOW64\UXInit".ThemesOnCreateSession
+  ThemesOnDisconnect="C:\Windows\SysWOW64\UXInit".ThemesOnDisconnect
+  ThemesOnEarlyCreateSession="C:\Windows\SysWOW64\UXInit".ThemesOnEarlyCreateSession
+  ThemesOnLogoff="C:\Windows\SysWOW64\UXInit".ThemesOnLogoff
+  ThemesOnLogon="C:\Windows\SysWOW64\UXInit".ThemesOnLogon
+  ThemesOnReconnect="C:\Windows\SysWOW64\UXInit".ThemesOnReconnect
+  ThemesOnTerminateSession="C:\Windows\SysWOW64\UXInit".ThemesOnTerminateSession

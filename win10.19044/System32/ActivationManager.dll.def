@@ -1,0 +1,15 @@
+EXPORTS
+  DisableAppXDebuggingForPackage="C:\Windows\System32\ActivationManager".DisableAppXDebuggingForPackage
+  DllCanUnloadNow="C:\Windows\System32\ActivationManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ActivationManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\ActivationManager".DllGetClassObject
+  EnableAppXDebuggingForPackage="C:\Windows\System32\ActivationManager".EnableAppXDebuggingForPackage
+  FreeAppXLaunchContext="C:\Windows\System32\ActivationManager".FreeAppXLaunchContext
+  GetPackageExecutionContextForAumid="C:\Windows\System32\ActivationManager".GetPackageExecutionContextForAumid
+  GetPackageExecutionContextForAumidAndUser="C:\Windows\System32\ActivationManager".GetPackageExecutionContextForAumidAndUser
+  GetPackageExecutionContextForDeviceFamilyName="C:\Windows\System32\ActivationManager".GetPackageExecutionContextForDeviceFamilyName
+  GetPackageExecutionContextForPackageByFullName="C:\Windows\System32\ActivationManager".GetPackageExecutionContextForPackageByFullName
+  PostCreateProcessAppXActivation="C:\Windows\System32\ActivationManager".PostCreateProcessAppXActivation
+  PrepareAppXActivation="C:\Windows\System32\ActivationManager".PrepareAppXActivation
+  RegisterAppXPackageIfNecessary="C:\Windows\System32\ActivationManager".RegisterAppXPackageIfNecessary
+  RegisterAppXPackageIfNecessary2="C:\Windows\System32\ActivationManager".RegisterAppXPackageIfNecessary2

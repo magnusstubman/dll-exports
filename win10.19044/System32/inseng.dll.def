@@ -1,0 +1,10 @@
+EXPORTS
+  CheckForVersionConflict="C:\Windows\System32\inseng".CheckForVersionConflict
+  CheckTrust="C:\Windows\System32\inseng".CheckTrust
+  CheckTrustEx="C:\Windows\System32\inseng".CheckTrustEx
+  DllCanUnloadNow="C:\Windows\System32\inseng".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\inseng".DllGetClassObject
+  DownloadFile="C:\Windows\System32\inseng".DownloadFile
+  GetICifFileFromFile="C:\Windows\System32\inseng".GetICifFileFromFile
+  GetICifRWFileFromFile="C:\Windows\System32\inseng".GetICifRWFileFromFile
+  PurgeDownloadDirectory="C:\Windows\System32\inseng".PurgeDownloadDirectory

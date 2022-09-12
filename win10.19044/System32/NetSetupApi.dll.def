@@ -1,0 +1,22 @@
+EXPORTS
+  NetSetupClose="C:\Windows\System32\NetSetupApi".NetSetupClose
+  NetSetupCloseObjectQuery="C:\Windows\System32\NetSetupApi".NetSetupCloseObjectQuery
+  NetSetupCommit="C:\Windows\System32\NetSetupApi".NetSetupCommit
+  NetSetupCreateObject="C:\Windows\System32\NetSetupApi".NetSetupCreateObject
+  NetSetupCreateObjectQuery="C:\Windows\System32\NetSetupApi".NetSetupCreateObjectQuery
+  NetSetupDeleteObject="C:\Windows\System32\NetSetupApi".NetSetupDeleteObject
+  NetSetupFreeObjectProperties="C:\Windows\System32\NetSetupApi".NetSetupFreeObjectProperties
+  NetSetupFreeObjects="C:\Windows\System32\NetSetupApi".NetSetupFreeObjects
+  NetSetupFreeSerializedFilter="C:\Windows\System32\NetSetupApi".NetSetupFreeSerializedFilter
+  NetSetupGetObjectProperties="C:\Windows\System32\NetSetupApi".NetSetupGetObjectProperties
+  NetSetupGetObjectPropertyKeys="C:\Windows\System32\NetSetupApi".NetSetupGetObjectPropertyKeys
+  NetSetupGetObjects="C:\Windows\System32\NetSetupApi".NetSetupGetObjects
+  NetSetupInitialize="C:\Windows\System32\NetSetupApi".NetSetupInitialize
+  NetSetupOpenAdvancedPropertyKey="C:\Windows\System32\NetSetupApi".NetSetupOpenAdvancedPropertyKey
+  NetSetupRollback="C:\Windows\System32\NetSetupApi".NetSetupRollback
+  NetSetupSerializeFilter="C:\Windows\System32\NetSetupApi".NetSetupSerializeFilter
+  NetSetupSetObjectProperties="C:\Windows\System32\NetSetupApi".NetSetupSetObjectProperties
+  NetSetupSynchronizeDevices="C:\Windows\System32\NetSetupApi".NetSetupSynchronizeDevices
+  NetSetupValidateTransaction="C:\Windows\System32\NetSetupApi".NetSetupValidateTransaction
+  OnMachineUILanguageInit="C:\Windows\System32\NetSetupApi".OnMachineUILanguageInit
+  OnMachineUILanguageSwitch="C:\Windows\System32\NetSetupApi".OnMachineUILanguageSwitch

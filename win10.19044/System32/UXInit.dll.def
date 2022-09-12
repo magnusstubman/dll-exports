@@ -1,0 +1,13 @@
+EXPORTS
+  ThemeUserLogoff="C:\Windows\System32\UXInit".ThemeUserLogoff
+  ThemeUserLogon="C:\Windows\System32\UXInit".ThemeUserLogon
+  ThemeUserStartShell="C:\Windows\System32\UXInit".ThemeUserStartShell
+  ThemeUserTSReconnect="C:\Windows\System32\UXInit".ThemeUserTSReconnect
+  ThemeWatchForStart="C:\Windows\System32\UXInit".ThemeWatchForStart
+  ThemesOnCreateSession="C:\Windows\System32\UXInit".ThemesOnCreateSession
+  ThemesOnDisconnect="C:\Windows\System32\UXInit".ThemesOnDisconnect
+  ThemesOnEarlyCreateSession="C:\Windows\System32\UXInit".ThemesOnEarlyCreateSession
+  ThemesOnLogoff="C:\Windows\System32\UXInit".ThemesOnLogoff
+  ThemesOnLogon="C:\Windows\System32\UXInit".ThemesOnLogon
+  ThemesOnReconnect="C:\Windows\System32\UXInit".ThemesOnReconnect
+  ThemesOnTerminateSession="C:\Windows\System32\UXInit".ThemesOnTerminateSession

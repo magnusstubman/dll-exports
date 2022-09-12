@@ -1,0 +1,26 @@
+EXPORTS
+  CreateAndStartPsaSession="C:\Windows\System32\Print.PrintSupport.Source".CreateAndStartPsaSession
+  CreatePsaManagerForUserContextAbi="C:\Windows\System32\Print.PrintSupport.Source".CreatePsaManagerForUserContextAbi
+  CreatePsaSessionForUserContext="C:\Windows\System32\Print.PrintSupport.Source".CreatePsaSessionForUserContext
+  CreatePsaSourceStream="C:\Windows\System32\Print.PrintSupport.Source".CreatePsaSourceStream
+  CreateSoftwareDevnode="C:\Windows\System32\Print.PrintSupport.Source".CreateSoftwareDevnode
+  DllCanUnloadNow="C:\Windows\System32\Print.PrintSupport.Source".DllCanUnloadNow
+  GetAppUserModelId="C:\Windows\System32\Print.PrintSupport.Source".GetAppUserModelId
+  GetEntryPoint="C:\Windows\System32\Print.PrintSupport.Source".GetEntryPoint
+  HasAppWithContract="C:\Windows\System32\Print.PrintSupport.Source".HasAppWithContract
+  IsActivationContractSupported="C:\Windows\System32\Print.PrintSupport.Source".IsActivationContractSupported
+  IsIppPrinterPsaEnabledForContractAsCurrentUser="C:\Windows\System32\Print.PrintSupport.Source".IsIppPrinterPsaEnabledForContractAsCurrentUser
+  IsPsaContractActivatableForDevice="C:\Windows\System32\Print.PrintSupport.Source".IsPsaContractActivatableForDevice
+  IsPsaEnabledForContract="C:\Windows\System32\Print.PrintSupport.Source".IsPsaEnabledForContract
+  IsPsaEnabledForContractAsCurrentUser="C:\Windows\System32\Print.PrintSupport.Source".IsPsaEnabledForContractAsCurrentUser
+  LaunchPsaAppForError="C:\Windows\System32\Print.PrintSupport.Source".LaunchPsaAppForError
+  LaunchSystemSettingsBroker="C:\Windows\System32\Print.PrintSupport.Source".LaunchSystemSettingsBroker
+  QueryAndSubscribePdmPrinterChangeNotification="C:\Windows\System32\Print.PrintSupport.Source".QueryAndSubscribePdmPrinterChangeNotification
+  RegeneratePdcForApp="C:\Windows\System32\Print.PrintSupport.Source".RegeneratePdcForApp
+  RemovePsaSession="C:\Windows\System32\Print.PrintSupport.Source".RemovePsaSession
+  RemovePsaSessionForUserContext="C:\Windows\System32\Print.PrintSupport.Source".RemovePsaSessionForUserContext
+  SetJobIdForPsaSession="C:\Windows\System32\Print.PrintSupport.Source".SetJobIdForPsaSession
+  SetPrintTicketPsa="C:\Windows\System32\Print.PrintSupport.Source".SetPrintTicketPsa
+  UpdatePDC="C:\Windows\System32\Print.PrintSupport.Source".UpdatePDC
+  UpdatePdcRegenerationRegKey="C:\Windows\System32\Print.PrintSupport.Source".UpdatePdcRegenerationRegKey
+  ValidatePrintTicket="C:\Windows\System32\Print.PrintSupport.Source".ValidatePrintTicket

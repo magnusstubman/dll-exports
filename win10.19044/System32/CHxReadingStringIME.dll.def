@@ -1,0 +1,3 @@
+EXPORTS
+  GetReadingString="C:\Windows\System32\CHxReadingStringIME".GetReadingString
+  ShowReadingWindow="C:\Windows\System32\CHxReadingStringIME".ShowReadingWindow

@@ -1,0 +1,12 @@
+EXPORTS
+  ?AddLDMObjMapEntry@CDataCache@@QAEXPAU_LDM_OBJ_MAP_ENTRY@@@Z="C:\Windows\SysWOW64\dmdlgs".?AddLDMObjMapEntry@CDataCache@@QAEXPAU_LDM_OBJ_MAP_ENTRY@@@Z
+  ?GetDiskCount@CDataCache@@QAEKXZ="C:\Windows\SysWOW64\dmdlgs".?GetDiskCount@CDataCache@@QAEKXZ
+  ?GetLdmObjectId@CDMNodeObj@@QAE_JXZ="C:\Windows\SysWOW64\dmdlgs".?GetLdmObjectId@CDMNodeObj@@QAE_JXZ
+  ?GetNumMembers@CDMNodeObj@@QAEKXZ="C:\Windows\SysWOW64\dmdlgs".?GetNumMembers@CDMNodeObj@@QAEKXZ
+  ?GetOcxFrameCWndPtr@CTaskData@@QAEPAVCWnd@@XZ="C:\Windows\SysWOW64\dmdlgs".?GetOcxFrameCWndPtr@CTaskData@@QAEPAVCWnd@@XZ
+  ?GetRegionColorStructPtr@CTaskData@@QAEXPAPAU_REGION_COLORS@@AAH@Z="C:\Windows\SysWOW64\dmdlgs".?GetRegionColorStructPtr@CTaskData@@QAEXPAPAU_REGION_COLORS@@AAH@Z
+  ?GetServerName@CDataCache@@QAE?AVCString@@XZ="C:\Windows\SysWOW64\dmdlgs".?GetServerName@CDataCache@@QAE?AVCString@@XZ
+  ?GetVolumeCount@CDataCache@@QAEKXZ="C:\Windows\SysWOW64\dmdlgs".?GetVolumeCount@CDataCache@@QAEKXZ
+  DllCanUnloadNow="C:\Windows\SysWOW64\dmdlgs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dmdlgs".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\dmdlgs".DllRegisterServer

@@ -1,0 +1,16 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\srumapi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\srumapi".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\srumapi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\srumapi".DllUnregisterServer
+  SruCreateCheckpoint="C:\Windows\SysWOW64\srumapi".SruCreateCheckpoint
+  SruCreateEnergyNotificationServer="C:\Windows\SysWOW64\srumapi".SruCreateEnergyNotificationServer
+  SruDeleteStatsByAppName="C:\Windows\SysWOW64\srumapi".SruDeleteStatsByAppName
+  SruFreeRecordSet="C:\Windows\SysWOW64\srumapi".SruFreeRecordSet
+  SruQueryStats="C:\Windows\SysWOW64\srumapi".SruQueryStats
+  SruQueryStatsBySeqNumber="C:\Windows\SysWOW64\srumapi".SruQueryStatsBySeqNumber
+  SruQueryStatsEx="C:\Windows\SysWOW64\srumapi".SruQueryStatsEx
+  SruRegisterRealTimeStats="C:\Windows\SysWOW64\srumapi".SruRegisterRealTimeStats
+  SruRetrieveEnergyRecord="C:\Windows\SysWOW64\srumapi".SruRetrieveEnergyRecord
+  SruUnregisterRealTimeStats="C:\Windows\SysWOW64\srumapi".SruUnregisterRealTimeStats
+  SruUpdateStats="C:\Windows\SysWOW64\srumapi".SruUpdateStats

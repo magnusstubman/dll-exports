@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\HelpPaneProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\HelpPaneProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\HelpPaneProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\HelpPaneProxy".DllUnregisterServer

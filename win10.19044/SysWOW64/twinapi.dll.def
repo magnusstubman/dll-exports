@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\twinapi".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\twinapi".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\twinapi".DllGetClassObject
+  GetMetroMode="C:\Windows\SysWOW64\twinapi".GetMetroMode

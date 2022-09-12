@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WpcWebFilter".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\WpcWebFilter".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\WpcWebFilter".DllGetClassObject
+  WpcWebFilterCreate="C:\Windows\System32\WpcWebFilter".WpcWebFilterCreate
+  WpcWebFilterDestroy="C:\Windows\System32\WpcWebFilter".WpcWebFilterDestroy
+  WpcWebFilterGet="C:\Windows\System32\WpcWebFilter".WpcWebFilterGet

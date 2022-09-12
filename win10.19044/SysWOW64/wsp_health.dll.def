@@ -1,0 +1,11 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wsp_health".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wsp_health".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\wsp_health".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\wsp_health".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wsp_health".DllUnregisterServer
+  GetProviderClassID="C:\Windows\SysWOW64\wsp_health".GetProviderClassID
+  MI_Main="C:\Windows\SysWOW64\wsp_health".MI_Main
+  PreShutdown="C:\Windows\SysWOW64\wsp_health".PreShutdown
+  SetShutdownCallback="C:\Windows\SysWOW64\wsp_health".SetShutdownCallback
+  SmpUnload="C:\Windows\SysWOW64\wsp_health".SmpUnload

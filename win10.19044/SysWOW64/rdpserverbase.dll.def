@@ -1,0 +1,24 @@
+EXPORTS
+  ?GetEncodingPixelMap@RdpSurface@@QAEJPAPAVPixelMap@@@Z="C:\Windows\SysWOW64\rdpserverbase".?GetEncodingPixelMap@RdpSurface@@QAEJPAPAVPixelMap@@@Z
+  ?GetGfxPipeSettingBOOL@@YGJPAGHPAH@Z="C:\Windows\SysWOW64\rdpserverbase".?GetGfxPipeSettingBOOL@@YGJPAGHPAH@Z
+  ?GetGfxPipeSettingUINT@@YGJPAGIPAI@Z="C:\Windows\SysWOW64\rdpserverbase".?GetGfxPipeSettingUINT@@YGJPAGIPAI@Z
+  ?GetGraphicsSourceContext@RdpSurface@@QAEJPAPAUIRdpGFXSourceUpdateContext@@@Z="C:\Windows\SysWOW64\rdpserverbase".?GetGraphicsSourceContext@RdpSurface@@QAEJPAPAUIRdpGFXSourceUpdateContext@@@Z
+  ?GetTileFirst@Tiler@@QAEJPBURdpRect@@PAU2@@Z="C:\Windows\SysWOW64\rdpserverbase".?GetTileFirst@Tiler@@QAEJPBURdpRect@@PAU2@@Z
+  ?GetTileNext@Tiler@@QAEJPAURdpRect@@@Z="C:\Windows\SysWOW64\rdpserverbase".?GetTileNext@Tiler@@QAEJPAURdpRect@@@Z
+  ?Initialize@Tiler@@QAEJPBURdpRect@@0@Z="C:\Windows\SysWOW64\rdpserverbase".?Initialize@Tiler@@QAEJPBURdpRect@@0@Z
+  ?LogRDPGraphicsError@RDPGraphicsTraceLogging@@YGXU_GUID@@IIJ@Z="C:\Windows\SysWOW64\rdpserverbase".?LogRDPGraphicsError@RDPGraphicsTraceLogging@@YGXU_GUID@@IIJ@Z
+  ?LogRDPGraphicsFirstNonBlackFrame@RDPGraphicsTraceLogging@@YGX_K@Z="C:\Windows\SysWOW64\rdpserverbase".?LogRDPGraphicsFirstNonBlackFrame@RDPGraphicsTraceLogging@@YGX_K@Z
+  ?LogRDPGraphicsFirstNonBlackFramePostLogon@RDPGraphicsTraceLogging@@YGXI@Z="C:\Windows\SysWOW64\rdpserverbase".?LogRDPGraphicsFirstNonBlackFramePostLogon@RDPGraphicsTraceLogging@@YGXI@Z
+  ?LogRDPGraphicsSubsampleAdapter@RDPGraphicsTraceLogging@@YGXPBGII@Z="C:\Windows\SysWOW64\rdpserverbase".?LogRDPGraphicsSubsampleAdapter@RDPGraphicsTraceLogging@@YGXPBGII@Z
+  ?LogRDPGraphicsSubsampleFailure@RDPGraphicsTraceLogging@@YGXJI@Z="C:\Windows\SysWOW64\rdpserverbase".?LogRDPGraphicsSubsampleFailure@RDPGraphicsTraceLogging@@YGXJI@Z
+  ?LogRDPGraphicsVOBRHint@RDPGraphicsTraceLogging@@YGXI_KII@Z="C:\Windows\SysWOW64\rdpserverbase".?LogRDPGraphicsVOBRHint@RDPGraphicsTraceLogging@@YGXI_KII@Z
+  ?RDPGraphicsTraceLogging_Register@RDPGraphicsTraceLogging@@YGJXZ="C:\Windows\SysWOW64\rdpserverbase".?RDPGraphicsTraceLogging_Register@RDPGraphicsTraceLogging@@YGJXZ
+  ?RDPGraphicsTraceLogging_Unregister@RDPGraphicsTraceLogging@@YGXXZ="C:\Windows\SysWOW64\rdpserverbase".?RDPGraphicsTraceLogging_Unregister@RDPGraphicsTraceLogging@@YGXXZ
+  ?RDPServerStackQOE_Register@@YGJXZ="C:\Windows\SysWOW64\rdpserverbase".?RDPServerStackQOE_Register@@YGJXZ
+  ?RDPServerStackQOE_Unregister@@YGXXZ="C:\Windows\SysWOW64\rdpserverbase".?RDPServerStackQOE_Unregister@@YGXXZ
+  CCompressedUpdateContext_CreateInstance="C:\Windows\SysWOW64\rdpserverbase".CCompressedUpdateContext_CreateInstance
+  CUpdateContext_CreateInstance="C:\Windows\SysWOW64\rdpserverbase".CUpdateContext_CreateInstance
+  CUpdateDataAccumulator_CreateInstance="C:\Windows\SysWOW64\rdpserverbase".CUpdateDataAccumulator_CreateInstance
+  RDPEncryptionTraceLogging_Register="C:\Windows\SysWOW64\rdpserverbase".RDPEncryptionTraceLogging_Register
+  RDPEncryptionTraceLogging_Unregister="C:\Windows\SysWOW64\rdpserverbase".RDPEncryptionTraceLogging_Unregister
+  RDPSERVERBASE_CreateInstance="C:\Windows\SysWOW64\rdpserverbase".RDPSERVERBASE_CreateInstance

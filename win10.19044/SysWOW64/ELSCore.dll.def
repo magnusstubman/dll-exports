@@ -1,0 +1,6 @@
+EXPORTS
+  MappingDoAction="C:\Windows\SysWOW64\ELSCore".MappingDoAction
+  MappingFreePropertyBag="C:\Windows\SysWOW64\ELSCore".MappingFreePropertyBag
+  MappingFreeServices="C:\Windows\SysWOW64\ELSCore".MappingFreeServices
+  MappingGetServices="C:\Windows\SysWOW64\ELSCore".MappingGetServices
+  MappingRecognizeText="C:\Windows\SysWOW64\ELSCore".MappingRecognizeText

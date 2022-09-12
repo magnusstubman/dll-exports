@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\comcat".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\comcat".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\comcat".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\comcat".DllUnregisterServer

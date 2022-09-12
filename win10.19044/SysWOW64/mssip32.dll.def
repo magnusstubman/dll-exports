@@ -1,0 +1,10 @@
+EXPORTS
+  CryptSIPCreateIndirectData="C:\Windows\SysWOW64\mssip32".CryptSIPCreateIndirectData
+  CryptSIPGetInfo="C:\Windows\SysWOW64\mssip32".CryptSIPGetInfo
+  CryptSIPGetRegWorkingFlags="C:\Windows\SysWOW64\mssip32".CryptSIPGetRegWorkingFlags
+  CryptSIPGetSignedDataMsg="C:\Windows\SysWOW64\mssip32".CryptSIPGetSignedDataMsg
+  CryptSIPPutSignedDataMsg="C:\Windows\SysWOW64\mssip32".CryptSIPPutSignedDataMsg
+  CryptSIPRemoveSignedDataMsg="C:\Windows\SysWOW64\mssip32".CryptSIPRemoveSignedDataMsg
+  CryptSIPVerifyIndirectData="C:\Windows\SysWOW64\mssip32".CryptSIPVerifyIndirectData
+  DllRegisterServer="C:\Windows\SysWOW64\mssip32".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mssip32".DllUnregisterServer

@@ -1,0 +1,11 @@
+EXPORTS
+  GetAppInformationFromCloud="C:\Windows\System32\pcwutl".GetAppInformationFromCloud
+  GetLayerFromGenome="C:\Windows\System32\pcwutl".GetLayerFromGenome
+  GetMatchingInfo="C:\Windows\System32\pcwutl".GetMatchingInfo
+  GetTempFile="C:\Windows\System32\pcwutl".GetTempFile
+  LaunchApplicationW="C:\Windows\System32\pcwutl".LaunchApplicationW
+  LogAeEvent="C:\Windows\System32\pcwutl".LogAeEvent
+  LogPCWDebugEvent="C:\Windows\System32\pcwutl".LogPCWDebugEvent
+  RetrieveFileAndProgramId="C:\Windows\System32\pcwutl".RetrieveFileAndProgramId
+  SanitizeFullPath="C:\Windows\System32\pcwutl".SanitizeFullPath
+  SendPcwWerReport="C:\Windows\System32\pcwutl".SendPcwWerReport

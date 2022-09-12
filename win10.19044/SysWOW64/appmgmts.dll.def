@@ -1,0 +1,20 @@
+EXPORTS
+  CsCreateClassStore="C:\Windows\SysWOW64\appmgmts".CsCreateClassStore
+  CsEnumApps="C:\Windows\SysWOW64\appmgmts".CsEnumApps
+  CsGetAppCategories="C:\Windows\SysWOW64\appmgmts".CsGetAppCategories
+  CsGetClassAccess="C:\Windows\SysWOW64\appmgmts".CsGetClassAccess
+  CsGetClassStore="C:\Windows\SysWOW64\appmgmts".CsGetClassStore
+  CsGetClassStorePath="C:\Windows\SysWOW64\appmgmts".CsGetClassStorePath
+  CsRegisterAppCategory="C:\Windows\SysWOW64\appmgmts".CsRegisterAppCategory
+  CsServerGetClassStore="C:\Windows\SysWOW64\appmgmts".CsServerGetClassStore
+  CsSetOptions="C:\Windows\SysWOW64\appmgmts".CsSetOptions
+  CsUnregisterAppCategory="C:\Windows\SysWOW64\appmgmts".CsUnregisterAppCategory
+  DllCanUnloadNow="C:\Windows\SysWOW64\appmgmts".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\appmgmts".DllGetClassObject
+  GenerateGroupPolicy="C:\Windows\SysWOW64\appmgmts".GenerateGroupPolicy
+  IID_IClassAdmin="C:\Windows\SysWOW64\appmgmts".IID_IClassAdmin
+  ProcessGroupPolicyObjectsEx="C:\Windows\SysWOW64\appmgmts".ProcessGroupPolicyObjectsEx
+  ReleaseAppCategoryInfoList="C:\Windows\SysWOW64\appmgmts".ReleaseAppCategoryInfoList
+  ReleasePackageDetail="C:\Windows\SysWOW64\appmgmts".ReleasePackageDetail
+  ReleasePackageInfo="C:\Windows\SysWOW64\appmgmts".ReleasePackageInfo
+  ServiceMain="C:\Windows\SysWOW64\appmgmts".ServiceMain

@@ -1,0 +1,16 @@
+EXPORTS
+  BrandingFormatString="C:\Windows\SysWOW64\winbrand".BrandingFormatString
+  BrandingFormatStringForEdition="C:\Windows\SysWOW64\winbrand".BrandingFormatStringForEdition
+  BrandingLoadBitmap="C:\Windows\SysWOW64\winbrand".BrandingLoadBitmap
+  BrandingLoadCursor="C:\Windows\SysWOW64\winbrand".BrandingLoadCursor
+  BrandingLoadIcon="C:\Windows\SysWOW64\winbrand".BrandingLoadIcon
+  BrandingLoadImage="C:\Windows\SysWOW64\winbrand".BrandingLoadImage
+  BrandingLoadNeutralStringForEdition="C:\Windows\SysWOW64\winbrand".BrandingLoadNeutralStringForEdition
+  BrandingLoadString="C:\Windows\SysWOW64\winbrand".BrandingLoadString
+  BrandingLoadStringForEdition="C:\Windows\SysWOW64\winbrand".BrandingLoadStringForEdition
+  EulaFreeBuffer="C:\Windows\SysWOW64\winbrand".EulaFreeBuffer
+  GetEULAFile="C:\Windows\SysWOW64\winbrand".GetEULAFile
+  GetEULAInCurrentUILanguage="C:\Windows\SysWOW64\winbrand".GetEULAInCurrentUILanguage
+  GetHinstanceByNameSpace="C:\Windows\SysWOW64\winbrand".GetHinstanceByNameSpace
+  GetInstalledEULAPath="C:\Windows\SysWOW64\winbrand".GetInstalledEULAPath
+  InstallEULA="C:\Windows\SysWOW64\winbrand".InstallEULA

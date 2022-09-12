@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Energy".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Energy".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Energy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\Windows.Energy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Energy".DllUnregisterServer

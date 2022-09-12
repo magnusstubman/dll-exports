@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:AqsFreeDevQueryFilter=\"C:\\Windows\\System32\\Windows.Devices.Enumeration.AqsFreeDevQueryFilter\"")
+#pragma comment(linker, "/export:AqsToDevQueryFilter=\"C:\\Windows\\System32\\Windows.Devices.Enumeration.AqsToDevQueryFilter\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\Windows.Devices.Enumeration.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\Windows.Devices.Enumeration.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\Windows.Devices.Enumeration.DllGetClassObject\"")

@@ -1,0 +1,14 @@
+EXPORTS
+  CopyFileFromAppW="C:\Windows\System32\Windows.Storage.OneCore".CopyFileFromAppW
+  CreateDirectoryFromAppW="C:\Windows\System32\Windows.Storage.OneCore".CreateDirectoryFromAppW
+  CreateFile2FromAppW="C:\Windows\System32\Windows.Storage.OneCore".CreateFile2FromAppW
+  CreateFileFromAppW="C:\Windows\System32\Windows.Storage.OneCore".CreateFileFromAppW
+  DeleteFileFromAppW="C:\Windows\System32\Windows.Storage.OneCore".DeleteFileFromAppW
+  DllCanUnloadNow="C:\Windows\System32\Windows.Storage.OneCore".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Storage.OneCore".DllGetActivationFactory
+  FindFirstFileExFromAppW="C:\Windows\System32\Windows.Storage.OneCore".FindFirstFileExFromAppW
+  GetFileAttributesExFromAppW="C:\Windows\System32\Windows.Storage.OneCore".GetFileAttributesExFromAppW
+  MoveFileFromAppW="C:\Windows\System32\Windows.Storage.OneCore".MoveFileFromAppW
+  RemoveDirectoryFromAppW="C:\Windows\System32\Windows.Storage.OneCore".RemoveDirectoryFromAppW
+  ReplaceFileFromAppW="C:\Windows\System32\Windows.Storage.OneCore".ReplaceFileFromAppW
+  SetFileAttributesFromAppW="C:\Windows\System32\Windows.Storage.OneCore".SetFileAttributesFromAppW

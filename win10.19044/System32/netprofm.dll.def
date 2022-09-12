@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\netprofm".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\netprofm".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\netprofm".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\netprofm".DllUnregisterServer

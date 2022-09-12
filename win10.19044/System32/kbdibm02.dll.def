@@ -1,0 +1,3 @@
+EXPORTS
+  KbdLayerDescriptor="C:\Windows\System32\kbdibm02".KbdLayerDescriptor
+  KbdNlsLayerDescriptor="C:\Windows\System32\kbdibm02".KbdNlsLayerDescriptor

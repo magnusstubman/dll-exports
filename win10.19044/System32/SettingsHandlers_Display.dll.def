@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_Display".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_Display".DllGetClassObject
+  GetSetting="C:\Windows\System32\SettingsHandlers_Display".GetSetting

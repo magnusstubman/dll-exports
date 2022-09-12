@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Microsoft.Bluetooth.Proxy".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Microsoft.Bluetooth.Proxy".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Microsoft.Bluetooth.Proxy".DllGetClassObject

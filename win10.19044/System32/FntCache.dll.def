@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\FntCache".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\FntCache".SvchostPushServiceGlobals

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\umb".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\umb".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\umb".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\umb".DllUnregisterServer

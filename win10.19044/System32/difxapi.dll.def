@@ -1,0 +1,13 @@
+EXPORTS
+  DIFXAPISetLogCallbackA="C:\Windows\System32\difxapi".DIFXAPISetLogCallbackA
+  DIFXAPISetLogCallbackW="C:\Windows\System32\difxapi".DIFXAPISetLogCallbackW
+  DriverPackageGetPathA="C:\Windows\System32\difxapi".DriverPackageGetPathA
+  DriverPackageGetPathW="C:\Windows\System32\difxapi".DriverPackageGetPathW
+  DriverPackageInstallA="C:\Windows\System32\difxapi".DriverPackageInstallA
+  DriverPackageInstallW="C:\Windows\System32\difxapi".DriverPackageInstallW
+  DriverPackagePreinstallA="C:\Windows\System32\difxapi".DriverPackagePreinstallA
+  DriverPackagePreinstallW="C:\Windows\System32\difxapi".DriverPackagePreinstallW
+  DriverPackageUninstallA="C:\Windows\System32\difxapi".DriverPackageUninstallA
+  DriverPackageUninstallW="C:\Windows\System32\difxapi".DriverPackageUninstallW
+  SetDifxLogCallbackA="C:\Windows\System32\difxapi".SetDifxLogCallbackA
+  SetDifxLogCallbackW="C:\Windows\System32\difxapi".SetDifxLogCallbackW

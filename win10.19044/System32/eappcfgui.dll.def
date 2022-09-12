@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\eappcfgui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\eappcfgui".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\eappcfgui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\eappcfgui".DllUnregisterServer

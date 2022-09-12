@@ -1,0 +1,11 @@
+EXPORTS
+  GetAsymmetricEncryptionInterface="C:\Windows\SysWOW64\bcryptprimitives".GetAsymmetricEncryptionInterface
+  GetCipherInterface="C:\Windows\SysWOW64\bcryptprimitives".GetCipherInterface
+  GetHashInterface="C:\Windows\SysWOW64\bcryptprimitives".GetHashInterface
+  GetKeyDerivationInterface="C:\Windows\SysWOW64\bcryptprimitives".GetKeyDerivationInterface
+  GetRngInterface="C:\Windows\SysWOW64\bcryptprimitives".GetRngInterface
+  GetSecretAgreementInterface="C:\Windows\SysWOW64\bcryptprimitives".GetSecretAgreementInterface
+  GetSignatureInterface="C:\Windows\SysWOW64\bcryptprimitives".GetSignatureInterface
+  MSCryptConvertRsaPrivateBlobToFullRsaBlob="C:\Windows\SysWOW64\bcryptprimitives".MSCryptConvertRsaPrivateBlobToFullRsaBlob
+  ProcessPrng="C:\Windows\SysWOW64\bcryptprimitives".ProcessPrng
+  ProcessPrngGuid="C:\Windows\SysWOW64\bcryptprimitives".ProcessPrngGuid

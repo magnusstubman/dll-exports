@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\nlahc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\nlahc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\nlahc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\nlahc".DllUnregisterServer

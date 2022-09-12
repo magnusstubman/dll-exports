@@ -1,0 +1,13 @@
+EXPORTS
+  EdpPlatform_QueryUserSessionState="C:\Windows\SysWOW64\efsext".EdpPlatform_QueryUserSessionState
+  EdpPlatform_RegisterUserSessionNotification="C:\Windows\SysWOW64\efsext".EdpPlatform_RegisterUserSessionNotification
+  EdpPlatform_ShowDialog="C:\Windows\SysWOW64\efsext".EdpPlatform_ShowDialog
+  EdpPlatform_ShowUI="C:\Windows\SysWOW64\efsext".EdpPlatform_ShowUI
+  EdpPlatform_UnregisterUserSessionNotification="C:\Windows\SysWOW64\efsext".EdpPlatform_UnregisterUserSessionNotification
+  EfsPlatform_GetCallerID="C:\Windows\SysWOW64\efsext".EfsPlatform_GetCallerID
+  EfsPlatform_IsCallerAutomaticallyDelegated="C:\Windows\SysWOW64\efsext".EfsPlatform_IsCallerAutomaticallyDelegated
+  EfsPlatform_LaunchPromptUI="C:\Windows\SysWOW64\efsext".EfsPlatform_LaunchPromptUI
+  EfsPlatform_SuspendNotificationsAndEncryptFile="C:\Windows\SysWOW64\efsext".EfsPlatform_SuspendNotificationsAndEncryptFile
+  EfsPlatform_UnpackSecurePin="C:\Windows\SysWOW64\efsext".EfsPlatform_UnpackSecurePin
+  FVE_LaunchConsentPromptUI="C:\Windows\SysWOW64\efsext".FVE_LaunchConsentPromptUI
+  FVE_LaunchSDCardUI="C:\Windows\SysWOW64\efsext".FVE_LaunchSDCardUI

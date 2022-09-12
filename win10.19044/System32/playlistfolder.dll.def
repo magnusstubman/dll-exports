@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\playlistfolder".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\playlistfolder".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\playlistfolder".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\playlistfolder".DllUnregisterServer

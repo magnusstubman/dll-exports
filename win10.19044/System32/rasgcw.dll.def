@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\rasgcw".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\rasgcw".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\rasgcw".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\rasgcw".DllUnregisterServer

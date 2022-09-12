@@ -1,0 +1,6 @@
+EXPORTS
+  SppPluginCanUnloadNow="C:\Windows\System32\sppobjs".SppPluginCanUnloadNow
+  SppPluginCreateInstance="C:\Windows\System32\sppobjs".SppPluginCreateInstance
+  SppPluginInitialize="C:\Windows\System32\sppobjs".SppPluginInitialize
+  SppPluginShutdown="C:\Windows\System32\sppobjs".SppPluginShutdown
+  SppPluginVersion="C:\Windows\System32\sppobjs".SppPluginVersion

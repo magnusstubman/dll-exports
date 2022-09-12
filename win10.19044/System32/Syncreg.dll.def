@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Syncreg".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Syncreg".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\Syncreg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Syncreg".DllUnregisterServer

@@ -1,0 +1,26 @@
+EXPORTS
+  BtnWndProc3d="C:\Windows\SysWOW64\ctl3d32".BtnWndProc3d
+  ComboWndProc3d="C:\Windows\SysWOW64\ctl3d32".ComboWndProc3d
+  Ctl3dAutoSubclass="C:\Windows\SysWOW64\ctl3d32".Ctl3dAutoSubclass
+  Ctl3dAutoSubclassEx="C:\Windows\SysWOW64\ctl3d32".Ctl3dAutoSubclassEx
+  Ctl3dColorChange="C:\Windows\SysWOW64\ctl3d32".Ctl3dColorChange
+  Ctl3dCtlColor="C:\Windows\SysWOW64\ctl3d32".Ctl3dCtlColor
+  Ctl3dCtlColorEx="C:\Windows\SysWOW64\ctl3d32".Ctl3dCtlColorEx
+  Ctl3dDlgFramePaint="C:\Windows\SysWOW64\ctl3d32".Ctl3dDlgFramePaint
+  Ctl3dDlgProc="C:\Windows\SysWOW64\ctl3d32".Ctl3dDlgProc
+  Ctl3dEnabled="C:\Windows\SysWOW64\ctl3d32".Ctl3dEnabled
+  Ctl3dGetVer="C:\Windows\SysWOW64\ctl3d32".Ctl3dGetVer
+  Ctl3dIsAutoSubclass="C:\Windows\SysWOW64\ctl3d32".Ctl3dIsAutoSubclass
+  Ctl3dRegister="C:\Windows\SysWOW64\ctl3d32".Ctl3dRegister
+  Ctl3dSetStyle="C:\Windows\SysWOW64\ctl3d32".Ctl3dSetStyle
+  Ctl3dSubclassCtl="C:\Windows\SysWOW64\ctl3d32".Ctl3dSubclassCtl
+  Ctl3dSubclassCtlEx="C:\Windows\SysWOW64\ctl3d32".Ctl3dSubclassCtlEx
+  Ctl3dSubclassDlg="C:\Windows\SysWOW64\ctl3d32".Ctl3dSubclassDlg
+  Ctl3dSubclassDlgEx="C:\Windows\SysWOW64\ctl3d32".Ctl3dSubclassDlgEx
+  Ctl3dUnAutoSubclass="C:\Windows\SysWOW64\ctl3d32".Ctl3dUnAutoSubclass
+  Ctl3dUnregister="C:\Windows\SysWOW64\ctl3d32".Ctl3dUnregister
+  Ctl3dUnsubclassCtl="C:\Windows\SysWOW64\ctl3d32".Ctl3dUnsubclassCtl
+  Ctl3dWinIniChange="C:\Windows\SysWOW64\ctl3d32".Ctl3dWinIniChange
+  EditWndProc3d="C:\Windows\SysWOW64\ctl3d32".EditWndProc3d
+  ListWndProc3d="C:\Windows\SysWOW64\ctl3d32".ListWndProc3d
+  StaticWndProc3d="C:\Windows\SysWOW64\ctl3d32".StaticWndProc3d

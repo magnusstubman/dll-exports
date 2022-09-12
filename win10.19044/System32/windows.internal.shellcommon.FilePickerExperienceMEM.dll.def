@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\windows.internal.shellcommon.FilePickerExperienceMEM".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\windows.internal.shellcommon.FilePickerExperienceMEM".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\windows.internal.shellcommon.FilePickerExperienceMEM".DllGetClassObject

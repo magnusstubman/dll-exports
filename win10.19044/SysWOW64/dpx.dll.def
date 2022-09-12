@@ -1,0 +1,12 @@
+EXPORTS
+  DpxCheckJobExists="C:\Windows\SysWOW64\dpx".DpxCheckJobExists
+  DpxCheckJobExistsEx="C:\Windows\SysWOW64\dpx".DpxCheckJobExistsEx
+  DpxDeleteJob="C:\Windows\SysWOW64\dpx".DpxDeleteJob
+  DpxDeleteJobEx="C:\Windows\SysWOW64\dpx".DpxDeleteJobEx
+  DpxFreeMemory="C:\Windows\SysWOW64\dpx".DpxFreeMemory
+  DpxNewJob="C:\Windows\SysWOW64\dpx".DpxNewJob
+  DpxNewJobEx="C:\Windows\SysWOW64\dpx".DpxNewJobEx
+  DpxRestoreJob="C:\Windows\SysWOW64\dpx".DpxRestoreJob
+  DpxRestoreJobEx="C:\Windows\SysWOW64\dpx".DpxRestoreJobEx
+  DpxRestoreOrNewJob="C:\Windows\SysWOW64\dpx".DpxRestoreOrNewJob
+  DpxRestoreOrNewJobEx="C:\Windows\SysWOW64\dpx".DpxRestoreOrNewJobEx

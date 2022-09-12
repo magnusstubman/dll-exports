@@ -1,0 +1,5 @@
+EXPORTS
+  ClosePerformanceData="C:\Windows\System32\netfxperf".ClosePerformanceData
+  CollectPerformanceData="C:\Windows\System32\netfxperf".CollectPerformanceData
+  OpenPerformanceData="C:\Windows\System32\netfxperf".OpenPerformanceData
+  TraceServiceStart="C:\Windows\System32\netfxperf".TraceServiceStart

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\GameInput".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\GameInput".DllGetClassObject
+  GameInputCreate="C:\Windows\System32\GameInput".GameInputCreate

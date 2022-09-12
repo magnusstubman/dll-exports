@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LicensingCSP".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\LicensingCSP".DllGetClassObject

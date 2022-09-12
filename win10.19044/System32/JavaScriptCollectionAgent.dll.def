@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\JavaScriptCollectionAgent".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\JavaScriptCollectionAgent".DllGetClassObject

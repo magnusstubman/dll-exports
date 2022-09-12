@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RotMgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\RotMgr".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\RotMgr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\RotMgr".DllUnregisterServer

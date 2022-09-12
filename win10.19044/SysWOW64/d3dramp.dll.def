@@ -1,0 +1,3 @@
+EXPORTS
+  RampOldTri="C:\Windows\SysWOW64\d3dramp".RampOldTri
+  g_RampOld_BeadTbl="C:\Windows\SysWOW64\d3dramp".g_RampOld_BeadTbl

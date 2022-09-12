@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ndfetw".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ndfetw".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\ndfetw".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\ndfetw".DllUnregisterServer

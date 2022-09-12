@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wpninprc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wpninprc".DllGetClassObject

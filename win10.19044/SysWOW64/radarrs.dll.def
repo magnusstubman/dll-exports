@@ -1,0 +1,4 @@
+EXPORTS
+  WdiDiagnosticModuleMain="C:\Windows\SysWOW64\radarrs".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\SysWOW64\radarrs".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\SysWOW64\radarrs".WdiHandleInstance

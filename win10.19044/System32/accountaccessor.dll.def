@@ -1,0 +1,18 @@
+EXPORTS
+  CreateDefaultWindowsLiveAccount="C:\Windows\System32\accountaccessor".CreateDefaultWindowsLiveAccount
+  DllCanUnloadNow="C:\Windows\System32\accountaccessor".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\accountaccessor".DllGetClassObject
+  FindMatchingPartnership="C:\Windows\System32\accountaccessor".FindMatchingPartnership
+  GetConversationSyncDateFilter="C:\Windows\System32\accountaccessor".GetConversationSyncDateFilter
+  GetConversationSyncEnabled="C:\Windows\System32\accountaccessor".GetConversationSyncEnabled
+  GetUnifiedInboxEnabled="C:\Windows\System32\accountaccessor".GetUnifiedInboxEnabled
+  GetUnifiedInboxServerValue="C:\Windows\System32\accountaccessor".GetUnifiedInboxServerValue
+  IsExtendedConversationSyncDateFiltersSupported="C:\Windows\System32\accountaccessor".IsExtendedConversationSyncDateFiltersSupported
+  LoadGoldenPartnershipAccessor="C:\Windows\System32\accountaccessor".LoadGoldenPartnershipAccessor
+  SetConversationSyncDateFilter="C:\Windows\System32\accountaccessor".SetConversationSyncDateFilter
+  SetConversationSyncEnabled="C:\Windows\System32\accountaccessor".SetConversationSyncEnabled
+  SetUnifiedInboxEnabled="C:\Windows\System32\accountaccessor".SetUnifiedInboxEnabled
+  UnenrollAndMarkAccountForDeletion="C:\Windows\System32\accountaccessor".UnenrollAndMarkAccountForDeletion
+  UpdateGoogleAccountConversationFlags="C:\Windows\System32\accountaccessor".UpdateGoogleAccountConversationFlags
+  UpdateGoogleAccountServerSendsMeetingProp="C:\Windows\System32\accountaccessor".UpdateGoogleAccountServerSendsMeetingProp
+  UpdateWebDavAccountProperties="C:\Windows\System32\accountaccessor".UpdateWebDavAccountProperties

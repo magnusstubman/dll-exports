@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.ApplicationModel.Core".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.ApplicationModel.Core".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.ApplicationModel.Core".DllGetClassObject

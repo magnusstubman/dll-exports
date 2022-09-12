@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\srcore".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\srcore".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\srcore".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\srcore".DllUnregisterServer
+  ShutdownContinuation="C:\Windows\System32\srcore".ShutdownContinuation
+  SrFreeRestoreStatus="C:\Windows\System32\srcore".SrFreeRestoreStatus
+  SrFreeRpPropArray="C:\Windows\System32\srcore".SrFreeRpPropArray

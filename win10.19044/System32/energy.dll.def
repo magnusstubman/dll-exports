@@ -1,0 +1,18 @@
+EXPORTS
+  EnergyWizard_Analyze="C:\Windows\System32\energy".EnergyWizard_Analyze
+  EnergyWizard_CancelTrace="C:\Windows\System32\energy".EnergyWizard_CancelTrace
+  EnergyWizard_CollectTrace="C:\Windows\System32\energy".EnergyWizard_CollectTrace
+  EnergyWizard_CreateEnergyWizard="C:\Windows\System32\energy".EnergyWizard_CreateEnergyWizard
+  EnergyWizard_DefaultTraceDuration="C:\Windows\System32\energy".EnergyWizard_DefaultTraceDuration
+  EnergyWizard_DestroyEnergyWizard="C:\Windows\System32\energy".EnergyWizard_DestroyEnergyWizard
+  EnergyWizard_GetLogEntryCounts="C:\Windows\System32\energy".EnergyWizard_GetLogEntryCounts
+  EnergyWizard_SaveReport="C:\Windows\System32\energy".EnergyWizard_SaveReport
+  EnergyWizard_SqmAnalysis="C:\Windows\System32\energy".EnergyWizard_SqmAnalysis
+  EnergyWizard_TransformReport="C:\Windows\System32\energy".EnergyWizard_TransformReport
+  SaveBatteryReport="C:\Windows\System32\energy".SaveBatteryReport
+  SaveSleepStudyReport="C:\Windows\System32\energy".SaveSleepStudyReport
+  SaveSystemSleepDiagnosticsReport="C:\Windows\System32\energy".SaveSystemSleepDiagnosticsReport
+  SendScreenOnTelemetry="C:\Windows\System32\energy".SendScreenOnTelemetry
+  TransformBatteryReport="C:\Windows\System32\energy".TransformBatteryReport
+  TransformSleepStudyReport="C:\Windows\System32\energy".TransformSleepStudyReport
+  TransformSystemSleepDiagnosticsReport="C:\Windows\System32\energy".TransformSystemSleepDiagnosticsReport

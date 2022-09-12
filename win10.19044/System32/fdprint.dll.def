@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fdprint".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fdprint".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\fdprint".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fdprint".DllUnregisterServer
+  InvokeTaskW="C:\Windows\System32\fdprint".InvokeTaskW

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LocationFrameworkPS".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\LocationFrameworkPS".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\LocationFrameworkPS".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\LocationFrameworkPS".DllUnregisterServer

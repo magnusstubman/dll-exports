@@ -1,0 +1,24 @@
+EXPORTS
+  Coml2DllGetClassObject="C:\Windows\SysWOW64\coml2".Coml2DllGetClassObject
+  CreateILockBytesOnHGlobal="C:\Windows\SysWOW64\coml2".CreateILockBytesOnHGlobal
+  DllGetClassObject="C:\Windows\SysWOW64\coml2".DllGetClassObject
+  FmtIdToPropStgName="C:\Windows\SysWOW64\coml2".FmtIdToPropStgName
+  GetConvertStg="C:\Windows\SysWOW64\coml2".GetConvertStg
+  GetHGlobalFromILockBytes="C:\Windows\SysWOW64\coml2".GetHGlobalFromILockBytes
+  PropStgNameToFmtId="C:\Windows\SysWOW64\coml2".PropStgNameToFmtId
+  ReadClassStg="C:\Windows\SysWOW64\coml2".ReadClassStg
+  ReadClassStm="C:\Windows\SysWOW64\coml2".ReadClassStm
+  StgCreateDocfile="C:\Windows\SysWOW64\coml2".StgCreateDocfile
+  StgCreateDocfileOnILockBytes="C:\Windows\SysWOW64\coml2".StgCreateDocfileOnILockBytes
+  StgCreatePropSetStg="C:\Windows\SysWOW64\coml2".StgCreatePropSetStg
+  StgCreatePropStg="C:\Windows\SysWOW64\coml2".StgCreatePropStg
+  StgCreateStorageEx="C:\Windows\SysWOW64\coml2".StgCreateStorageEx
+  StgIsStorageFile="C:\Windows\SysWOW64\coml2".StgIsStorageFile
+  StgIsStorageILockBytes="C:\Windows\SysWOW64\coml2".StgIsStorageILockBytes
+  StgOpenPropStg="C:\Windows\SysWOW64\coml2".StgOpenPropStg
+  StgOpenStorage="C:\Windows\SysWOW64\coml2".StgOpenStorage
+  StgOpenStorageEx="C:\Windows\SysWOW64\coml2".StgOpenStorageEx
+  StgOpenStorageOnILockBytes="C:\Windows\SysWOW64\coml2".StgOpenStorageOnILockBytes
+  StgSetTimes="C:\Windows\SysWOW64\coml2".StgSetTimes
+  WriteClassStg="C:\Windows\SysWOW64\coml2".WriteClassStg
+  WriteClassStm="C:\Windows\SysWOW64\coml2".WriteClassStm

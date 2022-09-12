@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\pid".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\pid".DllGetClassObject
+  PID_GetFFEffectSettingsFromMemory="C:\Windows\System32\pid".PID_GetFFEffectSettingsFromMemory
+  PID_WriteFFEffectSettingsToMemory="C:\Windows\System32\pid".PID_WriteFFEffectSettingsToMemory

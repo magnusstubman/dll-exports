@@ -1,0 +1,5 @@
+EXPORTS
+  CreateWindowInformation="C:\Windows\SysWOW64\WindowManagementAPI".CreateWindowInformation
+  CreateWindowLayout="C:\Windows\SysWOW64\WindowManagementAPI".CreateWindowLayout
+  DllGetActivationFactory="C:\Windows\SysWOW64\WindowManagementAPI".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\WindowManagementAPI".DllGetClassObject

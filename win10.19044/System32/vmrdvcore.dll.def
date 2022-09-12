@@ -1,0 +1,4 @@
+EXPORTS
+  VmRdvCore_CreateInstance="C:\Windows\System32\vmrdvcore".VmRdvCore_CreateInstance
+  VmRdvCore_GetInstance="C:\Windows\System32\vmrdvcore".VmRdvCore_GetInstance
+  VmRdvCore_TerminateInstance="C:\Windows\System32\vmrdvcore".VmRdvCore_TerminateInstance

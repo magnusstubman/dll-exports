@@ -1,0 +1,9 @@
+EXPORTS
+  ClosePopupTipbar="C:\Windows\System32\msutb".ClosePopupTipbar
+  DllCanUnloadNow="C:\Windows\System32\msutb".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\msutb".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\msutb".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msutb".DllUnregisterServer
+  GetChildTipbar="C:\Windows\System32\msutb".GetChildTipbar
+  GetPopupTipbar="C:\Windows\System32\msutb".GetPopupTipbar
+  SetRegisterLangBand="C:\Windows\System32\msutb".SetRegisterLangBand

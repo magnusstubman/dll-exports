@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\srm_ps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\srm_ps".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\srm_ps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\srm_ps".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\srm_ps".GetProxyDllInfo

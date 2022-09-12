@@ -1,0 +1,22 @@
+EXPORTS
+  ??0BUFFER@@QAE@I@Z="C:\Windows\SysWOW64\sti".??0BUFFER@@QAE@I@Z
+  ??0BUFFER_CHAIN@@QAE@XZ="C:\Windows\SysWOW64\sti".??0BUFFER_CHAIN@@QAE@XZ
+  ??0BUFFER_CHAIN_ITEM@@QAE@I@Z="C:\Windows\SysWOW64\sti".??0BUFFER_CHAIN_ITEM@@QAE@I@Z
+  ??1BUFFER@@QAE@XZ="C:\Windows\SysWOW64\sti".??1BUFFER@@QAE@XZ
+  ??1BUFFER_CHAIN@@QAE@XZ="C:\Windows\SysWOW64\sti".??1BUFFER_CHAIN@@QAE@XZ
+  ??1BUFFER_CHAIN_ITEM@@QAE@XZ="C:\Windows\SysWOW64\sti".??1BUFFER_CHAIN_ITEM@@QAE@XZ
+  ??_FBUFFER@@QAEXXZ="C:\Windows\SysWOW64\sti".??_FBUFFER@@QAEXXZ
+  ??_FBUFFER_CHAIN_ITEM@@QAEXXZ="C:\Windows\SysWOW64\sti".??_FBUFFER_CHAIN_ITEM@@QAEXXZ
+  ?QueryPtr@BUFFER@@QBEPAXXZ="C:\Windows\SysWOW64\sti".?QueryPtr@BUFFER@@QBEPAXXZ
+  ?QuerySize@BUFFER@@QBEIXZ="C:\Windows\SysWOW64\sti".?QuerySize@BUFFER@@QBEIXZ
+  ?QueryUsed@BUFFER_CHAIN_ITEM@@QBEKXZ="C:\Windows\SysWOW64\sti".?QueryUsed@BUFFER_CHAIN_ITEM@@QBEKXZ
+  ?SetUsed@BUFFER_CHAIN_ITEM@@QAEXK@Z="C:\Windows\SysWOW64\sti".?SetUsed@BUFFER_CHAIN_ITEM@@QAEXK@Z
+  DllCanUnloadNow="C:\Windows\SysWOW64\sti".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\sti".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\sti".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\sti".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\sti".GetProxyDllInfo
+  MigrateRegisteredSTIAppsForWIAEvents="C:\Windows\SysWOW64\sti".MigrateRegisteredSTIAppsForWIAEvents
+  SelectDeviceDialog2="C:\Windows\SysWOW64\sti".SelectDeviceDialog2
+  StiCreateInstance="C:\Windows\SysWOW64\sti".StiCreateInstance
+  StiCreateInstanceW="C:\Windows\SysWOW64\sti".StiCreateInstanceW

@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\MPG4DECD".CreateInstance
+  DllCanUnloadNow="C:\Windows\System32\MPG4DECD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MPG4DECD".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MPG4DECD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MPG4DECD".DllUnregisterServer

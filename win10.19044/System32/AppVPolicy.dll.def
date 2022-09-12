@@ -1,0 +1,11 @@
+EXPORTS
+  CreatePackageGroupDescriptorDocumentFromFile="C:\Windows\System32\AppVPolicy".CreatePackageGroupDescriptorDocumentFromFile
+  CreatePackageGroupDescriptorDocumentFromXML="C:\Windows\System32\AppVPolicy".CreatePackageGroupDescriptorDocumentFromXML
+  CreatePackageMachinePolicyDocument="C:\Windows\System32\AppVPolicy".CreatePackageMachinePolicyDocument
+  CreatePackageMachinePolicyDocumentFromFile="C:\Windows\System32\AppVPolicy".CreatePackageMachinePolicyDocumentFromFile
+  CreatePackageMachinePolicyDocumentFromXML="C:\Windows\System32\AppVPolicy".CreatePackageMachinePolicyDocumentFromXML
+  CreatePackageUserPolicyDocument="C:\Windows\System32\AppVPolicy".CreatePackageUserPolicyDocument
+  CreatePackageUserPolicyDocumentFromFile="C:\Windows\System32\AppVPolicy".CreatePackageUserPolicyDocumentFromFile
+  CreatePackageUserPolicyDocumentFromXML="C:\Windows\System32\AppVPolicy".CreatePackageUserPolicyDocumentFromXML
+  CreatePublishingDescriptorDocumentFromFile="C:\Windows\System32\AppVPolicy".CreatePublishingDescriptorDocumentFromFile
+  CreatePublishingDescriptorDocumentFromXML="C:\Windows\System32\AppVPolicy".CreatePublishingDescriptorDocumentFromXML

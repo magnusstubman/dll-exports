@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MSAudDecMFT".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MSAudDecMFT".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\MSAudDecMFT".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\MSAudDecMFT".DllUnregisterServer

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Microsoft.Uev.Office2013CustomActions".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\Microsoft.Uev.Office2013CustomActions".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\Microsoft.Uev.Office2013CustomActions".DllInstall
+  DllRegisterServer="C:\Windows\SysWOW64\Microsoft.Uev.Office2013CustomActions".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\Microsoft.Uev.Office2013CustomActions".DllUnregisterServer

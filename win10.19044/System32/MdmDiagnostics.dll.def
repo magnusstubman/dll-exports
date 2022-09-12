@@ -1,0 +1,7 @@
+EXPORTS
+  CollectOneTraceFiles="C:\Windows\System32\MdmDiagnostics".CollectOneTraceFiles
+  CreateLogCabOnArea="C:\Windows\System32\MdmDiagnostics".CreateLogCabOnArea
+  CreateLogZipOnArea="C:\Windows\System32\MdmDiagnostics".CreateLogZipOnArea
+  CreateLogZipOnXml="C:\Windows\System32\MdmDiagnostics".CreateLogZipOnXml
+  CreateMdmEnterpriseDiagnosticHTMLReport="C:\Windows\System32\MdmDiagnostics".CreateMdmEnterpriseDiagnosticHTMLReport
+  CreateMdmEnterpriseDiagnosticReport="C:\Windows\System32\MdmDiagnostics".CreateMdmEnterpriseDiagnosticReport

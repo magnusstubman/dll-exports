@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Networking.XboxLive.ProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.Networking.XboxLive.ProxyStub".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\Windows.Networking.XboxLive.ProxyStub".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Networking.XboxLive.ProxyStub".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\Windows.Networking.XboxLive.ProxyStub".GetProxyDllInfo

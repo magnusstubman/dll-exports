@@ -1,0 +1,3 @@
+EXPORTS
+  GetHookAPIs="C:\Windows\SysWOW64\acwow64".GetHookAPIs
+  NotifyShims="C:\Windows\SysWOW64\acwow64".NotifyShims

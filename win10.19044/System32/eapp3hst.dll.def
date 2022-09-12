@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\eapp3hst".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\eapp3hst".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\eapp3hst".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\eapp3hst".DllUnregisterServer

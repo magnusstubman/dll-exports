@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.BlockedShutdown".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.BlockedShutdown".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.BlockedShutdown".DllGetClassObject

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MSAMRNBEncoder".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MSAMRNBEncoder".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MSAMRNBEncoder".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MSAMRNBEncoder".DllUnregisterServer

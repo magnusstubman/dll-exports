@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\aadWamExtension".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\aadWamExtension".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\aadWamExtension".DllGetClassObject

@@ -1,0 +1,14 @@
+EXPORTS
+  ??0BUFFER@@QEAA@I@Z="C:\Windows\System32\wiarpc".??0BUFFER@@QEAA@I@Z
+  ??0BUFFER_CHAIN@@QEAA@XZ="C:\Windows\System32\wiarpc".??0BUFFER_CHAIN@@QEAA@XZ
+  ??0BUFFER_CHAIN_ITEM@@QEAA@I@Z="C:\Windows\System32\wiarpc".??0BUFFER_CHAIN_ITEM@@QEAA@I@Z
+  ??1BUFFER@@QEAA@XZ="C:\Windows\System32\wiarpc".??1BUFFER@@QEAA@XZ
+  ??1BUFFER_CHAIN@@QEAA@XZ="C:\Windows\System32\wiarpc".??1BUFFER_CHAIN@@QEAA@XZ
+  ??1BUFFER_CHAIN_ITEM@@QEAA@XZ="C:\Windows\System32\wiarpc".??1BUFFER_CHAIN_ITEM@@QEAA@XZ
+  ??_FBUFFER@@QEAAXXZ="C:\Windows\System32\wiarpc".??_FBUFFER@@QEAAXXZ
+  ??_FBUFFER_CHAIN_ITEM@@QEAAXXZ="C:\Windows\System32\wiarpc".??_FBUFFER_CHAIN_ITEM@@QEAAXXZ
+  ?QueryPtr@BUFFER@@QEBAPEAXXZ="C:\Windows\System32\wiarpc".?QueryPtr@BUFFER@@QEBAPEAXXZ
+  ?QuerySize@BUFFER@@QEBAIXZ="C:\Windows\System32\wiarpc".?QuerySize@BUFFER@@QEBAIXZ
+  ?QueryUsed@BUFFER_CHAIN_ITEM@@QEBAKXZ="C:\Windows\System32\wiarpc".?QueryUsed@BUFFER_CHAIN_ITEM@@QEBAKXZ
+  ?SetUsed@BUFFER_CHAIN_ITEM@@QEAAXK@Z="C:\Windows\System32\wiarpc".?SetUsed@BUFFER_CHAIN_ITEM@@QEAAXK@Z
+  ServiceMain="C:\Windows\System32\wiarpc".ServiceMain

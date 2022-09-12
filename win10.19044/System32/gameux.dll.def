@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\gameux".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\gameux".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\gameux".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\gameux".DllUnregisterServer

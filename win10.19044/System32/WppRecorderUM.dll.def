@@ -1,0 +1,5 @@
+EXPORTS
+  WppAutoLogGetDefaultHandle="C:\Windows\System32\WppRecorderUM".WppAutoLogGetDefaultHandle
+  WppAutoLogStart="C:\Windows\System32\WppRecorderUM".WppAutoLogStart
+  WppAutoLogStop="C:\Windows\System32\WppRecorderUM".WppAutoLogStop
+  WppAutoLogTrace="C:\Windows\System32\WppRecorderUM".WppAutoLogTrace

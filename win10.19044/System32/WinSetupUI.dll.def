@@ -1,0 +1,3 @@
+EXPORTS
+  CreateUpdateSetupUI="C:\Windows\System32\WinSetupUI".CreateUpdateSetupUI
+  CreateWinSetupUI="C:\Windows\System32\WinSetupUI".CreateWinSetupUI

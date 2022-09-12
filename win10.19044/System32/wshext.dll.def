@@ -1,0 +1,11 @@
+EXPORTS
+  CreateIndirectData="C:\Windows\System32\wshext".CreateIndirectData
+  DllCanUnloadNow="C:\Windows\System32\wshext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wshext".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wshext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wshext".DllUnregisterServer
+  GetSignedDataMsg="C:\Windows\System32\wshext".GetSignedDataMsg
+  IsFileSupportedName="C:\Windows\System32\wshext".IsFileSupportedName
+  PutSignedDataMsg="C:\Windows\System32\wshext".PutSignedDataMsg
+  RemoveSignedDataMsg="C:\Windows\System32\wshext".RemoveSignedDataMsg
+  VerifyIndirectData="C:\Windows\System32\wshext".VerifyIndirectData

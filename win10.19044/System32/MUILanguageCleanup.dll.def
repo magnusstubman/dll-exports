@@ -1,0 +1,6 @@
+EXPORTS
+  OnMachineUILanguageClear="C:\Windows\System32\MUILanguageCleanup".OnMachineUILanguageClear
+  OnMachineUILanguageInit="C:\Windows\System32\MUILanguageCleanup".OnMachineUILanguageInit
+  OnMachineUILanguageSwitch="C:\Windows\System32\MUILanguageCleanup".OnMachineUILanguageSwitch
+  OnUILanguageAdd="C:\Windows\System32\MUILanguageCleanup".OnUILanguageAdd
+  OnUILanguageRemove="C:\Windows\System32\MUILanguageCleanup".OnUILanguageRemove

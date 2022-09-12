@@ -1,0 +1,4 @@
+EXPORTS
+  FreeCommandLineOptions="C:\Windows\SysWOW64\dmcommandlineutils".FreeCommandLineOptions
+  ProcessCommandLine="C:\Windows\SysWOW64\dmcommandlineutils".ProcessCommandLine
+  ProcessCommandLineOption="C:\Windows\SysWOW64\dmcommandlineutils".ProcessCommandLineOption

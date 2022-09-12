@@ -1,0 +1,10 @@
+EXPORTS
+  DllMain="C:\Windows\System32\MrmDeploy".DllMain
+  GetCanonicalMergedPriFileName="C:\Windows\System32\MrmDeploy".GetCanonicalMergedPriFileName
+  GetCanonicalMergedPriFileNameForPackages="C:\Windows\System32\MrmDeploy".GetCanonicalMergedPriFileNameForPackages
+  GetInitInfoByPackageFullName="C:\Windows\System32\MrmDeploy".GetInitInfoByPackageFullName
+  GetOrCreatePriFileForApplicablePackages="C:\Windows\System32\MrmDeploy".GetOrCreatePriFileForApplicablePackages
+  GetOrCreatePriFileForAvailablePackages="C:\Windows\System32\MrmDeploy".GetOrCreatePriFileForAvailablePackages
+  GetOrCreatePriFileForRelatedPackages="C:\Windows\System32\MrmDeploy".GetOrCreatePriFileForRelatedPackages
+  GetPriFileForPackageOnly="C:\Windows\System32\MrmDeploy".GetPriFileForPackageOnly
+  MergeRelatedPriFiles="C:\Windows\System32\MrmDeploy".MergeRelatedPriFiles

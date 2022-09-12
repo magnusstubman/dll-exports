@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dispex".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dispex".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dispex".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dispex".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\dispex".GetProxyDllInfo

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DolbyDecMFT".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DolbyDecMFT".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\DolbyDecMFT".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\DolbyDecMFT".DllUnregisterServer

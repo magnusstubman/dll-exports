@@ -1,0 +1,14 @@
+EXPORTS
+  D3DFree="C:\Windows\SysWOW64\d3dim".D3DFree
+  D3DMalloc="C:\Windows\SysWOW64\d3dim".D3DMalloc
+  D3DRealloc="C:\Windows\SysWOW64\d3dim".D3DRealloc
+  Direct3DCreate="C:\Windows\SysWOW64\d3dim".Direct3DCreate
+  Direct3DCreateDevice="C:\Windows\SysWOW64\d3dim".Direct3DCreateDevice
+  Direct3DCreateTexture="C:\Windows\SysWOW64\d3dim".Direct3DCreateTexture
+  Direct3DGetSWRastZPixFmts="C:\Windows\SysWOW64\d3dim".Direct3DGetSWRastZPixFmts
+  Direct3D_HALCleanUp="C:\Windows\SysWOW64\d3dim".Direct3D_HALCleanUp
+  FlushD3DDevices="C:\Windows\SysWOW64\d3dim".FlushD3DDevices
+  FlushD3DDevices2="C:\Windows\SysWOW64\d3dim".FlushD3DDevices2
+  PaletteAssociateNotify="C:\Windows\SysWOW64\d3dim".PaletteAssociateNotify
+  PaletteUpdateNotify="C:\Windows\SysWOW64\d3dim".PaletteUpdateNotify
+  SurfaceFlipNotify="C:\Windows\SysWOW64\d3dim".SurfaceFlipNotify

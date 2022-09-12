@@ -1,0 +1,9 @@
+EXPORTS
+  PcaGetFileInfoFromPath="C:\Windows\SysWOW64\pcacli".PcaGetFileInfoFromPath
+  PcaIsPcaDisabled="C:\Windows\SysWOW64\pcacli".PcaIsPcaDisabled
+  PcaLinkChildProcessToParent="C:\Windows\SysWOW64\pcacli".PcaLinkChildProcessToParent
+  PcaMonitorProcess="C:\Windows\SysWOW64\pcacli".PcaMonitorProcess
+  PcaMonitorProcess2="C:\Windows\SysWOW64\pcacli".PcaMonitorProcess2
+  PcaNotifyMsiInstall="C:\Windows\SysWOW64\pcacli".PcaNotifyMsiInstall
+  PcaNotifyStatusIcon="C:\Windows\SysWOW64\pcacli".PcaNotifyStatusIcon
+  PcaSendToService="C:\Windows\SysWOW64\pcacli".PcaSendToService

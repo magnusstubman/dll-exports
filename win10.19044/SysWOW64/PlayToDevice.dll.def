@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\PlayToDevice".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\PlayToDevice".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\PlayToDevice".DllGetClassObject

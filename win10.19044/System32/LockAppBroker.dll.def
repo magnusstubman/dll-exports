@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LockAppBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\LockAppBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\LockAppBroker".DllGetClassObject

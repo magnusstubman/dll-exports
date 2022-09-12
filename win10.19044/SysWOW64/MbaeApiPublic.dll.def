@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MbaeApiPublic".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\MbaeApiPublic".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\MbaeApiPublic".DllGetClassObject

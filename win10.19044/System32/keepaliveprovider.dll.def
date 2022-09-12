@@ -1,0 +1,3 @@
+EXPORTS
+  KAMSS_DeregisterProvider="C:\Windows\System32\keepaliveprovider".KAMSS_DeregisterProvider
+  KAMSS_RegisterProvider="C:\Windows\System32\keepaliveprovider".KAMSS_RegisterProvider

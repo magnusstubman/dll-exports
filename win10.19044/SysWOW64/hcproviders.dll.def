@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\hcproviders".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\hcproviders".DllGetClassObject

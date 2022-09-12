@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\iasdatastore".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\iasdatastore".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\iasdatastore".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\iasdatastore".DllUnregisterServer

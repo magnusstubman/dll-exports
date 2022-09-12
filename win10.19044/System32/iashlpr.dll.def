@@ -1,0 +1,17 @@
+EXPORTS
+  AllocateAttributes="C:\Windows\System32\iashlpr".AllocateAttributes
+  ConfigureIas="C:\Windows\System32\iashlpr".ConfigureIas
+  DllCanUnloadNow="C:\Windows\System32\iashlpr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\iashlpr".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\iashlpr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\iashlpr".DllUnregisterServer
+  DoRequest="C:\Windows\System32\iashlpr".DoRequest
+  DoRequestAsync="C:\Windows\System32\iashlpr".DoRequestAsync
+  FreeAttributes="C:\Windows\System32\iashlpr".FreeAttributes
+  GetOptionIas="C:\Windows\System32\iashlpr".GetOptionIas
+  InitializeIas="C:\Windows\System32\iashlpr".InitializeIas
+  MemAllocIas="C:\Windows\System32\iashlpr".MemAllocIas
+  MemFreeIas="C:\Windows\System32\iashlpr".MemFreeIas
+  MemReallocIas="C:\Windows\System32\iashlpr".MemReallocIas
+  SetOptionIas="C:\Windows\System32\iashlpr".SetOptionIas
+  ShutdownIas="C:\Windows\System32\iashlpr".ShutdownIas

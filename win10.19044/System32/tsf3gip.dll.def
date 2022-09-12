@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\tsf3gip".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\tsf3gip".DllGetClassObject
+  OnUserProfileChanged="C:\Windows\System32\tsf3gip".OnUserProfileChanged

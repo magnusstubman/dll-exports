@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CloudExperienceHostBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\CloudExperienceHostBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\CloudExperienceHostBroker".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\CloudExperienceHostBroker".GetProxyDllInfo

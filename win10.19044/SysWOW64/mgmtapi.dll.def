@@ -1,0 +1,10 @@
+EXPORTS
+  SnmpMgrClose="C:\Windows\SysWOW64\mgmtapi".SnmpMgrClose
+  SnmpMgrCtl="C:\Windows\SysWOW64\mgmtapi".SnmpMgrCtl
+  SnmpMgrGetTrap="C:\Windows\SysWOW64\mgmtapi".SnmpMgrGetTrap
+  SnmpMgrGetTrapEx="C:\Windows\SysWOW64\mgmtapi".SnmpMgrGetTrapEx
+  SnmpMgrOidToStr="C:\Windows\SysWOW64\mgmtapi".SnmpMgrOidToStr
+  SnmpMgrOpen="C:\Windows\SysWOW64\mgmtapi".SnmpMgrOpen
+  SnmpMgrRequest="C:\Windows\SysWOW64\mgmtapi".SnmpMgrRequest
+  SnmpMgrStrToOid="C:\Windows\SysWOW64\mgmtapi".SnmpMgrStrToOid
+  SnmpMgrTrapListen="C:\Windows\SysWOW64\mgmtapi".SnmpMgrTrapListen

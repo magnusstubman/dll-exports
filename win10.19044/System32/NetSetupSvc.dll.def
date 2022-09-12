@@ -1,0 +1,3 @@
+EXPORTS
+  NetSetupServiceMain="C:\Windows\System32\NetSetupSvc".NetSetupServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\NetSetupSvc".SvchostPushServiceGlobals

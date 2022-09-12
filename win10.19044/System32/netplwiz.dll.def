@@ -1,0 +1,8 @@
+EXPORTS
+  ClearAutoLogon="C:\Windows\System32\netplwiz".ClearAutoLogon
+  DllCanUnloadNow="C:\Windows\System32\netplwiz".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\netplwiz".DllGetClassObject
+  NetAccessWizard="C:\Windows\System32\netplwiz".NetAccessWizard
+  NetPlacesWizardDoModal="C:\Windows\System32\netplwiz".NetPlacesWizardDoModal
+  SHDisconnectNetDrives="C:\Windows\System32\netplwiz".SHDisconnectNetDrives
+  UsersRunDllW="C:\Windows\System32\netplwiz".UsersRunDllW

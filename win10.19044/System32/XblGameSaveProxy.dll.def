@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\XblGameSaveProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\XblGameSaveProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\XblGameSaveProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\XblGameSaveProxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\XblGameSaveProxy".GetProxyDllInfo

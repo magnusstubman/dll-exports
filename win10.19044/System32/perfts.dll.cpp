@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:CloseLagPerfData=\"C:\\Windows\\System32\\perfts.CloseLagPerfData\"")
+#pragma comment(linker, "/export:CloseTSObject=\"C:\\Windows\\System32\\perfts.CloseTSObject\"")
+#pragma comment(linker, "/export:CollectLagPerfData=\"C:\\Windows\\System32\\perfts.CollectLagPerfData\"")
+#pragma comment(linker, "/export:CollectTSObjectData=\"C:\\Windows\\System32\\perfts.CollectTSObjectData\"")
+#pragma comment(linker, "/export:OpenLagPerfData=\"C:\\Windows\\System32\\perfts.OpenLagPerfData\"")
+#pragma comment(linker, "/export:OpenTSObject=\"C:\\Windows\\System32\\perfts.OpenTSObject\"")

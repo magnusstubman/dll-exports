@@ -1,0 +1,5 @@
+EXPORTS
+  AddNetPlaceRunDll="C:\Windows\System32\shwebsvc".AddNetPlaceRunDll
+  DllCanUnloadNow="C:\Windows\System32\shwebsvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\shwebsvc".DllGetClassObject
+  PublishRunDll="C:\Windows\System32\shwebsvc".PublishRunDll

@@ -1,0 +1,8 @@
+EXPORTS
+  CloseFindContext="C:\Windows\System32\wiadss".CloseFindContext
+  FindFirstImportDS="C:\Windows\System32\wiadss".FindFirstImportDS
+  FindImportDSByDeviceName="C:\Windows\System32\wiadss".FindImportDSByDeviceName
+  FindNextImportDS="C:\Windows\System32\wiadss".FindNextImportDS
+  GetLoaderStatus="C:\Windows\System32\wiadss".GetLoaderStatus
+  LoadImportDS="C:\Windows\System32\wiadss".LoadImportDS
+  UnloadImportDS="C:\Windows\System32\wiadss".UnloadImportDS

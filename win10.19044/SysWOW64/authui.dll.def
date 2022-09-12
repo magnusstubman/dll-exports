@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\authui".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\authui".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\authui".DllGetClassObject

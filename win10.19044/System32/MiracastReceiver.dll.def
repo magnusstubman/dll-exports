@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MiracastReceiver".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\MiracastReceiver".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\MiracastReceiver".DllGetClassObject

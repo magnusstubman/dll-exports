@@ -1,0 +1,2 @@
+EXPORTS
+  EfsServiceMain="C:\Windows\System32\efssvc".EfsServiceMain

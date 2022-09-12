@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fdSSDP".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fdSSDP".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\fdSSDP".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fdSSDP".DllUnregisterServer
+  FdphostSessionChange="C:\Windows\System32\fdSSDP".FdphostSessionChange
+  FdphostSetComContext="C:\Windows\System32\fdSSDP".FdphostSetComContext
+  FdphostSetSharedService="C:\Windows\System32\fdSSDP".FdphostSetSharedService

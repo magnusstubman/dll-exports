@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\NFCProvisioningPlugin".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\NFCProvisioningPlugin".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\NFCProvisioningPlugin".DllGetClassObject

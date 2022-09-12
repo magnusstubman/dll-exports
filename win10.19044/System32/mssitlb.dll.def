@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mssitlb".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mssitlb".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mssitlb".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mssitlb".DllUnregisterServer

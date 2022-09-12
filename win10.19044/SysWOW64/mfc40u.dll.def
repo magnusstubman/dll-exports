@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mfc40u".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mfc40u".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\mfc40u".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mfc40u".DllUnregisterServer

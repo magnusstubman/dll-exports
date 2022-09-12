@@ -1,0 +1,17 @@
+EXPORTS
+  UbpmAcquireJobBackgroundMode="C:\Windows\System32\ubpm".UbpmAcquireJobBackgroundMode
+  UbpmApiBufferFree="C:\Windows\System32\ubpm".UbpmApiBufferFree
+  UbpmCloseTriggerConsumer="C:\Windows\System32\ubpm".UbpmCloseTriggerConsumer
+  UbpmInitialize="C:\Windows\System32\ubpm".UbpmInitialize
+  UbpmOpenTriggerConsumer="C:\Windows\System32\ubpm".UbpmOpenTriggerConsumer
+  UbpmReleaseJobBackgroundMode="C:\Windows\System32\ubpm".UbpmReleaseJobBackgroundMode
+  UbpmSessionStateChanged="C:\Windows\System32\ubpm".UbpmSessionStateChanged
+  UbpmTerminate="C:\Windows\System32\ubpm".UbpmTerminate
+  UbpmTriggerConsumerConfigure="C:\Windows\System32\ubpm".UbpmTriggerConsumerConfigure
+  UbpmTriggerConsumerControl="C:\Windows\System32\ubpm".UbpmTriggerConsumerControl
+  UbpmTriggerConsumerControlNotifications="C:\Windows\System32\ubpm".UbpmTriggerConsumerControlNotifications
+  UbpmTriggerConsumerQueryStatus="C:\Windows\System32\ubpm".UbpmTriggerConsumerQueryStatus
+  UbpmTriggerConsumerRegister="C:\Windows\System32\ubpm".UbpmTriggerConsumerRegister
+  UbpmTriggerConsumerSetDisabledForUser="C:\Windows\System32\ubpm".UbpmTriggerConsumerSetDisabledForUser
+  UbpmTriggerConsumerSetStatePublishingSecurity="C:\Windows\System32\ubpm".UbpmTriggerConsumerSetStatePublishingSecurity
+  UbpmTriggerConsumerUnregister="C:\Windows\System32\ubpm".UbpmTriggerConsumerUnregister

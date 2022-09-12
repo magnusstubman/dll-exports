@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\RTMediaFrame".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\RTMediaFrame".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\RTMediaFrame".DllGetClassObject

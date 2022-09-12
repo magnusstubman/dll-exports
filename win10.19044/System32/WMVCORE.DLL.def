@@ -1,0 +1,22 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\System32\WMVCORE".DllRegisterServer
+  WMCheckURLExtension="C:\Windows\System32\WMVCORE".WMCheckURLExtension
+  WMCheckURLScheme="C:\Windows\System32\WMVCORE".WMCheckURLScheme
+  WMCreateBackupRestorer="C:\Windows\System32\WMVCORE".WMCreateBackupRestorer
+  WMCreateBackupRestorerPrivate="C:\Windows\System32\WMVCORE".WMCreateBackupRestorerPrivate
+  WMCreateEditor="C:\Windows\System32\WMVCORE".WMCreateEditor
+  WMCreateIndexer="C:\Windows\System32\WMVCORE".WMCreateIndexer
+  WMCreateLicenseRevocationAgentPrivate="C:\Windows\System32\WMVCORE".WMCreateLicenseRevocationAgentPrivate
+  WMCreateProfileManager="C:\Windows\System32\WMVCORE".WMCreateProfileManager
+  WMCreateReader="C:\Windows\System32\WMVCORE".WMCreateReader
+  WMCreateReaderPriv="C:\Windows\System32\WMVCORE".WMCreateReaderPriv
+  WMCreateSyncReader="C:\Windows\System32\WMVCORE".WMCreateSyncReader
+  WMCreateSyncReaderPriv="C:\Windows\System32\WMVCORE".WMCreateSyncReaderPriv
+  WMCreateWriter="C:\Windows\System32\WMVCORE".WMCreateWriter
+  WMCreateWriterFileSink="C:\Windows\System32\WMVCORE".WMCreateWriterFileSink
+  WMCreateWriterNetworkSink="C:\Windows\System32\WMVCORE".WMCreateWriterNetworkSink
+  WMCreateWriterPriv="C:\Windows\System32\WMVCORE".WMCreateWriterPriv
+  WMCreateWriterPushSink="C:\Windows\System32\WMVCORE".WMCreateWriterPushSink
+  WMIsAvailableOffline="C:\Windows\System32\WMVCORE".WMIsAvailableOffline
+  WMIsContentProtected="C:\Windows\System32\WMVCORE".WMIsContentProtected
+  WMValidateData="C:\Windows\System32\WMVCORE".WMValidateData

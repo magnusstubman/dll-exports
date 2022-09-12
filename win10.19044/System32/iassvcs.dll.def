@@ -1,0 +1,25 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\iassvcs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\iassvcs".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\iassvcs".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\iassvcs".DllUnregisterServer
+  IASAdler32="C:\Windows\System32\iassvcs".IASAdler32
+  IASAllocateUniqueID="C:\Windows\System32\iassvcs".IASAllocateUniqueID
+  IASGetDictionary="C:\Windows\System32\iassvcs".IASGetDictionary
+  IASGetHostByName="C:\Windows\System32\iassvcs".IASGetHostByName
+  IASGetLocalDictionary="C:\Windows\System32\iassvcs".IASGetLocalDictionary
+  IASGetProductLimits="C:\Windows\System32\iassvcs".IASGetProductLimits
+  IASGlobalLock="C:\Windows\System32\iassvcs".IASGlobalLock
+  IASGlobalUnlock="C:\Windows\System32\iassvcs".IASGlobalUnlock
+  IASInitialize="C:\Windows\System32\iassvcs".IASInitialize
+  IASRadiusCrypt="C:\Windows\System32\iassvcs".IASRadiusCrypt
+  IASRegisterComponent="C:\Windows\System32\iassvcs".IASRegisterComponent
+  IASReportEvent="C:\Windows\System32\iassvcs".IASReportEvent
+  IASReportLicenseViolation="C:\Windows\System32\iassvcs".IASReportLicenseViolation
+  IASReportSecurityEvent="C:\Windows\System32\iassvcs".IASReportSecurityEvent
+  IASRequestThread="C:\Windows\System32\iassvcs".IASRequestThread
+  IASSetMaxNumberOfThreads="C:\Windows\System32\iassvcs".IASSetMaxNumberOfThreads
+  IASSetMaxThreadIdle="C:\Windows\System32\iassvcs".IASSetMaxThreadIdle
+  IASShutdown="C:\Windows\System32\iassvcs".IASShutdown
+  IASUninitialize="C:\Windows\System32\iassvcs".IASUninitialize
+  IASVariantChangeType="C:\Windows\System32\iassvcs".IASVariantChangeType

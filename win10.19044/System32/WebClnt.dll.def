@@ -1,0 +1,5 @@
+EXPORTS
+  DavClose="C:\Windows\System32\WebClnt".DavClose
+  DavInit="C:\Windows\System32\WebClnt".DavInit
+  ServiceMain="C:\Windows\System32\WebClnt".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\WebClnt".SvchostPushServiceGlobals

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mfnetsrc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mfnetsrc".DllGetClassObject
+  MFCreateByteCacheFile="C:\Windows\SysWOW64\mfnetsrc".MFCreateByteCacheFile
+  MFCreateCacheManager="C:\Windows\SysWOW64\mfnetsrc".MFCreateCacheManager
+  MFCreateFileBlockMap="C:\Windows\SysWOW64\mfnetsrc".MFCreateFileBlockMap

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_Cortana".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_Cortana".DllGetClassObject
+  GetSetting="C:\Windows\System32\SettingsHandlers_Cortana".GetSetting

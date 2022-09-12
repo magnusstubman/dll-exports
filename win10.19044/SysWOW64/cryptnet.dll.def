@@ -1,0 +1,24 @@
+EXPORTS
+  CertDllVerifyCTLUsage="C:\Windows\SysWOW64\cryptnet".CertDllVerifyCTLUsage
+  CertDllVerifyRevocation="C:\Windows\SysWOW64\cryptnet".CertDllVerifyRevocation
+  CryptCancelAsyncRetrieval="C:\Windows\SysWOW64\cryptnet".CryptCancelAsyncRetrieval
+  CryptFlushTimeValidObject="C:\Windows\SysWOW64\cryptnet".CryptFlushTimeValidObject
+  CryptGetObjectUrl="C:\Windows\SysWOW64\cryptnet".CryptGetObjectUrl
+  CryptGetTimeValidObject="C:\Windows\SysWOW64\cryptnet".CryptGetTimeValidObject
+  CryptInstallCancelRetrieval="C:\Windows\SysWOW64\cryptnet".CryptInstallCancelRetrieval
+  CryptRetrieveObjectByUrlA="C:\Windows\SysWOW64\cryptnet".CryptRetrieveObjectByUrlA
+  CryptRetrieveObjectByUrlW="C:\Windows\SysWOW64\cryptnet".CryptRetrieveObjectByUrlW
+  CryptUninstallCancelRetrieval="C:\Windows\SysWOW64\cryptnet".CryptUninstallCancelRetrieval
+  DllRegisterServer="C:\Windows\SysWOW64\cryptnet".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\cryptnet".DllUnregisterServer
+  I_CryptConvertIriToAsciiOrUnicode="C:\Windows\SysWOW64\cryptnet".I_CryptConvertIriToAsciiOrUnicode
+  I_CryptConvertIriToAsciiOrUnicodeWithFlags="C:\Windows\SysWOW64\cryptnet".I_CryptConvertIriToAsciiOrUnicodeWithFlags
+  I_CryptNetAutoFlush="C:\Windows\SysWOW64\cryptnet".I_CryptNetAutoFlush
+  I_CryptNetEnumUrlCacheEntry="C:\Windows\SysWOW64\cryptnet".I_CryptNetEnumUrlCacheEntry
+  I_CryptNetFlushOfflineUrl="C:\Windows\SysWOW64\cryptnet".I_CryptNetFlushOfflineUrl
+  I_CryptNetGetConnectivity="C:\Windows\SysWOW64\cryptnet".I_CryptNetGetConnectivity
+  I_CryptNetGetHostNameFromUrl="C:\Windows\SysWOW64\cryptnet".I_CryptNetGetHostNameFromUrl
+  I_CryptNetGetUserDsStoreUrl="C:\Windows\SysWOW64\cryptnet".I_CryptNetGetUserDsStoreUrl
+  I_CryptNetSetUrlCacheFlushInfo="C:\Windows\SysWOW64\cryptnet".I_CryptNetSetUrlCacheFlushInfo
+  I_CryptNetSetUrlCachePreFetchInfo="C:\Windows\SysWOW64\cryptnet".I_CryptNetSetUrlCachePreFetchInfo
+  LdapProvOpenStore="C:\Windows\SysWOW64\cryptnet".LdapProvOpenStore

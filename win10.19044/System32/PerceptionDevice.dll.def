@@ -1,0 +1,5 @@
+EXPORTS
+  CreateSpatialObjectDDIClientFactory="C:\Windows\System32\PerceptionDevice".CreateSpatialObjectDDIClientFactory
+  DllMain="C:\Windows\System32\PerceptionDevice".DllMain
+  PerceptionDeviceCreateFactory="C:\Windows\System32\PerceptionDevice".PerceptionDeviceCreateFactory
+  PerceptionDeviceSetCreateFactoryOverride="C:\Windows\System32\PerceptionDevice".PerceptionDeviceSetCreateFactoryOverride

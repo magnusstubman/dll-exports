@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wmvdspa".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wmvdspa".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wmvdspa".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wmvdspa".DllUnregisterServer

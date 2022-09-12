@@ -1,0 +1,22 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\xwizards".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\xwizards".DllGetClassObject
+  ProcessXMLFileA="C:\Windows\System32\xwizards".ProcessXMLFileA
+  ProcessXMLFileW="C:\Windows\System32\xwizards".ProcessXMLFileW
+  ResetRegistrationA="C:\Windows\System32\xwizards".ResetRegistrationA
+  ResetRegistrationW="C:\Windows\System32\xwizards".ResetRegistrationW
+  RunPropertySheetA="C:\Windows\System32\xwizards".RunPropertySheetA
+  RunPropertySheetW="C:\Windows\System32\xwizards".RunPropertySheetW
+  RunWizardA="C:\Windows\System32\xwizards".RunWizardA
+  RunWizardW="C:\Windows\System32\xwizards".RunWizardW
+  XWProcessXMLFile="C:\Windows\System32\xwizards".XWProcessXMLFile
+  XWRegisterHost="C:\Windows\System32\xwizards".XWRegisterHost
+  XWRegisterPageWithPage="C:\Windows\System32\xwizards".XWRegisterPageWithPage
+  XWRegisterPageWithTask="C:\Windows\System32\xwizards".XWRegisterPageWithTask
+  XWRegisterTaskWithHost="C:\Windows\System32\xwizards".XWRegisterTaskWithHost
+  XWUnregisterHost="C:\Windows\System32\xwizards".XWUnregisterHost
+  XWUnregisterHostTaskLink="C:\Windows\System32\xwizards".XWUnregisterHostTaskLink
+  XWUnregisterPage="C:\Windows\System32\xwizards".XWUnregisterPage
+  XWUnregisterPagesLink="C:\Windows\System32\xwizards".XWUnregisterPagesLink
+  XWUnregisterTask="C:\Windows\System32\xwizards".XWUnregisterTask
+  XWUnregisterTaskPageLink="C:\Windows\System32\xwizards".XWUnregisterTaskPageLink

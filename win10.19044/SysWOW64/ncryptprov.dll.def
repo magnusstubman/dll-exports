@@ -1,0 +1,4 @@
+EXPORTS
+  GetKeyStorageInterface="C:\Windows\SysWOW64\ncryptprov".GetKeyStorageInterface
+  SKCacheFlush="C:\Windows\SysWOW64\ncryptprov".SKCacheFlush
+  SetAuditingInterface="C:\Windows\SysWOW64\ncryptprov".SetAuditingInterface

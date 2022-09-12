@@ -1,0 +1,14 @@
+EXPORTS
+  Cab_CheckIsCabinet="C:\Windows\SysWOW64\cabapi".Cab_CheckIsCabinet
+  Cab_CreateCab="C:\Windows\SysWOW64\cabapi".Cab_CreateCab
+  Cab_CreateCabSelected="C:\Windows\SysWOW64\cabapi".Cab_CreateCabSelected
+  Cab_Extract="C:\Windows\SysWOW64\cabapi".Cab_Extract
+  Cab_ExtractOne="C:\Windows\SysWOW64\cabapi".Cab_ExtractOne
+  Cab_ExtractOneToBuffer="C:\Windows\SysWOW64\cabapi".Cab_ExtractOneToBuffer
+  Cab_ExtractSelected="C:\Windows\SysWOW64\cabapi".Cab_ExtractSelected
+  Cab_ExtractSelectedToTarget="C:\Windows\SysWOW64\cabapi".Cab_ExtractSelectedToTarget
+  Cab_FreeBuffer="C:\Windows\SysWOW64\cabapi".Cab_FreeBuffer
+  Cab_FreeFileList="C:\Windows\SysWOW64\cabapi".Cab_FreeFileList
+  Cab_FreeFileSizeList="C:\Windows\SysWOW64\cabapi".Cab_FreeFileSizeList
+  Cab_GetFileList="C:\Windows\SysWOW64\cabapi".Cab_GetFileList
+  Cab_GetFileSizeList="C:\Windows\SysWOW64\cabapi".Cab_GetFileSizeList

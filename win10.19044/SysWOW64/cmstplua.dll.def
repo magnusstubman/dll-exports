@@ -1,0 +1,6 @@
+EXPORTS
+  DllAddRef="C:\Windows\SysWOW64\cmstplua".DllAddRef
+  DllCanUnloadNow="C:\Windows\SysWOW64\cmstplua".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\cmstplua".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\cmstplua".DllMain
+  DllRelease="C:\Windows\SysWOW64\cmstplua".DllRelease

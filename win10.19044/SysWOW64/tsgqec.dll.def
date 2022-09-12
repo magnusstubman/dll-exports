@@ -1,0 +1,3 @@
+EXPORTS
+  InitializeQec="C:\Windows\SysWOW64\tsgqec".InitializeQec
+  UninitializeQec="C:\Windows\SysWOW64\tsgqec".UninitializeQec

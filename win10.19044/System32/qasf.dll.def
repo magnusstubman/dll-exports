@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\qasf".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\qasf".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\qasf".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\qasf".DllUnregisterServer

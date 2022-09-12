@@ -1,0 +1,16 @@
+EXPORTS
+  WSHAddressToString="C:\Windows\SysWOW64\wshqos".WSHAddressToString
+  WSHEnumProtocols="C:\Windows\SysWOW64\wshqos".WSHEnumProtocols
+  WSHGetProviderGuid="C:\Windows\SysWOW64\wshqos".WSHGetProviderGuid
+  WSHGetSockaddrType="C:\Windows\SysWOW64\wshqos".WSHGetSockaddrType
+  WSHGetSocketInformation="C:\Windows\SysWOW64\wshqos".WSHGetSocketInformation
+  WSHGetWSAProtocolInfo="C:\Windows\SysWOW64\wshqos".WSHGetWSAProtocolInfo
+  WSHGetWildcardSockaddr="C:\Windows\SysWOW64\wshqos".WSHGetWildcardSockaddr
+  WSHGetWinsockMapping="C:\Windows\SysWOW64\wshqos".WSHGetWinsockMapping
+  WSHIoctl="C:\Windows\SysWOW64\wshqos".WSHIoctl
+  WSHJoinLeaf="C:\Windows\SysWOW64\wshqos".WSHJoinLeaf
+  WSHNotify="C:\Windows\SysWOW64\wshqos".WSHNotify
+  WSHOpenSocket="C:\Windows\SysWOW64\wshqos".WSHOpenSocket
+  WSHOpenSocket2="C:\Windows\SysWOW64\wshqos".WSHOpenSocket2
+  WSHSetSocketInformation="C:\Windows\SysWOW64\wshqos".WSHSetSocketInformation
+  WSHStringToAddress="C:\Windows\SysWOW64\wshqos".WSHStringToAddress

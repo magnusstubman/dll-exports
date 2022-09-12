@@ -1,0 +1,4 @@
+EXPORTS
+  LoadPolicy="C:\Windows\System32\tssrvlic".LoadPolicy
+  Shutdown="C:\Windows\System32\tssrvlic".Shutdown
+  SrvLicInitialize="C:\Windows\System32\tssrvlic".SrvLicInitialize

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\scripto".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\scripto".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\scripto".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\scripto".DllUnregisterServer

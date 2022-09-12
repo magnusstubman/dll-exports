@@ -1,0 +1,4 @@
+EXPORTS
+  CreateXpsToPwgrConverter="C:\Windows\SysWOW64\XpsToPwgrConverter".CreateXpsToPwgrConverter
+  DllCanUnloadNow="C:\Windows\SysWOW64\XpsToPwgrConverter".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\XpsToPwgrConverter".DllGetClassObject

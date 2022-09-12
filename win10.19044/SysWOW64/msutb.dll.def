@@ -1,0 +1,9 @@
+EXPORTS
+  ClosePopupTipbar="C:\Windows\SysWOW64\msutb".ClosePopupTipbar
+  DllCanUnloadNow="C:\Windows\SysWOW64\msutb".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\msutb".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\msutb".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\msutb".DllUnregisterServer
+  GetChildTipbar="C:\Windows\SysWOW64\msutb".GetChildTipbar
+  GetPopupTipbar="C:\Windows\SysWOW64\msutb".GetPopupTipbar
+  SetRegisterLangBand="C:\Windows\SysWOW64\msutb".SetRegisterLangBand

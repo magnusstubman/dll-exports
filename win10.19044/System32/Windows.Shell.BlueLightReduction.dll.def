@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Shell.BlueLightReduction".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Shell.BlueLightReduction".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Shell.BlueLightReduction".DllGetClassObject

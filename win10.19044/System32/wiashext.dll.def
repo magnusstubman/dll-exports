@@ -1,0 +1,10 @@
+EXPORTS
+  AddDeviceWasChosen="C:\Windows\System32\wiashext".AddDeviceWasChosen
+  AddDeviceWasChosenA="C:\Windows\System32\wiashext".AddDeviceWasChosenA
+  AddDeviceWasChosenW="C:\Windows\System32\wiashext".AddDeviceWasChosenW
+  DllCanUnloadNow="C:\Windows\System32\wiashext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wiashext".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wiashext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wiashext".DllUnregisterServer
+  DoDeleteAllItems="C:\Windows\System32\wiashext".DoDeleteAllItems
+  MakeFullPidlForDevice="C:\Windows\System32\wiashext".MakeFullPidlForDevice

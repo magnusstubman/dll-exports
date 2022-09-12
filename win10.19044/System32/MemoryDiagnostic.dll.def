@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MemoryDiagnostic".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MemoryDiagnostic".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MemoryDiagnostic".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MemoryDiagnostic".DllUnregisterServer

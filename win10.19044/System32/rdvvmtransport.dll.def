@@ -1,0 +1,4 @@
+EXPORTS
+  RdvTransport_CreateInstance="C:\Windows\System32\rdvvmtransport".RdvTransport_CreateInstance
+  RdvTransport_GetInstance="C:\Windows\System32\rdvvmtransport".RdvTransport_GetInstance
+  RdvTransport_TerminateInstance="C:\Windows\System32\rdvvmtransport".RdvTransport_TerminateInstance

@@ -1,0 +1,16 @@
+EXPORTS
+  ApplyDeltaA="C:\Windows\System32\msdelta".ApplyDeltaA
+  ApplyDeltaB="C:\Windows\System32\msdelta".ApplyDeltaB
+  ApplyDeltaProvidedB="C:\Windows\System32\msdelta".ApplyDeltaProvidedB
+  ApplyDeltaW="C:\Windows\System32\msdelta".ApplyDeltaW
+  CreateDeltaA="C:\Windows\System32\msdelta".CreateDeltaA
+  CreateDeltaB="C:\Windows\System32\msdelta".CreateDeltaB
+  CreateDeltaW="C:\Windows\System32\msdelta".CreateDeltaW
+  DeltaFree="C:\Windows\System32\msdelta".DeltaFree
+  DeltaNormalizeProvidedB="C:\Windows\System32\msdelta".DeltaNormalizeProvidedB
+  GetDeltaInfoA="C:\Windows\System32\msdelta".GetDeltaInfoA
+  GetDeltaInfoB="C:\Windows\System32\msdelta".GetDeltaInfoB
+  GetDeltaInfoW="C:\Windows\System32\msdelta".GetDeltaInfoW
+  GetDeltaSignatureA="C:\Windows\System32\msdelta".GetDeltaSignatureA
+  GetDeltaSignatureB="C:\Windows\System32\msdelta".GetDeltaSignatureB
+  GetDeltaSignatureW="C:\Windows\System32\msdelta".GetDeltaSignatureW

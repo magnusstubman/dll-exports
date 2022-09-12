@@ -1,0 +1,14 @@
+EXPORTS
+  OneSettingsCreateDownloadConfig="C:\Windows\System32\OneSettingsClient".OneSettingsCreateDownloadConfig
+  OneSettingsDownloadEndpoint="C:\Windows\System32\OneSettingsClient".OneSettingsDownloadEndpoint
+  OneSettingsEndDownloadSession="C:\Windows\System32\OneSettingsClient".OneSettingsEndDownloadSession
+  OneSettingsFreeDownloadConfig="C:\Windows\System32\OneSettingsClient".OneSettingsFreeDownloadConfig
+  OneSettingsFreeDownloadResponse="C:\Windows\System32\OneSettingsClient".OneSettingsFreeDownloadResponse
+  OneSettingsGetResponseDwordProperty="C:\Windows\System32\OneSettingsClient".OneSettingsGetResponseDwordProperty
+  OneSettingsGetResponseStringProperty="C:\Windows\System32\OneSettingsClient".OneSettingsGetResponseStringProperty
+  OneSettingsGetResponseWideStringProperty="C:\Windows\System32\OneSettingsClient".OneSettingsGetResponseWideStringProperty
+  OneSettingsSetConfigBoolProperty="C:\Windows\System32\OneSettingsClient".OneSettingsSetConfigBoolProperty
+  OneSettingsSetConfigDwordProperty="C:\Windows\System32\OneSettingsClient".OneSettingsSetConfigDwordProperty
+  OneSettingsSetConfigHandleProperty="C:\Windows\System32\OneSettingsClient".OneSettingsSetConfigHandleProperty
+  OneSettingsSetConfigWideStringProperty="C:\Windows\System32\OneSettingsClient".OneSettingsSetConfigWideStringProperty
+  OneSettingsStartDownloadSession="C:\Windows\System32\OneSettingsClient".OneSettingsStartDownloadSession

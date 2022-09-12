@@ -1,0 +1,2 @@
+EXPORTS
+  DriverProc="C:\Windows\SysWOW64\msvidc32".DriverProc

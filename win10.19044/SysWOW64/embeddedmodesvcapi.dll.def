@@ -1,0 +1,6 @@
+EXPORTS
+  ActivatePackage="C:\Windows\SysWOW64\embeddedmodesvcapi".ActivatePackage
+  DllCanUnloadNow="C:\Windows\SysWOW64\embeddedmodesvcapi".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\embeddedmodesvcapi".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\embeddedmodesvcapi".DllGetClassObject
+  IsEmbeddedModeAllowed="C:\Windows\SysWOW64\embeddedmodesvcapi".IsEmbeddedModeAllowed

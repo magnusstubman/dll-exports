@@ -1,0 +1,13 @@
+EXPORTS
+  AtaPropPageProvider="C:\Windows\System32\Storprop".AtaPropPageProvider
+  CdromDisableDigitalPlayback="C:\Windows\System32\Storprop".CdromDisableDigitalPlayback
+  CdromEnableDigitalPlayback="C:\Windows\System32\Storprop".CdromEnableDigitalPlayback
+  CdromIsDigitalPlaybackEnabled="C:\Windows\System32\Storprop".CdromIsDigitalPlaybackEnabled
+  CdromKnownGoodDigitalPlayback="C:\Windows\System32\Storprop".CdromKnownGoodDigitalPlayback
+  CdromSetDefaultDvdRegion="C:\Windows\System32\Storprop".CdromSetDefaultDvdRegion
+  DiskClassInstaller="C:\Windows\System32\Storprop".DiskClassInstaller
+  DiskPropPageProvider="C:\Windows\System32\Storprop".DiskPropPageProvider
+  DvdClassInstaller="C:\Windows\System32\Storprop".DvdClassInstaller
+  DvdLauncher="C:\Windows\System32\Storprop".DvdLauncher
+  DvdPropPageProvider="C:\Windows\System32\Storprop".DvdPropPageProvider
+  HdcCoInstaller="C:\Windows\System32\Storprop".HdcCoInstaller

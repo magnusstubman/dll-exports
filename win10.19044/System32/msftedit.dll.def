@@ -1,0 +1,26 @@
+EXPORTS
+  CreateTextServices="C:\Windows\System32\msftedit".CreateTextServices
+  DisableOleinitCheck="C:\Windows\System32\msftedit".DisableOleinitCheck
+  DllGetActivationFactory="C:\Windows\System32\msftedit".DllGetActivationFactory
+  DllGetVersion="C:\Windows\System32\msftedit".DllGetVersion
+  GetMathAlphanumeric="C:\Windows\System32\msftedit".GetMathAlphanumeric
+  GetMathAlphanumericCode="C:\Windows\System32\msftedit".GetMathAlphanumericCode
+  IID_IRichEditOle="C:\Windows\System32\msftedit".IID_IRichEditOle
+  IID_IRichEditOleCallback="C:\Windows\System32\msftedit".IID_IRichEditOleCallback
+  IID_IRicheditUiaNotificationOverrides="C:\Windows\System32\msftedit".IID_IRicheditUiaNotificationOverrides
+  IID_IRicheditUiaOverrides="C:\Windows\System32\msftedit".IID_IRicheditUiaOverrides
+  IID_IRicheditWindowlessAccessibility="C:\Windows\System32\msftedit".IID_IRicheditWindowlessAccessibility
+  IID_ITextDocument2="C:\Windows\System32\msftedit".IID_ITextDocument2
+  IID_ITextHost="C:\Windows\System32\msftedit".IID_ITextHost
+  IID_ITextHost2="C:\Windows\System32\msftedit".IID_ITextHost2
+  IID_ITextServices="C:\Windows\System32\msftedit".IID_ITextServices
+  IID_ITextServices2="C:\Windows\System32\msftedit".IID_ITextServices2
+  MathBuildDown="C:\Windows\System32\msftedit".MathBuildDown
+  MathBuildUp="C:\Windows\System32\msftedit".MathBuildUp
+  MathTranslate="C:\Windows\System32\msftedit".MathTranslate
+  RichEdit10ANSIWndProc="C:\Windows\System32\msftedit".RichEdit10ANSIWndProc
+  RichEditANSIWndProc="C:\Windows\System32\msftedit".RichEditANSIWndProc
+  RichEditWndProc="C:\Windows\System32\msftedit".RichEditWndProc
+  SetCustomTextOutHandlerEx="C:\Windows\System32\msftedit".SetCustomTextOutHandlerEx
+  SetTextServicesDpiCalculationOverride="C:\Windows\System32\msftedit".SetTextServicesDpiCalculationOverride
+  ShutdownTextServices="C:\Windows\System32\msftedit".ShutdownTextServices

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SDDS".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SDDS".DllGetClassObject
+  SDDSCreateChxDictionary="C:\Windows\System32\SDDS".SDDSCreateChxDictionary
+  SDDSGetCharacterMappingObject="C:\Windows\System32\SDDS".SDDSGetCharacterMappingObject

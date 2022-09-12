@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.Radios".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.Radios".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.Radios".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.Devices.Radios".DllMain
+  DllRegisterServer="C:\Windows\System32\Windows.Devices.Radios".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Devices.Radios".DllUnregisterServer
+  RadioDeviceCreate="C:\Windows\System32\Windows.Devices.Radios".RadioDeviceCreate
+  RadioDeviceDelete="C:\Windows\System32\Windows.Devices.Radios".RadioDeviceDelete
+  RadioDeviceStart="C:\Windows\System32\Windows.Devices.Radios".RadioDeviceStart
+  RadioDeviceStop="C:\Windows\System32\Windows.Devices.Radios".RadioDeviceStop
+  StartRadioMonitor="C:\Windows\System32\Windows.Devices.Radios".StartRadioMonitor
+  StopRadioMonitor="C:\Windows\System32\Windows.Devices.Radios".StopRadioMonitor

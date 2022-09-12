@@ -1,0 +1,12 @@
+EXPORTS
+  AddDirectXFeatureLevelToContext="C:\Windows\System32\AppxApplicabilityEngine".AddDirectXFeatureLevelToContext
+  AddUserLanguagesToContext="C:\Windows\System32\AppxApplicabilityEngine".AddUserLanguagesToContext
+  CreateApplicabilityContext="C:\Windows\System32\AppxApplicabilityEngine".CreateApplicabilityContext
+  CreateApplicabilityContextFromString="C:\Windows\System32\AppxApplicabilityEngine".CreateApplicabilityContextFromString
+  FreeApplicabilityContext="C:\Windows\System32\AppxApplicabilityEngine".FreeApplicabilityContext
+  FreeApplicablePackages="C:\Windows\System32\AppxApplicabilityEngine".FreeApplicablePackages
+  GetApplicabilityContext="C:\Windows\System32\AppxApplicabilityEngine".GetApplicabilityContext
+  GetApplicablePackages="C:\Windows\System32\AppxApplicabilityEngine".GetApplicablePackages
+  GetApplicablePackagesForUser="C:\Windows\System32\AppxApplicabilityEngine".GetApplicablePackagesForUser
+  GetApplicablePackagesForUserWithAppChosenResources="C:\Windows\System32\AppxApplicabilityEngine".GetApplicablePackagesForUserWithAppChosenResources
+  GetApplicablePackagesWithAppChosenResources="C:\Windows\System32\AppxApplicabilityEngine".GetApplicablePackagesWithAppChosenResources

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SensorService".DllCanUnloadNow
+  ServiceMain="C:\Windows\System32\SensorService".ServiceMain
+  SvchostPushServiceGlobalsEx="C:\Windows\System32\SensorService".SvchostPushServiceGlobalsEx

@@ -1,0 +1,4 @@
+EXPORTS
+  ProvPackageSysprepGeneralize="C:\Windows\System32\ProvSysprep".ProvPackageSysprepGeneralize
+  ProvPackageSysprepSpecialize="C:\Windows\System32\ProvSysprep".ProvPackageSysprepSpecialize
+  ProvPackageSysprepSpecializeOffline="C:\Windows\System32\ProvSysprep".ProvPackageSysprepSpecializeOffline

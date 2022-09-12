@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\sxproxy.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\sxproxy.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\sxproxy.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\sxproxy.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\System32\\sxproxy.GetProxyDllInfo\"")

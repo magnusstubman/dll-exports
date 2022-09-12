@@ -1,0 +1,8 @@
+EXPORTS
+  CreateHolographicCompositor="C:\Windows\System32\HologramCompositor".CreateHolographicCompositor
+  DwmInitializeEngine="C:\Windows\System32\HologramCompositor".DwmInitializeEngine
+  DwmInitializePort="C:\Windows\System32\HologramCompositor".DwmInitializePort
+  DwmRenderDesktopForDDA="C:\Windows\System32\HologramCompositor".DwmRenderDesktopForDDA
+  DwmShutdownEngine="C:\Windows\System32\HologramCompositor".DwmShutdownEngine
+  DwmVersionCheck="C:\Windows\System32\HologramCompositor".DwmVersionCheck
+  GetMPCInputPostProcessor="C:\Windows\System32\HologramCompositor".GetMPCInputPostProcessor

@@ -1,0 +1,10 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\VAN".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\VAN".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\VAN".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\VAN".DllUnregisterServer
+  HideVAN="C:\Windows\System32\VAN".HideVAN
+  RunVANW="C:\Windows\System32\VAN".RunVANW
+  ShowVAN="C:\Windows\System32\VAN".ShowVAN
+  ShutdownVAN="C:\Windows\System32\VAN".ShutdownVAN
+  VanUIManager_CreateInstance="C:\Windows\System32\VAN".VanUIManager_CreateInstance

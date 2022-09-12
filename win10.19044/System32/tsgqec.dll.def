@@ -1,0 +1,3 @@
+EXPORTS
+  InitializeQec="C:\Windows\System32\tsgqec".InitializeQec
+  UninitializeQec="C:\Windows\System32\tsgqec".UninitializeQec

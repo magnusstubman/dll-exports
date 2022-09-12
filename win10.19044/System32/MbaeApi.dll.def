@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MbaeApi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MbaeApi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MbaeApi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MbaeApi".DllUnregisterServer

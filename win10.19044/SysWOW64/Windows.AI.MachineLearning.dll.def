@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.AI.MachineLearning".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.AI.MachineLearning".DllGetActivationFactory
+  MLCreateOperatorRegistry="C:\Windows\SysWOW64\Windows.AI.MachineLearning".MLCreateOperatorRegistry

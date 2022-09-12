@@ -1,0 +1,17 @@
+EXPORTS
+  Base64StrToSafeArray="C:\Windows\SysWOW64\dmoleaututils".Base64StrToSafeArray
+  ByteArrayToSafeArray="C:\Windows\SysWOW64\dmoleaututils".ByteArrayToSafeArray
+  MultiStringToSafeArray="C:\Windows\SysWOW64\dmoleaututils".MultiStringToSafeArray
+  ReadBSTRFromStream="C:\Windows\SysWOW64\dmoleaututils".ReadBSTRFromStream
+  ReadBSTRFromStreamEx="C:\Windows\SysWOW64\dmoleaututils".ReadBSTRFromStreamEx
+  ReadStringFromStream="C:\Windows\SysWOW64\dmoleaututils".ReadStringFromStream
+  ReadVariantFromStream="C:\Windows\SysWOW64\dmoleaututils".ReadVariantFromStream
+  ReadVariantFromStreamEx="C:\Windows\SysWOW64\dmoleaututils".ReadVariantFromStreamEx
+  SafeArrayToBase64Str="C:\Windows\SysWOW64\dmoleaututils".SafeArrayToBase64Str
+  SafeArrayToByteArray="C:\Windows\SysWOW64\dmoleaututils".SafeArrayToByteArray
+  SafeArrayToMultiString="C:\Windows\SysWOW64\dmoleaututils".SafeArrayToMultiString
+  WriteBSTRToStream="C:\Windows\SysWOW64\dmoleaututils".WriteBSTRToStream
+  WriteBSTRToStreamEx="C:\Windows\SysWOW64\dmoleaututils".WriteBSTRToStreamEx
+  WriteStringToStream="C:\Windows\SysWOW64\dmoleaututils".WriteStringToStream
+  WriteVariantToStream="C:\Windows\SysWOW64\dmoleaututils".WriteVariantToStream
+  WriteVariantToStreamEx="C:\Windows\SysWOW64\dmoleaututils".WriteVariantToStreamEx

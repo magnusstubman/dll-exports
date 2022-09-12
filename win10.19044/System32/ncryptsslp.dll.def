@@ -1,0 +1,2 @@
+EXPORTS
+  GetSChannelInterface="C:\Windows\System32\ncryptsslp".GetSChannelInterface

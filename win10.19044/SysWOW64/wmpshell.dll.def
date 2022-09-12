@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wmpshell".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wmpshell".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wmpshell".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wmpshell".DllUnregisterServer

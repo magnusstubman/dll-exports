@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\remotepg".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\remotepg".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\remotepg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\remotepg".DllUnregisterServer
+  LaunchRemoteUsersDialog="C:\Windows\SysWOW64\remotepg".LaunchRemoteUsersDialog

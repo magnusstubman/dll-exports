@@ -1,0 +1,19 @@
+EXPORTS
+  CSCDeleteW="C:\Windows\System32\cscdll".CSCDeleteW
+  CSCDisconnectPath="C:\Windows\System32\cscdll".CSCDisconnectPath
+  CSCDoEnableDisable="C:\Windows\System32\cscdll".CSCDoEnableDisable
+  CSCEnumForStatsExW="C:\Windows\System32\cscdll".CSCEnumForStatsExW
+  CSCEnumForStatsW="C:\Windows\System32\cscdll".CSCEnumForStatsW
+  CSCFindClose="C:\Windows\System32\cscdll".CSCFindClose
+  CSCFindFirstFileForSidW="C:\Windows\System32\cscdll".CSCFindFirstFileForSidW
+  CSCFindFirstFileW="C:\Windows\System32\cscdll".CSCFindFirstFileW
+  CSCFindNextFileW="C:\Windows\System32\cscdll".CSCFindNextFileW
+  CSCIsCSCEnabled="C:\Windows\System32\cscdll".CSCIsCSCEnabled
+  CSCIsPathOffline="C:\Windows\System32\cscdll".CSCIsPathOffline
+  CSCIsServerOfflineW="C:\Windows\System32\cscdll".CSCIsServerOfflineW
+  CSCPinFileW="C:\Windows\System32\cscdll".CSCPinFileW
+  CSCQueryFileStatusW="C:\Windows\System32\cscdll".CSCQueryFileStatusW
+  CSCSetMaxSpace="C:\Windows\System32\cscdll".CSCSetMaxSpace
+  CSCTransitionPathOnline="C:\Windows\System32\cscdll".CSCTransitionPathOnline
+  CSCTransitionServerOnlineW="C:\Windows\System32\cscdll".CSCTransitionServerOnlineW
+  CSCUnpinFileW="C:\Windows\System32\cscdll".CSCUnpinFileW

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\FXSCOMEX".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\FXSCOMEX".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\FXSCOMEX".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\FXSCOMEX".DllUnregisterServer

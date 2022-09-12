@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\CoreShellAPI".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\CoreShellAPI".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\CoreShellAPI".DllGetClassObject

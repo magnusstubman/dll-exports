@@ -1,0 +1,12 @@
+EXPORTS
+  BiRtCreateEventForApp="C:\Windows\SysWOW64\biwinrt".BiRtCreateEventForApp
+  BiRtDeleteEventForApp="C:\Windows\SysWOW64\biwinrt".BiRtDeleteEventForApp
+  BiRtEnumerateBrokeredEvents="C:\Windows\SysWOW64\biwinrt".BiRtEnumerateBrokeredEvents
+  BiRtIsValidActivationTypeForEventType="C:\Windows\SysWOW64\biwinrt".BiRtIsValidActivationTypeForEventType
+  BiRtQueryBrokerEventId="C:\Windows\SysWOW64\biwinrt".BiRtQueryBrokerEventId
+  BiRtRegisterWorkItem="C:\Windows\SysWOW64\biwinrt".BiRtRegisterWorkItem
+  BiRtRegisterWorkItemClsid="C:\Windows\SysWOW64\biwinrt".BiRtRegisterWorkItemClsid
+  DllCanUnloadNow="C:\Windows\SysWOW64\biwinrt".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\biwinrt".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\biwinrt".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\biwinrt".DllMain

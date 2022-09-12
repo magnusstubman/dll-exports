@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ActionCenterCPL".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ActionCenterCPL".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\ActionCenterCPL".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\ActionCenterCPL".DllUnregisterServer

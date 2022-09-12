@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Wwanpref".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Wwanpref".DllGetClassObject
+  DllMain="C:\Windows\System32\Wwanpref".DllMain

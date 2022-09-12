@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\TransportDSA".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\TransportDSA".DllGetClassObject
+  DllInstall="C:\Windows\System32\TransportDSA".DllInstall
+  DllRegisterServer="C:\Windows\System32\TransportDSA".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\TransportDSA".DllUnregisterServer

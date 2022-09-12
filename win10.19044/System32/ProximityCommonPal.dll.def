@@ -1,0 +1,9 @@
+EXPORTS
+  PAL_AppHasPackage="C:\Windows\System32\ProximityCommonPal".PAL_AppHasPackage
+  PAL_FreeTransientObjectSecurityAttribute="C:\Windows\System32\ProximityCommonPal".PAL_FreeTransientObjectSecurityAttribute
+  PAL_GetAppPlatformQualifier="C:\Windows\System32\ProximityCommonPal".PAL_GetAppPlatformQualifier
+  PAL_GetSupportedBrowseTypes="C:\Windows\System32\ProximityCommonPal".PAL_GetSupportedBrowseTypes
+  PAL_HoldReferenceUntilAppExit="C:\Windows\System32\ProximityCommonPal".PAL_HoldReferenceUntilAppExit
+  PAL_QueryTransientObjectSecurityAttribute="C:\Windows\System32\ProximityCommonPal".PAL_QueryTransientObjectSecurityAttribute
+  PAL_RegisterAppSuspendResumeCallback="C:\Windows\System32\ProximityCommonPal".PAL_RegisterAppSuspendResumeCallback
+  PAL_UnregisterAppSuspendResumeCallback="C:\Windows\System32\ProximityCommonPal".PAL_UnregisterAppSuspendResumeCallback

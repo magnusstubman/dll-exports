@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\fontext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\fontext".DllGetClassObject
+  DownloadAndInstallOptionalFontsAsync="C:\Windows\SysWOW64\fontext".DownloadAndInstallOptionalFontsAsync
+  InstallFontFile="C:\Windows\SysWOW64\fontext".InstallFontFile

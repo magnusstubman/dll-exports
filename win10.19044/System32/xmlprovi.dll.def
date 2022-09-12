@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\xmlprovi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\xmlprovi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\xmlprovi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\xmlprovi".DllUnregisterServer

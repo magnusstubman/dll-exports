@@ -1,0 +1,5 @@
+EXPORTS
+  FveBackupRecoveryPasswordToCloudDomain="C:\Windows\System32\fveskybackup".FveBackupRecoveryPasswordToCloudDomain
+  FveBackupRecoveryPasswordToSkyDrive="C:\Windows\System32\fveskybackup".FveBackupRecoveryPasswordToSkyDrive
+  FveDeleteRecoveryPasswordsFromCloudDomain="C:\Windows\System32\fveskybackup".FveDeleteRecoveryPasswordsFromCloudDomain
+  FveGetAllRecoveryPasswordsFromCloudDomain="C:\Windows\System32\fveskybackup".FveGetAllRecoveryPasswordsFromCloudDomain

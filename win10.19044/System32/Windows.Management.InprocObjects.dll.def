@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Management.InprocObjects".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Management.InprocObjects".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Management.InprocObjects".DllGetClassObject

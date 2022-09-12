@@ -1,0 +1,4 @@
+EXPORTS
+  RdvTransport_CreateInstance="C:\Windows\SysWOW64\rdvvmtransport".RdvTransport_CreateInstance
+  RdvTransport_GetInstance="C:\Windows\SysWOW64\rdvvmtransport".RdvTransport_GetInstance
+  RdvTransport_TerminateInstance="C:\Windows\SysWOW64\rdvvmtransport".RdvTransport_TerminateInstance

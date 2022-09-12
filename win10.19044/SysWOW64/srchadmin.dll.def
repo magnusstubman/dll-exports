@@ -1,0 +1,5 @@
+EXPORTS
+  CPlApplet="C:\Windows\SysWOW64\srchadmin".CPlApplet
+  DllCanUnloadNow="C:\Windows\SysWOW64\srchadmin".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\srchadmin".DllGetClassObject
+  ProcessGroupPolicy="C:\Windows\SysWOW64\srchadmin".ProcessGroupPolicy

@@ -1,0 +1,17 @@
+EXPORTS
+  Bcp47GetEnglishName="C:\Windows\SysWOW64\Winlangdb".Bcp47GetEnglishName
+  Bcp47GetLocalizedName="C:\Windows\SysWOW64\Winlangdb".Bcp47GetLocalizedName
+  Bcp47GetLocalizedScript="C:\Windows\SysWOW64\Winlangdb".Bcp47GetLocalizedScript
+  Bcp47GetNativeName="C:\Windows\SysWOW64\Winlangdb".Bcp47GetNativeName
+  EnsureLanguageProfileExists="C:\Windows\SysWOW64\Winlangdb".EnsureLanguageProfileExists
+  GetLanguageNames="C:\Windows\SysWOW64\Winlangdb".GetLanguageNames
+  GetLocaleFromLanguageAndRegion="C:\Windows\SysWOW64\Winlangdb".GetLocaleFromLanguageAndRegion
+  GetRegionalFormatList="C:\Windows\SysWOW64\Winlangdb".GetRegionalFormatList
+  IsoScriptGetLocalizedName="C:\Windows\SysWOW64\Winlangdb".IsoScriptGetLocalizedName
+  LanguagesDatabaseGetChildLanguages="C:\Windows\SysWOW64\Winlangdb".LanguagesDatabaseGetChildLanguages
+  LanguagesDatabaseGetLeafLanguages="C:\Windows\SysWOW64\Winlangdb".LanguagesDatabaseGetLeafLanguages
+  LanguagesDatabaseHasChildren="C:\Windows\SysWOW64\Winlangdb".LanguagesDatabaseHasChildren
+  LanguagesDatabaseHasLocalizedContent="C:\Windows\SysWOW64\Winlangdb".LanguagesDatabaseHasLocalizedContent
+  SetUserLanguages="C:\Windows\SysWOW64\Winlangdb".SetUserLanguages
+  SetUserLanguagesCore="C:\Windows\SysWOW64\Winlangdb".SetUserLanguagesCore
+  SetUserLanguagesNoSpeller="C:\Windows\SysWOW64\Winlangdb".SetUserLanguagesNoSpeller

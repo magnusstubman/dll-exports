@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ApplicationFrame".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ApplicationFrame".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\ApplicationFrame".DllGetClassObject

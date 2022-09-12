@@ -1,0 +1,25 @@
+EXPORTS
+  CreateCustomUnimicSource="C:\Windows\System32\CoreMas".CreateCustomUnimicSource
+  CreateUnimicFilter="C:\Windows\System32\CoreMas".CreateUnimicFilter
+  CreateUnimicProcessor="C:\Windows\System32\CoreMas".CreateUnimicProcessor
+  CreateUnimicSinkToSplitChannelWaveFiles="C:\Windows\System32\CoreMas".CreateUnimicSinkToSplitChannelWaveFiles
+  CreateUnimicSinkToWaveFile="C:\Windows\System32\CoreMas".CreateUnimicSinkToWaveFile
+  CreateUnimicSourceFromSplitChannelWaveFiles="C:\Windows\System32\CoreMas".CreateUnimicSourceFromSplitChannelWaveFiles
+  CreateUnimicSourceFromWaveFile="C:\Windows\System32\CoreMas".CreateUnimicSourceFromWaveFile
+  DeleteUnimicFilter="C:\Windows\System32\CoreMas".DeleteUnimicFilter
+  DeleteUnimicProcessor="C:\Windows\System32\CoreMas".DeleteUnimicProcessor
+  DeleteUnimicSink="C:\Windows\System32\CoreMas".DeleteUnimicSink
+  DeleteUnimicSource="C:\Windows\System32\CoreMas".DeleteUnimicSource
+  GetUnimicFilterInputPortCount="C:\Windows\System32\CoreMas".GetUnimicFilterInputPortCount
+  GetUnimicFilterOutputPort="C:\Windows\System32\CoreMas".GetUnimicFilterOutputPort
+  GetUnimicFilterOutputPortCount="C:\Windows\System32\CoreMas".GetUnimicFilterOutputPortCount
+  GetUnimicProcessorDelay="C:\Windows\System32\CoreMas".GetUnimicProcessorDelay
+  GetUnimicProcessorInputChannelCount="C:\Windows\System32\CoreMas".GetUnimicProcessorInputChannelCount
+  GetUnimicProcessorOutputChannelCount="C:\Windows\System32\CoreMas".GetUnimicProcessorOutputChannelCount
+  GetUnimicSinkChannelCount="C:\Windows\System32\CoreMas".GetUnimicSinkChannelCount
+  GetUnimicSourceChannelCount="C:\Windows\System32\CoreMas".GetUnimicSourceChannelCount
+  GetUnimicSourceSampleRate="C:\Windows\System32\CoreMas".GetUnimicSourceSampleRate
+  ReadUnimicSource="C:\Windows\System32\CoreMas".ReadUnimicSource
+  RunUnimicProcessor="C:\Windows\System32\CoreMas".RunUnimicProcessor
+  SetUnimicFilterInputPort="C:\Windows\System32\CoreMas".SetUnimicFilterInputPort
+  WriteUnimicSink="C:\Windows\System32\CoreMas".WriteUnimicSink

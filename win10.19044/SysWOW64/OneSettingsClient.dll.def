@@ -1,0 +1,14 @@
+EXPORTS
+  OneSettingsCreateDownloadConfig="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsCreateDownloadConfig
+  OneSettingsDownloadEndpoint="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsDownloadEndpoint
+  OneSettingsEndDownloadSession="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsEndDownloadSession
+  OneSettingsFreeDownloadConfig="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsFreeDownloadConfig
+  OneSettingsFreeDownloadResponse="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsFreeDownloadResponse
+  OneSettingsGetResponseDwordProperty="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsGetResponseDwordProperty
+  OneSettingsGetResponseStringProperty="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsGetResponseStringProperty
+  OneSettingsGetResponseWideStringProperty="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsGetResponseWideStringProperty
+  OneSettingsSetConfigBoolProperty="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsSetConfigBoolProperty
+  OneSettingsSetConfigDwordProperty="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsSetConfigDwordProperty
+  OneSettingsSetConfigHandleProperty="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsSetConfigHandleProperty
+  OneSettingsSetConfigWideStringProperty="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsSetConfigWideStringProperty
+  OneSettingsStartDownloadSession="C:\Windows\SysWOW64\OneSettingsClient".OneSettingsStartDownloadSession

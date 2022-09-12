@@ -1,0 +1,6 @@
+EXPORTS
+  SensNotifyNetconEvent="C:\Windows\System32\Sens".SensNotifyNetconEvent
+  SensNotifyRasEvent="C:\Windows\System32\Sens".SensNotifyRasEvent
+  SensNotifyWinlogonEvent="C:\Windows\System32\Sens".SensNotifyWinlogonEvent
+  ServiceMain="C:\Windows\System32\Sens".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\Sens".SvchostPushServiceGlobals

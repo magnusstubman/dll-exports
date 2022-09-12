@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\BthpanContextHandler".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\BthpanContextHandler".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\BthpanContextHandler".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\BthpanContextHandler".DllUnregisterServer

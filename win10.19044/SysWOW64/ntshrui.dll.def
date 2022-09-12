@@ -1,0 +1,16 @@
+EXPORTS
+  CanShareFolder="C:\Windows\SysWOW64\ntshrui".CanShareFolder
+  DllCanUnloadNow="C:\Windows\SysWOW64\ntshrui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ntshrui".DllGetClassObject
+  GetLocalPathFromNetResource="C:\Windows\SysWOW64\ntshrui".GetLocalPathFromNetResource
+  GetLocalPathFromNetResourceA="C:\Windows\SysWOW64\ntshrui".GetLocalPathFromNetResourceA
+  GetLocalPathFromNetResourceW="C:\Windows\SysWOW64\ntshrui".GetLocalPathFromNetResourceW
+  GetNetResourceFromLocalPath="C:\Windows\SysWOW64\ntshrui".GetNetResourceFromLocalPath
+  GetNetResourceFromLocalPathA="C:\Windows\SysWOW64\ntshrui".GetNetResourceFromLocalPathA
+  GetNetResourceFromLocalPathW="C:\Windows\SysWOW64\ntshrui".GetNetResourceFromLocalPathW
+  IsFolderPrivateForUser="C:\Windows\SysWOW64\ntshrui".IsFolderPrivateForUser
+  IsPathShared="C:\Windows\SysWOW64\ntshrui".IsPathShared
+  IsPathSharedA="C:\Windows\SysWOW64\ntshrui".IsPathSharedA
+  IsPathSharedW="C:\Windows\SysWOW64\ntshrui".IsPathSharedW
+  SetFolderPermissionsForSharing="C:\Windows\SysWOW64\ntshrui".SetFolderPermissionsForSharing
+  ShowShareFolderUI="C:\Windows\SysWOW64\ntshrui".ShowShareFolderUI

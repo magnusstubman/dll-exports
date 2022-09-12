@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WlanMM".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WlanMM".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WlanMM".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WlanMM".DllUnregisterServer
+  StartDiagnosticsW="C:\Windows\System32\WlanMM".StartDiagnosticsW

@@ -1,0 +1,4 @@
+EXPORTS
+  TetheringManagerDeinit="C:\Windows\System32\TetheringMgr".TetheringManagerDeinit
+  TetheringManagerInit="C:\Windows\System32\TetheringMgr".TetheringManagerInit
+  TetheringManagerNotify="C:\Windows\System32\TetheringMgr".TetheringManagerNotify

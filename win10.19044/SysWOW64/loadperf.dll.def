@@ -1,0 +1,15 @@
+EXPORTS
+  BackupPerfRegistryToFileW="C:\Windows\SysWOW64\loadperf".BackupPerfRegistryToFileW
+  InstallPerfDllA="C:\Windows\SysWOW64\loadperf".InstallPerfDllA
+  InstallPerfDllW="C:\Windows\SysWOW64\loadperf".InstallPerfDllW
+  LoadPerfCounterTextStringsA="C:\Windows\SysWOW64\loadperf".LoadPerfCounterTextStringsA
+  LoadPerfCounterTextStringsW="C:\Windows\SysWOW64\loadperf".LoadPerfCounterTextStringsW
+  LpAcquireInstallationMutex="C:\Windows\SysWOW64\loadperf".LpAcquireInstallationMutex
+  LpReleaseInstallationMutex="C:\Windows\SysWOW64\loadperf".LpReleaseInstallationMutex
+  RestorePerfRegistryFromFileW="C:\Windows\SysWOW64\loadperf".RestorePerfRegistryFromFileW
+  SetServiceAsTrustedA="C:\Windows\SysWOW64\loadperf".SetServiceAsTrustedA
+  SetServiceAsTrustedW="C:\Windows\SysWOW64\loadperf".SetServiceAsTrustedW
+  UnloadPerfCounterTextStringsA="C:\Windows\SysWOW64\loadperf".UnloadPerfCounterTextStringsA
+  UnloadPerfCounterTextStringsW="C:\Windows\SysWOW64\loadperf".UnloadPerfCounterTextStringsW
+  UpdatePerfNameFilesA="C:\Windows\SysWOW64\loadperf".UpdatePerfNameFilesA
+  UpdatePerfNameFilesW="C:\Windows\SysWOW64\loadperf".UpdatePerfNameFilesW

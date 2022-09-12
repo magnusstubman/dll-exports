@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ExSMime".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ExSMime".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\ExSMime".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\ExSMime".DllUnregisterServer

@@ -1,0 +1,12 @@
+EXPORTS
+  SystemFunction001="C:\Windows\SysWOW64\cryptbase".SystemFunction001
+  SystemFunction002="C:\Windows\SysWOW64\cryptbase".SystemFunction002
+  SystemFunction003="C:\Windows\SysWOW64\cryptbase".SystemFunction003
+  SystemFunction004="C:\Windows\SysWOW64\cryptbase".SystemFunction004
+  SystemFunction005="C:\Windows\SysWOW64\cryptbase".SystemFunction005
+  SystemFunction028="C:\Windows\SysWOW64\cryptbase".SystemFunction028
+  SystemFunction029="C:\Windows\SysWOW64\cryptbase".SystemFunction029
+  SystemFunction034="C:\Windows\SysWOW64\cryptbase".SystemFunction034
+  SystemFunction036="C:\Windows\SysWOW64\cryptbase".SystemFunction036
+  SystemFunction040="C:\Windows\SysWOW64\cryptbase".SystemFunction040
+  SystemFunction041="C:\Windows\SysWOW64\cryptbase".SystemFunction041

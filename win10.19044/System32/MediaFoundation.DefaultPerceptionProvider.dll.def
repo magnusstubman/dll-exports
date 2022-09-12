@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MediaFoundation.DefaultPerceptionProvider".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\MediaFoundation.DefaultPerceptionProvider".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\MediaFoundation.DefaultPerceptionProvider".DllGetClassObject

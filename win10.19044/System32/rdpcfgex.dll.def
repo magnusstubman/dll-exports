@@ -1,0 +1,11 @@
+EXPORTS
+  ExGetCfgVersionInfo="C:\Windows\System32\rdpcfgex".ExGetCfgVersionInfo
+  ExtEncryptionLevels="C:\Windows\System32\rdpcfgex".ExtEncryptionLevels
+  ExtEnd="C:\Windows\System32\rdpcfgex".ExtEnd
+  ExtGetCapabilities="C:\Windows\System32\rdpcfgex".ExtGetCapabilities
+  ExtGetEncryptionLevelAndDescrEx="C:\Windows\System32\rdpcfgex".ExtGetEncryptionLevelAndDescrEx
+  ExtGetEncryptionLevelDescr="C:\Windows\System32\rdpcfgex".ExtGetEncryptionLevelDescr
+  ExtGetSecurityLayerDescrString="C:\Windows\System32\rdpcfgex".ExtGetSecurityLayerDescrString
+  ExtGetSecurityLayerName="C:\Windows\System32\rdpcfgex".ExtGetSecurityLayerName
+  ExtSecurityLayers="C:\Windows\System32\rdpcfgex".ExtSecurityLayers
+  ExtStart="C:\Windows\System32\rdpcfgex".ExtStart

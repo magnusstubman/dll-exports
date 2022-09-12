@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Chakradiag".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Chakradiag".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\Chakradiag".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Chakradiag".DllUnregisterServer
+  FreeDumpStreams="C:\Windows\System32\Chakradiag".FreeDumpStreams
+  GetDumpStreams="C:\Windows\System32\Chakradiag".GetDumpStreams

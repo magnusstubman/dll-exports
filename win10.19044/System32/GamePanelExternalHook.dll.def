@@ -1,0 +1,6 @@
+EXPORTS
+  ?GPHHookWindowPointerDown@CGamePanelExternalHook@@SAIXZ="C:\Windows\System32\GamePanelExternalHook".?GPHHookWindowPointerDown@CGamePanelExternalHook@@SAIXZ
+  ?GetInstance@CGamePanelExternalHook@@SAAEAV1@XZ="C:\Windows\System32\GamePanelExternalHook".?GetInstance@CGamePanelExternalHook@@SAAEAV1@XZ
+  ?Hook@CGamePanelExternalHook@@QEAAXPEAUHWND__@@@Z="C:\Windows\System32\GamePanelExternalHook".?Hook@CGamePanelExternalHook@@QEAAXPEAUHWND__@@@Z
+  ?SetIntercept@CGamePanelExternalHook@@QEAAX_NPEAUHWND__@@@Z="C:\Windows\System32\GamePanelExternalHook".?SetIntercept@CGamePanelExternalHook@@QEAAX_NPEAUHWND__@@@Z
+  ?Unhook@CGamePanelExternalHook@@QEAAXXZ="C:\Windows\System32\GamePanelExternalHook".?Unhook@CGamePanelExternalHook@@QEAAXXZ

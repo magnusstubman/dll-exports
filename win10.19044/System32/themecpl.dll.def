@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\themecpl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\themecpl".DllGetClassObject
+  OpenThemeActionW="C:\Windows\System32\themecpl".OpenThemeActionW

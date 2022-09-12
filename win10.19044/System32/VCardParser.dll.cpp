@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:CreateCardParser=\"C:\\Windows\\System32\\VCardParser.CreateCardParser\"")
+#pragma comment(linker, "/export:CreateCardParserEx=\"C:\\Windows\\System32\\VCardParser.CreateCardParserEx\"")
+#pragma comment(linker, "/export:CreateCardParserExA=\"C:\\Windows\\System32\\VCardParser.CreateCardParserExA\"")
+#pragma comment(linker, "/export:CreateICalGen=\"C:\\Windows\\System32\\VCardParser.CreateICalGen\"")
+#pragma comment(linker, "/export:CreateVCardGen=\"C:\\Windows\\System32\\VCardParser.CreateVCardGen\"")
+#pragma comment(linker, "/export:EncodeQP=\"C:\\Windows\\System32\\VCardParser.EncodeQP\"")

@@ -1,0 +1,21 @@
+EXPORTS
+  CoCreateActivity="C:\Windows\SysWOW64\comsvcs".CoCreateActivity
+  CoEnterServiceDomain="C:\Windows\SysWOW64\comsvcs".CoEnterServiceDomain
+  CoLeaveServiceDomain="C:\Windows\SysWOW64\comsvcs".CoLeaveServiceDomain
+  CoLoadServices="C:\Windows\SysWOW64\comsvcs".CoLoadServices
+  ComSvcsExceptionFilter="C:\Windows\SysWOW64\comsvcs".ComSvcsExceptionFilter
+  ComSvcsLogError="C:\Windows\SysWOW64\comsvcs".ComSvcsLogError
+  CosGetCallContext="C:\Windows\SysWOW64\comsvcs".CosGetCallContext
+  DispManGetContext="C:\Windows\SysWOW64\comsvcs".DispManGetContext
+  DllCanUnloadNow="C:\Windows\SysWOW64\comsvcs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\comsvcs".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\comsvcs".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\comsvcs".DllUnregisterServer
+  GetMTAThreadPoolMetrics="C:\Windows\SysWOW64\comsvcs".GetMTAThreadPoolMetrics
+  GetManagedExtensions="C:\Windows\SysWOW64\comsvcs".GetManagedExtensions
+  GetObjectContext="C:\Windows\SysWOW64\comsvcs".GetObjectContext
+  GetTrkSvrObject="C:\Windows\SysWOW64\comsvcs".GetTrkSvrObject
+  MTSCreateActivity="C:\Windows\SysWOW64\comsvcs".MTSCreateActivity
+  MiniDumpW="C:\Windows\SysWOW64\comsvcs".MiniDumpW
+  RecycleSurrogate="C:\Windows\SysWOW64\comsvcs".RecycleSurrogate
+  SafeRef="C:\Windows\SysWOW64\comsvcs".SafeRef

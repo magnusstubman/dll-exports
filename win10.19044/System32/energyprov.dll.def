@@ -1,0 +1,3 @@
+EXPORTS
+  SruInitializeProvider="C:\Windows\System32\energyprov".SruInitializeProvider
+  SruUninitializeProvider="C:\Windows\System32\energyprov".SruUninitializeProvider

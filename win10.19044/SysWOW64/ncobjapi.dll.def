@@ -1,0 +1,11 @@
+EXPORTS
+  WmiAddObjectProp="C:\Windows\SysWOW64\ncobjapi".WmiAddObjectProp
+  WmiCommitObject="C:\Windows\SysWOW64\ncobjapi".WmiCommitObject
+  WmiCreateObject="C:\Windows\SysWOW64\ncobjapi".WmiCreateObject
+  WmiCreateObjectWithFormat="C:\Windows\SysWOW64\ncobjapi".WmiCreateObjectWithFormat
+  WmiCreateObjectWithProps="C:\Windows\SysWOW64\ncobjapi".WmiCreateObjectWithProps
+  WmiDestroyObject="C:\Windows\SysWOW64\ncobjapi".WmiDestroyObject
+  WmiEventSourceConnect="C:\Windows\SysWOW64\ncobjapi".WmiEventSourceConnect
+  WmiEventSourceDisconnect="C:\Windows\SysWOW64\ncobjapi".WmiEventSourceDisconnect
+  WmiIsObjectActive="C:\Windows\SysWOW64\ncobjapi".WmiIsObjectActive
+  WmiSetAndCommitObject="C:\Windows\SysWOW64\ncobjapi".WmiSetAndCommitObject

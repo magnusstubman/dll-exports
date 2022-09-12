@@ -1,0 +1,10 @@
+EXPORTS
+  BrokeredOpenCommPort="C:\Windows\System32\deviceaccess".BrokeredOpenCommPort
+  CreateDeviceAccessInstance="C:\Windows\System32\deviceaccess".CreateDeviceAccessInstance
+  DllCanUnloadNow="C:\Windows\System32\deviceaccess".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\deviceaccess".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\deviceaccess".DllGetClassObject
+  ProcessTrackerInsertOrWait="C:\Windows\System32\deviceaccess".ProcessTrackerInsertOrWait
+  ProcessTrackerRemove="C:\Windows\System32\deviceaccess".ProcessTrackerRemove
+  ServiceMain="C:\Windows\System32\deviceaccess".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\deviceaccess".SvchostPushServiceGlobals

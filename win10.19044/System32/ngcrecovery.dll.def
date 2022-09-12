@@ -1,0 +1,6 @@
+EXPORTS
+  NgcIsPinRecoveryEnabled="C:\Windows\System32\ngcrecovery".NgcIsPinRecoveryEnabled
+  NgcProtectPinRecoverySecret="C:\Windows\System32\ngcrecovery".NgcProtectPinRecoverySecret
+  NgcRecoverPin="C:\Windows\System32\ngcrecovery".NgcRecoverPin
+  NgcRecoverPinSilent="C:\Windows\System32\ngcrecovery".NgcRecoverPinSilent
+  NgcVerifyPinRecoverySecret="C:\Windows\System32\ngcrecovery".NgcVerifyPinRecoverySecret

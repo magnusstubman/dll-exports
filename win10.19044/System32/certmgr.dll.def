@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\certmgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\certmgr".DllGetClassObject
+  DllInstall="C:\Windows\System32\certmgr".DllInstall
+  DllRegisterServer="C:\Windows\System32\certmgr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\certmgr".DllUnregisterServer

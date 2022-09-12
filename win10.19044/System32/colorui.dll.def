@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\colorui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\colorui".DllGetClassObject
+  DllMain="C:\Windows\System32\colorui".DllMain
+  DllRegisterServer="C:\Windows\System32\colorui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\colorui".DllUnregisterServer
+  LaunchColorCpl="C:\Windows\System32\colorui".LaunchColorCpl

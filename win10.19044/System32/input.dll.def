@@ -1,0 +1,21 @@
+EXPORTS
+  ActivateInputProfile="C:\Windows\System32\input".ActivateInputProfile
+  CPlApplet="C:\Windows\System32\input".CPlApplet
+  EnumEnabledLayoutOrTip="C:\Windows\System32\input".EnumEnabledLayoutOrTip
+  EnumEnabledLayoutOrTipPrivate="C:\Windows\System32\input".EnumEnabledLayoutOrTipPrivate
+  EnumLayoutOrTipForSetup="C:\Windows\System32\input".EnumLayoutOrTipForSetup
+  GetDefaultLayout="C:\Windows\System32\input".GetDefaultLayout
+  GetLayoutDescription="C:\Windows\System32\input".GetLayoutDescription
+  InputDll_DownlevelEnumLayoutOrTipForSetup="C:\Windows\System32\input".InputDll_DownlevelEnumLayoutOrTipForSetup
+  InputDll_DownlevelInitialize="C:\Windows\System32\input".InputDll_DownlevelInitialize
+  InputDll_DownlevelSetUILanguage="C:\Windows\System32\input".InputDll_DownlevelSetUILanguage
+  InputDll_DownlevelUninitialize="C:\Windows\System32\input".InputDll_DownlevelUninitialize
+  InstallLayoutOrTip="C:\Windows\System32\input".InstallLayoutOrTip
+  InstallLayoutOrTipOffline="C:\Windows\System32\input".InstallLayoutOrTipOffline
+  InstallLayoutOrTipPrivate="C:\Windows\System32\input".InstallLayoutOrTipPrivate
+  InstallLayoutOrTipUserReg="C:\Windows\System32\input".InstallLayoutOrTipUserReg
+  QueryLayoutOrTipString="C:\Windows\System32\input".QueryLayoutOrTipString
+  QueryLayoutOrTipStringUserReg="C:\Windows\System32\input".QueryLayoutOrTipStringUserReg
+  SaveDefaultUserInputSettings="C:\Windows\System32\input".SaveDefaultUserInputSettings
+  SaveSystemAcctInputSettings="C:\Windows\System32\input".SaveSystemAcctInputSettings
+  SetDefaultLayoutOrTip="C:\Windows\System32\input".SetDefaultLayoutOrTip

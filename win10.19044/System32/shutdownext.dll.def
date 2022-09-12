@@ -1,0 +1,6 @@
+EXPORTS
+  ShutdownExAnnotate="C:\Windows\System32\shutdownext".ShutdownExAnnotate
+  ShutdownExDirtyDialog="C:\Windows\System32\shutdownext".ShutdownExDirtyDialog
+  ShutdownExPrintReasons="C:\Windows\System32\shutdownext".ShutdownExPrintReasons
+  ShutdownExReasonCommentRequired="C:\Windows\System32\shutdownext".ShutdownExReasonCommentRequired
+  ShutdownExRemoteDialog="C:\Windows\System32\shutdownext".ShutdownExRemoteDialog

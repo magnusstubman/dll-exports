@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\Windows.Mirage.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\Windows.Mirage.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetActivationFactoryMirage=\"C:\\Windows\\System32\\Windows.Mirage.DllGetActivationFactoryMirage\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\Windows.Mirage.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllGetClassObjectMirage=\"C:\\Windows\\System32\\Windows.Mirage.DllGetClassObjectMirage\"")
+#pragma comment(linker, "/export:InjectDependency=\"C:\\Windows\\System32\\Windows.Mirage.InjectDependency\"")

@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wlansvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wlansvc".DllGetClassObject
+  SvchostPushServiceGlobals="C:\Windows\System32\wlansvc".SvchostPushServiceGlobals
+  VsIeProviderGetFunctionTable="C:\Windows\System32\wlansvc".VsIeProviderGetFunctionTable
+  WLNotifyOnLogoff="C:\Windows\System32\wlansvc".WLNotifyOnLogoff
+  WLNotifyOnLogon="C:\Windows\System32\wlansvc".WLNotifyOnLogon
+  WlanSvcMain="C:\Windows\System32\wlansvc".WlanSvcMain

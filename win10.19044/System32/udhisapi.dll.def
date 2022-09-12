@@ -1,0 +1,4 @@
+EXPORTS
+  GetExtensionVersion="C:\Windows\System32\udhisapi".GetExtensionVersion
+  HttpExtensionProc="C:\Windows\System32\udhisapi".HttpExtensionProc
+  TerminateExtension="C:\Windows\System32\udhisapi".TerminateExtension

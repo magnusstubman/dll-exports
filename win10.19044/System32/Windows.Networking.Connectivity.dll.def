@@ -1,0 +1,11 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Networking.Connectivity".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Networking.Connectivity".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Networking.Connectivity".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\Windows.Networking.Connectivity".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Networking.Connectivity".DllUnregisterServer
+  FixDisabledComponentsForTeredo="C:\Windows\System32\Windows.Networking.Connectivity".FixDisabledComponentsForTeredo
+  RefreshTeredoClientState="C:\Windows\System32\Windows.Networking.Connectivity".RefreshTeredoClientState
+  SetHostNameMediaStreamingMode="C:\Windows\System32\Windows.Networking.Connectivity".SetHostNameMediaStreamingMode
+  TeredoExtAcquireTeredoConsumerHandle="C:\Windows\System32\Windows.Networking.Connectivity".TeredoExtAcquireTeredoConsumerHandle
+  TeredoExtReleaseTeredoConsumerHandle="C:\Windows\System32\Windows.Networking.Connectivity".TeredoExtReleaseTeredoConsumerHandle

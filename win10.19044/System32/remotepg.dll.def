@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\remotepg".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\remotepg".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\remotepg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\remotepg".DllUnregisterServer
+  LaunchRemoteUsersDialog="C:\Windows\System32\remotepg".LaunchRemoteUsersDialog

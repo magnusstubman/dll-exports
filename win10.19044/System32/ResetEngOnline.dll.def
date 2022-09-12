@@ -1,0 +1,10 @@
+EXPORTS
+  GetNetworkCost="C:\Windows\System32\ResetEngOnline".GetNetworkCost
+  IsEsimPresent="C:\Windows\System32\ResetEngOnline".IsEsimPresent
+  ResetEsim="C:\Windows\System32\ResetEngOnline".ResetEsim
+  ResetGetEngineInterface="C:\Windows\System32\ResetEngOnline".ResetGetEngineInterface
+  ResetInitializeEngine="C:\Windows\System32\ResetEngOnline".ResetInitializeEngine
+  ResetRebootSystem="C:\Windows\System32\ResetEngOnline".ResetRebootSystem
+  ResetReleaseEngine="C:\Windows\System32\ResetEngOnline".ResetReleaseEngine
+  UninstallFinalize="C:\Windows\System32\ResetEngOnline".UninstallFinalize
+  UninstallGetInterface="C:\Windows\System32\ResetEngOnline".UninstallGetInterface

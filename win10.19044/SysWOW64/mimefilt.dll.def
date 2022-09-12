@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mimefilt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mimefilt".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\mimefilt".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mimefilt".DllUnregisterServer

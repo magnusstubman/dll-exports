@@ -1,0 +1,9 @@
+EXPORTS
+  WIATRACE_DecrementIndentLevel="C:\Windows\System32\wiatrace".WIATRACE_DecrementIndentLevel
+  WIATRACE_GetIndentLevel="C:\Windows\System32\wiatrace".WIATRACE_GetIndentLevel
+  WIATRACE_GetTraceSettings="C:\Windows\System32\wiatrace".WIATRACE_GetTraceSettings
+  WIATRACE_IncrementIndentLevel="C:\Windows\System32\wiatrace".WIATRACE_IncrementIndentLevel
+  WIATRACE_Init="C:\Windows\System32\wiatrace".WIATRACE_Init
+  WIATRACE_OutputString="C:\Windows\System32\wiatrace".WIATRACE_OutputString
+  WIATRACE_SetTraceSettings="C:\Windows\System32\wiatrace".WIATRACE_SetTraceSettings
+  WIATRACE_Term="C:\Windows\System32\wiatrace".WIATRACE_Term

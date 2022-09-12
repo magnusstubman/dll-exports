@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\windows.internal.shellcommon.TokenBrokerModal".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\windows.internal.shellcommon.TokenBrokerModal".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\windows.internal.shellcommon.TokenBrokerModal".DllGetClassObject

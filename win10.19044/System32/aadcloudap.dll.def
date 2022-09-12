@@ -1,0 +1,4 @@
+EXPORTS
+  CloudAPPluginInitialize="C:\Windows\System32\aadcloudap".CloudAPPluginInitialize
+  DllRegisterServer="C:\Windows\System32\aadcloudap".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\aadcloudap".DllUnregisterServer

@@ -1,0 +1,14 @@
+EXPORTS
+  CreateIAppRep2="C:\Windows\System32\ieapfltr".CreateIAppRep2
+  CreateIAppRepParm2="C:\Windows\System32\ieapfltr".CreateIAppRepParm2
+  CreateIUrlReputationSolution2="C:\Windows\System32\ieapfltr".CreateIUrlReputationSolution2
+  CreateUrlBlockBroker="C:\Windows\System32\ieapfltr".CreateUrlBlockBroker
+  CreateUrlBlockClient="C:\Windows\System32\ieapfltr".CreateUrlBlockClient
+  DestroyUrlBlockBroker="C:\Windows\System32\ieapfltr".DestroyUrlBlockBroker
+  DestroyUrlBlockClient="C:\Windows\System32\ieapfltr".DestroyUrlBlockClient
+  DllCanUnloadNow="C:\Windows\System32\ieapfltr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ieapfltr".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\ieapfltr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\ieapfltr".DllUnregisterServer
+  GetUrlBlockBroker="C:\Windows\System32\ieapfltr".GetUrlBlockBroker
+  GetUrlBlockClient="C:\Windows\System32\ieapfltr".GetUrlBlockClient

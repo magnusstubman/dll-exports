@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RacEngn".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\RacEngn".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\RacEngn".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\RacEngn".DllUnregisterServer

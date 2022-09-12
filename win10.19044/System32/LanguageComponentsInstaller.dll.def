@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LanguageComponentsInstaller".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\LanguageComponentsInstaller".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\LanguageComponentsInstaller".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\LanguageComponentsInstaller".DllUnregisterServer

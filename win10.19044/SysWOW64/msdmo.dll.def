@@ -1,0 +1,16 @@
+EXPORTS
+  DMOEnum="C:\Windows\SysWOW64\msdmo".DMOEnum
+  DMOGetName="C:\Windows\SysWOW64\msdmo".DMOGetName
+  DMOGetTypes="C:\Windows\SysWOW64\msdmo".DMOGetTypes
+  DMOGuidToStrA="C:\Windows\SysWOW64\msdmo".DMOGuidToStrA
+  DMOGuidToStrW="C:\Windows\SysWOW64\msdmo".DMOGuidToStrW
+  DMORegister="C:\Windows\SysWOW64\msdmo".DMORegister
+  DMOStrToGuidA="C:\Windows\SysWOW64\msdmo".DMOStrToGuidA
+  DMOStrToGuidW="C:\Windows\SysWOW64\msdmo".DMOStrToGuidW
+  DMOUnregister="C:\Windows\SysWOW64\msdmo".DMOUnregister
+  MoCopyMediaType="C:\Windows\SysWOW64\msdmo".MoCopyMediaType
+  MoCreateMediaType="C:\Windows\SysWOW64\msdmo".MoCreateMediaType
+  MoDeleteMediaType="C:\Windows\SysWOW64\msdmo".MoDeleteMediaType
+  MoDuplicateMediaType="C:\Windows\SysWOW64\msdmo".MoDuplicateMediaType
+  MoFreeMediaType="C:\Windows\SysWOW64\msdmo".MoFreeMediaType
+  MoInitMediaType="C:\Windows\SysWOW64\msdmo".MoInitMediaType

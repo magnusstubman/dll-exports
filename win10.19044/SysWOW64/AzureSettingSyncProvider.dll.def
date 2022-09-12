@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AzureSettingSyncProvider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\AzureSettingSyncProvider".DllGetClassObject

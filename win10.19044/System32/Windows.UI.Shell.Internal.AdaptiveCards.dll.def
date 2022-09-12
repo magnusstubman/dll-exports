@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.Shell.Internal.AdaptiveCards".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.Shell.Internal.AdaptiveCards".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.Shell.Internal.AdaptiveCards".DllGetClassObject

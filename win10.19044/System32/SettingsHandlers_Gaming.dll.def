@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_Gaming".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_Gaming".DllGetClassObject
+  GetSetting="C:\Windows\System32\SettingsHandlers_Gaming".GetSetting

@@ -1,0 +1,12 @@
+EXPORTS
+  ProxyHelperClientAllocateMemory="C:\Windows\System32\httpprxc".ProxyHelperClientAllocateMemory
+  ProxyHelperClientConnectToServer="C:\Windows\System32\httpprxc".ProxyHelperClientConnectToServer
+  ProxyHelperClientDisconnectFromServer="C:\Windows\System32\httpprxc".ProxyHelperClientDisconnectFromServer
+  ProxyHelperClientFreeMemory="C:\Windows\System32\httpprxc".ProxyHelperClientFreeMemory
+  ProxyHelperClientGetAllProxiesForUrl="C:\Windows\System32\httpprxc".ProxyHelperClientGetAllProxiesForUrl
+  ProxyHelperClientGetProxyCredentials="C:\Windows\System32\httpprxc".ProxyHelperClientGetProxyCredentials
+  ProxyHelperClientGetProxyForUrl="C:\Windows\System32\httpprxc".ProxyHelperClientGetProxyForUrl
+  ProxyHelperClientInitialize="C:\Windows\System32\httpprxc".ProxyHelperClientInitialize
+  ProxyHelperClientRegisterForEventNotification="C:\Windows\System32\httpprxc".ProxyHelperClientRegisterForEventNotification
+  ProxyHelperClientUninitialize="C:\Windows\System32\httpprxc".ProxyHelperClientUninitialize
+  ProxyHelperClientUnregisterEventNotification="C:\Windows\System32\httpprxc".ProxyHelperClientUnregisterEventNotification

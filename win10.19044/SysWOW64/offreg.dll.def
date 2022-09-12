@@ -1,0 +1,23 @@
+EXPORTS
+  ORCloseHive="C:\Windows\SysWOW64\offreg".ORCloseHive
+  ORCloseKey="C:\Windows\SysWOW64\offreg".ORCloseKey
+  ORCreateHive="C:\Windows\SysWOW64\offreg".ORCreateHive
+  ORCreateKey="C:\Windows\SysWOW64\offreg".ORCreateKey
+  ORDeleteKey="C:\Windows\SysWOW64\offreg".ORDeleteKey
+  ORDeleteValue="C:\Windows\SysWOW64\offreg".ORDeleteValue
+  OREnumKey="C:\Windows\SysWOW64\offreg".OREnumKey
+  OREnumValue="C:\Windows\SysWOW64\offreg".OREnumValue
+  ORGetKeySecurity="C:\Windows\SysWOW64\offreg".ORGetKeySecurity
+  ORGetValue="C:\Windows\SysWOW64\offreg".ORGetValue
+  ORGetVersion="C:\Windows\SysWOW64\offreg".ORGetVersion
+  ORGetVirtualFlags="C:\Windows\SysWOW64\offreg".ORGetVirtualFlags
+  ORMergeHives="C:\Windows\SysWOW64\offreg".ORMergeHives
+  OROpenHive="C:\Windows\SysWOW64\offreg".OROpenHive
+  OROpenHiveByHandle="C:\Windows\SysWOW64\offreg".OROpenHiveByHandle
+  OROpenKey="C:\Windows\SysWOW64\offreg".OROpenKey
+  ORQueryInfoKey="C:\Windows\SysWOW64\offreg".ORQueryInfoKey
+  ORRenameKey="C:\Windows\SysWOW64\offreg".ORRenameKey
+  ORSaveHive="C:\Windows\SysWOW64\offreg".ORSaveHive
+  ORSetKeySecurity="C:\Windows\SysWOW64\offreg".ORSetKeySecurity
+  ORSetValue="C:\Windows\SysWOW64\offreg".ORSetValue
+  ORSetVirtualFlags="C:\Windows\SysWOW64\offreg".ORSetVirtualFlags

@@ -1,0 +1,9 @@
+EXPORTS
+  AllocInstanceData="C:\Windows\SysWOW64\ir41_qcxoriginal".AllocInstanceData
+  Compress="C:\Windows\SysWOW64\ir41_qcxoriginal".Compress
+  CompressBegin="C:\Windows\SysWOW64\ir41_qcxoriginal".CompressBegin
+  CompressEnd="C:\Windows\SysWOW64\ir41_qcxoriginal".CompressEnd
+  CompressFramesInfo="C:\Windows\SysWOW64\ir41_qcxoriginal".CompressFramesInfo
+  DllMain="C:\Windows\SysWOW64\ir41_qcxoriginal".DllMain
+  FreeInstanceData="C:\Windows\SysWOW64\ir41_qcxoriginal".FreeInstanceData
+  SetScalability="C:\Windows\SysWOW64\ir41_qcxoriginal".SetScalability

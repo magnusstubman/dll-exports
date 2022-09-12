@@ -1,0 +1,22 @@
+EXPORTS
+  CertConfigureTrustA="C:\Windows\SysWOW64\cryptdlg".CertConfigureTrustA
+  CertConfigureTrustW="C:\Windows\SysWOW64\cryptdlg".CertConfigureTrustW
+  CertModifyCertificatesToTrust="C:\Windows\SysWOW64\cryptdlg".CertModifyCertificatesToTrust
+  CertSelectCertificateA="C:\Windows\SysWOW64\cryptdlg".CertSelectCertificateA
+  CertSelectCertificateW="C:\Windows\SysWOW64\cryptdlg".CertSelectCertificateW
+  CertTrustCertPolicy="C:\Windows\SysWOW64\cryptdlg".CertTrustCertPolicy
+  CertTrustCleanup="C:\Windows\SysWOW64\cryptdlg".CertTrustCleanup
+  CertTrustFinalPolicy="C:\Windows\SysWOW64\cryptdlg".CertTrustFinalPolicy
+  CertTrustInit="C:\Windows\SysWOW64\cryptdlg".CertTrustInit
+  CertViewPropertiesA="C:\Windows\SysWOW64\cryptdlg".CertViewPropertiesA
+  CertViewPropertiesW="C:\Windows\SysWOW64\cryptdlg".CertViewPropertiesW
+  DecodeAttrSequence="C:\Windows\SysWOW64\cryptdlg".DecodeAttrSequence
+  DecodeRecipientID="C:\Windows\SysWOW64\cryptdlg".DecodeRecipientID
+  DllRegisterServer="C:\Windows\SysWOW64\cryptdlg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\cryptdlg".DllUnregisterServer
+  EncodeAttrSequence="C:\Windows\SysWOW64\cryptdlg".EncodeAttrSequence
+  EncodeRecipientID="C:\Windows\SysWOW64\cryptdlg".EncodeRecipientID
+  FormatPKIXEmailProtection="C:\Windows\SysWOW64\cryptdlg".FormatPKIXEmailProtection
+  FormatVerisignExtension="C:\Windows\SysWOW64\cryptdlg".FormatVerisignExtension
+  GetFriendlyNameOfCertA="C:\Windows\SysWOW64\cryptdlg".GetFriendlyNameOfCertA
+  GetFriendlyNameOfCertW="C:\Windows\SysWOW64\cryptdlg".GetFriendlyNameOfCertW

@@ -1,0 +1,3 @@
+EXPORTS
+  PnrpAutoSVCServiceMain="C:\Windows\System32\pnrpauto".PnrpAutoSVCServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\pnrpauto".SvchostPushServiceGlobals

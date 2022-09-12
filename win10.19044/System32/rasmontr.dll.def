@@ -1,0 +1,15 @@
+EXPORTS
+  GetDiagnosticFunctions="C:\Windows\System32\rasmontr".GetDiagnosticFunctions
+  InitHelperDll="C:\Windows\System32\rasmontr".InitHelperDll
+  RutlAlloc="C:\Windows\System32\rasmontr".RutlAlloc
+  RutlAssignmentFromTokenAndDword="C:\Windows\System32\rasmontr".RutlAssignmentFromTokenAndDword
+  RutlAssignmentFromTokens="C:\Windows\System32\rasmontr".RutlAssignmentFromTokens
+  RutlCloseDumpFile="C:\Windows\System32\rasmontr".RutlCloseDumpFile
+  RutlCreateDumpFile="C:\Windows\System32\rasmontr".RutlCreateDumpFile
+  RutlDwordDup="C:\Windows\System32\rasmontr".RutlDwordDup
+  RutlFree="C:\Windows\System32\rasmontr".RutlFree
+  RutlGetOsVersion="C:\Windows\System32\rasmontr".RutlGetOsVersion
+  RutlGetTagToken="C:\Windows\System32\rasmontr".RutlGetTagToken
+  RutlIsHelpToken="C:\Windows\System32\rasmontr".RutlIsHelpToken
+  RutlParse="C:\Windows\System32\rasmontr".RutlParse
+  RutlStrDup="C:\Windows\System32\rasmontr".RutlStrDup

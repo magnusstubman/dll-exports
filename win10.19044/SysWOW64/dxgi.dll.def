@@ -1,0 +1,20 @@
+EXPORTS
+  ApplyCompatResolutionQuirking="C:\Windows\SysWOW64\dxgi".ApplyCompatResolutionQuirking
+  CompatString="C:\Windows\SysWOW64\dxgi".CompatString
+  CompatValue="C:\Windows\SysWOW64\dxgi".CompatValue
+  CreateDXGIFactory="C:\Windows\SysWOW64\dxgi".CreateDXGIFactory
+  CreateDXGIFactory1="C:\Windows\SysWOW64\dxgi".CreateDXGIFactory1
+  CreateDXGIFactory2="C:\Windows\SysWOW64\dxgi".CreateDXGIFactory2
+  DXGID3D10CreateDevice="C:\Windows\SysWOW64\dxgi".DXGID3D10CreateDevice
+  DXGID3D10CreateLayeredDevice="C:\Windows\SysWOW64\dxgi".DXGID3D10CreateLayeredDevice
+  DXGID3D10GetLayeredDeviceSize="C:\Windows\SysWOW64\dxgi".DXGID3D10GetLayeredDeviceSize
+  DXGID3D10RegisterLayers="C:\Windows\SysWOW64\dxgi".DXGID3D10RegisterLayers
+  DXGIDeclareAdapterRemovalSupport="C:\Windows\SysWOW64\dxgi".DXGIDeclareAdapterRemovalSupport
+  DXGIDumpJournal="C:\Windows\SysWOW64\dxgi".DXGIDumpJournal
+  DXGIGetDebugInterface1="C:\Windows\SysWOW64\dxgi".DXGIGetDebugInterface1
+  DXGIReportAdapterConfiguration="C:\Windows\SysWOW64\dxgi".DXGIReportAdapterConfiguration
+  PIXBeginCapture="C:\Windows\SysWOW64\dxgi".PIXBeginCapture
+  PIXEndCapture="C:\Windows\SysWOW64\dxgi".PIXEndCapture
+  PIXGetCaptureState="C:\Windows\SysWOW64\dxgi".PIXGetCaptureState
+  SetAppCompatStringPointer="C:\Windows\SysWOW64\dxgi".SetAppCompatStringPointer
+  UpdateHMDEmulationStatus="C:\Windows\SysWOW64\dxgi".UpdateHMDEmulationStatus

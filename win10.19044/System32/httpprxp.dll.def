@@ -1,0 +1,9 @@
+EXPORTS
+  ProxyHelperGetProxyEventInformation="C:\Windows\System32\httpprxp".ProxyHelperGetProxyEventInformation
+  ProxyHelperProviderConnectToServer="C:\Windows\System32\httpprxp".ProxyHelperProviderConnectToServer
+  ProxyHelperProviderDisconnectFromServer="C:\Windows\System32\httpprxp".ProxyHelperProviderDisconnectFromServer
+  ProxyHelperProviderFreeMemory="C:\Windows\System32\httpprxp".ProxyHelperProviderFreeMemory
+  ProxyHelperProviderRegisterForEventNotification="C:\Windows\System32\httpprxp".ProxyHelperProviderRegisterForEventNotification
+  ProxyHelperProviderSetProxyConfiguration="C:\Windows\System32\httpprxp".ProxyHelperProviderSetProxyConfiguration
+  ProxyHelperProviderSetProxyCredentials="C:\Windows\System32\httpprxp".ProxyHelperProviderSetProxyCredentials
+  ProxyHelperProviderUnregisterEventNotification="C:\Windows\System32\httpprxp".ProxyHelperProviderUnregisterEventNotification

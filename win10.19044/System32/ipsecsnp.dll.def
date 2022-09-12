@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ipsecsnp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ipsecsnp".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\ipsecsnp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\ipsecsnp".DllUnregisterServer

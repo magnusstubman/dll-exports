@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\wdc.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\wdc.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\wdc.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\wdc.DllUnregisterServer\"")
+#pragma comment(linker, "/export:WdcParseLegacyFile=\"C:\\Windows\\System32\\wdc.WdcParseLegacyFile\"")
+#pragma comment(linker, "/export:WdcRunTaskAsInteractiveUser=\"C:\\Windows\\System32\\wdc.WdcRunTaskAsInteractiveUser\"")

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ExplorerFrame".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ExplorerFrame".DllGetClassObject
+  DllGetVersion="C:\Windows\System32\ExplorerFrame".DllGetVersion

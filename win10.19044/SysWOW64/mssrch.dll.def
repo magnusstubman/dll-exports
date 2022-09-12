@@ -1,0 +1,23 @@
+EXPORTS
+  ??0CSearchServiceObj@@QAE@ABV0@@Z="C:\Windows\SysWOW64\mssrch".??0CSearchServiceObj@@QAE@ABV0@@Z
+  ??0CSearchServiceObj@@QAE@XZ="C:\Windows\SysWOW64\mssrch".??0CSearchServiceObj@@QAE@XZ
+  ??1CSearchServiceObj@@QAE@XZ="C:\Windows\SysWOW64\mssrch".??1CSearchServiceObj@@QAE@XZ
+  ??4CSearchServiceObj@@QAEAAV0@ABV0@@Z="C:\Windows\SysWOW64\mssrch".??4CSearchServiceObj@@QAEAAV0@ABV0@@Z
+  ??_7CSearchServiceObj@@6B@="C:\Windows\SysWOW64\mssrch".??_7CSearchServiceObj@@6B@
+  ?Cleanup@CSearchServiceObj@@SGXXZ="C:\Windows\SysWOW64\mssrch".?Cleanup@CSearchServiceObj@@SGXXZ
+  ?GetFileChangeClientManagerInstance@@YA?AV?$shared_ptr@UIFileChangeClientManager@ChangeTracking@Windows@@@std@@XZ="C:\Windows\SysWOW64\mssrch".?GetFileChangeClientManagerInstance@@YA?AV?$shared_ptr@UIFileChangeClientManager@ChangeTracking@Windows@@@std@@XZ
+  ?HandleDplKeyChange@CSearchServiceObj@@UAGJXZ="C:\Windows\SysWOW64\mssrch".?HandleDplKeyChange@CSearchServiceObj@@UAGJXZ
+  ?Initialize@CSearchServiceObj@@UAGJ_NKPBV?$vector@VReIndexPatternInfo@@V?$allocator@VReIndexPatternInfo@@@std@@@std@@@Z="C:\Windows\SysWOW64\mssrch".?Initialize@CSearchServiceObj@@UAGJ_NKPBV?$vector@VReIndexPatternInfo@@V?$allocator@VReIndexPatternInfo@@@std@@@std@@@Z
+  ?LogoffNotification@CSearchServiceObj@@UAGJK@Z="C:\Windows\SysWOW64\mssrch".?LogoffNotification@CSearchServiceObj@@UAGJK@Z
+  ?LogonNotification@CSearchServiceObj@@UAGJK@Z="C:\Windows\SysWOW64\mssrch".?LogonNotification@CSearchServiceObj@@UAGJK@Z
+  ?PostServiceStartup@CSearchServiceObj@@UAGJXZ="C:\Windows\SysWOW64\mssrch".?PostServiceStartup@CSearchServiceObj@@UAGJXZ
+  ?SetServiceStatusObj@CSearchServiceObj@@UAGJPAUIDCOMServiceStatus@@@Z="C:\Windows\SysWOW64\mssrch".?SetServiceStatusObj@CSearchServiceObj@@UAGJPAUIDCOMServiceStatus@@@Z
+  ?Shutdown@CSearchServiceObj@@UAGJXZ="C:\Windows\SysWOW64\mssrch".?Shutdown@CSearchServiceObj@@UAGJXZ
+  ?Start@CSearchServiceObj@@UAGJXZ="C:\Windows\SysWOW64\mssrch".?Start@CSearchServiceObj@@UAGJXZ
+  ?Stop@CSearchServiceObj@@UAGJH@Z="C:\Windows\SysWOW64\mssrch".?Stop@CSearchServiceObj@@UAGJH@Z
+  DllCanUnloadNow="C:\Windows\SysWOW64\mssrch".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mssrch".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\mssrch".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mssrch".DllUnregisterServer
+  GetCatalogManager="C:\Windows\SysWOW64\mssrch".GetCatalogManager
+  MSSrch_SysPrep_Cleanup="C:\Windows\SysWOW64\mssrch".MSSrch_SysPrep_Cleanup

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AdaptiveCards".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\AdaptiveCards".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\AdaptiveCards".DllGetClassObject

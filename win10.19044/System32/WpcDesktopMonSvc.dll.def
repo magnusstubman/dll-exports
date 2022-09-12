@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\System32\WpcDesktopMonSvc".DllMain
+  ServiceMain="C:\Windows\System32\WpcDesktopMonSvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\WpcDesktopMonSvc".SvchostPushServiceGlobals

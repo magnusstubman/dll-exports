@@ -1,0 +1,2 @@
+EXPORTS
+  WSPStartup="C:\Windows\SysWOW64\vsocklib".WSPStartup

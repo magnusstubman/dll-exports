@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\colorui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\colorui".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\colorui".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\colorui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\colorui".DllUnregisterServer
+  LaunchColorCpl="C:\Windows\SysWOW64\colorui".LaunchColorCpl

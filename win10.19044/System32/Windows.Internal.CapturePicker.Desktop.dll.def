@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.CapturePicker.Desktop".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Internal.CapturePicker.Desktop".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.CapturePicker.Desktop".DllGetClassObject

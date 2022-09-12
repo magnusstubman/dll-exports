@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\officecsp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\officecsp".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\officecsp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\officecsp".DllUnregisterServer

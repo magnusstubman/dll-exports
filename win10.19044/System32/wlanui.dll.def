@@ -1,0 +1,7 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\System32\wlanui".DllGetClassObject
+  WLFreeProfile="C:\Windows\System32\wlanui".WLFreeProfile
+  WLFreeProfileXml="C:\Windows\System32\wlanui".WLFreeProfileXml
+  WLInvokeProfileUI="C:\Windows\System32\wlanui".WLInvokeProfileUI
+  WLInvokeProfileUIFromXMLFile="C:\Windows\System32\wlanui".WLInvokeProfileUIFromXMLFile
+  WlanUIEditProfile="C:\Windows\System32\wlanui".WlanUIEditProfile

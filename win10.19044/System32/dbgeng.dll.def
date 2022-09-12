@@ -1,0 +1,5 @@
+EXPORTS
+  DebugConnect="C:\Windows\System32\dbgeng".DebugConnect
+  DebugConnectWide="C:\Windows\System32\dbgeng".DebugConnectWide
+  DebugCreate="C:\Windows\System32\dbgeng".DebugCreate
+  DebugCreateEx="C:\Windows\System32\dbgeng".DebugCreateEx

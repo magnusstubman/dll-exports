@@ -1,0 +1,26 @@
+EXPORTS
+  CreateTextServices="C:\Windows\SysWOW64\msftedit".CreateTextServices
+  DllGetActivationFactory="C:\Windows\SysWOW64\msftedit".DllGetActivationFactory
+  DllGetVersion="C:\Windows\SysWOW64\msftedit".DllGetVersion
+  GetMathAlphanumeric="C:\Windows\SysWOW64\msftedit".GetMathAlphanumeric
+  GetMathAlphanumericCode="C:\Windows\SysWOW64\msftedit".GetMathAlphanumericCode
+  IID_IRichEditOle="C:\Windows\SysWOW64\msftedit".IID_IRichEditOle
+  IID_IRichEditOleCallback="C:\Windows\SysWOW64\msftedit".IID_IRichEditOleCallback
+  IID_IRicheditUiaNotificationOverrides="C:\Windows\SysWOW64\msftedit".IID_IRicheditUiaNotificationOverrides
+  IID_IRicheditUiaOverrides="C:\Windows\SysWOW64\msftedit".IID_IRicheditUiaOverrides
+  IID_IRicheditWindowlessAccessibility="C:\Windows\SysWOW64\msftedit".IID_IRicheditWindowlessAccessibility
+  IID_ITextDocument2="C:\Windows\SysWOW64\msftedit".IID_ITextDocument2
+  IID_ITextHost="C:\Windows\SysWOW64\msftedit".IID_ITextHost
+  IID_ITextHost2="C:\Windows\SysWOW64\msftedit".IID_ITextHost2
+  IID_ITextServices="C:\Windows\SysWOW64\msftedit".IID_ITextServices
+  IID_ITextServices2="C:\Windows\SysWOW64\msftedit".IID_ITextServices2
+  MathBuildDown="C:\Windows\SysWOW64\msftedit".MathBuildDown
+  MathBuildUp="C:\Windows\SysWOW64\msftedit".MathBuildUp
+  MathTranslate="C:\Windows\SysWOW64\msftedit".MathTranslate
+  RichEdit10ANSIWndProc="C:\Windows\SysWOW64\msftedit".RichEdit10ANSIWndProc
+  RichEditANSIWndProc="C:\Windows\SysWOW64\msftedit".RichEditANSIWndProc
+  RichEditWndProc="C:\Windows\SysWOW64\msftedit".RichEditWndProc
+  SetCustomTextOutHandlerEx="C:\Windows\SysWOW64\msftedit".SetCustomTextOutHandlerEx
+  SetTextServicesDpiCalculationOverride="C:\Windows\SysWOW64\msftedit".SetTextServicesDpiCalculationOverride
+  ShutdownTextServices="C:\Windows\SysWOW64\msftedit".ShutdownTextServices
+  _DisableOleinitCheck@0="C:\Windows\SysWOW64\msftedit"._DisableOleinitCheck@0

@@ -1,0 +1,9 @@
+EXPORTS
+  GetTranscodeComponentCreator="C:\Windows\SysWOW64\mftranscode".GetTranscodeComponentCreator
+  MFCreateSmartRemuxEngine="C:\Windows\SysWOW64\mftranscode".MFCreateSmartRemuxEngine
+  MFCreateTranscodeEngine="C:\Windows\SysWOW64\mftranscode".MFCreateTranscodeEngine
+  MFCreateTranscodeProfile="C:\Windows\SysWOW64\mftranscode".MFCreateTranscodeProfile
+  MFCreateTranscodeSinkActivate="C:\Windows\SysWOW64\mftranscode".MFCreateTranscodeSinkActivate
+  MFCreateTranscodeTopology="C:\Windows\SysWOW64\mftranscode".MFCreateTranscodeTopology
+  MFCreateTranscodeTopologyFromByteStream="C:\Windows\SysWOW64\mftranscode".MFCreateTranscodeTopologyFromByteStream
+  MFTranscodeGetAudioOutputAvailableTypes="C:\Windows\SysWOW64\mftranscode".MFTranscodeGetAudioOutputAvailableTypes

@@ -1,0 +1,4 @@
+EXPORTS
+  WdiDiagnosticModuleMain="C:\Windows\System32\pcadm".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\System32\pcadm".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\System32\pcadm".WdiHandleInstance

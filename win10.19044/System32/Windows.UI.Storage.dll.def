@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.Storage".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.Storage".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.Storage".DllGetClassObject

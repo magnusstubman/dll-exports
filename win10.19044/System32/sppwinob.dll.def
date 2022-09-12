@@ -1,0 +1,6 @@
+EXPORTS
+  SppPluginCanUnloadNow="C:\Windows\System32\sppwinob".SppPluginCanUnloadNow
+  SppPluginCreateInstance="C:\Windows\System32\sppwinob".SppPluginCreateInstance
+  SppPluginInitialize="C:\Windows\System32\sppwinob".SppPluginInitialize
+  SppPluginShutdown="C:\Windows\System32\sppwinob".SppPluginShutdown
+  SppPluginVersion="C:\Windows\System32\sppwinob".SppPluginVersion

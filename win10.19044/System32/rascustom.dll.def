@@ -1,0 +1,8 @@
+EXPORTS
+  InitializeProtocolEngine="C:\Windows\System32\rascustom".InitializeProtocolEngine
+  SendMessageToProtocolEngine="C:\Windows\System32\rascustom".SendMessageToProtocolEngine
+  UninitializeProtocolEngine="C:\Windows\System32\rascustom".UninitializeProtocolEngine
+  VpnBrokerPluginIsInstalled="C:\Windows\System32\rascustom".VpnBrokerPluginIsInstalled
+  VpnBrokerRegisterForPluginInstallations="C:\Windows\System32\rascustom".VpnBrokerRegisterForPluginInstallations
+  VpnSmCommsPluginsNotifyLogOff="C:\Windows\System32\rascustom".VpnSmCommsPluginsNotifyLogOff
+  VpnSmCommsPluginsRoamToBestCostInterface="C:\Windows\System32\rascustom".VpnSmCommsPluginsRoamToBestCostInterface

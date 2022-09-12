@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mapstoasttask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mapstoasttask".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mapstoasttask".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mapstoasttask".DllUnregisterServer

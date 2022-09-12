@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\xwtpdui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\xwtpdui".DllGetClassObject

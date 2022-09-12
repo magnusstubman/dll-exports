@@ -1,0 +1,3 @@
+EXPORTS
+  DVRCreateDVRFileSink="C:\Windows\SysWOW64\sbeio".DVRCreateDVRFileSink
+  DVRCreateDVRFileSource="C:\Windows\SysWOW64\sbeio".DVRCreateDVRFileSource

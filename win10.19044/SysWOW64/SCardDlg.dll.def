@@ -1,0 +1,6 @@
+EXPORTS
+  GetOpenCardNameA="C:\Windows\SysWOW64\SCardDlg".GetOpenCardNameA
+  GetOpenCardNameW="C:\Windows\SysWOW64\SCardDlg".GetOpenCardNameW
+  SCardDlgExtendedError="C:\Windows\SysWOW64\SCardDlg".SCardDlgExtendedError
+  SCardUIDlgSelectCardA="C:\Windows\SysWOW64\SCardDlg".SCardUIDlgSelectCardA
+  SCardUIDlgSelectCardW="C:\Windows\SysWOW64\SCardDlg".SCardUIDlgSelectCardW

@@ -1,0 +1,8 @@
+EXPORTS
+  IEApplyCurrentHardening="C:\Windows\System32\iesetup".IEApplyCurrentHardening
+  IEHardenAdmin="C:\Windows\System32\iesetup".IEHardenAdmin
+  IEHardenAdminNow="C:\Windows\System32\iesetup".IEHardenAdminNow
+  IEHardenLMSettings="C:\Windows\System32\iesetup".IEHardenLMSettings
+  IEHardenMachineNow="C:\Windows\System32\iesetup".IEHardenMachineNow
+  IEHardenUser="C:\Windows\System32\iesetup".IEHardenUser
+  IEShowHardeningDialog="C:\Windows\System32\iesetup".IEShowHardeningDialog

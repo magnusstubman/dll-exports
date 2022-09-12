@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CreateInstance=\"C:\\Windows\\System32\\msdtclog.CreateInstance\"")
+#pragma comment(linker, "/export:DeleteInstance=\"C:\\Windows\\System32\\msdtclog.DeleteInstance\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\msdtclog.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllGetDTCLOG=\"C:\\Windows\\System32\\msdtclog.DllGetDTCLOG\"")
+#pragma comment(linker, "/export:DllGetDTCLOG2=\"C:\\Windows\\System32\\msdtclog.DllGetDTCLOG2\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\msdtclog.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\msdtclog.DllUnregisterServer\"")

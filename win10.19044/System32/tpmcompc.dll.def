@@ -1,0 +1,3 @@
+EXPORTS
+  CHOOSER2_PickTargetComputer="C:\Windows\System32\tpmcompc".CHOOSER2_PickTargetComputer
+  DllMain="C:\Windows\System32\tpmcompc".DllMain

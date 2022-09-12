@@ -1,0 +1,10 @@
+EXPORTS
+  AllocateSettingsContext="C:\Windows\System32\Microsoft.Uev.ModernAppAgent".AllocateSettingsContext
+  ExportModernSettings="C:\Windows\System32\Microsoft.Uev.ModernAppAgent".ExportModernSettings
+  ExportSettingsToStore="C:\Windows\System32\Microsoft.Uev.ModernAppAgent".ExportSettingsToStore
+  FreeSettingsContext="C:\Windows\System32\Microsoft.Uev.ModernAppAgent".FreeSettingsContext
+  GetModernTemplateId="C:\Windows\System32\Microsoft.Uev.ModernAppAgent".GetModernTemplateId
+  GetOSSettingsRoamingState="C:\Windows\System32\Microsoft.Uev.ModernAppAgent".GetOSSettingsRoamingState
+  ImportModernSettings="C:\Windows\System32\Microsoft.Uev.ModernAppAgent".ImportModernSettings
+  ImportSettingsFromStore="C:\Windows\System32\Microsoft.Uev.ModernAppAgent".ImportSettingsFromStore
+  InitializeRollbackState="C:\Windows\System32\Microsoft.Uev.ModernAppAgent".InitializeRollbackState

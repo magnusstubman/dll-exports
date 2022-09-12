@@ -1,0 +1,4 @@
+EXPORTS
+  Sysprep_Generalize_Bcd="C:\Windows\System32\spbcd".Sysprep_Generalize_Bcd
+  Sysprep_Offline_Specialize_Bcd="C:\Windows\System32\spbcd".Sysprep_Offline_Specialize_Bcd
+  Sysprep_Online_Specialize_Bcd="C:\Windows\System32\spbcd".Sysprep_Online_Specialize_Bcd

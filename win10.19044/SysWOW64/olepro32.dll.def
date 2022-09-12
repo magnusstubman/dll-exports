@@ -1,0 +1,12 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\olepro32".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\olepro32".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\olepro32".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\olepro32".DllUnregisterServer
+  OleCreateFontIndirect="C:\Windows\SysWOW64\olepro32".OleCreateFontIndirect
+  OleCreatePictureIndirect="C:\Windows\SysWOW64\olepro32".OleCreatePictureIndirect
+  OleCreatePropertyFrame="C:\Windows\SysWOW64\olepro32".OleCreatePropertyFrame
+  OleCreatePropertyFrameIndirect="C:\Windows\SysWOW64\olepro32".OleCreatePropertyFrameIndirect
+  OleIconToCursor="C:\Windows\SysWOW64\olepro32".OleIconToCursor
+  OleLoadPicture="C:\Windows\SysWOW64\olepro32".OleLoadPicture
+  OleTranslateColor="C:\Windows\SysWOW64\olepro32".OleTranslateColor

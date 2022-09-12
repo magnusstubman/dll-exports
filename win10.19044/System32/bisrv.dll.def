@@ -1,0 +1,8 @@
+EXPORTS
+  PsmBiExtInitialize="C:\Windows\System32\bisrv".PsmBiExtInitialize
+  PsmBiExtNotifyAppState="C:\Windows\System32\bisrv".PsmBiExtNotifyAppState
+  PsmBiExtNotifySessionStateChange="C:\Windows\System32\bisrv".PsmBiExtNotifySessionStateChange
+  PsmBiExtNotifySessionUserStateChange="C:\Windows\System32\bisrv".PsmBiExtNotifySessionUserStateChange
+  PsmBiExtNotifyWerReportProgress="C:\Windows\System32\bisrv".PsmBiExtNotifyWerReportProgress
+  PsmBiExtPrepareToSuspendPackage="C:\Windows\System32\bisrv".PsmBiExtPrepareToSuspendPackage
+  PsmBiExtResumePackage="C:\Windows\System32\bisrv".PsmBiExtResumePackage

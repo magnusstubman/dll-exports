@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RegCtrl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\RegCtrl".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\RegCtrl".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\RegCtrl".DllUnregisterServer

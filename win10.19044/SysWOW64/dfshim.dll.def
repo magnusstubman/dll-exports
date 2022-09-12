@@ -1,0 +1,21 @@
+EXPORTS
+  CleanOnlineAppCache="C:\Windows\SysWOW64\dfshim".CleanOnlineAppCache
+  CreateActContext="C:\Windows\SysWOW64\dfshim".CreateActContext
+  CreateCMSFromXml="C:\Windows\SysWOW64\dfshim".CreateCMSFromXml
+  DllCanUnloadNow="C:\Windows\SysWOW64\dfshim".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dfshim".DllGetClassObject
+  GetCurrentActContext="C:\Windows\SysWOW64\dfshim".GetCurrentActContext
+  GetDeploymentDataFromManifest="C:\Windows\SysWOW64\dfshim".GetDeploymentDataFromManifest
+  GetUserStateManager="C:\Windows\SysWOW64\dfshim".GetUserStateManager
+  GetUserStore="C:\Windows\SysWOW64\dfshim".GetUserStore
+  KillService="C:\Windows\SysWOW64\dfshim".KillService
+  LaunchApplication="C:\Windows\SysWOW64\dfshim".LaunchApplication
+  ParseManifest="C:\Windows\SysWOW64\dfshim".ParseManifest
+  ShArpMaintain="C:\Windows\SysWOW64\dfshim".ShArpMaintain
+  ShArpMaintainW="C:\Windows\SysWOW64\dfshim".ShArpMaintainW
+  ShOpenVerbApplication="C:\Windows\SysWOW64\dfshim".ShOpenVerbApplication
+  ShOpenVerbApplicationW="C:\Windows\SysWOW64\dfshim".ShOpenVerbApplicationW
+  ShOpenVerbExtension="C:\Windows\SysWOW64\dfshim".ShOpenVerbExtension
+  ShOpenVerbExtensionW="C:\Windows\SysWOW64\dfshim".ShOpenVerbExtensionW
+  ShOpenVerbShortcut="C:\Windows\SysWOW64\dfshim".ShOpenVerbShortcut
+  ShOpenVerbShortcutW="C:\Windows\SysWOW64\dfshim".ShOpenVerbShortcutW

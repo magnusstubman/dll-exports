@@ -1,0 +1,9 @@
+EXPORTS
+  PcaGetFileInfoFromPath="C:\Windows\System32\pcacli".PcaGetFileInfoFromPath
+  PcaIsPcaDisabled="C:\Windows\System32\pcacli".PcaIsPcaDisabled
+  PcaLinkChildProcessToParent="C:\Windows\System32\pcacli".PcaLinkChildProcessToParent
+  PcaMonitorProcess="C:\Windows\System32\pcacli".PcaMonitorProcess
+  PcaMonitorProcess2="C:\Windows\System32\pcacli".PcaMonitorProcess2
+  PcaNotifyMsiInstall="C:\Windows\System32\pcacli".PcaNotifyMsiInstall
+  PcaNotifyStatusIcon="C:\Windows\System32\pcacli".PcaNotifyStatusIcon
+  PcaSendToService="C:\Windows\System32\pcacli".PcaSendToService

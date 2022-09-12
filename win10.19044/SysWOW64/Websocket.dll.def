@@ -1,0 +1,14 @@
+EXPORTS
+  WebSocketAbortHandle="C:\Windows\SysWOW64\Websocket".WebSocketAbortHandle
+  WebSocketBeginClientHandshake="C:\Windows\SysWOW64\Websocket".WebSocketBeginClientHandshake
+  WebSocketBeginServerHandshake="C:\Windows\SysWOW64\Websocket".WebSocketBeginServerHandshake
+  WebSocketCompleteAction="C:\Windows\SysWOW64\Websocket".WebSocketCompleteAction
+  WebSocketCreateClientHandle="C:\Windows\SysWOW64\Websocket".WebSocketCreateClientHandle
+  WebSocketCreateServerHandle="C:\Windows\SysWOW64\Websocket".WebSocketCreateServerHandle
+  WebSocketDeleteHandle="C:\Windows\SysWOW64\Websocket".WebSocketDeleteHandle
+  WebSocketEndClientHandshake="C:\Windows\SysWOW64\Websocket".WebSocketEndClientHandshake
+  WebSocketEndServerHandshake="C:\Windows\SysWOW64\Websocket".WebSocketEndServerHandshake
+  WebSocketGetAction="C:\Windows\SysWOW64\Websocket".WebSocketGetAction
+  WebSocketGetGlobalProperty="C:\Windows\SysWOW64\Websocket".WebSocketGetGlobalProperty
+  WebSocketReceive="C:\Windows\SysWOW64\Websocket".WebSocketReceive
+  WebSocketSend="C:\Windows\SysWOW64\Websocket".WebSocketSend

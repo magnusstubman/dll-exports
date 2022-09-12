@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mydocs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mydocs".DllGetClassObject
+  PerUserInit="C:\Windows\System32\mydocs".PerUserInit

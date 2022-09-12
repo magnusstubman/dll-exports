@@ -1,0 +1,7 @@
+EXPORTS
+  CreateInstance="C:\Windows\SysWOW64\WMVDECOD".CreateInstance
+  DllCanUnloadNow="C:\Windows\SysWOW64\WMVDECOD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\WMVDECOD".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\WMVDECOD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\WMVDECOD".DllUnregisterServer
+  GetVC1DecoderFunctionTable="C:\Windows\SysWOW64\WMVDECOD".GetVC1DecoderFunctionTable

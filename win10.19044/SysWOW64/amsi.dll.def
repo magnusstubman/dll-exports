@@ -1,0 +1,14 @@
+EXPORTS
+  AmsiCloseSession="C:\Windows\SysWOW64\amsi".AmsiCloseSession
+  AmsiInitialize="C:\Windows\SysWOW64\amsi".AmsiInitialize
+  AmsiOpenSession="C:\Windows\SysWOW64\amsi".AmsiOpenSession
+  AmsiScanBuffer="C:\Windows\SysWOW64\amsi".AmsiScanBuffer
+  AmsiScanString="C:\Windows\SysWOW64\amsi".AmsiScanString
+  AmsiUacInitialize="C:\Windows\SysWOW64\amsi".AmsiUacInitialize
+  AmsiUacScan="C:\Windows\SysWOW64\amsi".AmsiUacScan
+  AmsiUacUninitialize="C:\Windows\SysWOW64\amsi".AmsiUacUninitialize
+  AmsiUninitialize="C:\Windows\SysWOW64\amsi".AmsiUninitialize
+  DllCanUnloadNow="C:\Windows\SysWOW64\amsi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\amsi".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\amsi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\amsi".DllUnregisterServer

@@ -1,0 +1,12 @@
+EXPORTS
+  AsrAddSifEntryA="C:\Windows\SysWOW64\syssetup".AsrAddSifEntryA
+  AsrAddSifEntryW="C:\Windows\SysWOW64\syssetup".AsrAddSifEntryW
+  AsrCreateStateFileA="C:\Windows\SysWOW64\syssetup".AsrCreateStateFileA
+  AsrCreateStateFileW="C:\Windows\SysWOW64\syssetup".AsrCreateStateFileW
+  AsrFreeContext="C:\Windows\SysWOW64\syssetup".AsrFreeContext
+  AsrRestorePlugPlayRegistryData="C:\Windows\SysWOW64\syssetup".AsrRestorePlugPlayRegistryData
+  GetAnswerFileSetting="C:\Windows\SysWOW64\syssetup".GetAnswerFileSetting
+  SetupChangeFontSize="C:\Windows\SysWOW64\syssetup".SetupChangeFontSize
+  SetupInfObjectInstallActionW="C:\Windows\SysWOW64\syssetup".SetupInfObjectInstallActionW
+  SetupSetDisplay="C:\Windows\SysWOW64\syssetup".SetupSetDisplay
+  WaitForSamService="C:\Windows\SysWOW64\syssetup".WaitForSamService

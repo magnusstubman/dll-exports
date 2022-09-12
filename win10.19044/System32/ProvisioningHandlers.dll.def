@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ProvisioningHandlers".DllCanUnloadNow
+  GetSetting="C:\Windows\System32\ProvisioningHandlers".GetSetting

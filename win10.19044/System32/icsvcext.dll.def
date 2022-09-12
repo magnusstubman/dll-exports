@@ -1,0 +1,5 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\System32\icsvcext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\icsvcext".DllUnregisterServer
+  RdvServiceMain="C:\Windows\System32\icsvcext".RdvServiceMain
+  VssServiceMain="C:\Windows\System32\icsvcext".VssServiceMain

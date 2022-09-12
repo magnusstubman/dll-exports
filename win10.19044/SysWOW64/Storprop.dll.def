@@ -1,0 +1,13 @@
+EXPORTS
+  AtaPropPageProvider="C:\Windows\SysWOW64\Storprop".AtaPropPageProvider
+  CdromDisableDigitalPlayback="C:\Windows\SysWOW64\Storprop".CdromDisableDigitalPlayback
+  CdromEnableDigitalPlayback="C:\Windows\SysWOW64\Storprop".CdromEnableDigitalPlayback
+  CdromIsDigitalPlaybackEnabled="C:\Windows\SysWOW64\Storprop".CdromIsDigitalPlaybackEnabled
+  CdromKnownGoodDigitalPlayback="C:\Windows\SysWOW64\Storprop".CdromKnownGoodDigitalPlayback
+  CdromSetDefaultDvdRegion="C:\Windows\SysWOW64\Storprop".CdromSetDefaultDvdRegion
+  DiskClassInstaller="C:\Windows\SysWOW64\Storprop".DiskClassInstaller
+  DiskPropPageProvider="C:\Windows\SysWOW64\Storprop".DiskPropPageProvider
+  DvdClassInstaller="C:\Windows\SysWOW64\Storprop".DvdClassInstaller
+  DvdLauncher="C:\Windows\SysWOW64\Storprop".DvdLauncher
+  DvdPropPageProvider="C:\Windows\SysWOW64\Storprop".DvdPropPageProvider
+  HdcCoInstaller="C:\Windows\SysWOW64\Storprop".HdcCoInstaller

@@ -1,0 +1,5 @@
+EXPORTS
+  DisplayApphelpDialog="C:\Windows\System32\pcaui".DisplayApphelpDialog
+  PcaLaunchApplicationWithConsent="C:\Windows\System32\pcaui".PcaLaunchApplicationWithConsent
+  PcaPersistSettingsAndLaunchApplication="C:\Windows\System32\pcaui".PcaPersistSettingsAndLaunchApplication
+  PcaShowDialog="C:\Windows\System32\pcaui".PcaShowDialog

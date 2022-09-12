@@ -1,0 +1,27 @@
+EXPORTS
+  AllocateOverStructEx="C:\Windows\SysWOW64\uniplat".AllocateOverStructEx
+  CallBeginning="C:\Windows\SysWOW64\uniplat".CallBeginning
+  CallEnding="C:\Windows\SysWOW64\uniplat".CallEnding
+  CancelUnimodemTimer="C:\Windows\SysWOW64\uniplat".CancelUnimodemTimer
+  CreateOverStructPool="C:\Windows\SysWOW64\uniplat".CreateOverStructPool
+  CreateUnimodemTimer="C:\Windows\SysWOW64\uniplat".CreateUnimodemTimer
+  DestroyOverStructPool="C:\Windows\SysWOW64\uniplat".DestroyOverStructPool
+  FreeOverStruct="C:\Windows\SysWOW64\uniplat".FreeOverStruct
+  FreeUnimodemTimer="C:\Windows\SysWOW64\uniplat".FreeUnimodemTimer
+  MonitorHandle="C:\Windows\SysWOW64\uniplat".MonitorHandle
+  ReinitOverStruct="C:\Windows\SysWOW64\uniplat".ReinitOverStruct
+  ResetCallCount="C:\Windows\SysWOW64\uniplat".ResetCallCount
+  SetUnimodemTimer="C:\Windows\SysWOW64\uniplat".SetUnimodemTimer
+  StartMonitorThread="C:\Windows\SysWOW64\uniplat".StartMonitorThread
+  StopMonitorThread="C:\Windows\SysWOW64\uniplat".StopMonitorThread
+  StopMonitoringHandle="C:\Windows\SysWOW64\uniplat".StopMonitoringHandle
+  SyncDeviceIoControl="C:\Windows\SysWOW64\uniplat".SyncDeviceIoControl
+  UmPlatformDeinitialize="C:\Windows\SysWOW64\uniplat".UmPlatformDeinitialize
+  UmPlatformInitialize="C:\Windows\SysWOW64\uniplat".UmPlatformInitialize
+  UnimodemDeviceIoControlEx="C:\Windows\SysWOW64\uniplat".UnimodemDeviceIoControlEx
+  UnimodemNotifyTSP="C:\Windows\SysWOW64\uniplat".UnimodemNotifyTSP
+  UnimodemQueueUserAPC="C:\Windows\SysWOW64\uniplat".UnimodemQueueUserAPC
+  UnimodemReadFileEx="C:\Windows\SysWOW64\uniplat".UnimodemReadFileEx
+  UnimodemWaitCommEventEx="C:\Windows\SysWOW64\uniplat".UnimodemWaitCommEventEx
+  UnimodemWriteFileEx="C:\Windows\SysWOW64\uniplat".UnimodemWriteFileEx
+  WinntIsWorkstation="C:\Windows\SysWOW64\uniplat".WinntIsWorkstation

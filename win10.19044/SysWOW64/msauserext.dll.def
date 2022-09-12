@@ -1,0 +1,22 @@
+EXPORTS
+  MsaUI_ClearThreadClientContext="C:\Windows\SysWOW64\msauserext".MsaUI_ClearThreadClientContext
+  MsaUI_CloseClientContext="C:\Windows\SysWOW64\msauserext".MsaUI_CloseClientContext
+  MsaUI_CreateClientContext="C:\Windows\SysWOW64\msauserext".MsaUI_CreateClientContext
+  MsaUI_CredUIPromptForWindowsCredentials="C:\Windows\SysWOW64\msauserext".MsaUI_CredUIPromptForWindowsCredentials
+  MsaUI_LaunchWebAuthFlow="C:\Windows\SysWOW64\msauserext".MsaUI_LaunchWebAuthFlow
+  MsaUI_RunWizard="C:\Windows\SysWOW64\msauserext".MsaUI_RunWizard
+  MsaUI_SetThreadClientContext="C:\Windows\SysWOW64\msauserext".MsaUI_SetThreadClientContext
+  MsaUi_CreateClientContextFromWab="C:\Windows\SysWOW64\msauserext".MsaUi_CreateClientContextFromWab
+  MsaUser_CallerIsLoggedOnUser="C:\Windows\SysWOW64\msauserext".MsaUser_CallerIsLoggedOnUser
+  MsaUser_CanSetParentWindow="C:\Windows\SysWOW64\msauserext".MsaUser_CanSetParentWindow
+  MsaUser_CheckIfAppTrusted="C:\Windows\SysWOW64\msauserext".MsaUser_CheckIfAppTrusted
+  MsaUser_FormatUserDisplayName="C:\Windows\SysWOW64\msauserext".MsaUser_FormatUserDisplayName
+  MsaUser_GetDeviceTelemetryInformation="C:\Windows\SysWOW64\msauserext".MsaUser_GetDeviceTelemetryInformation
+  MsaUser_GetDeviceTypeParameterValue="C:\Windows\SysWOW64\msauserext".MsaUser_GetDeviceTypeParameterValue
+  MsaUser_GetInlineUxParameterValue="C:\Windows\SysWOW64\msauserext".MsaUser_GetInlineUxParameterValue
+  MsaUser_GetPlatformQualifier="C:\Windows\SysWOW64\msauserext".MsaUser_GetPlatformQualifier
+  MsaUser_GetUserRegistrySecurityDescriptor="C:\Windows\SysWOW64\msauserext".MsaUser_GetUserRegistrySecurityDescriptor
+  MsaUser_IsChildAccount="C:\Windows\SysWOW64\msauserext".MsaUser_IsChildAccount
+  MsaUser_LoadServiceConfiguration="C:\Windows\SysWOW64\msauserext".MsaUser_LoadServiceConfiguration
+  MsaUser_OverrideTicketRequestForLegacyAdControl="C:\Windows\SysWOW64\msauserext".MsaUser_OverrideTicketRequestForLegacyAdControl
+  MsaUser_WinBioSetMSACredential="C:\Windows\SysWOW64\msauserext".MsaUser_WinBioSetMSACredential

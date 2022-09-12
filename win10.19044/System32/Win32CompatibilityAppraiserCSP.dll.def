@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Win32CompatibilityAppraiserCSP".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Win32CompatibilityAppraiserCSP".DllGetClassObject

@@ -1,0 +1,18 @@
+EXPORTS
+  IpNatHlpFree="C:\Windows\SysWOW64\IpNatHlpClient".IpNatHlpFree
+  IpNatHlpGetConnectedDevices="C:\Windows\SysWOW64\IpNatHlpClient".IpNatHlpGetConnectedDevices
+  IpNatHlpStartDhcpServer="C:\Windows\SysWOW64\IpNatHlpClient".IpNatHlpStartDhcpServer
+  IpNatHlpStartSharing="C:\Windows\SysWOW64\IpNatHlpClient".IpNatHlpStartSharing
+  IpNatHlpStopDhcpServer="C:\Windows\SysWOW64\IpNatHlpClient".IpNatHlpStopDhcpServer
+  IpNatHlpStopSharing="C:\Windows\SysWOW64\IpNatHlpClient".IpNatHlpStopSharing
+  IpNatHlpUpdateSharingSettingsFromStorage="C:\Windows\SysWOW64\IpNatHlpClient".IpNatHlpUpdateSharingSettingsFromStorage
+  V2IpNatHlpCreateStaticMapping="C:\Windows\SysWOW64\IpNatHlpClient".V2IpNatHlpCreateStaticMapping
+  V2IpNatHlpDeleteStaticMapping="C:\Windows\SysWOW64\IpNatHlpClient".V2IpNatHlpDeleteStaticMapping
+  V2IpNatHlpEnumDhcpState="C:\Windows\SysWOW64\IpNatHlpClient".V2IpNatHlpEnumDhcpState
+  V2IpNatHlpEnumDnsState="C:\Windows\SysWOW64\IpNatHlpClient".V2IpNatHlpEnumDnsState
+  V2IpNatHlpStartDhcpServer="C:\Windows\SysWOW64\IpNatHlpClient".V2IpNatHlpStartDhcpServer
+  V2IpNatHlpStartDnsServer="C:\Windows\SysWOW64\IpNatHlpClient".V2IpNatHlpStartDnsServer
+  V2IpNatHlpStartSharingInternalPrefix="C:\Windows\SysWOW64\IpNatHlpClient".V2IpNatHlpStartSharingInternalPrefix
+  V2IpNatHlpStopDhcpServer="C:\Windows\SysWOW64\IpNatHlpClient".V2IpNatHlpStopDhcpServer
+  V2IpNatHlpStopDnsServer="C:\Windows\SysWOW64\IpNatHlpClient".V2IpNatHlpStopDnsServer
+  V2IpNatHlpStopSharingInternalPrefix="C:\Windows\SysWOW64\IpNatHlpClient".V2IpNatHlpStopSharingInternalPrefix

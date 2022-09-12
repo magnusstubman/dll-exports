@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\msmpeg2adec".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\msmpeg2adec".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\msmpeg2adec".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msmpeg2adec".DllUnregisterServer

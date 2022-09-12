@@ -1,0 +1,6 @@
+EXPORTS
+  CMConfig="C:\Windows\SysWOW64\cmcfg32".CMConfig
+  CMConfigEx="C:\Windows\SysWOW64\cmcfg32".CMConfigEx
+  CmstpExtensionProc="C:\Windows\SysWOW64\cmcfg32".CmstpExtensionProc
+  CmstpExtensionProc2="C:\Windows\SysWOW64\cmcfg32".CmstpExtensionProc2
+  _CMConfig@8="C:\Windows\SysWOW64\cmcfg32"._CMConfig@8

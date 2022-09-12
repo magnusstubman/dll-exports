@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\puiobj".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\puiobj".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\puiobj".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\puiobj".DllUnregisterServer

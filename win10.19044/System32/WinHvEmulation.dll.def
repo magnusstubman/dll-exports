@@ -1,0 +1,5 @@
+EXPORTS
+  WHvEmulatorCreateEmulator="C:\Windows\System32\WinHvEmulation".WHvEmulatorCreateEmulator
+  WHvEmulatorDestroyEmulator="C:\Windows\System32\WinHvEmulation".WHvEmulatorDestroyEmulator
+  WHvEmulatorTryIoEmulation="C:\Windows\System32\WinHvEmulation".WHvEmulatorTryIoEmulation
+  WHvEmulatorTryMmioEmulation="C:\Windows\System32\WinHvEmulation".WHvEmulatorTryMmioEmulation

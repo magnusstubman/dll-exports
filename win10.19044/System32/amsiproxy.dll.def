@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\amsiproxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\amsiproxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\amsiproxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\amsiproxy".DllUnregisterServer

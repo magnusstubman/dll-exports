@@ -1,0 +1,3 @@
+EXPORTS
+  VM3DDevApiCleanup="C:\Windows\SysWOW64\vm3ddevapi".VM3DDevApiCleanup
+  VM3DDevApiInit="C:\Windows\SysWOW64\vm3ddevapi".VM3DDevApiInit

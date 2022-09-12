@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\sdengin2".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\sdengin2".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\sdengin2".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\sdengin2".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\sdengin2".DllUnregisterServer
+  ExecuteScheduledBackup="C:\Windows\System32\sdengin2".ExecuteScheduledBackup
+  SdCheck="C:\Windows\System32\sdengin2".SdCheck

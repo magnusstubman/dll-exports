@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\devenum".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\devenum".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\devenum".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\devenum".DllUnregisterServer

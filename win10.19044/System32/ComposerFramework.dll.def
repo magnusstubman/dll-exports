@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ComposerFramework".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ComposerFramework".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\ComposerFramework".DllGetClassObject

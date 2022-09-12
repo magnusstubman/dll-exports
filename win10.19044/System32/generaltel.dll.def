@@ -1,0 +1,10 @@
+EXPORTS
+  CalculateCensusId="C:\Windows\System32\generaltel".CalculateCensusId
+  DoCensusRun="C:\Windows\System32\generaltel".DoCensusRun
+  EnumerateOfficeAddins="C:\Windows\System32\generaltel".EnumerateOfficeAddins
+  EnumerateOfficeDocuments="C:\Windows\System32\generaltel".EnumerateOfficeDocuments
+  GetCITDataApr="C:\Windows\System32\generaltel".GetCITDataApr
+  GetCITTelemetryPoints="C:\Windows\System32\generaltel".GetCITTelemetryPoints
+  RunGeneralTelemetry="C:\Windows\System32\generaltel".RunGeneralTelemetry
+  RunInUserCxtW="C:\Windows\System32\generaltel".RunInUserCxtW
+  SysprepCleanupEnableCustomTrigger="C:\Windows\System32\generaltel".SysprepCleanupEnableCustomTrigger

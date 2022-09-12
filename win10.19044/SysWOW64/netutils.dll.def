@@ -1,0 +1,23 @@
+EXPORTS
+  NetApiBufferAllocate="C:\Windows\SysWOW64\netutils".NetApiBufferAllocate
+  NetApiBufferFree="C:\Windows\SysWOW64\netutils".NetApiBufferFree
+  NetApiBufferReallocate="C:\Windows\SysWOW64\netutils".NetApiBufferReallocate
+  NetApiBufferSize="C:\Windows\SysWOW64\netutils".NetApiBufferSize
+  NetRemoteComputerSupports="C:\Windows\SysWOW64\netutils".NetRemoteComputerSupports
+  NetapipBufferAllocate="C:\Windows\SysWOW64\netutils".NetapipBufferAllocate
+  NetpIsComputerNameValid="C:\Windows\SysWOW64\netutils".NetpIsComputerNameValid
+  NetpIsDomainNameValid="C:\Windows\SysWOW64\netutils".NetpIsDomainNameValid
+  NetpIsGroupNameValid="C:\Windows\SysWOW64\netutils".NetpIsGroupNameValid
+  NetpIsRemote="C:\Windows\SysWOW64\netutils".NetpIsRemote
+  NetpIsRemoteNameValid="C:\Windows\SysWOW64\netutils".NetpIsRemoteNameValid
+  NetpIsShareNameValid="C:\Windows\SysWOW64\netutils".NetpIsShareNameValid
+  NetpIsUncComputerNameValid="C:\Windows\SysWOW64\netutils".NetpIsUncComputerNameValid
+  NetpIsUserNameValid="C:\Windows\SysWOW64\netutils".NetpIsUserNameValid
+  NetpwListCanonicalize="C:\Windows\SysWOW64\netutils".NetpwListCanonicalize
+  NetpwListTraverse="C:\Windows\SysWOW64\netutils".NetpwListTraverse
+  NetpwNameCanonicalize="C:\Windows\SysWOW64\netutils".NetpwNameCanonicalize
+  NetpwNameCompare="C:\Windows\SysWOW64\netutils".NetpwNameCompare
+  NetpwNameValidate="C:\Windows\SysWOW64\netutils".NetpwNameValidate
+  NetpwPathCanonicalize="C:\Windows\SysWOW64\netutils".NetpwPathCanonicalize
+  NetpwPathCompare="C:\Windows\SysWOW64\netutils".NetpwPathCompare
+  NetpwPathType="C:\Windows\SysWOW64\netutils".NetpwPathType

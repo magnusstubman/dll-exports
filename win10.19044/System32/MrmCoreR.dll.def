@@ -1,0 +1,19 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MrmCoreR".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\MrmCoreR".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\MrmCoreR".DllGetClassObject
+  GetInternalReferenceBlobForManifestValue="C:\Windows\System32\MrmCoreR".GetInternalReferenceBlobForManifestValue
+  GetMergedSystemPri="C:\Windows\System32\MrmCoreR".GetMergedSystemPri
+  GetMergedSystemPriEx="C:\Windows\System32\MrmCoreR".GetMergedSystemPriEx
+  GetStringValueForManifestField="C:\Windows\System32\MrmCoreR".GetStringValueForManifestField
+  MergeResourcePackPri="C:\Windows\System32\MrmCoreR".MergeResourcePackPri
+  MergeSystemPriFiles="C:\Windows\System32\MrmCoreR".MergeSystemPriFiles
+  ResourceManagerQueueGetCurrentDepth="C:\Windows\System32\MrmCoreR".ResourceManagerQueueGetCurrentDepth
+  ResourceManagerQueueGetGlobalFlags="C:\Windows\System32\MrmCoreR".ResourceManagerQueueGetGlobalFlags
+  ResourceManagerQueueGetMrtCachePathForPackage="C:\Windows\System32\MrmCoreR".ResourceManagerQueueGetMrtCachePathForPackage
+  ResourceManagerQueueGetString="C:\Windows\System32\MrmCoreR".ResourceManagerQueueGetString
+  ResourceManagerQueueGetStringDirect="C:\Windows\System32\MrmCoreR".ResourceManagerQueueGetStringDirect
+  ResourceManagerQueueIsResourceReference="C:\Windows\System32\MrmCoreR".ResourceManagerQueueIsResourceReference
+  ResourceManagerQueueReset="C:\Windows\System32\MrmCoreR".ResourceManagerQueueReset
+  ResourceManagerQueueSetGlobalFlags="C:\Windows\System32\MrmCoreR".ResourceManagerQueueSetGlobalFlags
+  ShouldMergeInproc="C:\Windows\System32\MrmCoreR".ShouldMergeInproc

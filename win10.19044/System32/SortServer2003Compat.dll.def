@@ -1,0 +1,3 @@
+EXPORTS
+  SortCloseHandle="C:\Windows\System32\SortServer2003Compat".SortCloseHandle
+  SortGetHandle="C:\Windows\System32\SortServer2003Compat".SortGetHandle

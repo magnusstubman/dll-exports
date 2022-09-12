@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\WLanConn".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\WLanConn".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\WLanConn".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\WLanConn".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\WLanConn".DllUnregisterServer

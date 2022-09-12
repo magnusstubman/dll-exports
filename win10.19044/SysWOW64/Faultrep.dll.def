@@ -1,0 +1,17 @@
+EXPORTS
+  AddERExcludedApplicationA="C:\Windows\SysWOW64\Faultrep".AddERExcludedApplicationA
+  AddERExcludedApplicationW="C:\Windows\SysWOW64\Faultrep".AddERExcludedApplicationW
+  BasepReportFault="C:\Windows\SysWOW64\Faultrep".BasepReportFault
+  CancelHangReporting="C:\Windows\SysWOW64\Faultrep".CancelHangReporting
+  CheckForReadOnlyResourceFilter="C:\Windows\SysWOW64\Faultrep".CheckForReadOnlyResourceFilter
+  CheckPerUserCrossProcessThrottle="C:\Windows\SysWOW64\Faultrep".CheckPerUserCrossProcessThrottle
+  DllCanUnloadNow="C:\Windows\SysWOW64\Faultrep".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\Faultrep".DllGetClassObject
+  ReportCoreHang="C:\Windows\SysWOW64\Faultrep".ReportCoreHang
+  ReportFault="C:\Windows\SysWOW64\Faultrep".ReportFault
+  ReportHang="C:\Windows\SysWOW64\Faultrep".ReportHang
+  UpdatePerUserLastCrossProcessCollectionTime="C:\Windows\SysWOW64\Faultrep".UpdatePerUserLastCrossProcessCollectionTime
+  WerReportHang="C:\Windows\SysWOW64\Faultrep".WerReportHang
+  WerpGetDebugger="C:\Windows\SysWOW64\Faultrep".WerpGetDebugger
+  WerpInitiateCrashReporting="C:\Windows\SysWOW64\Faultrep".WerpInitiateCrashReporting
+  WerpLaunchAeDebug="C:\Windows\SysWOW64\Faultrep".WerpLaunchAeDebug

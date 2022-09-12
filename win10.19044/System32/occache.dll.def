@@ -1,0 +1,18 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\occache".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\occache".DllGetClassObject
+  FindControlClose="C:\Windows\System32\occache".FindControlClose
+  FindFirstControl="C:\Windows\System32\occache".FindFirstControl
+  FindFirstControlArch="C:\Windows\System32\occache".FindFirstControlArch
+  FindNextControl="C:\Windows\System32\occache".FindNextControl
+  FindNextControlArch="C:\Windows\System32\occache".FindNextControlArch
+  GetControlDependentFile="C:\Windows\System32\occache".GetControlDependentFile
+  GetControlInfo="C:\Windows\System32\occache".GetControlInfo
+  IsModuleRemovable="C:\Windows\System32\occache".IsModuleRemovable
+  ReleaseControlHandle="C:\Windows\System32\occache".ReleaseControlHandle
+  RemoveControlByHandle="C:\Windows\System32\occache".RemoveControlByHandle
+  RemoveControlByHandle2="C:\Windows\System32\occache".RemoveControlByHandle2
+  RemoveControlByName="C:\Windows\System32\occache".RemoveControlByName
+  RemoveControlByName2="C:\Windows\System32\occache".RemoveControlByName2
+  RemoveExpiredControls="C:\Windows\System32\occache".RemoveExpiredControls
+  SweepControlsByLastAccessDate="C:\Windows\System32\occache".SweepControlsByLastAccessDate

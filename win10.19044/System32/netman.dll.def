@@ -1,0 +1,10 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\System32\netman".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\netman".DllUnregisterServer
+  HrGetPnpDeviceStatus="C:\Windows\System32\netman".HrGetPnpDeviceStatus
+  HrLanConnectionNameFromGuidOrPath="C:\Windows\System32\netman".HrLanConnectionNameFromGuidOrPath
+  HrPnpInstanceIdFromGuid="C:\Windows\System32\netman".HrPnpInstanceIdFromGuid
+  HrQueryLanMediaState="C:\Windows\System32\netman".HrQueryLanMediaState
+  NetManDiagFromCommandArgs="C:\Windows\System32\netman".NetManDiagFromCommandArgs
+  ServiceMain="C:\Windows\System32\netman".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\netman".SvchostPushServiceGlobals

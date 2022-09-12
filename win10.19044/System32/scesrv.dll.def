@@ -1,0 +1,3 @@
+EXPORTS
+  ScesrvInitializeServer="C:\Windows\System32\scesrv".ScesrvInitializeServer
+  ScesrvTerminateServer="C:\Windows\System32\scesrv".ScesrvTerminateServer

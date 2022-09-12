@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Web.Diagnostics".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Web.Diagnostics".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Web.Diagnostics".DllGetClassObject

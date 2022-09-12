@@ -1,0 +1,6 @@
+EXPORTS
+  DispBrokerTraceLogCallback="C:\Windows\System32\DispBroker".DispBrokerTraceLogCallback
+  DispBrokerTraceLogHelper="C:\Windows\System32\DispBroker".DispBrokerTraceLogHelper
+  DllCanUnloadNow="C:\Windows\System32\DispBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\DispBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\DispBroker".DllGetClassObject

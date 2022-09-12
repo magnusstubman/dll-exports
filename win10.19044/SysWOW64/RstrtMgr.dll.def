@@ -1,0 +1,13 @@
+EXPORTS
+  RmAddFilter="C:\Windows\SysWOW64\RstrtMgr".RmAddFilter
+  RmCancelCurrentTask="C:\Windows\SysWOW64\RstrtMgr".RmCancelCurrentTask
+  RmEndSession="C:\Windows\SysWOW64\RstrtMgr".RmEndSession
+  RmGetFilterList="C:\Windows\SysWOW64\RstrtMgr".RmGetFilterList
+  RmGetList="C:\Windows\SysWOW64\RstrtMgr".RmGetList
+  RmJoinSession="C:\Windows\SysWOW64\RstrtMgr".RmJoinSession
+  RmRegisterResources="C:\Windows\SysWOW64\RstrtMgr".RmRegisterResources
+  RmRemoveFilter="C:\Windows\SysWOW64\RstrtMgr".RmRemoveFilter
+  RmReserveHeap="C:\Windows\SysWOW64\RstrtMgr".RmReserveHeap
+  RmRestart="C:\Windows\SysWOW64\RstrtMgr".RmRestart
+  RmShutdown="C:\Windows\SysWOW64\RstrtMgr".RmShutdown
+  RmStartSession="C:\Windows\SysWOW64\RstrtMgr".RmStartSession

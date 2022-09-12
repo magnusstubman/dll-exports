@@ -1,0 +1,5 @@
+EXPORTS
+  CreateDCompositionDirectInkFactoryPartner="C:\Windows\System32\Windows.UI.Input.Inking".CreateDCompositionDirectInkFactoryPartner
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.Input.Inking".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.Input.Inking".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.Input.Inking".DllGetClassObject

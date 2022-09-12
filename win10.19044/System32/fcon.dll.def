@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fcon".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\fcon".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\fcon".DllGetClassObject
+  GetCtacPropertyAlloc="C:\Windows\System32\fcon".GetCtacPropertyAlloc
+  ModifyStagingControls="C:\Windows\System32\fcon".ModifyStagingControls

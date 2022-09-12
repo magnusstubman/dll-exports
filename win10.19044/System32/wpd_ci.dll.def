@@ -1,0 +1,6 @@
+EXPORTS
+  CoDeviceInstall="C:\Windows\System32\wpd_ci".CoDeviceInstall
+  DoCmd="C:\Windows\System32\wpd_ci".DoCmd
+  MigrateMTPDevicesInstalledAsMSC="C:\Windows\System32\wpd_ci".MigrateMTPDevicesInstalledAsMSC
+  RescanBus="C:\Windows\System32\wpd_ci".RescanBus
+  WpdClassInstaller="C:\Windows\System32\wpd_ci".WpdClassInstaller

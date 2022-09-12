@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\lltdapi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\lltdapi".DllGetClassObject
+  LLTDCreateEnumerator="C:\Windows\System32\lltdapi".LLTDCreateEnumerator
+  LLTDCreateMapFromXML="C:\Windows\System32\lltdapi".LLTDCreateMapFromXML
+  LLTDCreateMapper="C:\Windows\System32\lltdapi".LLTDCreateMapper
+  LLTDCreateNode="C:\Windows\System32\lltdapi".LLTDCreateNode

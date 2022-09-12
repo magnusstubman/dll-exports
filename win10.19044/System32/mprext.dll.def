@@ -1,0 +1,12 @@
+EXPORTS
+  DoBroadcastSystemMessageWorker="C:\Windows\System32\mprext".DoBroadcastSystemMessageWorker
+  DoCommandLinePromptWorker="C:\Windows\System32\mprext".DoCommandLinePromptWorker
+  DoPasswordDialogWorker="C:\Windows\System32\mprext".DoPasswordDialogWorker
+  DoProfileErrorDialogWorker="C:\Windows\System32\mprext".DoProfileErrorDialogWorker
+  ShowReconnectDialogEndWorker="C:\Windows\System32\mprext".ShowReconnectDialogEndWorker
+  ShowReconnectDialogUIWorker="C:\Windows\System32\mprext".ShowReconnectDialogUIWorker
+  ShowReconnectDialogWorker="C:\Windows\System32\mprext".ShowReconnectDialogWorker
+  WNetConnectionDialog1WWorker="C:\Windows\System32\mprext".WNetConnectionDialog1WWorker
+  WNetConnectionDialogWorker="C:\Windows\System32\mprext".WNetConnectionDialogWorker
+  WNetDisconnectDialog1WWorker="C:\Windows\System32\mprext".WNetDisconnectDialog1WWorker
+  WNetDisconnectDialogWorker="C:\Windows\System32\mprext".WNetDisconnectDialogWorker

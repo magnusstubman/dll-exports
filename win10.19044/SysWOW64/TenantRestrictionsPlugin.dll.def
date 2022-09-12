@@ -1,0 +1,4 @@
+EXPORTS
+  GetTenantRestrictionsHostnames="C:\Windows\SysWOW64\TenantRestrictionsPlugin".GetTenantRestrictionsHostnames
+  HttpPolicyExtensionInit="C:\Windows\SysWOW64\TenantRestrictionsPlugin".HttpPolicyExtensionInit
+  HttpPolicyExtensionShutdown="C:\Windows\SysWOW64\TenantRestrictionsPlugin".HttpPolicyExtensionShutdown

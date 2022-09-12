@@ -1,0 +1,6 @@
+EXPORTS
+  CloseLayoutPolicyCheckerInstance="C:\Windows\System32\iuilp".CloseLayoutPolicyCheckerInstance
+  GetAllDefaultApps="C:\Windows\System32\iuilp".GetAllDefaultApps
+  GetDefaultAppsList="C:\Windows\System32\iuilp".GetDefaultAppsList
+  GetLayoutPolicy="C:\Windows\System32\iuilp".GetLayoutPolicy
+  GetLayoutPolicyCheckerInstance="C:\Windows\System32\iuilp".GetLayoutPolicyCheckerInstance

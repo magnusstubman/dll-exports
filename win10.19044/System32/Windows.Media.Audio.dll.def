@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.Audio".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Media.Audio".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Media.Audio".DllGetClassObject

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\imapi2fs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\imapi2fs".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\imapi2fs".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\imapi2fs".DllUnregisterServer

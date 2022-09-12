@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\TpmTasks".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\TpmTasks".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\TpmTasks".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\TpmTasks".DllUnregisterServer

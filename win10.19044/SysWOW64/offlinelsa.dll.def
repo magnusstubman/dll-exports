@@ -1,0 +1,20 @@
+EXPORTS
+  LsaOfflineAddAccountRights="C:\Windows\SysWOW64\offlinelsa".LsaOfflineAddAccountRights
+  LsaOfflineAddPrivilegesToAccount="C:\Windows\SysWOW64\offlinelsa".LsaOfflineAddPrivilegesToAccount
+  LsaOfflineClose="C:\Windows\SysWOW64\offlinelsa".LsaOfflineClose
+  LsaOfflineCreateAccount="C:\Windows\SysWOW64\offlinelsa".LsaOfflineCreateAccount
+  LsaOfflineDelete="C:\Windows\SysWOW64\offlinelsa".LsaOfflineDelete
+  LsaOfflineEnumerateAccountRights="C:\Windows\SysWOW64\offlinelsa".LsaOfflineEnumerateAccountRights
+  LsaOfflineEnumerateAccounts="C:\Windows\SysWOW64\offlinelsa".LsaOfflineEnumerateAccounts
+  LsaOfflineEnumeratePrivilegesOfAccount="C:\Windows\SysWOW64\offlinelsa".LsaOfflineEnumeratePrivilegesOfAccount
+  LsaOfflineFreeMemory="C:\Windows\SysWOW64\offlinelsa".LsaOfflineFreeMemory
+  LsaOfflineGetSystemAccessAccount="C:\Windows\SysWOW64\offlinelsa".LsaOfflineGetSystemAccessAccount
+  LsaOfflineOpenAccount="C:\Windows\SysWOW64\offlinelsa".LsaOfflineOpenAccount
+  LsaOfflineOpenPolicy="C:\Windows\SysWOW64\offlinelsa".LsaOfflineOpenPolicy
+  LsaOfflineOpenPolicyExternal="C:\Windows\SysWOW64\offlinelsa".LsaOfflineOpenPolicyExternal
+  LsaOfflineOpenPolicyForInstaller="C:\Windows\SysWOW64\offlinelsa".LsaOfflineOpenPolicyForInstaller
+  LsaOfflineQueryInformationPolicy="C:\Windows\SysWOW64\offlinelsa".LsaOfflineQueryInformationPolicy
+  LsaOfflineRemoveAccountRights="C:\Windows\SysWOW64\offlinelsa".LsaOfflineRemoveAccountRights
+  LsaOfflineRemovePrivilegesFromAccount="C:\Windows\SysWOW64\offlinelsa".LsaOfflineRemovePrivilegesFromAccount
+  LsaOfflineSetSystemAccessAccount="C:\Windows\SysWOW64\offlinelsa".LsaOfflineSetSystemAccessAccount
+  LsaOfflineSyskeyRequest="C:\Windows\SysWOW64\offlinelsa".LsaOfflineSyskeyRequest

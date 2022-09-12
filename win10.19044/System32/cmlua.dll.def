@@ -1,0 +1,11 @@
+EXPORTS
+  DllAddRef="C:\Windows\System32\cmlua".DllAddRef
+  DllCanUnloadNow="C:\Windows\System32\cmlua".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\cmlua".DllGetClassObject
+  DllMain="C:\Windows\System32\cmlua".DllMain
+  DllRelease="C:\Windows\System32\cmlua".DllRelease
+  _GetCoCreateInstanceAsAdminHandle="C:\Windows\System32\cmlua"._GetCoCreateInstanceAsAdminHandle
+  _RemoveShieldIcon="C:\Windows\System32\cmlua"._RemoveShieldIcon
+  _SetShieldButton="C:\Windows\System32\cmlua"._SetShieldButton
+  _SetShieldIcon="C:\Windows\System32\cmlua"._SetShieldIcon
+  _ThrowErrorBox="C:\Windows\System32\cmlua"._ThrowErrorBox

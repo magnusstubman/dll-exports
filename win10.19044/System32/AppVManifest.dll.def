@@ -1,0 +1,5 @@
+EXPORTS
+  CreateManifestDocumentFromDocument="C:\Windows\System32\AppVManifest".CreateManifestDocumentFromDocument
+  CreateManifestDocumentFromFile="C:\Windows\System32\AppVManifest".CreateManifestDocumentFromFile
+  CreateManifestDocumentFromXML="C:\Windows\System32\AppVManifest".CreateManifestDocumentFromXML
+  GetManifestSelectionNamespaces="C:\Windows\System32\AppVManifest".GetManifestSelectionNamespaces

@@ -1,0 +1,11 @@
+EXPORTS
+  ConnectionScheduleDialog="C:\Windows\System32\loghours".ConnectionScheduleDialog
+  ConnectionScheduleDialogEx="C:\Windows\System32\loghours".ConnectionScheduleDialogEx
+  DialinHoursDialog="C:\Windows\System32\loghours".DialinHoursDialog
+  DialinHoursDialogEx="C:\Windows\System32\loghours".DialinHoursDialogEx
+  DirSyncScheduleDialog="C:\Windows\System32\loghours".DirSyncScheduleDialog
+  DirSyncScheduleDialogEx="C:\Windows\System32\loghours".DirSyncScheduleDialogEx
+  LogonScheduleDialog="C:\Windows\System32\loghours".LogonScheduleDialog
+  LogonScheduleDialogEx="C:\Windows\System32\loghours".LogonScheduleDialogEx
+  ReplicationScheduleDialog="C:\Windows\System32\loghours".ReplicationScheduleDialog
+  ReplicationScheduleDialogEx="C:\Windows\System32\loghours".ReplicationScheduleDialogEx

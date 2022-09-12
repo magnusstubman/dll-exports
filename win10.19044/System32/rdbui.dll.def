@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\rdbui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\rdbui".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\rdbui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\rdbui".DllUnregisterServer
+  RDBMgmtLaunchPropertiesW="C:\Windows\System32\rdbui".RDBMgmtLaunchPropertiesW

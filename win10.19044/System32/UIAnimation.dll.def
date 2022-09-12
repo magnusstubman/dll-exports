@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\UIAnimation".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\UIAnimation".DllGetClassObject

@@ -1,0 +1,16 @@
+EXPORTS
+  WSHAddressToString="C:\Windows\SysWOW64\wship6".WSHAddressToString
+  WSHEnumProtocols="C:\Windows\SysWOW64\wship6".WSHEnumProtocols
+  WSHGetProviderGuid="C:\Windows\SysWOW64\wship6".WSHGetProviderGuid
+  WSHGetSockaddrType="C:\Windows\SysWOW64\wship6".WSHGetSockaddrType
+  WSHGetSocketInformation="C:\Windows\SysWOW64\wship6".WSHGetSocketInformation
+  WSHGetWSAProtocolInfo="C:\Windows\SysWOW64\wship6".WSHGetWSAProtocolInfo
+  WSHGetWildcardSockaddr="C:\Windows\SysWOW64\wship6".WSHGetWildcardSockaddr
+  WSHGetWinsockMapping="C:\Windows\SysWOW64\wship6".WSHGetWinsockMapping
+  WSHIoctl="C:\Windows\SysWOW64\wship6".WSHIoctl
+  WSHJoinLeaf="C:\Windows\SysWOW64\wship6".WSHJoinLeaf
+  WSHNotify="C:\Windows\SysWOW64\wship6".WSHNotify
+  WSHOpenSocket="C:\Windows\SysWOW64\wship6".WSHOpenSocket
+  WSHOpenSocket2="C:\Windows\SysWOW64\wship6".WSHOpenSocket2
+  WSHSetSocketInformation="C:\Windows\SysWOW64\wship6".WSHSetSocketInformation
+  WSHStringToAddress="C:\Windows\SysWOW64\wship6".WSHStringToAddress

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\sdiagschd".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\sdiagschd".DllGetClassObject
+  EnableScheduledDiagnostics="C:\Windows\System32\sdiagschd".EnableScheduledDiagnostics
+  GetScheduledDiagnosticsExecutionLevel="C:\Windows\System32\sdiagschd".GetScheduledDiagnosticsExecutionLevel

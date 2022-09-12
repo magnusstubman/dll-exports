@@ -1,0 +1,3 @@
+EXPORTS
+  CreateTdlMigrator="C:\Windows\System32\TDLMigration".CreateTdlMigrator
+  CreateTdlMigratorForUser="C:\Windows\System32\TDLMigration".CreateTdlMigratorForUser

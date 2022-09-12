@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\thumbcache".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\thumbcache".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\thumbcache".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\SysWOW64\thumbcache".GetProxyDllInfo

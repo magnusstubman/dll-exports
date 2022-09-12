@@ -1,0 +1,2 @@
+EXPORTS
+  CreateFontDownloadManager="C:\Windows\System32\FontProvider".CreateFontDownloadManager

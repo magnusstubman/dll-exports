@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\OneCoreUAPCommonProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\OneCoreUAPCommonProxyStub".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\OneCoreUAPCommonProxyStub".GetProxyDllInfo

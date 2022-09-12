@@ -1,0 +1,6 @@
+EXPORTS
+  CreateDCOMSecurityUIPage="C:\Windows\System32\comuid".CreateDCOMSecurityUIPage
+  DllCanUnloadNow="C:\Windows\System32\comuid".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\comuid".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\comuid".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\comuid".DllUnregisterServer

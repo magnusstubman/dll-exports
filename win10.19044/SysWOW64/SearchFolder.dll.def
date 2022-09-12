@@ -1,0 +1,11 @@
+EXPORTS
+  AppendHiddenSearchContext="C:\Windows\SysWOW64\SearchFolder".AppendHiddenSearchContext
+  CDBFolderUI_CreateInstance="C:\Windows\SysWOW64\SearchFolder".CDBFolderUI_CreateInstance
+  CSearchDelegateFolderUI_CreateInstance="C:\Windows\SysWOW64\SearchFolder".CSearchDelegateFolderUI_CreateInstance
+  DllCanUnloadNow="C:\Windows\SysWOW64\SearchFolder".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\SearchFolder".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\SearchFolder".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\SearchFolder".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\SearchFolder".DllUnregisterServer
+  GetAggregateQueryError="C:\Windows\SysWOW64\SearchFolder".GetAggregateQueryError
+  s_GetStartMenuFilesScope="C:\Windows\SysWOW64\SearchFolder".s_GetStartMenuFilesScope

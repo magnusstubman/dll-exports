@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WofTasks".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WofTasks".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WofTasks".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WofTasks".DllUnregisterServer

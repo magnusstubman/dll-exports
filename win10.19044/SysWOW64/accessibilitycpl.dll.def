@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\accessibilitycpl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\accessibilitycpl".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\accessibilitycpl".DllInstall
+  DllMain="C:\Windows\SysWOW64\accessibilitycpl".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\accessibilitycpl".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\accessibilitycpl".DllUnregisterServer

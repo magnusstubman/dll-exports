@@ -1,0 +1,16 @@
+EXPORTS
+  CheckAllowDiagnosticsMode="C:\Windows\System32\WwaExt".CheckAllowDiagnosticsMode
+  DetermineCurrentDisplayRotationAngle="C:\Windows\System32\WwaExt".DetermineCurrentDisplayRotationAngle
+  DllMain="C:\Windows\System32\WwaExt".DllMain
+  ExtensionModulePreActivate="C:\Windows\System32\WwaExt".ExtensionModulePreActivate
+  GetExtensionHostModuleCount="C:\Windows\System32\WwaExt".GetExtensionHostModuleCount
+  GetExtensionHostModuleFactory="C:\Windows\System32\WwaExt".GetExtensionHostModuleFactory
+  GetExtensionWebModuleCount="C:\Windows\System32\WwaExt".GetExtensionWebModuleCount
+  GetExtensionWebModuleFactory="C:\Windows\System32\WwaExt".GetExtensionWebModuleFactory
+  GetExtensionWebMultiThreadedModuleCount="C:\Windows\System32\WwaExt".GetExtensionWebMultiThreadedModuleCount
+  GetExtensionWebMultiThreadedModuleFactory="C:\Windows\System32\WwaExt".GetExtensionWebMultiThreadedModuleFactory
+  ProcessDisplayRotation="C:\Windows\System32\WwaExt".ProcessDisplayRotation
+  SetPhoneWerParameters="C:\Windows\System32\WwaExt".SetPhoneWerParameters
+  StaticExtensionInitialization="C:\Windows\System32\WwaExt".StaticExtensionInitialization
+  StaticExtensionUnInitialization="C:\Windows\System32\WwaExt".StaticExtensionUnInitialization
+  WWABehaviorEnabled="C:\Windows\System32\WwaExt".WWABehaviorEnabled

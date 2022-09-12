@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\AppManagementConfiguration".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\AppManagementConfiguration".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\AppManagementConfiguration".DllGetClassObject
+  ProcessAppVPolicy="C:\Windows\System32\AppManagementConfiguration".ProcessAppVPolicy
+  ProcessUevPolicy="C:\Windows\System32\AppManagementConfiguration".ProcessUevPolicy

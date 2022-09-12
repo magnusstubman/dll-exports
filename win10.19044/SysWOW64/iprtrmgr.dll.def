@@ -1,0 +1,3 @@
+EXPORTS
+  MapInterfaceToAdapter="C:\Windows\SysWOW64\iprtrmgr".MapInterfaceToAdapter
+  StartRouter="C:\Windows\SysWOW64\iprtrmgr".StartRouter

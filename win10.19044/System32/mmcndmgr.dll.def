@@ -1,0 +1,6 @@
+EXPORTS
+  CreateExecutivePlatform="C:\Windows\System32\mmcndmgr".CreateExecutivePlatform
+  DllCanUnloadNow="C:\Windows\System32\mmcndmgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mmcndmgr".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mmcndmgr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mmcndmgr".DllUnregisterServer

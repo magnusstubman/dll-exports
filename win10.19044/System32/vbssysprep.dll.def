@@ -1,0 +1,4 @@
+EXPORTS
+  SysprepGeneralizeEntry="C:\Windows\System32\vbssysprep".SysprepGeneralizeEntry
+  SysprepSpecializeOfflineEntry="C:\Windows\System32\vbssysprep".SysprepSpecializeOfflineEntry
+  SysprepSpecializeOnlineEntry="C:\Windows\System32\vbssysprep".SysprepSpecializeOnlineEntry

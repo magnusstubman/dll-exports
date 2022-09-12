@@ -1,0 +1,4 @@
+EXPORTS
+  TimeProvClose="C:\Windows\System32\ptpprov".TimeProvClose
+  TimeProvCommand="C:\Windows\System32\ptpprov".TimeProvCommand
+  TimeProvOpen="C:\Windows\System32\ptpprov".TimeProvOpen

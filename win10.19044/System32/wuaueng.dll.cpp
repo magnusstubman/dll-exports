@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\wuaueng.DllMain\"")
+#pragma comment(linker, "/export:GeneralizeForImaging=\"C:\\Windows\\System32\\wuaueng.GeneralizeForImaging\"")
+#pragma comment(linker, "/export:WUCreateExpressionEvaluator=\"C:\\Windows\\System32\\wuaueng.WUCreateExpressionEvaluator\"")
+#pragma comment(linker, "/export:WUCreateUpdateHandler=\"C:\\Windows\\System32\\wuaueng.WUCreateUpdateHandler\"")
+#pragma comment(linker, "/export:WUServiceMain=\"C:\\Windows\\System32\\wuaueng.WUServiceMain\"")

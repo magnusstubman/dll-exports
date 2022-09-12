@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.PointOfService".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.PointOfService".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.PointOfService".DllGetClassObject

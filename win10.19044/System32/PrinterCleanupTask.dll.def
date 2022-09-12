@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PrinterCleanupTask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\PrinterCleanupTask".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\PrinterCleanupTask".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\PrinterCleanupTask".DllUnregisterServer
+  EnablePrinterCleanUpTask="C:\Windows\System32\PrinterCleanupTask".EnablePrinterCleanUpTask
+  SetLastUserInteractionDate="C:\Windows\System32\PrinterCleanupTask".SetLastUserInteractionDate

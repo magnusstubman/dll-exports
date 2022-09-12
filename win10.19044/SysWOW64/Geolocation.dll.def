@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Geolocation".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Geolocation".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Geolocation".DllGetClassObject

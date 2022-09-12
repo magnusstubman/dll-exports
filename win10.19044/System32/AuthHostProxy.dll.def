@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\AuthHostProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\AuthHostProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\AuthHostProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\AuthHostProxy".DllUnregisterServer

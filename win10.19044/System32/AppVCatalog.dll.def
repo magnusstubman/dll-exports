@@ -1,0 +1,6 @@
+EXPORTS
+  Deinitialize="C:\Windows\System32\AppVCatalog".Deinitialize
+  GetClientCatalog="C:\Windows\System32\AppVCatalog".GetClientCatalog
+  GetComponent="C:\Windows\System32\AppVCatalog".GetComponent
+  Initialize="C:\Windows\System32\AppVCatalog".Initialize
+  InitializeISV="C:\Windows\System32\AppVCatalog".InitializeISV

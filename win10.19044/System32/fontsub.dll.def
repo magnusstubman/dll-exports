@@ -1,0 +1,3 @@
+EXPORTS
+  CreateFontPackage="C:\Windows\System32\fontsub".CreateFontPackage
+  MergeFontPackage="C:\Windows\System32\fontsub".MergeFontPackage

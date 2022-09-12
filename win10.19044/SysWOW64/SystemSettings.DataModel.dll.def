@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\SystemSettings.DataModel".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\SystemSettings.DataModel".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\SystemSettings.DataModel".DllGetClassObject

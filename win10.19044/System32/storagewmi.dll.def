@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\storagewmi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\storagewmi".DllGetClassObject
+  DllMain="C:\Windows\System32\storagewmi".DllMain
+  DllRegisterServer="C:\Windows\System32\storagewmi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\storagewmi".DllUnregisterServer
+  GetProviderClassID="C:\Windows\System32\storagewmi".GetProviderClassID
+  MI_Main="C:\Windows\System32\storagewmi".MI_Main

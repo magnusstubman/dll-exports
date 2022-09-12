@@ -1,0 +1,6 @@
+EXPORTS
+  CreateModernAppToDelete="C:\Windows\SysWOW64\ttdplm".CreateModernAppToDelete
+  CreateModernAppToTrace="C:\Windows\SysWOW64\ttdplm".CreateModernAppToTrace
+  GetMaxPackageNameLength="C:\Windows\SysWOW64\ttdplm".GetMaxPackageNameLength
+  GetPackageFromPid="C:\Windows\SysWOW64\ttdplm".GetPackageFromPid
+  SetPermisionsForFolder="C:\Windows\SysWOW64\ttdplm".SetPermisionsForFolder

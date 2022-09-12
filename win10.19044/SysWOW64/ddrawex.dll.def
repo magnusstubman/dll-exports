@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ddrawex".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ddrawex".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\ddrawex".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\ddrawex".DllUnregisterServer

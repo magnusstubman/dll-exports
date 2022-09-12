@@ -1,0 +1,6 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\XInput9_1_0".DllMain
+  XInputGetCapabilities="C:\Windows\SysWOW64\XInput9_1_0".XInputGetCapabilities
+  XInputGetDSoundAudioDeviceGuids="C:\Windows\SysWOW64\XInput9_1_0".XInputGetDSoundAudioDeviceGuids
+  XInputGetState="C:\Windows\SysWOW64\XInput9_1_0".XInputGetState
+  XInputSetState="C:\Windows\SysWOW64\XInput9_1_0".XInputSetState

@@ -1,0 +1,2 @@
+EXPORTS
+  CreateMapGeocoderFactory="C:\Windows\SysWOW64\MapGeocoder".CreateMapGeocoderFactory

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WMNetMgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WMNetMgr".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WMNetMgr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WMNetMgr".DllUnregisterServer

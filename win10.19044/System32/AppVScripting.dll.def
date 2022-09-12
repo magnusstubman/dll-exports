@@ -1,0 +1,5 @@
+EXPORTS
+  Deinitialize="C:\Windows\System32\AppVScripting".Deinitialize
+  GetComponent="C:\Windows\System32\AppVScripting".GetComponent
+  Initialize="C:\Windows\System32\AppVScripting".Initialize
+  InitializeISV="C:\Windows\System32\AppVScripting".InitializeISV

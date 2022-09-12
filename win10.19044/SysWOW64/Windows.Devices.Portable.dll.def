@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.Devices.Portable".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.Devices.Portable".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.Devices.Portable".DllGetClassObject

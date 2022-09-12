@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:InitializeProtocolEngine=\"C:\\Windows\\SysWOW64\\rasppp.InitializeProtocolEngine\"")
+#pragma comment(linker, "/export:InitializeServerProtocolEngine=\"C:\\Windows\\SysWOW64\\rasppp.InitializeServerProtocolEngine\"")
+#pragma comment(linker, "/export:PppStop=\"C:\\Windows\\SysWOW64\\rasppp.PppStop\"")
+#pragma comment(linker, "/export:RasCpEnumProtocolIds=\"C:\\Windows\\SysWOW64\\rasppp.RasCpEnumProtocolIds\"")
+#pragma comment(linker, "/export:RasCpGetInfo=\"C:\\Windows\\SysWOW64\\rasppp.RasCpGetInfo\"")
+#pragma comment(linker, "/export:SendMessageToProtocolEngine=\"C:\\Windows\\SysWOW64\\rasppp.SendMessageToProtocolEngine\"")
+#pragma comment(linker, "/export:UninitializeProtocolEngine=\"C:\\Windows\\SysWOW64\\rasppp.UninitializeProtocolEngine\"")
+#pragma comment(linker, "/export:UninitializeServerProtocolEngine=\"C:\\Windows\\SysWOW64\\rasppp.UninitializeServerProtocolEngine\"")

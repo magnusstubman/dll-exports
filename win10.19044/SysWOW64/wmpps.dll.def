@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wmpps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wmpps".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wmpps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wmpps".DllUnregisterServer

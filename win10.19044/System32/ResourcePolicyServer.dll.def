@@ -1,0 +1,4 @@
+EXPORTS
+  RmRpsInitialize="C:\Windows\System32\ResourcePolicyServer".RmRpsInitialize
+  RmRpsNotifyApplicationInterruptiveUIChange="C:\Windows\System32\ResourcePolicyServer".RmRpsNotifyApplicationInterruptiveUIChange
+  RmRpsQueryResourceSetInfo="C:\Windows\System32\ResourcePolicyServer".RmRpsQueryResourceSetInfo

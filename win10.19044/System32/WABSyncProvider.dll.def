@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WABSyncProvider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WABSyncProvider".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WABSyncProvider".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WABSyncProvider".DllUnregisterServer

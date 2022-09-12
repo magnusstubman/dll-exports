@@ -1,0 +1,5 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\SysWOW64\sxsstore".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\sxsstore".DllMain
+  SxsStoreFinalize="C:\Windows\SysWOW64\sxsstore".SxsStoreFinalize
+  SxsStoreInitialize="C:\Windows\SysWOW64\sxsstore".SxsStoreInitialize

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\rdpviewerax".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\rdpviewerax".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\rdpviewerax".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\rdpviewerax".DllUnregisterServer

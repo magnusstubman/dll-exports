@@ -1,0 +1,3 @@
+EXPORTS
+  CardAcquireContext="C:\Windows\SysWOW64\msclmd".CardAcquireContext
+  CardAcquireContextInternal="C:\Windows\SysWOW64\msclmd".CardAcquireContextInternal

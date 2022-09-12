@@ -1,0 +1,12 @@
+EXPORTS
+  SrmGetTracingContextPerThread="C:\Windows\SysWOW64\srmtrace".SrmGetTracingContextPerThread
+  SrmGetTracingModuleInfo="C:\Windows\SysWOW64\srmtrace".SrmGetTracingModuleInfo
+  SrmGetTracingSequenceNumber="C:\Windows\SysWOW64\srmtrace".SrmGetTracingSequenceNumber
+  SrmIsTracingEnabled="C:\Windows\SysWOW64\srmtrace".SrmIsTracingEnabled
+  SrmIsTracingEnabledOnFunction="C:\Windows\SysWOW64\srmtrace".SrmIsTracingEnabledOnFunction
+  SrmIsTracingEnabledOnModule="C:\Windows\SysWOW64\srmtrace".SrmIsTracingEnabledOnModule
+  SrmIsTracingEnabledPerThread="C:\Windows\SysWOW64\srmtrace".SrmIsTracingEnabledPerThread
+  SrmSetTracingContextPerThread="C:\Windows\SysWOW64\srmtrace".SrmSetTracingContextPerThread
+  SrmTraceInitialize="C:\Windows\SysWOW64\srmtrace".SrmTraceInitialize
+  SrmTraceMessage="C:\Windows\SysWOW64\srmtrace".SrmTraceMessage
+  SrmTraceUninitialize="C:\Windows\SysWOW64\srmtrace".SrmTraceUninitialize

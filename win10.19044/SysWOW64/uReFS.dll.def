@@ -1,0 +1,14 @@
+EXPORTS
+  ??0REFS_SA@@QAE@XZ="C:\Windows\SysWOW64\uReFS".??0REFS_SA@@QAE@XZ
+  ??0REFS_UPCASE_TABLE@@QAE@XZ="C:\Windows\SysWOW64\uReFS".??0REFS_UPCASE_TABLE@@QAE@XZ
+  ??1REFS_SA@@UAE@XZ="C:\Windows\SysWOW64\uReFS".??1REFS_SA@@UAE@XZ
+  ??1REFS_UPCASE_TABLE@@UAE@XZ="C:\Windows\SysWOW64\uReFS".??1REFS_UPCASE_TABLE@@UAE@XZ
+  ?Initialize@REFS_SA@@QAEEPAVLOG_IO_DP_DRIVE@@PAVMESSAGE@@@Z="C:\Windows\SysWOW64\uReFS".?Initialize@REFS_SA@@QAEEPAVLOG_IO_DP_DRIVE@@PAVMESSAGE@@@Z
+  Chkdsk="C:\Windows\SysWOW64\uReFS".Chkdsk
+  ChkdskEx="C:\Windows\SysWOW64\uReFS".ChkdskEx
+  Extend="C:\Windows\SysWOW64\uReFS".Extend
+  Format="C:\Windows\SysWOW64\uReFS".Format
+  FormatEx="C:\Windows\SysWOW64\uReFS".FormatEx
+  GetFilesystemInformation="C:\Windows\SysWOW64\uReFS".GetFilesystemInformation
+  Recover="C:\Windows\SysWOW64\uReFS".Recover
+  SetOriginalVolumeName="C:\Windows\SysWOW64\uReFS".SetOriginalVolumeName

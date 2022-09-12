@@ -1,0 +1,4 @@
+EXPORTS
+  CreateInputTypeAttributes="C:\Windows\SysWOW64\MTF".CreateInputTypeAttributes
+  DllCanUnloadNow="C:\Windows\SysWOW64\MTF".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MTF".DllGetClassObject

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mimefilt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mimefilt".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mimefilt".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mimefilt".DllUnregisterServer

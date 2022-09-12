@@ -1,0 +1,7 @@
+EXPORTS
+  PAL_App2DeviceFindAllPeers="C:\Windows\System32\ProximityRtapiPal".PAL_App2DeviceFindAllPeers
+  PAL_CheckForApp2DeviceAlternateId="C:\Windows\System32\ProximityRtapiPal".PAL_CheckForApp2DeviceAlternateId
+  PAL_CheckForBluetoothSupport="C:\Windows\System32\ProximityRtapiPal".PAL_CheckForBluetoothSupport
+  PAL_GetCurrentProcessExplicitAppUserModelID="C:\Windows\System32\ProximityRtapiPal".PAL_GetCurrentProcessExplicitAppUserModelID
+  PAL_ParseAppUserModelId="C:\Windows\System32\ProximityRtapiPal".PAL_ParseAppUserModelId
+  PAL_SetCurrentProcessExplicitAppUserModelID="C:\Windows\System32\ProximityRtapiPal".PAL_SetCurrentProcessExplicitAppUserModelID

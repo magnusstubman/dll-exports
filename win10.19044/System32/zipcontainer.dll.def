@@ -1,0 +1,5 @@
+EXPORTS
+  CreateFileStream="C:\Windows\System32\zipcontainer".CreateFileStream
+  ZipContainerCreateArchiveOnFile="C:\Windows\System32\zipcontainer".ZipContainerCreateArchiveOnFile
+  ZipContainerInitialize="C:\Windows\System32\zipcontainer".ZipContainerInitialize
+  ZipContainerUninitialize="C:\Windows\System32\zipcontainer".ZipContainerUninitialize

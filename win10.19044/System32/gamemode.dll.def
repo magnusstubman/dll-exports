@@ -1,0 +1,9 @@
+EXPORTS
+  GetExpandedResourceExclusiveCpuCount="C:\Windows\System32\gamemode".GetExpandedResourceExclusiveCpuCount
+  HasExpandedResources="C:\Windows\System32\gamemode".HasExpandedResources
+  MsixvcAddGameToGCS="C:\Windows\System32\gamemode".MsixvcAddGameToGCS
+  MsixvcAddPackageAsync="C:\Windows\System32\gamemode".MsixvcAddPackageAsync
+  MsixvcRemediateMutablePackagesForVolumeAsync="C:\Windows\System32\gamemode".MsixvcRemediateMutablePackagesForVolumeAsync
+  MsixvcUpdatePolicyString="C:\Windows\System32\gamemode".MsixvcUpdatePolicyString
+  MsixvcUpdatePolicyUInt64="C:\Windows\System32\gamemode".MsixvcUpdatePolicyUInt64
+  ReleaseExclusiveCpuSets="C:\Windows\System32\gamemode".ReleaseExclusiveCpuSets

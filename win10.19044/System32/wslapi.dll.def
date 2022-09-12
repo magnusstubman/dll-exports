@@ -1,0 +1,11 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wslapi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wslapi".DllGetClassObject
+  DllMain="C:\Windows\System32\wslapi".DllMain
+  WslConfigureDistribution="C:\Windows\System32\wslapi".WslConfigureDistribution
+  WslGetDistributionConfiguration="C:\Windows\System32\wslapi".WslGetDistributionConfiguration
+  WslIsDistributionRegistered="C:\Windows\System32\wslapi".WslIsDistributionRegistered
+  WslLaunch="C:\Windows\System32\wslapi".WslLaunch
+  WslLaunchInteractive="C:\Windows\System32\wslapi".WslLaunchInteractive
+  WslRegisterDistribution="C:\Windows\System32\wslapi".WslRegisterDistribution
+  WslUnregisterDistribution="C:\Windows\System32\wslapi".WslUnregisterDistribution

@@ -1,0 +1,2 @@
+EXPORTS
+  WinMLCreateRuntime="C:\Windows\System32\winml".WinMLCreateRuntime

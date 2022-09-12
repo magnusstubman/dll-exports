@@ -1,0 +1,22 @@
+EXPORTS
+  CreateAssemblyCache="C:\Windows\System32\sxs".CreateAssemblyCache
+  CreateAssemblyNameObject="C:\Windows\System32\sxs".CreateAssemblyNameObject
+  SxsBeginAssemblyInstall="C:\Windows\System32\sxs".SxsBeginAssemblyInstall
+  SxsEndAssemblyInstall="C:\Windows\System32\sxs".SxsEndAssemblyInstall
+  SxsFindClrClassInformation="C:\Windows\System32\sxs".SxsFindClrClassInformation
+  SxsFindClrSurrogateInformation="C:\Windows\System32\sxs".SxsFindClrSurrogateInformation
+  SxsGenerateActivationContext="C:\Windows\System32\sxs".SxsGenerateActivationContext
+  SxsInstallW="C:\Windows\System32\sxs".SxsInstallW
+  SxsLookupClrGuid="C:\Windows\System32\sxs".SxsLookupClrGuid
+  SxsOleAut32MapConfiguredClsidToReferenceClsid="C:\Windows\System32\sxs".SxsOleAut32MapConfiguredClsidToReferenceClsid
+  SxsOleAut32MapIIDOrCLSIDToTypeLibrary="C:\Windows\System32\sxs".SxsOleAut32MapIIDOrCLSIDToTypeLibrary
+  SxsOleAut32MapIIDToProxyStubCLSID="C:\Windows\System32\sxs".SxsOleAut32MapIIDToProxyStubCLSID
+  SxsOleAut32MapIIDToTLBPath="C:\Windows\System32\sxs".SxsOleAut32MapIIDToTLBPath
+  SxsOleAut32MapReferenceClsidToConfiguredClsid="C:\Windows\System32\sxs".SxsOleAut32MapReferenceClsidToConfiguredClsid
+  SxsOleAut32RedirectTypeLibrary="C:\Windows\System32\sxs".SxsOleAut32RedirectTypeLibrary
+  SxsProbeAssemblyInstallation="C:\Windows\System32\sxs".SxsProbeAssemblyInstallation
+  SxsQueryManifestInformation="C:\Windows\System32\sxs".SxsQueryManifestInformation
+  SxsRunDllInstallAssembly="C:\Windows\System32\sxs".SxsRunDllInstallAssembly
+  SxsRunDllInstallAssemblyW="C:\Windows\System32\sxs".SxsRunDllInstallAssemblyW
+  SxsUninstallW="C:\Windows\System32\sxs".SxsUninstallW
+  SxspGenerateManifestPathOnAssemblyIdentity="C:\Windows\System32\sxs".SxspGenerateManifestPathOnAssemblyIdentity

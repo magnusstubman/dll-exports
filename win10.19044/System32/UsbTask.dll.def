@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\UsbTask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\UsbTask".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\UsbTask".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\UsbTask".DllUnregisterServer

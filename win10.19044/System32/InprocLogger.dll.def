@@ -1,0 +1,12 @@
+EXPORTS
+  EnableInProcTracingForProvider="C:\Windows\System32\InprocLogger".EnableInProcTracingForProvider
+  FlushInProcTraceSession="C:\Windows\System32\InprocLogger".FlushInProcTraceSession
+  InitializeInProcLogger="C:\Windows\System32\InprocLogger".InitializeInProcLogger
+  InitializeInProcTraceFlushTrigger="C:\Windows\System32\InprocLogger".InitializeInProcTraceFlushTrigger
+  InitializeInProcTraceSession="C:\Windows\System32\InprocLogger".InitializeInProcTraceSession
+  IsInProcTraceSessionStarted="C:\Windows\System32\InprocLogger".IsInProcTraceSessionStarted
+  ShutdownInProcLogger="C:\Windows\System32\InprocLogger".ShutdownInProcLogger
+  ShutdownInProcTraceFlushTrigger="C:\Windows\System32\InprocLogger".ShutdownInProcTraceFlushTrigger
+  ShutdownInProcTraceSession="C:\Windows\System32\InprocLogger".ShutdownInProcTraceSession
+  StartInProcTraceSession="C:\Windows\System32\InprocLogger".StartInProcTraceSession
+  StopInProcTraceSession="C:\Windows\System32\InprocLogger".StopInProcTraceSession

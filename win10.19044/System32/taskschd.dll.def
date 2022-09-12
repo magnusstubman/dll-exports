@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\taskschd".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\taskschd".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\taskschd".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\taskschd".DllUnregisterServer

@@ -1,0 +1,11 @@
+EXPORTS
+  TokenBindingDeleteAllBindings="C:\Windows\System32\tokenbinding".TokenBindingDeleteAllBindings
+  TokenBindingDeleteBinding="C:\Windows\System32\tokenbinding".TokenBindingDeleteBinding
+  TokenBindingGenerateBinding="C:\Windows\System32\tokenbinding".TokenBindingGenerateBinding
+  TokenBindingGenerateID="C:\Windows\System32\tokenbinding".TokenBindingGenerateID
+  TokenBindingGenerateIDForUri="C:\Windows\System32\tokenbinding".TokenBindingGenerateIDForUri
+  TokenBindingGenerateMessage="C:\Windows\System32\tokenbinding".TokenBindingGenerateMessage
+  TokenBindingGetHighestSupportedVersion="C:\Windows\System32\tokenbinding".TokenBindingGetHighestSupportedVersion
+  TokenBindingGetKeyTypesClient="C:\Windows\System32\tokenbinding".TokenBindingGetKeyTypesClient
+  TokenBindingGetKeyTypesServer="C:\Windows\System32\tokenbinding".TokenBindingGetKeyTypesServer
+  TokenBindingVerifyMessage="C:\Windows\System32\tokenbinding".TokenBindingVerifyMessage

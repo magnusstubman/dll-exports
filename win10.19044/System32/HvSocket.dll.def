@@ -1,0 +1,4 @@
+EXPORTS
+  GetHvSocketLocalAddress="C:\Windows\System32\HvSocket".GetHvSocketLocalAddress
+  GetHvSocketParentAddress="C:\Windows\System32\HvSocket".GetHvSocketParentAddress
+  GetHvSocketSiloHostAddress="C:\Windows\System32\HvSocket".GetHvSocketSiloHostAddress

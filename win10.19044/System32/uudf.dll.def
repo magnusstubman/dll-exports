@@ -1,0 +1,19 @@
+EXPORTS
+  ??0METADATA_PARTITION@@QEAA@XZ="C:\Windows\System32\uudf".??0METADATA_PARTITION@@QEAA@XZ
+  ??0UDF_LVOL@@QEAA@XZ="C:\Windows\System32\uudf".??0UDF_LVOL@@QEAA@XZ
+  ??0UDF_SA@@QEAA@XZ="C:\Windows\System32\uudf".??0UDF_SA@@QEAA@XZ
+  ??0UDF_VOL@@QEAA@XZ="C:\Windows\System32\uudf".??0UDF_VOL@@QEAA@XZ
+  ??1METADATA_PARTITION@@UEAA@XZ="C:\Windows\System32\uudf".??1METADATA_PARTITION@@UEAA@XZ
+  ??1UDF_LVOL@@UEAA@XZ="C:\Windows\System32\uudf".??1UDF_LVOL@@UEAA@XZ
+  ??1UDF_SA@@UEAA@XZ="C:\Windows\System32\uudf".??1UDF_SA@@UEAA@XZ
+  ??1UDF_VOL@@UEAA@XZ="C:\Windows\System32\uudf".??1UDF_VOL@@UEAA@XZ
+  ?CreateOnDisk@UDF_LVOL@@QEAAEPEAVUDF_SA@@PEAVMESSAGE@@PEAVVDS@@PEAUEXTENTAD@@K3@Z="C:\Windows\System32\uudf".?CreateOnDisk@UDF_LVOL@@QEAAEPEAVUDF_SA@@PEAVMESSAGE@@PEAVVDS@@PEAUEXTENTAD@@K3@Z
+  ?Initialize@UDF_SA@@QEAAEPEAVLOG_IO_DP_DRIVE@@PEAVMESSAGE@@G@Z="C:\Windows\System32\uudf".?Initialize@UDF_SA@@QEAAEPEAVLOG_IO_DP_DRIVE@@PEAVMESSAGE@@G@Z
+  ?Initialize@UDF_VOL@@QEAA?AW4FORMAT_ERROR_CODE@@PEBVWSTRING@@PEAVMESSAGE@@EGEEE@Z="C:\Windows\System32\uudf".?Initialize@UDF_VOL@@QEAA?AW4FORMAT_ERROR_CODE@@PEBVWSTRING@@PEAVMESSAGE@@EGEEE@Z
+  ?ReadFromDisk@UDF_LVOL@@QEAAEPEAVUDF_SA@@PEAVMESSAGE@@PEAVVDS@@@Z="C:\Windows\System32\uudf".?ReadFromDisk@UDF_LVOL@@QEAAEPEAVUDF_SA@@PEAVMESSAGE@@PEAVVDS@@@Z
+  Chkdsk="C:\Windows\System32\uudf".Chkdsk
+  ChkdskEx="C:\Windows\System32\uudf".ChkdskEx
+  Format="C:\Windows\System32\uudf".Format
+  FormatEx="C:\Windows\System32\uudf".FormatEx
+  GetFilesystemInformation="C:\Windows\System32\uudf".GetFilesystemInformation
+  Recover="C:\Windows\System32\uudf".Recover

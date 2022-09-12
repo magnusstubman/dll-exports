@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SecurityHealthAgent".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SecurityHealthAgent".DllGetClassObject
+  DllMain="C:\Windows\System32\SecurityHealthAgent".DllMain
+  DllRegisterServer="C:\Windows\System32\SecurityHealthAgent".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\SecurityHealthAgent".DllUnregisterServer

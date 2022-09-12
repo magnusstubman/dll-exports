@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\amstream".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\amstream".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\amstream".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\amstream".DllUnregisterServer

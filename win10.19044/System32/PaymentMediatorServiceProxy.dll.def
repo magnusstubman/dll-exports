@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PaymentMediatorServiceProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\PaymentMediatorServiceProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\PaymentMediatorServiceProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\PaymentMediatorServiceProxy".DllUnregisterServer

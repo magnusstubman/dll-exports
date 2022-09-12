@@ -1,0 +1,24 @@
+EXPORTS
+  FmsActivateFonts="C:\Windows\SysWOW64\fms".FmsActivateFonts
+  FmsAddFilter="C:\Windows\SysWOW64\fms".FmsAddFilter
+  FmsDeactivateFonts="C:\Windows\SysWOW64\fms".FmsDeactivateFonts
+  FmsFreeEnumerator="C:\Windows\SysWOW64\fms".FmsFreeEnumerator
+  FmsGetBestMatchInFamily="C:\Windows\SysWOW64\fms".FmsGetBestMatchInFamily
+  FmsGetCurrentFilter="C:\Windows\SysWOW64\fms".FmsGetCurrentFilter
+  FmsGetDirectWriteLogFont="C:\Windows\SysWOW64\fms".FmsGetDirectWriteLogFont
+  FmsGetFilteredFontList="C:\Windows\SysWOW64\fms".FmsGetFilteredFontList
+  FmsGetFilteredPropertyList="C:\Windows\SysWOW64\fms".FmsGetFilteredPropertyList
+  FmsGetFontAutoActivationMode="C:\Windows\SysWOW64\fms".FmsGetFontAutoActivationMode
+  FmsGetFontProperty="C:\Windows\SysWOW64\fms".FmsGetFontProperty
+  FmsGetGDILogFont="C:\Windows\SysWOW64\fms".FmsGetGDILogFont
+  FmsGetGdiLogicalFont="C:\Windows\SysWOW64\fms".FmsGetGdiLogicalFont
+  FmsInitializeEnumerator="C:\Windows\SysWOW64\fms".FmsInitializeEnumerator
+  FmsMapGdiLogicalFont="C:\Windows\SysWOW64\fms".FmsMapGdiLogicalFont
+  FmsMapLogicalFont="C:\Windows\SysWOW64\fms".FmsMapLogicalFont
+  FmsResetEnumerator="C:\Windows\SysWOW64\fms".FmsResetEnumerator
+  FmsResetFontsActivationState="C:\Windows\SysWOW64\fms".FmsResetFontsActivationState
+  FmsSetDefaultFilter="C:\Windows\SysWOW64\fms".FmsSetDefaultFilter
+  FmsSetFilter="C:\Windows\SysWOW64\fms".FmsSetFilter
+  FmsSetFontAutoActivationMode="C:\Windows\SysWOW64\fms".FmsSetFontAutoActivationMode
+  FmsSetTextFilter="C:\Windows\SysWOW64\fms".FmsSetTextFilter
+  FmsToggleOnDesignAxis="C:\Windows\SysWOW64\fms".FmsToggleOnDesignAxis

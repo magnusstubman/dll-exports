@@ -1,0 +1,5 @@
+EXPORTS
+  DfdGetDefaultPolicyAndSMART="C:\Windows\System32\dfdts".DfdGetDefaultPolicyAndSMART
+  WdiDiagnosticModuleMain="C:\Windows\System32\dfdts".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\System32\dfdts".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\System32\dfdts".WdiHandleInstance

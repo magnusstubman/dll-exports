@@ -1,0 +1,5 @@
+EXPORTS
+  AppxSysprepSpecializeOffline="C:\Windows\System32\AppxSysprep".AppxSysprepSpecializeOffline
+  AppxSysprepSpecializeOnline="C:\Windows\System32\AppxSysprep".AppxSysprepSpecializeOnline
+  SysprepGeneralize="C:\Windows\System32\AppxSysprep".SysprepGeneralize
+  SysprepGeneralizeValidate="C:\Windows\System32\AppxSysprep".SysprepGeneralizeValidate

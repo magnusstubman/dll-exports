@@ -1,0 +1,13 @@
+EXPORTS
+  CreateExplorerSessionKey="C:\Windows\System32\userinitext".CreateExplorerSessionKey
+  DisplayMessageAndExitWindows="C:\Windows\System32\userinitext".DisplayMessageAndExitWindows
+  ImmWorker="C:\Windows\System32\userinitext".ImmWorker
+  IsSubDesktopSession="C:\Windows\System32\userinitext".IsSubDesktopSession
+  IsTSAppCompatOn="C:\Windows\System32\userinitext".IsTSAppCompatOn
+  LoadRemoteFontsAndInitMiscWorker="C:\Windows\System32\userinitext".LoadRemoteFontsAndInitMiscWorker
+  PerformXForestLogonCheck="C:\Windows\System32\userinitext".PerformXForestLogonCheck
+  ProcesRemoteSessionInitialCommand="C:\Windows\System32\userinitext".ProcesRemoteSessionInitialCommand
+  ProcessTermSrvIniFiles="C:\Windows\System32\userinitext".ProcessTermSrvIniFiles
+  SetShellDesktopSwitchEvent="C:\Windows\System32\userinitext".SetShellDesktopSwitchEvent
+  SetupHotKeyForKeyboardLayout="C:\Windows\System32\userinitext".SetupHotKeyForKeyboardLayout
+  UserinitExt="C:\Windows\System32\userinitext".UserinitExt

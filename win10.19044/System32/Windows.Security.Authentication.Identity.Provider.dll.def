@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Security.Authentication.Identity.Provider".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Security.Authentication.Identity.Provider".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Security.Authentication.Identity.Provider".DllGetClassObject

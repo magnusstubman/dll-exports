@@ -1,0 +1,17 @@
+EXPORTS
+  ConnectionCheckForData="C:\Windows\System32\dbnmpntw".ConnectionCheckForData
+  ConnectionClose="C:\Windows\System32\dbnmpntw".ConnectionClose
+  ConnectionError="C:\Windows\System32\dbnmpntw".ConnectionError
+  ConnectionErrorW="C:\Windows\System32\dbnmpntw".ConnectionErrorW
+  ConnectionMode="C:\Windows\System32\dbnmpntw".ConnectionMode
+  ConnectionObjectSize="C:\Windows\System32\dbnmpntw".ConnectionObjectSize
+  ConnectionOpen="C:\Windows\System32\dbnmpntw".ConnectionOpen
+  ConnectionOpenW="C:\Windows\System32\dbnmpntw".ConnectionOpenW
+  ConnectionRead="C:\Windows\System32\dbnmpntw".ConnectionRead
+  ConnectionServerEnum="C:\Windows\System32\dbnmpntw".ConnectionServerEnum
+  ConnectionServerEnumW="C:\Windows\System32\dbnmpntw".ConnectionServerEnumW
+  ConnectionStatus="C:\Windows\System32\dbnmpntw".ConnectionStatus
+  ConnectionTransact="C:\Windows\System32\dbnmpntw".ConnectionTransact
+  ConnectionVer="C:\Windows\System32\dbnmpntw".ConnectionVer
+  ConnectionWrite="C:\Windows\System32\dbnmpntw".ConnectionWrite
+  ConnectionWriteOOB="C:\Windows\System32\dbnmpntw".ConnectionWriteOOB

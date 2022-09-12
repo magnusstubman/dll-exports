@@ -1,0 +1,5 @@
+EXPORTS
+  DhcpGlobalIsShuttingDown="C:\Windows\SysWOW64\dhcpcore".DhcpGlobalIsShuttingDown
+  DhcpGlobalServiceSyncEvent="C:\Windows\SysWOW64\dhcpcore".DhcpGlobalServiceSyncEvent
+  DhcpGlobalTerminateEvent="C:\Windows\SysWOW64\dhcpcore".DhcpGlobalTerminateEvent
+  ServiceMain="C:\Windows\SysWOW64\dhcpcore".ServiceMain

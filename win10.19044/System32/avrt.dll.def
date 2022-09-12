@@ -1,0 +1,21 @@
+EXPORTS
+  AvCreateTaskIndex="C:\Windows\System32\avrt".AvCreateTaskIndex
+  AvQuerySystemResponsiveness="C:\Windows\System32\avrt".AvQuerySystemResponsiveness
+  AvQueryTaskIndexValue="C:\Windows\System32\avrt".AvQueryTaskIndexValue
+  AvRevertMmThreadCharacteristics="C:\Windows\System32\avrt".AvRevertMmThreadCharacteristics
+  AvRtCreateThreadOrderingGroup="C:\Windows\System32\avrt".AvRtCreateThreadOrderingGroup
+  AvRtCreateThreadOrderingGroupExA="C:\Windows\System32\avrt".AvRtCreateThreadOrderingGroupExA
+  AvRtCreateThreadOrderingGroupExW="C:\Windows\System32\avrt".AvRtCreateThreadOrderingGroupExW
+  AvRtDeleteThreadOrderingGroup="C:\Windows\System32\avrt".AvRtDeleteThreadOrderingGroup
+  AvRtJoinThreadOrderingGroup="C:\Windows\System32\avrt".AvRtJoinThreadOrderingGroup
+  AvRtLeaveThreadOrderingGroup="C:\Windows\System32\avrt".AvRtLeaveThreadOrderingGroup
+  AvRtWaitOnThreadOrderingGroup="C:\Windows\System32\avrt".AvRtWaitOnThreadOrderingGroup
+  AvSetMmMaxThreadCharacteristicsA="C:\Windows\System32\avrt".AvSetMmMaxThreadCharacteristicsA
+  AvSetMmMaxThreadCharacteristicsW="C:\Windows\System32\avrt".AvSetMmMaxThreadCharacteristicsW
+  AvSetMmThreadCharacteristicsA="C:\Windows\System32\avrt".AvSetMmThreadCharacteristicsA
+  AvSetMmThreadCharacteristicsW="C:\Windows\System32\avrt".AvSetMmThreadCharacteristicsW
+  AvSetMmThreadPriority="C:\Windows\System32\avrt".AvSetMmThreadPriority
+  AvSetMultimediaMode="C:\Windows\System32\avrt".AvSetMultimediaMode
+  AvTaskIndexYield="C:\Windows\System32\avrt".AvTaskIndexYield
+  AvTaskIndexYieldCancel="C:\Windows\System32\avrt".AvTaskIndexYieldCancel
+  AvThreadOpenTaskIndex="C:\Windows\System32\avrt".AvThreadOpenTaskIndex

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.Usb".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.Usb".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.Usb".DllGetClassObject

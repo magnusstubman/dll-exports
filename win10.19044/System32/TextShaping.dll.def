@@ -1,0 +1,21 @@
+EXPORTS
+  BuildOtlCache="C:\Windows\System32\TextShaping".BuildOtlCache
+  FreeOtlResources="C:\Windows\System32\TextShaping".FreeOtlResources
+  GetOtlFeatureDefs="C:\Windows\System32\TextShaping".GetOtlFeatureDefs
+  GetOtlGlyphAlternates="C:\Windows\System32\TextShaping".GetOtlGlyphAlternates
+  GetOtlLangSysList="C:\Windows\System32\TextShaping".GetOtlLangSysList
+  GetOtlScriptList="C:\Windows\System32\TextShaping".GetOtlScriptList
+  GetOtlVersion="C:\Windows\System32\TextShaping".GetOtlVersion
+  OtlAssertFailed="C:\Windows\System32\TextShaping".OtlAssertFailed
+  RepositionOtlSingleGlyph="C:\Windows\System32\TextShaping".RepositionOtlSingleGlyph
+  ShapingCreateFontCacheData="C:\Windows\System32\TextShaping".ShapingCreateFontCacheData
+  ShapingDrawGlyphs="C:\Windows\System32\TextShaping".ShapingDrawGlyphs
+  ShapingGetBreakingProperties="C:\Windows\System32\TextShaping".ShapingGetBreakingProperties
+  ShapingGetCombiningOptions="C:\Windows\System32\TextShaping".ShapingGetCombiningOptions
+  ShapingGetGlyphPositions="C:\Windows\System32\TextShaping".ShapingGetGlyphPositions
+  ShapingGetGlyphs="C:\Windows\System32\TextShaping".ShapingGetGlyphs
+  ShapingLoadScriptEngine="C:\Windows\System32\TextShaping".ShapingLoadScriptEngine
+  ShapingSetAssertFunction="C:\Windows\System32\TextShaping".ShapingSetAssertFunction
+  ShapingSetInvariantAssertFunction="C:\Windows\System32\TextShaping".ShapingSetInvariantAssertFunction
+  SubstituteOtlSingleGlyph="C:\Windows\System32\TextShaping".SubstituteOtlSingleGlyph
+  ValidateLogClust="C:\Windows\System32\TextShaping".ValidateLogClust

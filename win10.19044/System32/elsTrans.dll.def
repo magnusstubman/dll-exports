@@ -1,0 +1,7 @@
+EXPORTS
+  DoAction="C:\Windows\System32\elsTrans".DoAction
+  EnumServices="C:\Windows\System32\elsTrans".EnumServices
+  FreePropertyBag="C:\Windows\System32\elsTrans".FreePropertyBag
+  FreeService="C:\Windows\System32\elsTrans".FreeService
+  InitService="C:\Windows\System32\elsTrans".InitService
+  RecognizeText="C:\Windows\System32\elsTrans".RecognizeText

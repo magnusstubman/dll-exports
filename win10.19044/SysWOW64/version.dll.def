@@ -1,0 +1,18 @@
+EXPORTS
+  GetFileVersionInfoA="C:\Windows\SysWOW64\version".GetFileVersionInfoA
+  GetFileVersionInfoByHandle="C:\Windows\SysWOW64\version".GetFileVersionInfoByHandle
+  GetFileVersionInfoExA="C:\Windows\SysWOW64\version".GetFileVersionInfoExA
+  GetFileVersionInfoExW="C:\Windows\SysWOW64\version".GetFileVersionInfoExW
+  GetFileVersionInfoSizeA="C:\Windows\SysWOW64\version".GetFileVersionInfoSizeA
+  GetFileVersionInfoSizeExA="C:\Windows\SysWOW64\version".GetFileVersionInfoSizeExA
+  GetFileVersionInfoSizeExW="C:\Windows\SysWOW64\version".GetFileVersionInfoSizeExW
+  GetFileVersionInfoSizeW="C:\Windows\SysWOW64\version".GetFileVersionInfoSizeW
+  GetFileVersionInfoW="C:\Windows\SysWOW64\version".GetFileVersionInfoW
+  VerFindFileA="C:\Windows\SysWOW64\version".VerFindFileA
+  VerFindFileW="C:\Windows\SysWOW64\version".VerFindFileW
+  VerInstallFileA="C:\Windows\SysWOW64\version".VerInstallFileA
+  VerInstallFileW="C:\Windows\SysWOW64\version".VerInstallFileW
+  VerLanguageNameA="C:\Windows\SysWOW64\version".VerLanguageNameA
+  VerLanguageNameW="C:\Windows\SysWOW64\version".VerLanguageNameW
+  VerQueryValueA="C:\Windows\SysWOW64\version".VerQueryValueA
+  VerQueryValueW="C:\Windows\SysWOW64\version".VerQueryValueW

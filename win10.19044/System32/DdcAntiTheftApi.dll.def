@@ -1,0 +1,6 @@
+EXPORTS
+  AntiTheftAckProtectionEnabled="C:\Windows\System32\DdcAntiTheftApi".AntiTheftAckProtectionEnabled
+  AntiTheftCheckProtectionStatus="C:\Windows\System32\DdcAntiTheftApi".AntiTheftCheckProtectionStatus
+  AntiTheftProtectDevice="C:\Windows\System32\DdcAntiTheftApi".AntiTheftProtectDevice
+  AntiTheftUnprotectDevice="C:\Windows\System32\DdcAntiTheftApi".AntiTheftUnprotectDevice
+  AntiTheftUnprotectDeviceFromOOBE="C:\Windows\System32\DdcAntiTheftApi".AntiTheftUnprotectDeviceFromOOBE

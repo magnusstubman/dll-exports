@@ -1,0 +1,3 @@
+EXPORTS
+  FwRpcAPIsInitialize="C:\Windows\System32\FwRemoteSvr".FwRpcAPIsInitialize
+  FwRpcAPIsShutdown="C:\Windows\System32\FwRemoteSvr".FwRpcAPIsShutdown

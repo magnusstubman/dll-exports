@@ -1,0 +1,9 @@
+EXPORTS
+  ?AfxFreeLibrary@@YAHPEAUHINSTANCE__@@@Z="C:\Windows\System32\mfc42".?AfxFreeLibrary@@YAHPEAUHINSTANCE__@@@Z
+  ?AfxLoadLibrary@@YAPEAUHINSTANCE__@@PEBD@Z="C:\Windows\System32\mfc42".?AfxLoadLibrary@@YAPEAUHINSTANCE__@@PEBD@Z
+  ?AfxLockGlobals@@YAXH@Z="C:\Windows\System32\mfc42".?AfxLockGlobals@@YAXH@Z
+  ?AfxUnlockGlobals@@YAXH@Z="C:\Windows\System32\mfc42".?AfxUnlockGlobals@@YAXH@Z
+  DllCanUnloadNow="C:\Windows\System32\mfc42".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mfc42".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mfc42".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mfc42".DllUnregisterServer

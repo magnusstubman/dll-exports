@@ -1,0 +1,7 @@
+EXPORTS
+  DSCreateISecurityInfoObject="C:\Windows\SysWOW64\dssec".DSCreateISecurityInfoObject
+  DSCreateISecurityInfoObjectEx="C:\Windows\SysWOW64\dssec".DSCreateISecurityInfoObjectEx
+  DSCreateSecurityPage="C:\Windows\SysWOW64\dssec".DSCreateSecurityPage
+  DSEditSecurity="C:\Windows\SysWOW64\dssec".DSEditSecurity
+  DllCanUnloadNow="C:\Windows\SysWOW64\dssec".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dssec".DllGetClassObject

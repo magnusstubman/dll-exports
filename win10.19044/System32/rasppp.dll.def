@@ -1,0 +1,9 @@
+EXPORTS
+  InitializeProtocolEngine="C:\Windows\System32\rasppp".InitializeProtocolEngine
+  InitializeServerProtocolEngine="C:\Windows\System32\rasppp".InitializeServerProtocolEngine
+  PppStop="C:\Windows\System32\rasppp".PppStop
+  RasCpEnumProtocolIds="C:\Windows\System32\rasppp".RasCpEnumProtocolIds
+  RasCpGetInfo="C:\Windows\System32\rasppp".RasCpGetInfo
+  SendMessageToProtocolEngine="C:\Windows\System32\rasppp".SendMessageToProtocolEngine
+  UninitializeProtocolEngine="C:\Windows\System32\rasppp".UninitializeProtocolEngine
+  UninitializeServerProtocolEngine="C:\Windows\System32\rasppp".UninitializeServerProtocolEngine

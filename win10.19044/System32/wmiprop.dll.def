@@ -1,0 +1,3 @@
+EXPORTS
+  WmiPropCoInstaller="C:\Windows\System32\wmiprop".WmiPropCoInstaller
+  WmiPropPageProvider="C:\Windows\System32\wmiprop".WmiPropPageProvider

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wpnsruprov".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wpnsruprov".DllGetClassObject
+  SruInitializeProvider="C:\Windows\System32\wpnsruprov".SruInitializeProvider
+  SruUninitializeProvider="C:\Windows\System32\wpnsruprov".SruUninitializeProvider

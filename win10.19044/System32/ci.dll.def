@@ -1,0 +1,11 @@
+EXPORTS
+  CiCheckSignedFile="C:\Windows\System32\ci".CiCheckSignedFile
+  CiFindPageHashesInCatalog="C:\Windows\System32\ci".CiFindPageHashesInCatalog
+  CiFindPageHashesInSignedFile="C:\Windows\System32\ci".CiFindPageHashesInSignedFile
+  CiFreePolicyInfo="C:\Windows\System32\ci".CiFreePolicyInfo
+  CiGetCertPublisherName="C:\Windows\System32\ci".CiGetCertPublisherName
+  CiGetPEInformation="C:\Windows\System32\ci".CiGetPEInformation
+  CiInitialize="C:\Windows\System32\ci".CiInitialize
+  CiSetTrustedOriginClaimId="C:\Windows\System32\ci".CiSetTrustedOriginClaimId
+  CiValidateFileObject="C:\Windows\System32\ci".CiValidateFileObject
+  CiVerifyHashInCatalog="C:\Windows\System32\ci".CiVerifyHashInCatalog

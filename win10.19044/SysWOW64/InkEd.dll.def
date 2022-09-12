@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\InkEd".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\InkEd".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\InkEd".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\InkEd".DllUnregisterServer

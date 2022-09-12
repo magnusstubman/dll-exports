@@ -1,0 +1,13 @@
+EXPORTS
+  NetCaptureProvisioningPackage="C:\Windows\SysWOW64\netprovfw".NetCaptureProvisioningPackage
+  NetCreateProvisioningPackage="C:\Windows\SysWOW64\netprovfw".NetCreateProvisioningPackage
+  NetRequestProvisioningPackageInstall="C:\Windows\SysWOW64\netprovfw".NetRequestProvisioningPackageInstall
+  NetpAnalyzeProvisioningPackage="C:\Windows\SysWOW64\netprovfw".NetpAnalyzeProvisioningPackage
+  NetpCreateProvisioningPackage="C:\Windows\SysWOW64\netprovfw".NetpCreateProvisioningPackage
+  NetpProvCheckOfflineLsaPolicyUpdate="C:\Windows\SysWOW64\netprovfw".NetpProvCheckOfflineLsaPolicyUpdate
+  NetpProvContinueProvisioningPackageInstall="C:\Windows\SysWOW64\netprovfw".NetpProvContinueProvisioningPackageInstall
+  NetpProvDomainJoinLicensingCheck="C:\Windows\SysWOW64\netprovfw".NetpProvDomainJoinLicensingCheck
+  NetpProvFreeLdapLsaDomainInfo="C:\Windows\SysWOW64\netprovfw".NetpProvFreeLdapLsaDomainInfo
+  NetpRequestProvisioningPackageInstall="C:\Windows\SysWOW64\netprovfw".NetpRequestProvisioningPackageInstall
+  NetpRequestProvisioningPackageInstallForIMC="C:\Windows\SysWOW64\netprovfw".NetpRequestProvisioningPackageInstallForIMC
+  NetpRequestProvisioningPackageInstallForOfflineServicing="C:\Windows\SysWOW64\netprovfw".NetpRequestProvisioningPackageInstallForOfflineServicing

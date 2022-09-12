@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.FaceAnalysis".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Media.FaceAnalysis".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Media.FaceAnalysis".DllGetClassObject

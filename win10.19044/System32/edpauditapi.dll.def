@@ -1,0 +1,14 @@
+EXPORTS
+  EdpAuditHarden="C:\Windows\System32\edpauditapi".EdpAuditHarden
+  EdpAuditLogApplicationGenerated="C:\Windows\System32\edpauditapi".EdpAuditLogApplicationGenerated
+  EdpAuditLogApplicationLearning="C:\Windows\System32\edpauditapi".EdpAuditLogApplicationLearning
+  EdpAuditLogDataCopied="C:\Windows\System32\edpauditapi".EdpAuditLogDataCopied
+  EdpAuditLogProtectionRemoved="C:\Windows\System32\edpauditapi".EdpAuditLogProtectionRemoved
+  EdpAuditLogSiteLearning="C:\Windows\System32\edpauditapi".EdpAuditLogSiteLearning
+  EdpAuditLoggerRegister="C:\Windows\System32\edpauditapi".EdpAuditLoggerRegister
+  EdpAuditLoggerUnregister="C:\Windows\System32\edpauditapi".EdpAuditLoggerUnregister
+  EdpAuditRead="C:\Windows\System32\edpauditapi".EdpAuditRead
+  EdpFlushTraces="C:\Windows\System32\edpauditapi".EdpFlushTraces
+  EdpGetLogFullPathFromRelativePath="C:\Windows\System32\edpauditapi".EdpGetLogFullPathFromRelativePath
+  ReadAuditLogByCount="C:\Windows\System32\edpauditapi".ReadAuditLogByCount
+  ReadAuditLogByTimeRange="C:\Windows\System32\edpauditapi".ReadAuditLogByTimeRange

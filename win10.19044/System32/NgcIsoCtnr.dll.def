@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\NgcIsoCtnr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\NgcIsoCtnr".DllGetClassObject
+  NgcIsoCtnrInitialize="C:\Windows\System32\NgcIsoCtnr".NgcIsoCtnrInitialize
+  NgcIsoCtnrInitializePregenPool="C:\Windows\System32\NgcIsoCtnr".NgcIsoCtnrInitializePregenPool
+  NgcIsoCtnrTriggerPregen="C:\Windows\System32\NgcIsoCtnr".NgcIsoCtnrTriggerPregen
+  NgcIsoCtnrUninitializePregenPool="C:\Windows\System32\NgcIsoCtnr".NgcIsoCtnrUninitializePregenPool

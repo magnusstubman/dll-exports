@@ -1,0 +1,4 @@
+EXPORTS
+  LoadCategoryNameTable="C:\Windows\System32\AppXDeploymentExtensions.desktop".LoadCategoryNameTable
+  LoadExtensionRegistrationTable="C:\Windows\System32\AppXDeploymentExtensions.desktop".LoadExtensionRegistrationTable
+  ShellRefresh="C:\Windows\System32\AppXDeploymentExtensions.desktop".ShellRefresh

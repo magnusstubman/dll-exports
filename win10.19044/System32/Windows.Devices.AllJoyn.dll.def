@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.AllJoyn".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.AllJoyn".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.AllJoyn".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.Devices.AllJoyn".DllMain
+  DllRegisterServer="C:\Windows\System32\Windows.Devices.AllJoyn".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Devices.AllJoyn".DllUnregisterServer

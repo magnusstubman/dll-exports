@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fphc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fphc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\fphc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fphc".DllUnregisterServer

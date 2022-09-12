@@ -1,0 +1,21 @@
+EXPORTS
+  AppRegEnum="C:\Windows\System32\odbcconf".AppRegEnum
+  CloseAppRegEnum="C:\Windows\System32\odbcconf".CloseAppRegEnum
+  DllCanUnloadNow="C:\Windows\System32\odbcconf".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\odbcconf".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\odbcconf".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\odbcconf".DllUnregisterServer
+  ExecuteAction="C:\Windows\System32\odbcconf".ExecuteAction
+  OpenAppRegEnum="C:\Windows\System32\odbcconf".OpenAppRegEnum
+  QueryApplication="C:\Windows\System32\odbcconf".QueryApplication
+  RefreshAppRegEnum="C:\Windows\System32\odbcconf".RefreshAppRegEnum
+  RegisterApplication="C:\Windows\System32\odbcconf".RegisterApplication
+  RunDLL32_RegisterApplication="C:\Windows\System32\odbcconf".RunDLL32_RegisterApplication
+  RunDLL32_UnregisterApplication="C:\Windows\System32\odbcconf".RunDLL32_UnregisterApplication
+  SetActionEnum="C:\Windows\System32\odbcconf".SetActionEnum
+  SetActionLogFile="C:\Windows\System32\odbcconf".SetActionLogFile
+  SetActionLogMode="C:\Windows\System32\odbcconf".SetActionLogMode
+  SetActionLogModeSz="C:\Windows\System32\odbcconf".SetActionLogModeSz
+  SetActionName="C:\Windows\System32\odbcconf".SetActionName
+  SetSilent="C:\Windows\System32\odbcconf".SetSilent
+  UnregisterApplication="C:\Windows\System32\odbcconf".UnregisterApplication

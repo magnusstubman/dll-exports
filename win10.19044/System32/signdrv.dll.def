@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\signdrv".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\signdrv".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\signdrv".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\signdrv".DllUnregisterServer

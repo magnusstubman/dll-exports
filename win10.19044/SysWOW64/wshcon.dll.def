@@ -1,0 +1,6 @@
+EXPORTS
+  DLLGetDocumentation="C:\Windows\SysWOW64\wshcon".DLLGetDocumentation
+  DllCanUnloadNow="C:\Windows\SysWOW64\wshcon".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wshcon".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wshcon".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wshcon".DllUnregisterServer

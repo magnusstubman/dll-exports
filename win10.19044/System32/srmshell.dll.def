@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\srmshell".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\srmshell".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\srmshell".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\srmshell".DllUnregisterServer

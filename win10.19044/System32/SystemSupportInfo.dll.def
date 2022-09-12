@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SystemSupportInfo".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\SystemSupportInfo".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\SystemSupportInfo".DllGetClassObject

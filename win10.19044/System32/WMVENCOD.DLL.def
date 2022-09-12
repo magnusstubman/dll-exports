@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\WMVENCOD".CreateInstance
+  DllCanUnloadNow="C:\Windows\System32\WMVENCOD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WMVENCOD".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WMVENCOD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WMVENCOD".DllUnregisterServer

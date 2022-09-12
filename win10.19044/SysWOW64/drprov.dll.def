@@ -1,0 +1,13 @@
+EXPORTS
+  NPAddConnection="C:\Windows\SysWOW64\drprov".NPAddConnection
+  NPAddConnection3="C:\Windows\SysWOW64\drprov".NPAddConnection3
+  NPCancelConnection="C:\Windows\SysWOW64\drprov".NPCancelConnection
+  NPCloseEnum="C:\Windows\SysWOW64\drprov".NPCloseEnum
+  NPEnumResource="C:\Windows\SysWOW64\drprov".NPEnumResource
+  NPGetCaps="C:\Windows\SysWOW64\drprov".NPGetCaps
+  NPGetConnection="C:\Windows\SysWOW64\drprov".NPGetConnection
+  NPGetConnectionPerformance="C:\Windows\SysWOW64\drprov".NPGetConnectionPerformance
+  NPGetResourceInformation="C:\Windows\SysWOW64\drprov".NPGetResourceInformation
+  NPGetResourceParent="C:\Windows\SysWOW64\drprov".NPGetResourceParent
+  NPGetUniversalName="C:\Windows\SysWOW64\drprov".NPGetUniversalName
+  NPOpenEnum="C:\Windows\SysWOW64\drprov".NPOpenEnum

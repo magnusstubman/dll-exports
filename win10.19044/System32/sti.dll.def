@@ -1,0 +1,22 @@
+EXPORTS
+  ??0BUFFER@@QEAA@I@Z="C:\Windows\System32\sti".??0BUFFER@@QEAA@I@Z
+  ??0BUFFER_CHAIN@@QEAA@XZ="C:\Windows\System32\sti".??0BUFFER_CHAIN@@QEAA@XZ
+  ??0BUFFER_CHAIN_ITEM@@QEAA@I@Z="C:\Windows\System32\sti".??0BUFFER_CHAIN_ITEM@@QEAA@I@Z
+  ??1BUFFER@@QEAA@XZ="C:\Windows\System32\sti".??1BUFFER@@QEAA@XZ
+  ??1BUFFER_CHAIN@@QEAA@XZ="C:\Windows\System32\sti".??1BUFFER_CHAIN@@QEAA@XZ
+  ??1BUFFER_CHAIN_ITEM@@QEAA@XZ="C:\Windows\System32\sti".??1BUFFER_CHAIN_ITEM@@QEAA@XZ
+  ??_FBUFFER@@QEAAXXZ="C:\Windows\System32\sti".??_FBUFFER@@QEAAXXZ
+  ??_FBUFFER_CHAIN_ITEM@@QEAAXXZ="C:\Windows\System32\sti".??_FBUFFER_CHAIN_ITEM@@QEAAXXZ
+  ?QueryPtr@BUFFER@@QEBAPEAXXZ="C:\Windows\System32\sti".?QueryPtr@BUFFER@@QEBAPEAXXZ
+  ?QuerySize@BUFFER@@QEBAIXZ="C:\Windows\System32\sti".?QuerySize@BUFFER@@QEBAIXZ
+  ?QueryUsed@BUFFER_CHAIN_ITEM@@QEBAKXZ="C:\Windows\System32\sti".?QueryUsed@BUFFER_CHAIN_ITEM@@QEBAKXZ
+  ?SetUsed@BUFFER_CHAIN_ITEM@@QEAAXK@Z="C:\Windows\System32\sti".?SetUsed@BUFFER_CHAIN_ITEM@@QEAAXK@Z
+  DllCanUnloadNow="C:\Windows\System32\sti".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\sti".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\sti".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\sti".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\sti".GetProxyDllInfo
+  MigrateRegisteredSTIAppsForWIAEvents="C:\Windows\System32\sti".MigrateRegisteredSTIAppsForWIAEvents
+  SelectDeviceDialog2="C:\Windows\System32\sti".SelectDeviceDialog2
+  StiCreateInstance="C:\Windows\System32\sti".StiCreateInstance
+  StiCreateInstanceW="C:\Windows\System32\sti".StiCreateInstanceW

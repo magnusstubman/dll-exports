@@ -1,0 +1,10 @@
+EXPORTS
+  GetPersistentRegPath="C:\Windows\System32\mobilenetworking".GetPersistentRegPath
+  GetPersistentRegPathFromRegPath="C:\Windows\System32\mobilenetworking".GetPersistentRegPathFromRegPath
+  PersistentRegPathCreateKey="C:\Windows\System32\mobilenetworking".PersistentRegPathCreateKey
+  PersistentRegPathGetDWORD="C:\Windows\System32\mobilenetworking".PersistentRegPathGetDWORD
+  PersistentRegPathGetValue="C:\Windows\System32\mobilenetworking".PersistentRegPathGetValue
+  PersistentRegPathOpenKey="C:\Windows\System32\mobilenetworking".PersistentRegPathOpenKey
+  PersistentRegPathSetDWORD="C:\Windows\System32\mobilenetworking".PersistentRegPathSetDWORD
+  PersistentRegPathSetString="C:\Windows\System32\mobilenetworking".PersistentRegPathSetString
+  PersistentRegPathSetValue="C:\Windows\System32\mobilenetworking".PersistentRegPathSetValue

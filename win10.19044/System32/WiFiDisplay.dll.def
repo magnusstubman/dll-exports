@@ -1,0 +1,23 @@
+EXPORTS
+  CloseMiracastSession="C:\Windows\System32\WiFiDisplay".CloseMiracastSession
+  CreateDAFProviderMiracastHelper="C:\Windows\System32\WiFiDisplay".CreateDAFProviderMiracastHelper
+  CreateInfraCastSourceConnector="C:\Windows\System32\WiFiDisplay".CreateInfraCastSourceConnector
+  CreateWiFiDisplayEtwProvider="C:\Windows\System32\WiFiDisplay".CreateWiFiDisplayEtwProvider
+  IsMiracastSupportedByWlan="C:\Windows\System32\WiFiDisplay".IsMiracastSupportedByWlan
+  MiracastFreeMemory="C:\Windows\System32\WiFiDisplay".MiracastFreeMemory
+  MiracastIeDecode="C:\Windows\System32\WiFiDisplay".MiracastIeDecode
+  MiracastIeEncode="C:\Windows\System32\WiFiDisplay".MiracastIeEncode
+  MiracastQueryParameters="C:\Windows\System32\WiFiDisplay".MiracastQueryParameters
+  MiracastRegisterDatarateCallback="C:\Windows\System32\WiFiDisplay".MiracastRegisterDatarateCallback
+  MiracastUnregisterDatarateCallback="C:\Windows\System32\WiFiDisplay".MiracastUnregisterDatarateCallback
+  OpenMiracastSession="C:\Windows\System32\WiFiDisplay".OpenMiracastSession
+  VsIeProviderGetFunctionTable="C:\Windows\System32\WiFiDisplay".VsIeProviderGetFunctionTable
+  WFDDisplaySinkCloseSession="C:\Windows\System32\WiFiDisplay".WFDDisplaySinkCloseSession
+  WFDDisplaySinkDeInit="C:\Windows\System32\WiFiDisplay".WFDDisplaySinkDeInit
+  WFDDisplaySinkInit="C:\Windows\System32\WiFiDisplay".WFDDisplaySinkInit
+  WFDDisplaySinkQueryCapabilities="C:\Windows\System32\WiFiDisplay".WFDDisplaySinkQueryCapabilities
+  WFDDisplaySinkSetPersistedGroupIDList="C:\Windows\System32\WiFiDisplay".WFDDisplaySinkSetPersistedGroupIDList
+  WFDDisplaySinkSetProperty="C:\Windows\System32\WiFiDisplay".WFDDisplaySinkSetProperty
+  WFDDisplaySinkStart="C:\Windows\System32\WiFiDisplay".WFDDisplaySinkStart
+  WFDDisplaySinkStartEx="C:\Windows\System32\WiFiDisplay".WFDDisplaySinkStartEx
+  WFDDisplaySinkStop="C:\Windows\System32\WiFiDisplay".WFDDisplaySinkStop

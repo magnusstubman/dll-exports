@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\WMADMOE".CreateInstance
+  DllCanUnloadNow="C:\Windows\System32\WMADMOE".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WMADMOE".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WMADMOE".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WMADMOE".DllUnregisterServer

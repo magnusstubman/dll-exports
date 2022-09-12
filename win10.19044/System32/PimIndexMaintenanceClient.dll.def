@@ -1,0 +1,17 @@
+EXPORTS
+  CreateIndexedFilterClient="C:\Windows\System32\PimIndexMaintenanceClient".CreateIndexedFilterClient
+  CreatePOOMSortedAggregateDataSource="C:\Windows\System32\PimIndexMaintenanceClient".CreatePOOMSortedAggregateDataSource
+  GetDefaultContactsFilterSupplierSortOrder="C:\Windows\System32\PimIndexMaintenanceClient".GetDefaultContactsFilterSupplierSortOrder
+  PimIMClient_CacheAggregateCacheFileMapping="C:\Windows\System32\PimIndexMaintenanceClient".PimIMClient_CacheAggregateCacheFileMapping
+  PimIMClient_Free="C:\Windows\System32\PimIndexMaintenanceClient".PimIMClient_Free
+  PimIMClient_LoadAggregateCache="C:\Windows\System32\PimIndexMaintenanceClient".PimIMClient_LoadAggregateCache
+  PimIMClient_RebuildAggregateCache="C:\Windows\System32\PimIndexMaintenanceClient".PimIMClient_RebuildAggregateCache
+  PimIMClient_ResetInprocService="C:\Windows\System32\PimIndexMaintenanceClient".PimIMClient_ResetInprocService
+  PimIMClient_Resume="C:\Windows\System32\PimIndexMaintenanceClient".PimIMClient_Resume
+  PimIMClient_Suspend="C:\Windows\System32\PimIndexMaintenanceClient".PimIMClient_Suspend
+  PimIMClient_UpdateItems="C:\Windows\System32\PimIndexMaintenanceClient".PimIMClient_UpdateItems
+  PimIMClient_UpdateStores="C:\Windows\System32\PimIndexMaintenanceClient".PimIMClient_UpdateStores
+  PimIM_RpcConnect="C:\Windows\System32\PimIndexMaintenanceClient".PimIM_RpcConnect
+  PimIM_RpcDisconnect="C:\Windows\System32\PimIndexMaintenanceClient".PimIM_RpcDisconnect
+  WaitForCookie="C:\Windows\System32\PimIndexMaintenanceClient".WaitForCookie
+  WaitForCookieValueToSet="C:\Windows\System32\PimIndexMaintenanceClient".WaitForCookieValueToSet

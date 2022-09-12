@@ -1,0 +1,16 @@
+EXPORTS
+  CreateGameConfigStoreClient="C:\Windows\System32\ResourcePolicyClient".CreateGameConfigStoreClient
+  CreateResourcePolicyEngineClient="C:\Windows\System32\ResourcePolicyClient".CreateResourcePolicyEngineClient
+  CreateResourcePolicyStoreClient="C:\Windows\System32\ResourcePolicyClient".CreateResourcePolicyStoreClient
+  FreeGameConfigStoreClient="C:\Windows\System32\ResourcePolicyClient".FreeGameConfigStoreClient
+  FreeResourcePolicyStoreClient="C:\Windows\System32\ResourcePolicyClient".FreeResourcePolicyStoreClient
+  InterruptiveUIStateChanged_Subscribe="C:\Windows\System32\ResourcePolicyClient".InterruptiveUIStateChanged_Subscribe
+  InterruptiveUIStateChanged_Unsubscribe="C:\Windows\System32\ResourcePolicyClient".InterruptiveUIStateChanged_Unsubscribe
+  QueryApplicationInterruptiveUIState="C:\Windows\System32\ResourcePolicyClient".QueryApplicationInterruptiveUIState
+  QueryApplicationInterruptiveUIStateByPsmKey="C:\Windows\System32\ResourcePolicyClient".QueryApplicationInterruptiveUIStateByPsmKey
+  QueryPackageInterruptiveUIState="C:\Windows\System32\ResourcePolicyClient".QueryPackageInterruptiveUIState
+  ResourcePolicy_GetGlobalProcessAffinityMask="C:\Windows\System32\ResourcePolicyClient".ResourcePolicy_GetGlobalProcessAffinityMask
+  ResourcePolicy_GetProcessAffinityMask="C:\Windows\System32\ResourcePolicyClient".ResourcePolicy_GetProcessAffinityMask
+  ResourcePolicy_RevertProcessAffinityMask="C:\Windows\System32\ResourcePolicyClient".ResourcePolicy_RevertProcessAffinityMask
+  ResourcePolicy_SetGlobalProcessAffinityMask="C:\Windows\System32\ResourcePolicyClient".ResourcePolicy_SetGlobalProcessAffinityMask
+  ResourcePolicy_SetProcessAffinityMask="C:\Windows\System32\ResourcePolicyClient".ResourcePolicy_SetProcessAffinityMask

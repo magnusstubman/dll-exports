@@ -1,0 +1,3 @@
+EXPORTS
+  PowerCustomizePlatformPowerSettingsOffline="C:\Windows\System32\posetup".PowerCustomizePlatformPowerSettingsOffline
+  PowerCustomizePlatformPowerSettingsOnline="C:\Windows\System32\posetup".PowerCustomizePlatformPowerSettingsOnline

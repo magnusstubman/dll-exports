@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\System32\vfwwdm32".DllMain
+  DriverProc="C:\Windows\System32\vfwwdm32".DriverProc
+  VfwWdm="C:\Windows\System32\vfwwdm32".VfwWdm

@@ -1,0 +1,7 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\SysWOW64\gptext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\gptext".DllUnregisterServer
+  ProcessConnectivityPlatformPolicy="C:\Windows\SysWOW64\gptext".ProcessConnectivityPlatformPolicy
+  ProcessEQoSPolicy="C:\Windows\SysWOW64\gptext".ProcessEQoSPolicy
+  ProcessPSCHEDPolicy="C:\Windows\SysWOW64\gptext".ProcessPSCHEDPolicy
+  ProcessTCPIPPolicy="C:\Windows\SysWOW64\gptext".ProcessTCPIPPolicy

@@ -1,0 +1,22 @@
+EXPORTS
+  DrtClose="C:\Windows\System32\drt".DrtClose
+  DrtContinueSearch="C:\Windows\System32\drt".DrtContinueSearch
+  DrtEndSearch="C:\Windows\System32\drt".DrtEndSearch
+  DrtFlushCache="C:\Windows\System32\drt".DrtFlushCache
+  DrtGetCacheStatsEx="C:\Windows\System32\drt".DrtGetCacheStatsEx
+  DrtGetEventData="C:\Windows\System32\drt".DrtGetEventData
+  DrtGetEventDataSize="C:\Windows\System32\drt".DrtGetEventDataSize
+  DrtGetInstanceName="C:\Windows\System32\drt".DrtGetInstanceName
+  DrtGetInstanceNameSize="C:\Windows\System32\drt".DrtGetInstanceNameSize
+  DrtGetSearchPath="C:\Windows\System32\drt".DrtGetSearchPath
+  DrtGetSearchPathSize="C:\Windows\System32\drt".DrtGetSearchPathSize
+  DrtGetSearchResult="C:\Windows\System32\drt".DrtGetSearchResult
+  DrtGetSearchResultSize="C:\Windows\System32\drt".DrtGetSearchResultSize
+  DrtHandlePowerEvent="C:\Windows\System32\drt".DrtHandlePowerEvent
+  DrtOpen="C:\Windows\System32\drt".DrtOpen
+  DrtPingPeer="C:\Windows\System32\drt".DrtPingPeer
+  DrtRegisterKey="C:\Windows\System32\drt".DrtRegisterKey
+  DrtStartPartitionDetection="C:\Windows\System32\drt".DrtStartPartitionDetection
+  DrtStartSearch="C:\Windows\System32\drt".DrtStartSearch
+  DrtUnregisterKey="C:\Windows\System32\drt".DrtUnregisterKey
+  DrtUpdateKey="C:\Windows\System32\drt".DrtUpdateKey

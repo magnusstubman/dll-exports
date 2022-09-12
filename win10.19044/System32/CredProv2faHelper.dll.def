@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CredProv2faHelper".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\CredProv2faHelper".DllGetClassObject

@@ -1,0 +1,5 @@
+EXPORTS
+  SnmpExtensionInit="C:\Windows\System32\inetmib1".SnmpExtensionInit
+  SnmpExtensionInitEx="C:\Windows\System32\inetmib1".SnmpExtensionInitEx
+  SnmpExtensionQuery="C:\Windows\System32\inetmib1".SnmpExtensionQuery
+  SnmpExtensionTrap="C:\Windows\System32\inetmib1".SnmpExtensionTrap

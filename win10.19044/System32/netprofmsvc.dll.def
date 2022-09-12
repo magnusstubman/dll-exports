@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\System32\netprofmsvc".DllMain
+  ServiceMain="C:\Windows\System32\netprofmsvc".ServiceMain
+  SvchostPushServiceGlobalsEx="C:\Windows\System32\netprofmsvc".SvchostPushServiceGlobalsEx

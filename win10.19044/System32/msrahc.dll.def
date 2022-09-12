@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\msrahc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\msrahc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\msrahc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msrahc".DllUnregisterServer

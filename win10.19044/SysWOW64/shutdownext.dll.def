@@ -1,0 +1,6 @@
+EXPORTS
+  ShutdownExAnnotate="C:\Windows\SysWOW64\shutdownext".ShutdownExAnnotate
+  ShutdownExDirtyDialog="C:\Windows\SysWOW64\shutdownext".ShutdownExDirtyDialog
+  ShutdownExPrintReasons="C:\Windows\SysWOW64\shutdownext".ShutdownExPrintReasons
+  ShutdownExReasonCommentRequired="C:\Windows\SysWOW64\shutdownext".ShutdownExReasonCommentRequired
+  ShutdownExRemoteDialog="C:\Windows\SysWOW64\shutdownext".ShutdownExRemoteDialog

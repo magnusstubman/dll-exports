@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\pstask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\pstask".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\pstask".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\pstask".DllUnregisterServer

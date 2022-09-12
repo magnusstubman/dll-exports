@@ -1,0 +1,16 @@
+EXPORTS
+  CreateString="C:\Windows\SysWOW64\Windows.UI.Xaml".CreateString
+  CreateXamlUIPresenter="C:\Windows\SysWOW64\Windows.UI.Xaml".CreateXamlUIPresenter
+  DeleteString="C:\Windows\SysWOW64\Windows.UI.Xaml".DeleteString
+  DisableDeferredInvoke="C:\Windows\SysWOW64\Windows.UI.Xaml".DisableDeferredInvoke
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.UI.Xaml".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.UI.Xaml".DllGetActivationFactory
+  DllMain="C:\Windows\SysWOW64\Windows.UI.Xaml".DllMain
+  GetDependencyObjectAddress="C:\Windows\SysWOW64\Windows.UI.Xaml".GetDependencyObjectAddress
+  GetErrorContextIndex="C:\Windows\SysWOW64\Windows.UI.Xaml".GetErrorContextIndex
+  GetGlobalModuleParams="C:\Windows\SysWOW64\Windows.UI.Xaml".GetGlobalModuleParams
+  GetStringLen="C:\Windows\SysWOW64\Windows.UI.Xaml".GetStringLen
+  GetStringRawBuffer="C:\Windows\SysWOW64\Windows.UI.Xaml".GetStringRawBuffer
+  InitializeXamlDiagnosticsEx="C:\Windows\SysWOW64\Windows.UI.Xaml".InitializeXamlDiagnosticsEx
+  OverrideXamlMetadataProvider="C:\Windows\SysWOW64\Windows.UI.Xaml".OverrideXamlMetadataProvider
+  OverrideXamlResourcePropertyBag="C:\Windows\SysWOW64\Windows.UI.Xaml".OverrideXamlResourcePropertyBag

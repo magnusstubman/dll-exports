@@ -1,0 +1,7 @@
+EXPORTS
+  AuthzGetAccountType="C:\Windows\System32\authentication".AuthzGetAccountType
+  AuthzRequestTicketWithWindow="C:\Windows\System32\authentication".AuthzRequestTicketWithWindow
+  AuthzRequestTicketWithoutWindow="C:\Windows\System32\authentication".AuthzRequestTicketWithoutWindow
+  GetAccountType="C:\Windows\System32\authentication".GetAccountType
+  RequestTicketWithWindow="C:\Windows\System32\authentication".RequestTicketWithWindow
+  RequestTicketWithoutWindow="C:\Windows\System32\authentication".RequestTicketWithoutWindow

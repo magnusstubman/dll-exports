@@ -1,0 +1,5 @@
+EXPORTS
+  CreateAllEdpTasks="C:\Windows\System32\edpcsp".CreateAllEdpTasks
+  DeleteAllEdpTasks="C:\Windows\System32\edpcsp".DeleteAllEdpTasks
+  DllCanUnloadNow="C:\Windows\System32\edpcsp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\edpcsp".DllGetClassObject

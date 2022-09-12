@@ -1,0 +1,22 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\rdvgogl32".DllMain
+  DrvCopyContext="C:\Windows\SysWOW64\rdvgogl32".DrvCopyContext
+  DrvCreateContext="C:\Windows\SysWOW64\rdvgogl32".DrvCreateContext
+  DrvCreateLayerContext="C:\Windows\SysWOW64\rdvgogl32".DrvCreateLayerContext
+  DrvDeleteContext="C:\Windows\SysWOW64\rdvgogl32".DrvDeleteContext
+  DrvDescribeLayerPlane="C:\Windows\SysWOW64\rdvgogl32".DrvDescribeLayerPlane
+  DrvDescribePixelFormat="C:\Windows\SysWOW64\rdvgogl32".DrvDescribePixelFormat
+  DrvGetLayerPaletteEntries="C:\Windows\SysWOW64\rdvgogl32".DrvGetLayerPaletteEntries
+  DrvGetProcAddress="C:\Windows\SysWOW64\rdvgogl32".DrvGetProcAddress
+  DrvPresentBuffers="C:\Windows\SysWOW64\rdvgogl32".DrvPresentBuffers
+  DrvRealizeLayerPalette="C:\Windows\SysWOW64\rdvgogl32".DrvRealizeLayerPalette
+  DrvReleaseContext="C:\Windows\SysWOW64\rdvgogl32".DrvReleaseContext
+  DrvSetCallbackProcs="C:\Windows\SysWOW64\rdvgogl32".DrvSetCallbackProcs
+  DrvSetContext="C:\Windows\SysWOW64\rdvgogl32".DrvSetContext
+  DrvSetLayerPaletteEntries="C:\Windows\SysWOW64\rdvgogl32".DrvSetLayerPaletteEntries
+  DrvSetPixelFormat="C:\Windows\SysWOW64\rdvgogl32".DrvSetPixelFormat
+  DrvShareLists="C:\Windows\SysWOW64\rdvgogl32".DrvShareLists
+  DrvSwapBuffers="C:\Windows\SysWOW64\rdvgogl32".DrvSwapBuffers
+  DrvSwapLayerBuffers="C:\Windows\SysWOW64\rdvgogl32".DrvSwapLayerBuffers
+  DrvSwapMultipleBuffers="C:\Windows\SysWOW64\rdvgogl32".DrvSwapMultipleBuffers
+  DrvValidateVersion="C:\Windows\SysWOW64\rdvgogl32".DrvValidateVersion

@@ -1,0 +1,13 @@
+EXPORTS
+  ConvertINetMultiByteToUnicode="C:\Windows\SysWOW64\mlang".ConvertINetMultiByteToUnicode
+  ConvertINetReset="C:\Windows\SysWOW64\mlang".ConvertINetReset
+  ConvertINetString="C:\Windows\SysWOW64\mlang".ConvertINetString
+  ConvertINetUnicodeToMultiByte="C:\Windows\SysWOW64\mlang".ConvertINetUnicodeToMultiByte
+  DllCanUnloadNow="C:\Windows\SysWOW64\mlang".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mlang".DllGetClassObject
+  GetGlobalFontLinkObject="C:\Windows\SysWOW64\mlang".GetGlobalFontLinkObject
+  IsConvertINetStringAvailable="C:\Windows\SysWOW64\mlang".IsConvertINetStringAvailable
+  LcidToRfc1766A="C:\Windows\SysWOW64\mlang".LcidToRfc1766A
+  LcidToRfc1766W="C:\Windows\SysWOW64\mlang".LcidToRfc1766W
+  Rfc1766ToLcidA="C:\Windows\SysWOW64\mlang".Rfc1766ToLcidA
+  Rfc1766ToLcidW="C:\Windows\SysWOW64\mlang".Rfc1766ToLcidW

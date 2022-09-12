@@ -1,0 +1,16 @@
+EXPORTS
+  DllMain="C:\Windows\System32\FXSCOMPOSE".DllMain
+  FaxComposeFreeBuffer="C:\Windows\System32\FXSCOMPOSE".FaxComposeFreeBuffer
+  HrAddressBookPreTranslateAccelerator="C:\Windows\System32\FXSCOMPOSE".HrAddressBookPreTranslateAccelerator
+  HrDeInitAddressBook="C:\Windows\System32\FXSCOMPOSE".HrDeInitAddressBook
+  HrDeinitComposeFormDll="C:\Windows\System32\FXSCOMPOSE".HrDeinitComposeFormDll
+  HrFaxComposePreTranslateAccelerator="C:\Windows\System32\FXSCOMPOSE".HrFaxComposePreTranslateAccelerator
+  HrFreeDraftsListViewInfo="C:\Windows\System32\FXSCOMPOSE".HrFreeDraftsListViewInfo
+  HrGetDraftsListViewInfo="C:\Windows\System32\FXSCOMPOSE".HrGetDraftsListViewInfo
+  HrInitAddressBook="C:\Windows\System32\FXSCOMPOSE".HrInitAddressBook
+  HrInitComposeFormDll="C:\Windows\System32\FXSCOMPOSE".HrInitComposeFormDll
+  HrInvokeAddressBook="C:\Windows\System32\FXSCOMPOSE".HrInvokeAddressBook
+  HrNewFaxComposeUI="C:\Windows\System32\FXSCOMPOSE".HrNewFaxComposeUI
+  HrNewFaxComposeUIFromFile="C:\Windows\System32\FXSCOMPOSE".HrNewFaxComposeUIFromFile
+  HrNewTiffViewUIFromFile="C:\Windows\System32\FXSCOMPOSE".HrNewTiffViewUIFromFile
+  HrSelectEmailRecipient="C:\Windows\System32\FXSCOMPOSE".HrSelectEmailRecipient

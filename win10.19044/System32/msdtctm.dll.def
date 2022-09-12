@@ -1,0 +1,11 @@
+EXPORTS
+  ASCDefer="C:\Windows\System32\msdtctm".ASCDefer
+  ASCDeliverDeferred="C:\Windows\System32\msdtctm".ASCDeliverDeferred
+  ASCGetSafeReference="C:\Windows\System32\msdtctm".ASCGetSafeReference
+  ASCWrapClassFactory="C:\Windows\System32\msdtctm".ASCWrapClassFactory
+  ASCWrapObject="C:\Windows\System32\msdtctm".ASCWrapObject
+  CreateInstance="C:\Windows\System32\msdtctm".CreateInstance
+  DllGetClassObject="C:\Windows\System32\msdtctm".DllGetClassObject
+  DtcMainExt="C:\Windows\System32\msdtctm".DtcMainExt
+  GetTipFunctionalityWorking="C:\Windows\System32\msdtctm".GetTipFunctionalityWorking
+  SetTipFunctionalityWorking="C:\Windows\System32\msdtctm".SetTipFunctionalityWorking

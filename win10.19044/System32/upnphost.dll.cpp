@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\upnphost.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\upnphost.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\upnphost.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\upnphost.DllUnregisterServer\"")
+#pragma comment(linker, "/export:ServiceMain=\"C:\\Windows\\System32\\upnphost.ServiceMain\"")
+#pragma comment(linker, "/export:SvchostPushServiceGlobals=\"C:\\Windows\\System32\\upnphost.SvchostPushServiceGlobals\"")

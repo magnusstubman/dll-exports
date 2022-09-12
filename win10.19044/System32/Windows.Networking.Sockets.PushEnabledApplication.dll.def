@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Networking.Sockets.PushEnabledApplication".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Networking.Sockets.PushEnabledApplication".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Networking.Sockets.PushEnabledApplication".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.Networking.Sockets.PushEnabledApplication".DllMain
+  DllRegisterServer="C:\Windows\System32\Windows.Networking.Sockets.PushEnabledApplication".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Networking.Sockets.PushEnabledApplication".DllUnregisterServer

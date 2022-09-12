@@ -1,0 +1,9 @@
+EXPORTS
+  CLSID_CfgComp="C:\Windows\System32\cfgbkend".CLSID_CfgComp
+  DllCanUnloadNow="C:\Windows\System32\cfgbkend".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\cfgbkend".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\cfgbkend".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\cfgbkend".DllUnregisterServer
+  IID_ICfgComp="C:\Windows\System32\cfgbkend".IID_ICfgComp
+  IID_ISettingsComp="C:\Windows\System32\cfgbkend".IID_ISettingsComp
+  IID_ISettingsComp2="C:\Windows\System32\cfgbkend".IID_ISettingsComp2

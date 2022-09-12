@@ -1,0 +1,4 @@
+EXPORTS
+  ExecuteProcessGroupPolicyEx="C:\Windows\System32\TsUsbRedirectionGroupPolicyExtension".ExecuteProcessGroupPolicyEx
+  ExecuteProcessGroupPolicyExWithError="C:\Windows\System32\TsUsbRedirectionGroupPolicyExtension".ExecuteProcessGroupPolicyExWithError
+  ProcessGroupPolicyEx="C:\Windows\System32\TsUsbRedirectionGroupPolicyExtension".ProcessGroupPolicyEx

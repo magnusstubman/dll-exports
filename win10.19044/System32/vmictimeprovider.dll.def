@@ -1,0 +1,4 @@
+EXPORTS
+  TimeProvClose="C:\Windows\System32\vmictimeprovider".TimeProvClose
+  TimeProvCommand="C:\Windows\System32\vmictimeprovider".TimeProvCommand
+  TimeProvOpen="C:\Windows\System32\vmictimeprovider".TimeProvOpen

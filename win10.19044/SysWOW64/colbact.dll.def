@@ -1,0 +1,8 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\SysWOW64\colbact".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\colbact".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\colbact".DllUnregisterServer
+  GetClassInfoForCurrentUser="C:\Windows\SysWOW64\colbact".GetClassInfoForCurrentUser
+  GetDefaultPartitionForCurrentUser="C:\Windows\SysWOW64\colbact".GetDefaultPartitionForCurrentUser
+  GetDefaultPartitionForSid="C:\Windows\SysWOW64\colbact".GetDefaultPartitionForSid
+  PartitionAccessCheck="C:\Windows\SysWOW64\colbact".PartitionAccessCheck

@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\HNetCfgClient".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\HNetCfgClient".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\HNetCfgClient".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\HNetCfgClient".DllUnregisterServer
+  HNetCfgGetDhcpScopeAddress="C:\Windows\SysWOW64\HNetCfgClient".HNetCfgGetDhcpScopeAddress
+  HNetCfgGetPrivateIndex="C:\Windows\SysWOW64\HNetCfgClient".HNetCfgGetPrivateIndex
+  HNetCfgGetPublicIndex="C:\Windows\SysWOW64\HNetCfgClient".HNetCfgGetPublicIndex
+  HNetCfgSetDhcpScopeAddress="C:\Windows\SysWOW64\HNetCfgClient".HNetCfgSetDhcpScopeAddress
+  HNetCfgStartSharing="C:\Windows\SysWOW64\HNetCfgClient".HNetCfgStartSharing
+  HNetCfgStartSharingEx="C:\Windows\SysWOW64\HNetCfgClient".HNetCfgStartSharingEx
+  HNetCfgStopSharing="C:\Windows\SysWOW64\HNetCfgClient".HNetCfgStopSharing
+  HNetCfgUpdateSharingSettingsFromStorage="C:\Windows\SysWOW64\HNetCfgClient".HNetCfgUpdateSharingSettingsFromStorage

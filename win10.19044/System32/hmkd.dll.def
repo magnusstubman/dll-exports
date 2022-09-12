@@ -1,0 +1,5 @@
+EXPORTS
+  HMKDCreateHmacKey="C:\Windows\System32\hmkd".HMKDCreateHmacKey
+  HMKDDeriveKey="C:\Windows\System32\hmkd".HMKDDeriveKey
+  HMKDGetHmacStatus="C:\Windows\System32\hmkd".HMKDGetHmacStatus
+  HMKDImportHmacKey="C:\Windows\System32\hmkd".HMKDImportHmacKey

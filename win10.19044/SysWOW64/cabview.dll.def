@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\cabview".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\cabview".DllGetClassObject
+  Uninstall="C:\Windows\SysWOW64\cabview".Uninstall

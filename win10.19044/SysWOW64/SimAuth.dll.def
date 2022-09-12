@@ -1,0 +1,4 @@
+EXPORTS
+  EapPeerFreeErrorMemory="C:\Windows\SysWOW64\SimAuth".EapPeerFreeErrorMemory
+  EapPeerFreeMemory="C:\Windows\SysWOW64\SimAuth".EapPeerFreeMemory
+  EapPeerGetInfo="C:\Windows\SysWOW64\SimAuth".EapPeerGetInfo

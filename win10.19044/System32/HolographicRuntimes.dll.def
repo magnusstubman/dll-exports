@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\HolographicRuntimes".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\HolographicRuntimes".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\HolographicRuntimes".DllGetClassObject
+  DllGetClassObjectRuntime="C:\Windows\System32\HolographicRuntimes".DllGetClassObjectRuntime

@@ -1,0 +1,27 @@
+EXPORTS
+  InitSecurityInterfaceW="C:\Windows\System32\credssp".InitSecurityInterfaceW
+  SpAcceptSecurityContext="C:\Windows\System32\credssp".SpAcceptSecurityContext
+  SpAcquireCredentialsHandleW="C:\Windows\System32\credssp".SpAcquireCredentialsHandleW
+  SpAddCredentialsW="C:\Windows\System32\credssp".SpAddCredentialsW
+  SpApplyControlToken="C:\Windows\System32\credssp".SpApplyControlToken
+  SpChangeAccountPasswordW="C:\Windows\System32\credssp".SpChangeAccountPasswordW
+  SpCompleteAuthToken="C:\Windows\System32\credssp".SpCompleteAuthToken
+  SpDecryptMessage="C:\Windows\System32\credssp".SpDecryptMessage
+  SpDeleteSecurityContext="C:\Windows\System32\credssp".SpDeleteSecurityContext
+  SpEncryptMessage="C:\Windows\System32\credssp".SpEncryptMessage
+  SpEnumerateSecurityPackagesW="C:\Windows\System32\credssp".SpEnumerateSecurityPackagesW
+  SpExportSecurityContext="C:\Windows\System32\credssp".SpExportSecurityContext
+  SpFreeContextBuffer="C:\Windows\System32\credssp".SpFreeContextBuffer
+  SpFreeCredentialsHandle="C:\Windows\System32\credssp".SpFreeCredentialsHandle
+  SpImpersonateSecurityContext="C:\Windows\System32\credssp".SpImpersonateSecurityContext
+  SpImportSecurityContextW="C:\Windows\System32\credssp".SpImportSecurityContextW
+  SpInitializeSecurityContextW="C:\Windows\System32\credssp".SpInitializeSecurityContextW
+  SpMakeSignature="C:\Windows\System32\credssp".SpMakeSignature
+  SpQueryContextAttributesW="C:\Windows\System32\credssp".SpQueryContextAttributesW
+  SpQueryCredentialsAttributesW="C:\Windows\System32\credssp".SpQueryCredentialsAttributesW
+  SpQuerySecurityContextToken="C:\Windows\System32\credssp".SpQuerySecurityContextToken
+  SpQuerySecurityPackageInfoW="C:\Windows\System32\credssp".SpQuerySecurityPackageInfoW
+  SpRevertSecurityContext="C:\Windows\System32\credssp".SpRevertSecurityContext
+  SpSetContextAttributesW="C:\Windows\System32\credssp".SpSetContextAttributesW
+  SpSetCredentialsAttributesW="C:\Windows\System32\credssp".SpSetCredentialsAttributesW
+  SpVerifySignature="C:\Windows\System32\credssp".SpVerifySignature

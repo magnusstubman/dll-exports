@@ -1,0 +1,5 @@
+EXPORTS
+  SnmpExtensionInit="C:\Windows\SysWOW64\inetmib1".SnmpExtensionInit
+  SnmpExtensionInitEx="C:\Windows\SysWOW64\inetmib1".SnmpExtensionInitEx
+  SnmpExtensionQuery="C:\Windows\SysWOW64\inetmib1".SnmpExtensionQuery
+  SnmpExtensionTrap="C:\Windows\SysWOW64\inetmib1".SnmpExtensionTrap

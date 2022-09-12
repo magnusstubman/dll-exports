@@ -1,0 +1,3 @@
+EXPORTS
+  MigrateBlueToThreshold="C:\Windows\System32\mdmmigrator".MigrateBlueToThreshold
+  MigrateBlueToThresholdNeeded="C:\Windows\System32\mdmmigrator".MigrateBlueToThresholdNeeded

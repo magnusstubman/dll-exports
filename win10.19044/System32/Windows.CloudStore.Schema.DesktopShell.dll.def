@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.CloudStore.Schema.DesktopShell".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.CloudStore.Schema.DesktopShell".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.CloudStore.Schema.DesktopShell".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.CloudStore.Schema.DesktopShell".GetProxyDllInfo

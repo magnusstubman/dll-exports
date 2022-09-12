@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\WebcamUi".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\WebcamUi".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\WebcamUi".DllGetClassObject

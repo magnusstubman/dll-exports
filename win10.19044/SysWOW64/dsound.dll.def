@@ -1,0 +1,13 @@
+EXPORTS
+  DirectSoundCaptureCreate="C:\Windows\SysWOW64\dsound".DirectSoundCaptureCreate
+  DirectSoundCaptureCreate8="C:\Windows\SysWOW64\dsound".DirectSoundCaptureCreate8
+  DirectSoundCaptureEnumerateA="C:\Windows\SysWOW64\dsound".DirectSoundCaptureEnumerateA
+  DirectSoundCaptureEnumerateW="C:\Windows\SysWOW64\dsound".DirectSoundCaptureEnumerateW
+  DirectSoundCreate="C:\Windows\SysWOW64\dsound".DirectSoundCreate
+  DirectSoundCreate8="C:\Windows\SysWOW64\dsound".DirectSoundCreate8
+  DirectSoundEnumerateA="C:\Windows\SysWOW64\dsound".DirectSoundEnumerateA
+  DirectSoundEnumerateW="C:\Windows\SysWOW64\dsound".DirectSoundEnumerateW
+  DirectSoundFullDuplexCreate="C:\Windows\SysWOW64\dsound".DirectSoundFullDuplexCreate
+  DllCanUnloadNow="C:\Windows\SysWOW64\dsound".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dsound".DllGetClassObject
+  GetDeviceID="C:\Windows\SysWOW64\dsound".GetDeviceID

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wsmplpxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wsmplpxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wsmplpxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wsmplpxy".DllUnregisterServer

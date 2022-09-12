@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.XamlHost".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.XamlHost".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.XamlHost".DllGetClassObject

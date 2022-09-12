@@ -1,0 +1,6 @@
+EXPORTS
+  MediaVRCreateORTCRenderer="C:\Windows\SysWOW64\rtmmvrortc".MediaVRCreateORTCRenderer
+  MediaVRDestroyORTCRenderer="C:\Windows\SysWOW64\rtmmvrortc".MediaVRDestroyORTCRenderer
+  MediaVRGetORTCRenderContext="C:\Windows\SysWOW64\rtmmvrortc".MediaVRGetORTCRenderContext
+  MediaVRRequestKeyFrame="C:\Windows\SysWOW64\rtmmvrortc".MediaVRRequestKeyFrame
+  MediaVRSetDecodingHealth="C:\Windows\SysWOW64\rtmmvrortc".MediaVRSetDecodingHealth

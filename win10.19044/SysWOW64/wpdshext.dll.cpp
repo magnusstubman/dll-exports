@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\wpdshext.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\wpdshext.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\wpdshext.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\wpdshext.DllUnregisterServer\"")
+#pragma comment(linker, "/export:_CDefFolderMenu_MergeMenu@16=\"C:\\Windows\\SysWOW64\\wpdshext._CDefFolderMenu_MergeMenu@16\"")

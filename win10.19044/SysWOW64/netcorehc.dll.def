@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\netcorehc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\netcorehc".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\netcorehc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\netcorehc".DllUnregisterServer

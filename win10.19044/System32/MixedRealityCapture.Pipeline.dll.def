@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MixedRealityCapture.Pipeline".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\MixedRealityCapture.Pipeline".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\MixedRealityCapture.Pipeline".DllGetClassObject

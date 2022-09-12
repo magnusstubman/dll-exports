@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\winmde".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\winmde".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\winmde".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\winmde".DllUnregisterServer
+  MFCreateNetVRoot="C:\Windows\System32\winmde".MFCreateNetVRoot
+  MFCreateWMPMDEOpCenter="C:\Windows\System32\winmde".MFCreateWMPMDEOpCenter
+  MFCreateWinMDEOpCenter="C:\Windows\System32\winmde".MFCreateWinMDEOpCenter

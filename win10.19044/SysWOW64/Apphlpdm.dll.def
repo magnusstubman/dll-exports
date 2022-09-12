@@ -1,0 +1,4 @@
+EXPORTS
+  WdiDiagnosticModuleMain="C:\Windows\SysWOW64\Apphlpdm".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\SysWOW64\Apphlpdm".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\SysWOW64\Apphlpdm".WdiHandleInstance

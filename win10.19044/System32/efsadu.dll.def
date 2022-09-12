@@ -1,0 +1,15 @@
+EXPORTS
+  AddUserToObjectW="C:\Windows\System32\efsadu".AddUserToObjectW
+  BackCurrentEfsCert="C:\Windows\System32\efsadu".BackCurrentEfsCert
+  EfsDetail="C:\Windows\System32\efsadu".EfsDetail
+  EfsUIUtilCheckScardStatus="C:\Windows\System32\efsadu".EfsUIUtilCheckScardStatus
+  EfsUIUtilCreateSelfSignedCertificate="C:\Windows\System32\efsadu".EfsUIUtilCreateSelfSignedCertificate
+  EfsUIUtilEncryptMyDocuments="C:\Windows\System32\efsadu".EfsUIUtilEncryptMyDocuments
+  EfsUIUtilEnrollEfsCertificate="C:\Windows\System32\efsadu".EfsUIUtilEnrollEfsCertificate
+  EfsUIUtilEnrollEfsCertificateEx="C:\Windows\System32\efsadu".EfsUIUtilEnrollEfsCertificateEx
+  EfsUIUtilInstallDra="C:\Windows\System32\efsadu".EfsUIUtilInstallDra
+  EfsUIUtilKeyBackup="C:\Windows\System32\efsadu".EfsUIUtilKeyBackup
+  EfsUIUtilPromptForPin="C:\Windows\System32\efsadu".EfsUIUtilPromptForPin
+  EfsUIUtilPromptForPinDialog="C:\Windows\System32\efsadu".EfsUIUtilPromptForPinDialog
+  EfsUIUtilSelectCard="C:\Windows\System32\efsadu".EfsUIUtilSelectCard
+  EfsUIUtilShowBalloonAndWait="C:\Windows\System32\efsadu".EfsUIUtilShowBalloonAndWait

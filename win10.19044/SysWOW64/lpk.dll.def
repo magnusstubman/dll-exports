@@ -1,0 +1,11 @@
+EXPORTS
+  LpkDrawTextEx="C:\Windows\SysWOW64\lpk".LpkDrawTextEx
+  LpkEditControl="C:\Windows\SysWOW64\lpk".LpkEditControl
+  LpkExtTextOut="C:\Windows\SysWOW64\lpk".LpkExtTextOut
+  LpkGetCharacterPlacement="C:\Windows\SysWOW64\lpk".LpkGetCharacterPlacement
+  LpkGetTextExtentExPoint="C:\Windows\SysWOW64\lpk".LpkGetTextExtentExPoint
+  LpkInitialize="C:\Windows\SysWOW64\lpk".LpkInitialize
+  LpkPSMTextOut="C:\Windows\SysWOW64\lpk".LpkPSMTextOut
+  LpkTabbedTextOut="C:\Windows\SysWOW64\lpk".LpkTabbedTextOut
+  LpkUseGDIWidthCache="C:\Windows\SysWOW64\lpk".LpkUseGDIWidthCache
+  ftsWordBreak="C:\Windows\SysWOW64\lpk".ftsWordBreak

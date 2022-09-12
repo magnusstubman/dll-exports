@@ -1,0 +1,3 @@
+EXPORTS
+  CreateHardwareEventMoniker="C:\Windows\System32\shsvcs".CreateHardwareEventMoniker
+  HardwareDetectionServiceMain="C:\Windows\System32\shsvcs".HardwareDetectionServiceMain

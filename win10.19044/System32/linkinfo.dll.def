@@ -1,0 +1,16 @@
+EXPORTS
+  CompareLinkInfoReferents="C:\Windows\System32\linkinfo".CompareLinkInfoReferents
+  CompareLinkInfoVolumes="C:\Windows\System32\linkinfo".CompareLinkInfoVolumes
+  CreateLinkInfo="C:\Windows\System32\linkinfo".CreateLinkInfo
+  CreateLinkInfoA="C:\Windows\System32\linkinfo".CreateLinkInfoA
+  CreateLinkInfoW="C:\Windows\System32\linkinfo".CreateLinkInfoW
+  DestroyLinkInfo="C:\Windows\System32\linkinfo".DestroyLinkInfo
+  DisconnectLinkInfo="C:\Windows\System32\linkinfo".DisconnectLinkInfo
+  GetCanonicalPathInfo="C:\Windows\System32\linkinfo".GetCanonicalPathInfo
+  GetCanonicalPathInfoA="C:\Windows\System32\linkinfo".GetCanonicalPathInfoA
+  GetCanonicalPathInfoW="C:\Windows\System32\linkinfo".GetCanonicalPathInfoW
+  GetLinkInfoData="C:\Windows\System32\linkinfo".GetLinkInfoData
+  IsValidLinkInfo="C:\Windows\System32\linkinfo".IsValidLinkInfo
+  ResolveLinkInfo="C:\Windows\System32\linkinfo".ResolveLinkInfo
+  ResolveLinkInfoA="C:\Windows\System32\linkinfo".ResolveLinkInfoA
+  ResolveLinkInfoW="C:\Windows\System32\linkinfo".ResolveLinkInfoW

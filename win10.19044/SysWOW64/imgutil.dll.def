@@ -1,0 +1,12 @@
+EXPORTS
+  ComputeInvCMAP="C:\Windows\SysWOW64\imgutil".ComputeInvCMAP
+  CreateDDrawSurfaceOnDIB="C:\Windows\SysWOW64\imgutil".CreateDDrawSurfaceOnDIB
+  CreateMIMEMap="C:\Windows\SysWOW64\imgutil".CreateMIMEMap
+  DecodeImage="C:\Windows\SysWOW64\imgutil".DecodeImage
+  DecodeImageEx="C:\Windows\SysWOW64\imgutil".DecodeImageEx
+  DitherTo8="C:\Windows\SysWOW64\imgutil".DitherTo8
+  DllCanUnloadNow="C:\Windows\SysWOW64\imgutil".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\imgutil".DllGetClassObject
+  GetMaxMIMEIDBytes="C:\Windows\SysWOW64\imgutil".GetMaxMIMEIDBytes
+  IdentifyMIMEType="C:\Windows\SysWOW64\imgutil".IdentifyMIMEType
+  SniffStream="C:\Windows\SysWOW64\imgutil".SniffStream

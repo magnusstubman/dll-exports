@@ -1,0 +1,11 @@
+EXPORTS
+  CancelCDMOperation="C:\Windows\System32\wudriver".CancelCDMOperation
+  CloseCDMContext="C:\Windows\System32\wudriver".CloseCDMContext
+  DetFilesDownloaded="C:\Windows\System32\wudriver".DetFilesDownloaded
+  DownloadIsInternetAvailable="C:\Windows\System32\wudriver".DownloadIsInternetAvailable
+  DownloadUpdatedFiles="C:\Windows\System32\wudriver".DownloadUpdatedFiles
+  FindMatchingDriver="C:\Windows\System32\wudriver".FindMatchingDriver
+  LogDriverNotFound="C:\Windows\System32\wudriver".LogDriverNotFound
+  OpenCDMContext="C:\Windows\System32\wudriver".OpenCDMContext
+  OpenCDMContextEx="C:\Windows\System32\wudriver".OpenCDMContextEx
+  QueryDetectionFiles="C:\Windows\System32\wudriver".QueryDetectionFiles

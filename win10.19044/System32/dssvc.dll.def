@@ -1,0 +1,6 @@
+EXPORTS
+  DSSCreateSharedFileTokenEx="C:\Windows\System32\dssvc".DSSCreateSharedFileTokenEx
+  DSSFreeToken="C:\Windows\System32\dssvc".DSSFreeToken
+  InitializeService="C:\Windows\System32\dssvc".InitializeService
+  ServiceMain="C:\Windows\System32\dssvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\dssvc".SvchostPushServiceGlobals

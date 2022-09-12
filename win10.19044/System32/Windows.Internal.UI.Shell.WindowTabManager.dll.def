@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.UI.Shell.WindowTabManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Internal.UI.Shell.WindowTabManager".DllGetActivationFactory

@@ -1,0 +1,9 @@
+EXPORTS
+  IdpConfigAddPolicy="C:\Windows\System32\nshwfp".IdpConfigAddPolicy
+  IdpConfigAllocateAndGetPolicy="C:\Windows\System32\nshwfp".IdpConfigAllocateAndGetPolicy
+  IdpConfigFreePolicy="C:\Windows\System32\nshwfp".IdpConfigFreePolicy
+  IdpConfigInitDefaultPolicy="C:\Windows\System32\nshwfp".IdpConfigInitDefaultPolicy
+  IdpConfigRemovePolicy="C:\Windows\System32\nshwfp".IdpConfigRemovePolicy
+  InitHelperDll="C:\Windows\System32\nshwfp".InitHelperDll
+  WfpCaptureExportedW="C:\Windows\System32\nshwfp".WfpCaptureExportedW
+  WfpCaptureStop="C:\Windows\System32\nshwfp".WfpCaptureStop

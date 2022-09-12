@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_StorageSense".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\SettingsHandlers_StorageSense".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_StorageSense".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\SettingsHandlers_StorageSense".GetProxyDllInfo
+  GetSetting="C:\Windows\System32\SettingsHandlers_StorageSense".GetSetting
+  GetSettingForUser="C:\Windows\System32\SettingsHandlers_StorageSense".GetSettingForUser

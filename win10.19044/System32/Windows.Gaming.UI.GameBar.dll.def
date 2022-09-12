@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Gaming.UI.GameBar".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Gaming.UI.GameBar".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Gaming.UI.GameBar".DllGetClassObject

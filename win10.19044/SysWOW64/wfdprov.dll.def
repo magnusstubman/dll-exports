@@ -1,0 +1,5 @@
+EXPORTS
+  WFDProvConfigureAndProvisionDevice="C:\Windows\SysWOW64\wfdprov".WFDProvConfigureAndProvisionDevice
+  WFDProvDeinitialize="C:\Windows\SysWOW64\wfdprov".WFDProvDeinitialize
+  WFDProvGetInfo="C:\Windows\SysWOW64\wfdprov".WFDProvGetInfo
+  WFDProvInitialize="C:\Windows\SysWOW64\wfdprov".WFDProvInitialize

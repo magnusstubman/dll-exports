@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AppIdPolicyEngineApi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\AppIdPolicyEngineApi".DllGetClassObject

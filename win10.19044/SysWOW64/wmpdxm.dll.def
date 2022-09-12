@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wmpdxm".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wmpdxm".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wmpdxm".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wmpdxm".DllUnregisterServer

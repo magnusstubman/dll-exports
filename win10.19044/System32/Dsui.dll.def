@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Dsui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Dsui".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\Dsui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Dsui".DllUnregisterServer

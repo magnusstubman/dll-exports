@@ -1,0 +1,12 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\netcfgx".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\netcfgx".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\netcfgx".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\netcfgx".DllUnregisterServer
+  LanaCfgFromCommandArgs="C:\Windows\System32\netcfgx".LanaCfgFromCommandArgs
+  NetCfgDiagFromCommandArgs="C:\Windows\System32\netcfgx".NetCfgDiagFromCommandArgs
+  NetCfgDiagRepairRegistryBindings="C:\Windows\System32\netcfgx".NetCfgDiagRepairRegistryBindings
+  NetClassInstaller="C:\Windows\System32\netcfgx".NetClassInstaller
+  NetPropPageProvider="C:\Windows\System32\netcfgx".NetPropPageProvider
+  OnMachineUILanguageInit="C:\Windows\System32\netcfgx".OnMachineUILanguageInit
+  OnMachineUILanguageSwitch="C:\Windows\System32\netcfgx".OnMachineUILanguageSwitch

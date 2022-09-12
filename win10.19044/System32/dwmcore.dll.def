@@ -1,0 +1,7 @@
+EXPORTS
+  MilCompositionEngine_GetComposedEventId="C:\Windows\System32\dwmcore".MilCompositionEngine_GetComposedEventId
+  MilCompositionEngine_Initialize="C:\Windows\System32\dwmcore".MilCompositionEngine_Initialize
+  MilCompositionEngine_Uninitialize="C:\Windows\System32\dwmcore".MilCompositionEngine_Uninitialize
+  MilConnection_CreateChannel="C:\Windows\System32\dwmcore".MilConnection_CreateChannel
+  MilTransport_AddRef="C:\Windows\System32\dwmcore".MilTransport_AddRef
+  MilTransport_Release="C:\Windows\System32\dwmcore".MilTransport_Release

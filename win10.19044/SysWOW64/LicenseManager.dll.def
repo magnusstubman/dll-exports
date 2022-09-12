@@ -1,0 +1,21 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\LicenseManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\LicenseManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\LicenseManager".DllGetClassObject
+  LmCreateLicenseManager="C:\Windows\SysWOW64\LicenseManager".LmCreateLicenseManager
+  LmCreateStandardServiceProvider="C:\Windows\SysWOW64\LicenseManager".LmCreateStandardServiceProvider
+  ServiceBeginAcquireLicense="C:\Windows\SysWOW64\LicenseManager".ServiceBeginAcquireLicense
+  ServiceCleanup="C:\Windows\SysWOW64\LicenseManager".ServiceCleanup
+  ServiceCreateApplicationLicenseManager="C:\Windows\SysWOW64\LicenseManager".ServiceCreateApplicationLicenseManager
+  ServiceEnsureLicenseForOptionalPackageUsage="C:\Windows\SysWOW64\LicenseManager".ServiceEnsureLicenseForOptionalPackageUsage
+  ServiceEnsureLicenseForPackageActivation="C:\Windows\SysWOW64\LicenseManager".ServiceEnsureLicenseForPackageActivation
+  ServiceInitialize="C:\Windows\SysWOW64\LicenseManager".ServiceInitialize
+  ServiceOptionalPackageRundownNotification="C:\Windows\SysWOW64\LicenseManager".ServiceOptionalPackageRundownNotification
+  ServicePackageRundownNotification="C:\Windows\SysWOW64\LicenseManager".ServicePackageRundownNotification
+  ServicePackageSuspendedNotification="C:\Windows\SysWOW64\LicenseManager".ServicePackageSuspendedNotification
+  ServicePrecacheLicenseForPackageResume="C:\Windows\SysWOW64\LicenseManager".ServicePrecacheLicenseForPackageResume
+  ServiceReset="C:\Windows\SysWOW64\LicenseManager".ServiceReset
+  SetServiceStatusHandle="C:\Windows\SysWOW64\LicenseManager".SetServiceStatusHandle
+  WnfEventHandlerForDeviceIdChange="C:\Windows\SysWOW64\LicenseManager".WnfEventHandlerForDeviceIdChange
+  WnfEventHandlerForOfflinePcChange="C:\Windows\SysWOW64\LicenseManager".WnfEventHandlerForOfflinePcChange
+  WnfEventHandlerForXboxTestNetworkConnectionComplete="C:\Windows\SysWOW64\LicenseManager".WnfEventHandlerForXboxTestNetworkConnectionComplete

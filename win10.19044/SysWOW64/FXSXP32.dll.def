@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceEntry="C:\Windows\SysWOW64\FXSXP32".ServiceEntry
+  XPProviderInit="C:\Windows\SysWOW64\FXSXP32".XPProviderInit

@@ -1,0 +1,24 @@
+EXPORTS
+  DevQueryPrintEx="C:\Windows\SysWOW64\PrintConfig".DevQueryPrintEx
+  DllCanUnloadNow="C:\Windows\SysWOW64\PrintConfig".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\PrintConfig".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\PrintConfig".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\PrintConfig".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\PrintConfig".DllUnregisterServer
+  DrvConvertDevMode="C:\Windows\SysWOW64\PrintConfig".DrvConvertDevMode
+  DrvDeviceCapabilities="C:\Windows\SysWOW64\PrintConfig".DrvDeviceCapabilities
+  DrvDevicePropertySheets="C:\Windows\SysWOW64\PrintConfig".DrvDevicePropertySheets
+  DrvDocumentEvent="C:\Windows\SysWOW64\PrintConfig".DrvDocumentEvent
+  DrvDocumentPropertySheets="C:\Windows\SysWOW64\PrintConfig".DrvDocumentPropertySheets
+  DrvDriverEvent="C:\Windows\SysWOW64\PrintConfig".DrvDriverEvent
+  DrvPopulateFilterServices="C:\Windows\SysWOW64\PrintConfig".DrvPopulateFilterServices
+  DrvPrinterEvent="C:\Windows\SysWOW64\PrintConfig".DrvPrinterEvent
+  DrvQueryColorProfile="C:\Windows\SysWOW64\PrintConfig".DrvQueryColorProfile
+  DrvQueryJobAttributes="C:\Windows\SysWOW64\PrintConfig".DrvQueryJobAttributes
+  DrvResetConfigCache="C:\Windows\SysWOW64\PrintConfig".DrvResetConfigCache
+  DrvSplDeviceCaps="C:\Windows\SysWOW64\PrintConfig".DrvSplDeviceCaps
+  DrvUpgradePrinter="C:\Windows\SysWOW64\PrintConfig".DrvUpgradePrinter
+  GetStandardMessageForPrinterStatus="C:\Windows\SysWOW64\PrintConfig".GetStandardMessageForPrinterStatus
+  MxdcGetPDEVAdjustment="C:\Windows\SysWOW64\PrintConfig".MxdcGetPDEVAdjustment
+  NotifyEntry="C:\Windows\SysWOW64\PrintConfig".NotifyEntry
+  ServiceMain="C:\Windows\SysWOW64\PrintConfig".ServiceMain

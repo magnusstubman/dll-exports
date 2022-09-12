@@ -1,0 +1,6 @@
+EXPORTS
+  InjectThread="C:\Windows\SysWOW64\ttdloader".InjectThread
+  ParametersBlock="C:\Windows\SysWOW64\ttdloader".ParametersBlock
+  StubDllEntry="C:\Windows\SysWOW64\ttdloader".StubDllEntry
+  StubDllEntryWow64="C:\Windows\SysWOW64\ttdloader".StubDllEntryWow64
+  TriggerOSNotification="C:\Windows\SysWOW64\ttdloader".TriggerOSNotification

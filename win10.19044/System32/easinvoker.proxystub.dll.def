@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\easinvoker.proxystub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\easinvoker.proxystub".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\easinvoker.proxystub".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\easinvoker.proxystub".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\easinvoker.proxystub".GetProxyDllInfo

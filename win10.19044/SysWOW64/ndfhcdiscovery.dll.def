@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ndfhcdiscovery".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ndfhcdiscovery".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\ndfhcdiscovery".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\ndfhcdiscovery".DllUnregisterServer

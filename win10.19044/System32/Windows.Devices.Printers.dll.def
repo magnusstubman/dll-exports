@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.Printers".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.Printers".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.Printers".DllGetClassObject

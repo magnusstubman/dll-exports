@@ -1,0 +1,3 @@
+EXPORTS
+  DecodeWspHeaders="C:\Windows\System32\wsplib".DecodeWspHeaders
+  FreeWspHeaders="C:\Windows\System32\wsplib".FreeWspHeaders

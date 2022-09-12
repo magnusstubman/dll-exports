@@ -1,0 +1,25 @@
+EXPORTS
+  DsrGetDcNameEx2="C:\Windows\SysWOW64\netlogon".DsrGetDcNameEx2
+  I_NetLogonAddressToSiteName="C:\Windows\SysWOW64\netlogon".I_NetLogonAddressToSiteName
+  I_NetLogonAppendChangeLog="C:\Windows\SysWOW64\netlogon".I_NetLogonAppendChangeLog
+  I_NetLogonCloseChangeLog="C:\Windows\SysWOW64\netlogon".I_NetLogonCloseChangeLog
+  I_NetLogonFree="C:\Windows\SysWOW64\netlogon".I_NetLogonFree
+  I_NetLogonGetAuthDataEx="C:\Windows\SysWOW64\netlogon".I_NetLogonGetAuthDataEx
+  I_NetLogonGetSerialNumber="C:\Windows\SysWOW64\netlogon".I_NetLogonGetSerialNumber
+  I_NetLogonLdapLookupEx="C:\Windows\SysWOW64\netlogon".I_NetLogonLdapLookupEx
+  I_NetLogonMixedDomain="C:\Windows\SysWOW64\netlogon".I_NetLogonMixedDomain
+  I_NetLogonNewChangeLog="C:\Windows\SysWOW64\netlogon".I_NetLogonNewChangeLog
+  I_NetLogonReadChangeLog="C:\Windows\SysWOW64\netlogon".I_NetLogonReadChangeLog
+  I_NetLogonSendToSamOnDc="C:\Windows\SysWOW64\netlogon".I_NetLogonSendToSamOnDc
+  I_NetLogonSetServiceBits="C:\Windows\SysWOW64\netlogon".I_NetLogonSetServiceBits
+  I_NetNotifyDelta="C:\Windows\SysWOW64\netlogon".I_NetNotifyDelta
+  I_NetNotifyDsChange="C:\Windows\SysWOW64\netlogon".I_NetNotifyDsChange
+  I_NetNotifyMachineAccount="C:\Windows\SysWOW64\netlogon".I_NetNotifyMachineAccount
+  I_NetNotifyNetlogonDllHandle="C:\Windows\SysWOW64\netlogon".I_NetNotifyNetlogonDllHandle
+  I_NetNotifyNtdsDsaDeletion="C:\Windows\SysWOW64\netlogon".I_NetNotifyNtdsDsaDeletion
+  I_NetNotifyRole="C:\Windows\SysWOW64\netlogon".I_NetNotifyRole
+  I_NetNotifyTrustedDomain="C:\Windows\SysWOW64\netlogon".I_NetNotifyTrustedDomain
+  InitSecurityInterfaceW="C:\Windows\SysWOW64\netlogon".InitSecurityInterfaceW
+  NetIGetEncTypes="C:\Windows\SysWOW64\netlogon".NetIGetEncTypes
+  NetILogonSamLogon="C:\Windows\SysWOW64\netlogon".NetILogonSamLogon
+  NlNetlogonMain="C:\Windows\SysWOW64\netlogon".NlNetlogonMain

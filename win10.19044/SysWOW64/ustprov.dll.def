@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ustprov".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ustprov".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\ustprov".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\ustprov".DllUnregisterServer

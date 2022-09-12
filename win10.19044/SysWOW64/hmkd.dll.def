@@ -1,0 +1,5 @@
+EXPORTS
+  HMKDCreateHmacKey="C:\Windows\SysWOW64\hmkd".HMKDCreateHmacKey
+  HMKDDeriveKey="C:\Windows\SysWOW64\hmkd".HMKDDeriveKey
+  HMKDGetHmacStatus="C:\Windows\SysWOW64\hmkd".HMKDGetHmacStatus
+  HMKDImportHmacKey="C:\Windows\SysWOW64\hmkd".HMKDImportHmacKey

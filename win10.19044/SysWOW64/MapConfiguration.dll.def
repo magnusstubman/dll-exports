@@ -1,0 +1,5 @@
+EXPORTS
+  ConfigurationManager_Create="C:\Windows\SysWOW64\MapConfiguration".ConfigurationManager_Create
+  ConfigurationManager_GetLocaleMapConfiguration="C:\Windows\SysWOW64\MapConfiguration".ConfigurationManager_GetLocaleMapConfiguration
+  ConfigurationManager_SetCustomStorageFolder="C:\Windows\SysWOW64\MapConfiguration".ConfigurationManager_SetCustomStorageFolder
+  ConfigurationManager_SetServiceCallbacks="C:\Windows\SysWOW64\MapConfiguration".ConfigurationManager_SetServiceCallbacks

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\itircl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\itircl".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\itircl".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\itircl".DllUnregisterServer

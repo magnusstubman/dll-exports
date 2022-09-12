@@ -1,0 +1,24 @@
+EXPORTS
+  PhoneBookCopyFilter="C:\Windows\SysWOW64\cmpbk32".PhoneBookCopyFilter
+  PhoneBookEnumCountries="C:\Windows\SysWOW64\cmpbk32".PhoneBookEnumCountries
+  PhoneBookEnumNumbers="C:\Windows\SysWOW64\cmpbk32".PhoneBookEnumNumbers
+  PhoneBookEnumNumbersWithRegionsZero="C:\Windows\SysWOW64\cmpbk32".PhoneBookEnumNumbersWithRegionsZero
+  PhoneBookEnumRegions="C:\Windows\SysWOW64\cmpbk32".PhoneBookEnumRegions
+  PhoneBookFreeFilter="C:\Windows\SysWOW64\cmpbk32".PhoneBookFreeFilter
+  PhoneBookGetCountryId="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetCountryId
+  PhoneBookGetCountryNameA="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetCountryNameA
+  PhoneBookGetCountryNameW="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetCountryNameW
+  PhoneBookGetCurrentCountryId="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetCurrentCountryId
+  PhoneBookGetPhoneCanonicalA="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetPhoneCanonicalA
+  PhoneBookGetPhoneDUNA="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetPhoneDUNA
+  PhoneBookGetPhoneDescA="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetPhoneDescA
+  PhoneBookGetPhoneDispA="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetPhoneDispA
+  PhoneBookGetPhoneNonCanonicalA="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetPhoneNonCanonicalA
+  PhoneBookGetPhoneType="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetPhoneType
+  PhoneBookGetRegionNameA="C:\Windows\SysWOW64\cmpbk32".PhoneBookGetRegionNameA
+  PhoneBookHasPhoneType="C:\Windows\SysWOW64\cmpbk32".PhoneBookHasPhoneType
+  PhoneBookLoad="C:\Windows\SysWOW64\cmpbk32".PhoneBookLoad
+  PhoneBookMatchFilter="C:\Windows\SysWOW64\cmpbk32".PhoneBookMatchFilter
+  PhoneBookMergeChanges="C:\Windows\SysWOW64\cmpbk32".PhoneBookMergeChanges
+  PhoneBookParseInfoA="C:\Windows\SysWOW64\cmpbk32".PhoneBookParseInfoA
+  PhoneBookUnload="C:\Windows\SysWOW64\cmpbk32".PhoneBookUnload

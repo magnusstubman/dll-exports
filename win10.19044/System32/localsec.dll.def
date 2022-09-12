@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\localsec".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\localsec".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\localsec".DllRegisterServer

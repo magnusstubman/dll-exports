@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\RdpSaPs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\RdpSaPs".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\RdpSaPs".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\RdpSaPs".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\RdpSaPs".GetProxyDllInfo

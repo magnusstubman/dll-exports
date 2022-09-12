@@ -1,0 +1,27 @@
+EXPORTS
+  ActivatePolicyManager="C:\Windows\System32\AudioSrvPolicyManager".ActivatePolicyManager
+  HHOSTEDAPPMANAGERCONTEXTRundown="C:\Windows\System32\AudioSrvPolicyManager".HHOSTEDAPPMANAGERCONTEXTRundown
+  PbmAllowMediaPlaybackForApp="C:\Windows\System32\AudioSrvPolicyManager".PbmAllowMediaPlaybackForApp
+  PbmCastingAppStateChanged="C:\Windows\System32\AudioSrvPolicyManager".PbmCastingAppStateChanged
+  PbmGetSoundLevel="C:\Windows\System32\AudioSrvPolicyManager".PbmGetSoundLevel
+  PbmIsPlaying="C:\Windows\System32\AudioSrvPolicyManager".PbmIsPlaying
+  PbmLaunchBackgroundTask="C:\Windows\System32\AudioSrvPolicyManager".PbmLaunchBackgroundTask
+  PbmPlayToStreamStateChanged="C:\Windows\System32\AudioSrvPolicyManager".PbmPlayToStreamStateChanged
+  PbmRegisterAppClosureNotification="C:\Windows\System32\AudioSrvPolicyManager".PbmRegisterAppClosureNotification
+  PbmRegisterAppManagerNotification="C:\Windows\System32\AudioSrvPolicyManager".PbmRegisterAppManagerNotification
+  PbmRegisterPlaybackManagerNotifications="C:\Windows\System32\AudioSrvPolicyManager".PbmRegisterPlaybackManagerNotifications
+  PbmReportAppClosing="C:\Windows\System32\AudioSrvPolicyManager".PbmReportAppClosing
+  PbmReportAppInteractivityChange="C:\Windows\System32\AudioSrvPolicyManager".PbmReportAppInteractivityChange
+  PbmReportApplicationState="C:\Windows\System32\AudioSrvPolicyManager".PbmReportApplicationState
+  PbmReportHostedAppStateChange="C:\Windows\System32\AudioSrvPolicyManager".PbmReportHostedAppStateChange
+  PbmSetScreenReaderState="C:\Windows\System32\AudioSrvPolicyManager".PbmSetScreenReaderState
+  PbmSetSmtcSubscriptionState="C:\Windows\System32\AudioSrvPolicyManager".PbmSetSmtcSubscriptionState
+  PbmSwitchSoftNonInteractiveAppsToHardNonInteractive="C:\Windows\System32\AudioSrvPolicyManager".PbmSwitchSoftNonInteractiveAppsToHardNonInteractive
+  PbmUnregisterAppClosureNotification="C:\Windows\System32\AudioSrvPolicyManager".PbmUnregisterAppClosureNotification
+  PbmUnregisterAppManagerNotification="C:\Windows\System32\AudioSrvPolicyManager".PbmUnregisterAppManagerNotification
+  PbmUnregisterPlaybackManagerNotifications="C:\Windows\System32\AudioSrvPolicyManager".PbmUnregisterPlaybackManagerNotifications
+  TS_AudioProtocolNotifyRundown="C:\Windows\System32\AudioSrvPolicyManager".TS_AudioProtocolNotifyRundown
+  TS_RegisterAudioProtocolNotification="C:\Windows\System32\AudioSrvPolicyManager".TS_RegisterAudioProtocolNotification
+  TS_SessionChanged="C:\Windows\System32\AudioSrvPolicyManager".TS_SessionChanged
+  TS_SessionGetAudioProtocol="C:\Windows\System32\AudioSrvPolicyManager".TS_SessionGetAudioProtocol
+  TS_UnregisterAudioProtocolNotification="C:\Windows\System32\AudioSrvPolicyManager".TS_UnregisterAudioProtocolNotification

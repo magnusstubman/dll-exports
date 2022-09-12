@@ -1,0 +1,15 @@
+EXPORTS
+  DisableAppXDebuggingForPackage="C:\Windows\SysWOW64\ActivationManager".DisableAppXDebuggingForPackage
+  DllCanUnloadNow="C:\Windows\SysWOW64\ActivationManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\ActivationManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\ActivationManager".DllGetClassObject
+  EnableAppXDebuggingForPackage="C:\Windows\SysWOW64\ActivationManager".EnableAppXDebuggingForPackage
+  FreeAppXLaunchContext="C:\Windows\SysWOW64\ActivationManager".FreeAppXLaunchContext
+  GetPackageExecutionContextForAumid="C:\Windows\SysWOW64\ActivationManager".GetPackageExecutionContextForAumid
+  GetPackageExecutionContextForAumidAndUser="C:\Windows\SysWOW64\ActivationManager".GetPackageExecutionContextForAumidAndUser
+  GetPackageExecutionContextForDeviceFamilyName="C:\Windows\SysWOW64\ActivationManager".GetPackageExecutionContextForDeviceFamilyName
+  GetPackageExecutionContextForPackageByFullName="C:\Windows\SysWOW64\ActivationManager".GetPackageExecutionContextForPackageByFullName
+  PostCreateProcessAppXActivation="C:\Windows\SysWOW64\ActivationManager".PostCreateProcessAppXActivation
+  PrepareAppXActivation="C:\Windows\SysWOW64\ActivationManager".PrepareAppXActivation
+  RegisterAppXPackageIfNecessary="C:\Windows\SysWOW64\ActivationManager".RegisterAppXPackageIfNecessary
+  RegisterAppXPackageIfNecessary2="C:\Windows\SysWOW64\ActivationManager".RegisterAppXPackageIfNecessary2

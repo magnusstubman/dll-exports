@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\netprofm".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\netprofm".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\netprofm".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\netprofm".DllUnregisterServer

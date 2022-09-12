@@ -1,0 +1,3 @@
+EXPORTS
+  RegisterComputeSystem="C:\Windows\System32\containerdevicemanagement".RegisterComputeSystem
+  UnregisterComputeSystem="C:\Windows\System32\containerdevicemanagement".UnregisterComputeSystem

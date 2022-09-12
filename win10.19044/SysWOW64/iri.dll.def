@@ -1,0 +1,20 @@
+EXPORTS
+  IriAppendRelativeIri="C:\Windows\SysWOW64\iri".IriAppendRelativeIri
+  IriAppendSegment="C:\Windows\SysWOW64\iri".IriAppendSegment
+  IriClose="C:\Windows\SysWOW64\iri".IriClose
+  IriCompare="C:\Windows\SysWOW64\iri".IriCompare
+  IriCopy="C:\Windows\SysWOW64\iri".IriCopy
+  IriCreateFromString="C:\Windows\SysWOW64\iri".IriCreateFromString
+  IriFindLastCommonSegment="C:\Windows\SysWOW64\iri".IriFindLastCommonSegment
+  IriGetAsString="C:\Windows\SysWOW64\iri".IriGetAsString
+  IriGetAttributeFlags="C:\Windows\SysWOW64\iri".IriGetAttributeFlags
+  IriGetComponent="C:\Windows\SysWOW64\iri".IriGetComponent
+  IriGetRelative="C:\Windows\SysWOW64\iri".IriGetRelative
+  IriGetSegment="C:\Windows\SysWOW64\iri".IriGetSegment
+  IriGetSegmentCount="C:\Windows\SysWOW64\iri".IriGetSegmentCount
+  IriMakeConstantEx="C:\Windows\SysWOW64\iri".IriMakeConstantEx
+  IriMutableClose="C:\Windows\SysWOW64\iri".IriMutableClose
+  IriSetComponent="C:\Windows\SysWOW64\iri".IriSetComponent
+  IriSetMetadata="C:\Windows\SysWOW64\iri".IriSetMetadata
+  IriSplit="C:\Windows\SysWOW64\iri".IriSplit
+  IriSplitIntoMutableIris="C:\Windows\SysWOW64\iri".IriSplitIntoMutableIris

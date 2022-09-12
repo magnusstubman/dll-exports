@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\smartscreenps".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\smartscreenps".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\smartscreenps".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\smartscreenps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\smartscreenps".DllUnregisterServer

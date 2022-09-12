@@ -1,0 +1,16 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SmartCardSimulator".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SmartCardSimulator".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\SmartCardSimulator".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\SmartCardSimulator".DllUnregisterServer
+  Microsoft_WDF_UMDF_Version="C:\Windows\System32\SmartCardSimulator".Microsoft_WDF_UMDF_Version
+  VGidsSimulatorCreate="C:\Windows\System32\SmartCardSimulator".VGidsSimulatorCreate
+  VGidsSimulatorDestroy="C:\Windows\System32\SmartCardSimulator".VGidsSimulatorDestroy
+  VGidsSimulatorReadProperties="C:\Windows\System32\SmartCardSimulator".VGidsSimulatorReadProperties
+  VGidsSimulatorWriteProperties="C:\Windows\System32\SmartCardSimulator".VGidsSimulatorWriteProperties
+  VTransportClose="C:\Windows\System32\SmartCardSimulator".VTransportClose
+  VTransportDeinitialize="C:\Windows\System32\SmartCardSimulator".VTransportDeinitialize
+  VTransportInitialize="C:\Windows\System32\SmartCardSimulator".VTransportInitialize
+  VTransportOpen="C:\Windows\System32\SmartCardSimulator".VTransportOpen
+  VTransportReceive="C:\Windows\System32\SmartCardSimulator".VTransportReceive
+  VTransportTransmit="C:\Windows\System32\SmartCardSimulator".VTransportTransmit

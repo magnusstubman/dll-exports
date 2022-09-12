@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LocationApi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\LocationApi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\LocationApi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\LocationApi".DllUnregisterServer

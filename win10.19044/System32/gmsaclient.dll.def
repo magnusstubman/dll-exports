@@ -1,0 +1,8 @@
+EXPORTS
+  GMSAAdd="C:\Windows\System32\gmsaclient".GMSAAdd
+  GMSACheckIfExistsInAD="C:\Windows\System32\gmsaclient".GMSACheckIfExistsInAD
+  GMSACleanup="C:\Windows\System32\gmsaclient".GMSACleanup
+  GMSADelete="C:\Windows\System32\gmsaclient".GMSADelete
+  GMSAGetPassword="C:\Windows\System32\gmsaclient".GMSAGetPassword
+  GMSAInit="C:\Windows\System32\gmsaclient".GMSAInit
+  GMSARefreshPasswords="C:\Windows\System32\gmsaclient".GMSARefreshPasswords

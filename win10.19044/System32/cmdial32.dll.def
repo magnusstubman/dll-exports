@@ -1,0 +1,12 @@
+EXPORTS
+  AutoDialFunc="C:\Windows\System32\cmdial32".AutoDialFunc
+  CmCustomDialDlg="C:\Windows\System32\cmdial32".CmCustomDialDlg
+  CmCustomHangUp="C:\Windows\System32\cmdial32".CmCustomHangUp
+  CmReConnect="C:\Windows\System32\cmdial32".CmReConnect
+  GetCustomProperty="C:\Windows\System32\cmdial32".GetCustomProperty
+  InetDialHandler="C:\Windows\System32\cmdial32".InetDialHandler
+  RasCustomDeleteEntryNotify="C:\Windows\System32\cmdial32".RasCustomDeleteEntryNotify
+  RasCustomDial="C:\Windows\System32\cmdial32".RasCustomDial
+  RasCustomDialDlg="C:\Windows\System32\cmdial32".RasCustomDialDlg
+  RasCustomEntryDlg="C:\Windows\System32\cmdial32".RasCustomEntryDlg
+  RasCustomHangUp="C:\Windows\System32\cmdial32".RasCustomHangUp

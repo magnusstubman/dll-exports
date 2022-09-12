@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.WiFiDirect".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.WiFiDirect".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.WiFiDirect".DllGetClassObject

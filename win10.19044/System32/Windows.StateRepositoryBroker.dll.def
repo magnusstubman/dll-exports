@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.StateRepositoryBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.StateRepositoryBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.StateRepositoryBroker".DllGetClassObject

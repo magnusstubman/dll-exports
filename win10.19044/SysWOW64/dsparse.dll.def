@@ -1,0 +1,21 @@
+EXPORTS
+  DsCrackSpn2A="C:\Windows\SysWOW64\dsparse".DsCrackSpn2A
+  DsCrackSpn2W="C:\Windows\SysWOW64\dsparse".DsCrackSpn2W
+  DsCrackSpn3W="C:\Windows\SysWOW64\dsparse".DsCrackSpn3W
+  DsCrackSpn4W="C:\Windows\SysWOW64\dsparse".DsCrackSpn4W
+  DsCrackSpnA="C:\Windows\SysWOW64\dsparse".DsCrackSpnA
+  DsCrackSpnW="C:\Windows\SysWOW64\dsparse".DsCrackSpnW
+  DsCrackUnquotedMangledRdnA="C:\Windows\SysWOW64\dsparse".DsCrackUnquotedMangledRdnA
+  DsCrackUnquotedMangledRdnW="C:\Windows\SysWOW64\dsparse".DsCrackUnquotedMangledRdnW
+  DsGetRdnW="C:\Windows\SysWOW64\dsparse".DsGetRdnW
+  DsIsMangledDnA="C:\Windows\SysWOW64\dsparse".DsIsMangledDnA
+  DsIsMangledDnW="C:\Windows\SysWOW64\dsparse".DsIsMangledDnW
+  DsIsMangledRdnValueA="C:\Windows\SysWOW64\dsparse".DsIsMangledRdnValueA
+  DsIsMangledRdnValueW="C:\Windows\SysWOW64\dsparse".DsIsMangledRdnValueW
+  DsMakeSpn2W="C:\Windows\SysWOW64\dsparse".DsMakeSpn2W
+  DsMakeSpnA="C:\Windows\SysWOW64\dsparse".DsMakeSpnA
+  DsMakeSpnW="C:\Windows\SysWOW64\dsparse".DsMakeSpnW
+  DsQuoteRdnValueA="C:\Windows\SysWOW64\dsparse".DsQuoteRdnValueA
+  DsQuoteRdnValueW="C:\Windows\SysWOW64\dsparse".DsQuoteRdnValueW
+  DsUnquoteRdnValueA="C:\Windows\SysWOW64\dsparse".DsUnquoteRdnValueA
+  DsUnquoteRdnValueW="C:\Windows\SysWOW64\dsparse".DsUnquoteRdnValueW

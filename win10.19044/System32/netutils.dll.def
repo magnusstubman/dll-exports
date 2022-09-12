@@ -1,0 +1,23 @@
+EXPORTS
+  NetApiBufferAllocate="C:\Windows\System32\netutils".NetApiBufferAllocate
+  NetApiBufferFree="C:\Windows\System32\netutils".NetApiBufferFree
+  NetApiBufferReallocate="C:\Windows\System32\netutils".NetApiBufferReallocate
+  NetApiBufferSize="C:\Windows\System32\netutils".NetApiBufferSize
+  NetRemoteComputerSupports="C:\Windows\System32\netutils".NetRemoteComputerSupports
+  NetapipBufferAllocate="C:\Windows\System32\netutils".NetapipBufferAllocate
+  NetpIsComputerNameValid="C:\Windows\System32\netutils".NetpIsComputerNameValid
+  NetpIsDomainNameValid="C:\Windows\System32\netutils".NetpIsDomainNameValid
+  NetpIsGroupNameValid="C:\Windows\System32\netutils".NetpIsGroupNameValid
+  NetpIsRemote="C:\Windows\System32\netutils".NetpIsRemote
+  NetpIsRemoteNameValid="C:\Windows\System32\netutils".NetpIsRemoteNameValid
+  NetpIsShareNameValid="C:\Windows\System32\netutils".NetpIsShareNameValid
+  NetpIsUncComputerNameValid="C:\Windows\System32\netutils".NetpIsUncComputerNameValid
+  NetpIsUserNameValid="C:\Windows\System32\netutils".NetpIsUserNameValid
+  NetpwListCanonicalize="C:\Windows\System32\netutils".NetpwListCanonicalize
+  NetpwListTraverse="C:\Windows\System32\netutils".NetpwListTraverse
+  NetpwNameCanonicalize="C:\Windows\System32\netutils".NetpwNameCanonicalize
+  NetpwNameCompare="C:\Windows\System32\netutils".NetpwNameCompare
+  NetpwNameValidate="C:\Windows\System32\netutils".NetpwNameValidate
+  NetpwPathCanonicalize="C:\Windows\System32\netutils".NetpwPathCanonicalize
+  NetpwPathCompare="C:\Windows\System32\netutils".NetpwPathCompare
+  NetpwPathType="C:\Windows\System32\netutils".NetpwPathType

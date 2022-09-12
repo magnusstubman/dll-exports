@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\RegCtrl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\RegCtrl".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\RegCtrl".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\RegCtrl".DllUnregisterServer

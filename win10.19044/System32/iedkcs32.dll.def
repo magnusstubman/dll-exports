@@ -1,0 +1,15 @@
+EXPORTS
+  BrandCleanInstallStubs="C:\Windows\System32\iedkcs32".BrandCleanInstallStubs
+  BrandICW="C:\Windows\System32\iedkcs32".BrandICW
+  BrandICW2="C:\Windows\System32\iedkcs32".BrandICW2
+  BrandIE4="C:\Windows\System32\iedkcs32".BrandIE4
+  BrandIEActiveSetup="C:\Windows\System32\iedkcs32".BrandIEActiveSetup
+  BrandInternetExplorer="C:\Windows\System32\iedkcs32".BrandInternetExplorer
+  BrandIntra="C:\Windows\System32\iedkcs32".BrandIntra
+  BrandMe="C:\Windows\System32\iedkcs32".BrandMe
+  Clear="C:\Windows\System32\iedkcs32".Clear
+  CloseRASConnections="C:\Windows\System32\iedkcs32".CloseRASConnections
+  InternetInitializeAutoProxyDll="C:\Windows\System32\iedkcs32".InternetInitializeAutoProxyDll
+  ProcessGroupPolicyForActivities="C:\Windows\System32\iedkcs32".ProcessGroupPolicyForActivities
+  ProcessGroupPolicyForActivitiesEx="C:\Windows\System32\iedkcs32".ProcessGroupPolicyForActivitiesEx
+  ProcessGroupPolicyForZoneMap="C:\Windows\System32\iedkcs32".ProcessGroupPolicyForZoneMap

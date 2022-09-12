@@ -1,0 +1,27 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\ntlanman".DllMain
+  I_SystemFocusDialog="C:\Windows\SysWOW64\ntlanman".I_SystemFocusDialog
+  NPAddConnection="C:\Windows\SysWOW64\ntlanman".NPAddConnection
+  NPAddConnection3="C:\Windows\SysWOW64\ntlanman".NPAddConnection3
+  NPAddConnection4="C:\Windows\SysWOW64\ntlanman".NPAddConnection4
+  NPCancelConnection="C:\Windows\SysWOW64\ntlanman".NPCancelConnection
+  NPCloseEnum="C:\Windows\SysWOW64\ntlanman".NPCloseEnum
+  NPEnumResource="C:\Windows\SysWOW64\ntlanman".NPEnumResource
+  NPFormatNetworkName="C:\Windows\SysWOW64\ntlanman".NPFormatNetworkName
+  NPGetCaps="C:\Windows\SysWOW64\ntlanman".NPGetCaps
+  NPGetConnection="C:\Windows\SysWOW64\ntlanman".NPGetConnection
+  NPGetConnection3="C:\Windows\SysWOW64\ntlanman".NPGetConnection3
+  NPGetConnectionPerformance="C:\Windows\SysWOW64\ntlanman".NPGetConnectionPerformance
+  NPGetPersistentUseOptionsForConnection="C:\Windows\SysWOW64\ntlanman".NPGetPersistentUseOptionsForConnection
+  NPGetPersistentUseOptionsForConnection2="C:\Windows\SysWOW64\ntlanman".NPGetPersistentUseOptionsForConnection2
+  NPGetReconnectFlags="C:\Windows\SysWOW64\ntlanman".NPGetReconnectFlags
+  NPGetResourceInformation="C:\Windows\SysWOW64\ntlanman".NPGetResourceInformation
+  NPGetResourceParent="C:\Windows\SysWOW64\ntlanman".NPGetResourceParent
+  NPGetUniversalName="C:\Windows\SysWOW64\ntlanman".NPGetUniversalName
+  NPGetUser="C:\Windows\SysWOW64\ntlanman".NPGetUser
+  NPOpenEnum="C:\Windows\SysWOW64\ntlanman".NPOpenEnum
+  QueryAppInstanceVersion="C:\Windows\SysWOW64\ntlanman".QueryAppInstanceVersion
+  RegisterAppInstance="C:\Windows\SysWOW64\ntlanman".RegisterAppInstance
+  RegisterAppInstanceVersion="C:\Windows\SysWOW64\ntlanman".RegisterAppInstanceVersion
+  ResetAllAppInstanceVersions="C:\Windows\SysWOW64\ntlanman".ResetAllAppInstanceVersions
+  SetAppInstanceCsvFlags="C:\Windows\SysWOW64\ntlanman".SetAppInstanceCsvFlags

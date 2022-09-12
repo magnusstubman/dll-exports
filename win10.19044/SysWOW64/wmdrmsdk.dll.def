@@ -1,0 +1,10 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wmdrmsdk".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wmdrmsdk".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wmdrmsdk".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wmdrmsdk".DllUnregisterServer
+  MFWMDRMOutputTrustAuthority_CreateInstance="C:\Windows\SysWOW64\wmdrmsdk".MFWMDRMOutputTrustAuthority_CreateInstance
+  WMDRMCreateProvider="C:\Windows\SysWOW64\wmdrmsdk".WMDRMCreateProvider
+  WMDRMShutdown="C:\Windows\SysWOW64\wmdrmsdk".WMDRMShutdown
+  WMDRMStartup="C:\Windows\SysWOW64\wmdrmsdk".WMDRMStartup
+  _WMDRMCreateProvider="C:\Windows\SysWOW64\wmdrmsdk"._WMDRMCreateProvider

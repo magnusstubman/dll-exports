@@ -1,0 +1,10 @@
+EXPORTS
+  TxfGetThreadMiniVersionForCreate="C:\Windows\System32\txfw32".TxfGetThreadMiniVersionForCreate
+  TxfLogCreateFileReadContext="C:\Windows\System32\txfw32".TxfLogCreateFileReadContext
+  TxfLogCreateRangeReadContext="C:\Windows\System32\txfw32".TxfLogCreateRangeReadContext
+  TxfLogDestroyReadContext="C:\Windows\System32\txfw32".TxfLogDestroyReadContext
+  TxfLogReadRecords="C:\Windows\System32\txfw32".TxfLogReadRecords
+  TxfLogRecordGetFileName="C:\Windows\System32\txfw32".TxfLogRecordGetFileName
+  TxfLogRecordGetGenericType="C:\Windows\System32\txfw32".TxfLogRecordGetGenericType
+  TxfReadMetadataInfo="C:\Windows\System32\txfw32".TxfReadMetadataInfo
+  TxfSetThreadMiniVersionForCreate="C:\Windows\System32\txfw32".TxfSetThreadMiniVersionForCreate

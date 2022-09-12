@@ -1,0 +1,20 @@
+EXPORTS
+  CheckPackageManagerOutOfProc="C:\Windows\System32\provplatformdesktop".CheckPackageManagerOutOfProc
+  CheckUserConsent="C:\Windows\System32\provplatformdesktop".CheckUserConsent
+  ConfigureAppLaunch="C:\Windows\System32\provplatformdesktop".ConfigureAppLaunch
+  CreateAutomaticRedeploymentFailureNotificationTask="C:\Windows\System32\provplatformdesktop".CreateAutomaticRedeploymentFailureNotificationTask
+  DllCanUnloadNow="C:\Windows\System32\provplatformdesktop".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\provplatformdesktop".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\provplatformdesktop".DllGetClassObject
+  GetDeviceId="C:\Windows\System32\provplatformdesktop".GetDeviceId
+  GetPackagePassword="C:\Windows\System32\provplatformdesktop".GetPackagePassword
+  GetProvisioningTargetUser="C:\Windows\System32\provplatformdesktop".GetProvisioningTargetUser
+  InitiateMgmtRefresh="C:\Windows\System32\provplatformdesktop".InitiateMgmtRefresh
+  InitiateSystemReset="C:\Windows\System32\provplatformdesktop".InitiateSystemReset
+  MgmtRefreshPrecheck="C:\Windows\System32\provplatformdesktop".MgmtRefreshPrecheck
+  MgmtRefreshRebootSystem="C:\Windows\System32\provplatformdesktop".MgmtRefreshRebootSystem
+  MgmtRefreshReleaseSession="C:\Windows\System32\provplatformdesktop".MgmtRefreshReleaseSession
+  MgmtRefreshStageSession="C:\Windows\System32\provplatformdesktop".MgmtRefreshStageSession
+  MgmtRefreshUnstageSession="C:\Windows\System32\provplatformdesktop".MgmtRefreshUnstageSession
+  ReportInstallationError="C:\Windows\System32\provplatformdesktop".ReportInstallationError
+  SetDeviceName="C:\Windows\System32\provplatformdesktop".SetDeviceName

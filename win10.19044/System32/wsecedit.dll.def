@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wsecedit".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wsecedit".DllGetClassObject
+  InvokeCAPEACLEditor="C:\Windows\System32\wsecedit".InvokeCAPEACLEditor
+  TranslateAceMasksAndCondition="C:\Windows\System32\wsecedit".TranslateAceMasksAndCondition

@@ -1,0 +1,23 @@
+EXPORTS
+  EfsUtilApplyGroupPolicy="C:\Windows\System32\efsutil".EfsUtilApplyGroupPolicy
+  EfsUtilCheckCurrentKeyCapabilities="C:\Windows\System32\efsutil".EfsUtilCheckCurrentKeyCapabilities
+  EfsUtilCreateSelfSignedCertificate="C:\Windows\System32\efsutil".EfsUtilCreateSelfSignedCertificate
+  EfsUtilFreeParsedRecoveryPolicy="C:\Windows\System32\efsutil".EfsUtilFreeParsedRecoveryPolicy
+  EfsUtilGetCertContextFromCertHash="C:\Windows\System32\efsutil".EfsUtilGetCertContextFromCertHash
+  EfsUtilGetCertDisplayInformation="C:\Windows\System32\efsutil".EfsUtilGetCertDisplayInformation
+  EfsUtilGetCertNameFromCertContext="C:\Windows\System32\efsutil".EfsUtilGetCertNameFromCertContext
+  EfsUtilGetCurrentKey="C:\Windows\System32\efsutil".EfsUtilGetCurrentKey
+  EfsUtilGetCurrentKey_Deprecated="C:\Windows\System32\efsutil".EfsUtilGetCurrentKey_Deprecated
+  EfsUtilGetCurrentUserInformation="C:\Windows\System32\efsutil".EfsUtilGetCurrentUserInformation
+  EfsUtilGetProvider="C:\Windows\System32\efsutil".EfsUtilGetProvider
+  EfsUtilGetPublicKeyType="C:\Windows\System32\efsutil".EfsUtilGetPublicKeyType
+  EfsUtilGetSmartcardProviderName="C:\Windows\System32\efsutil".EfsUtilGetSmartcardProviderName
+  EfsUtilGetUserKey="C:\Windows\System32\efsutil".EfsUtilGetUserKey
+  EfsUtilIsSmartcardKey="C:\Windows\System32\efsutil".EfsUtilIsSmartcardKey
+  EfsUtilIsSmartcardProvider="C:\Windows\System32\efsutil".EfsUtilIsSmartcardProvider
+  EfsUtilParseDataRecoveryPolicy_1_1="C:\Windows\System32\efsutil".EfsUtilParseDataRecoveryPolicy_1_1
+  EfsUtilReleaseProvider="C:\Windows\System32\efsutil".EfsUtilReleaseProvider
+  EfsUtilReleaseUserKey="C:\Windows\System32\efsutil".EfsUtilReleaseUserKey
+  EfsUtilSetCurrentKey="C:\Windows\System32\efsutil".EfsUtilSetCurrentKey
+  EfsUtilSetSmartcardPin="C:\Windows\System32\efsutil".EfsUtilSetSmartcardPin
+  EfsUtilSmartcardCredsNeededError="C:\Windows\System32\efsutil".EfsUtilSmartcardCredsNeededError

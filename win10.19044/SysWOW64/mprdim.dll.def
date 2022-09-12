@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\SysWOW64\mprdim".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\SysWOW64\mprdim".SvchostPushServiceGlobals

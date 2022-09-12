@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.System.Launcher".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.System.Launcher".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.System.Launcher".DllGetClassObject

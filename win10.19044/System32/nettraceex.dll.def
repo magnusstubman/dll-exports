@@ -1,0 +1,5 @@
+EXPORTS
+  TraceExGenerateDump="C:\Windows\System32\nettraceex".TraceExGenerateDump
+  TraceExGenerateMiniReport="C:\Windows\System32\nettraceex".TraceExGenerateMiniReport
+  TraceExGenerateReport="C:\Windows\System32\nettraceex".TraceExGenerateReport
+  TraceExRunDiagnostic="C:\Windows\System32\nettraceex".TraceExRunDiagnostic

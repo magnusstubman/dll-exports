@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MSAudDecMFT".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MSAudDecMFT".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MSAudDecMFT".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MSAudDecMFT".DllUnregisterServer

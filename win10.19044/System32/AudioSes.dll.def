@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\AudioSes".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\AudioSes".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\AudioSes".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\AudioSes".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\AudioSes".DllUnregisterServer

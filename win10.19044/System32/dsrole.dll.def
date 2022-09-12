@@ -1,0 +1,3 @@
+EXPORTS
+  DsRoleFreeMemory="C:\Windows\System32\dsrole".DsRoleFreeMemory
+  DsRoleGetPrimaryDomainInformation="C:\Windows\System32\dsrole".DsRoleGetPrimaryDomainInformation

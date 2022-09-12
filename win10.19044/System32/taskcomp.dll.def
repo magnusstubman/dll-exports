@@ -1,0 +1,8 @@
+EXPORTS
+  DeleteTaskNotification="C:\Windows\System32\taskcomp".DeleteTaskNotification
+  InitializeAdapter="C:\Windows\System32\taskcomp".InitializeAdapter
+  IsRegistering="C:\Windows\System32\taskcomp".IsRegistering
+  RegisterTaskNotification="C:\Windows\System32\taskcomp".RegisterTaskNotification
+  SetSdNotification="C:\Windows\System32\taskcomp".SetSdNotification
+  ShutdownAdapter="C:\Windows\System32\taskcomp".ShutdownAdapter
+  UpdateJobStatus="C:\Windows\System32\taskcomp".UpdateJobStatus

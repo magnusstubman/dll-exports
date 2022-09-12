@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\perftrack".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\perftrack".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\perftrack".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\perftrack".DllUnregisterServer
+  WdiDiagnosticModuleMain="C:\Windows\System32\perftrack".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\System32\perftrack".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\System32\perftrack".WdiHandleInstance

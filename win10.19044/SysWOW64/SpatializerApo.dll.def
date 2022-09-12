@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\SpatializerApo".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\SpatializerApo".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\SpatializerApo".DllGetClassObject

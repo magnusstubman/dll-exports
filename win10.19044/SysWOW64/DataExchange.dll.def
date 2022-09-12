@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\DataExchange".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\DataExchange".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\DataExchange".DllGetClassObject

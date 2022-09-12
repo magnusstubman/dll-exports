@@ -1,0 +1,18 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\vaultcli".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\vaultcli".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\vaultcli".DllGetClassObject
+  VaultAddItem="C:\Windows\System32\vaultcli".VaultAddItem
+  VaultCloseVault="C:\Windows\System32\vaultcli".VaultCloseVault
+  VaultCreateItemType="C:\Windows\System32\vaultcli".VaultCreateItemType
+  VaultDeleteItemType="C:\Windows\System32\vaultcli".VaultDeleteItemType
+  VaultEnumerateItemTypes="C:\Windows\System32\vaultcli".VaultEnumerateItemTypes
+  VaultEnumerateItems="C:\Windows\System32\vaultcli".VaultEnumerateItems
+  VaultEnumerateVaults="C:\Windows\System32\vaultcli".VaultEnumerateVaults
+  VaultFindItems="C:\Windows\System32\vaultcli".VaultFindItems
+  VaultFree="C:\Windows\System32\vaultcli".VaultFree
+  VaultGetInformation="C:\Windows\System32\vaultcli".VaultGetInformation
+  VaultGetItem="C:\Windows\System32\vaultcli".VaultGetItem
+  VaultGetItemType="C:\Windows\System32\vaultcli".VaultGetItemType
+  VaultOpenVault="C:\Windows\System32\vaultcli".VaultOpenVault
+  VaultRemoveItem="C:\Windows\System32\vaultcli".VaultRemoveItem

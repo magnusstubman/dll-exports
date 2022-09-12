@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mssvp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mssvp".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mssvp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mssvp".DllUnregisterServer

@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\asycfilt".DllCanUnloadNow
+  FilterCreateInstance="C:\Windows\System32\asycfilt".FilterCreateInstance

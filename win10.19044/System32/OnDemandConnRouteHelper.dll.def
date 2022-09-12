@@ -1,0 +1,9 @@
+EXPORTS
+  FreeInterfaceContextTable="C:\Windows\System32\OnDemandConnRouteHelper".FreeInterfaceContextTable
+  GetInterfaceContextTableForHostName="C:\Windows\System32\OnDemandConnRouteHelper".GetInterfaceContextTableForHostName
+  OnDemandAddRouteRequest="C:\Windows\System32\OnDemandConnRouteHelper".OnDemandAddRouteRequest
+  OnDemandGetRoutingHint="C:\Windows\System32\OnDemandConnRouteHelper".OnDemandGetRoutingHint
+  OnDemandRegisterNotification="C:\Windows\System32\OnDemandConnRouteHelper".OnDemandRegisterNotification
+  OnDemandRemoveMatchingRoute="C:\Windows\System32\OnDemandConnRouteHelper".OnDemandRemoveMatchingRoute
+  OnDemandRemoveRouteRequest="C:\Windows\System32\OnDemandConnRouteHelper".OnDemandRemoveRouteRequest
+  OnDemandUnRegisterNotification="C:\Windows\System32\OnDemandConnRouteHelper".OnDemandUnRegisterNotification

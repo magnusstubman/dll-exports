@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\msvproc".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\msvproc".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\msvproc".DllGetClassObject

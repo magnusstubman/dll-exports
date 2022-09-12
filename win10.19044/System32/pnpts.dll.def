@@ -1,0 +1,4 @@
+EXPORTS
+  WdiDiagnosticModuleMain="C:\Windows\System32\pnpts".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\System32\pnpts".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\System32\pnpts".WdiHandleInstance

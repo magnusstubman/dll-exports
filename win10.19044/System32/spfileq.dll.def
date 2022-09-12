@@ -1,0 +1,19 @@
+EXPORTS
+  SpFileQueueClose="C:\Windows\System32\spfileq".SpFileQueueClose
+  SpFileQueueCommit="C:\Windows\System32\spfileq".SpFileQueueCommit
+  SpFileQueueCopy="C:\Windows\System32\spfileq".SpFileQueueCopy
+  SpFileQueueDelete="C:\Windows\System32\spfileq".SpFileQueueDelete
+  SpFileQueueFileInUse="C:\Windows\System32\spfileq".SpFileQueueFileInUse
+  SpFileQueueGetFlags="C:\Windows\System32\spfileq".SpFileQueueGetFlags
+  SpFileQueueGetQueueCount="C:\Windows\System32\spfileq".SpFileQueueGetQueueCount
+  SpFileQueueNodeGetSecurityDescriptor="C:\Windows\System32\spfileq".SpFileQueueNodeGetSecurityDescriptor
+  SpFileQueueNodeGetSourceFilename="C:\Windows\System32\spfileq".SpFileQueueNodeGetSourceFilename
+  SpFileQueueNodeGetSourcePath="C:\Windows\System32\spfileq".SpFileQueueNodeGetSourcePath
+  SpFileQueueNodeGetSourceRootPath="C:\Windows\System32\spfileq".SpFileQueueNodeGetSourceRootPath
+  SpFileQueueNodeGetStyleFlags="C:\Windows\System32\spfileq".SpFileQueueNodeGetStyleFlags
+  SpFileQueueNodeGetTargetDirectory="C:\Windows\System32\spfileq".SpFileQueueNodeGetTargetDirectory
+  SpFileQueueNodeGetTargetFilename="C:\Windows\System32\spfileq".SpFileQueueNodeGetTargetFilename
+  SpFileQueueNodeRemove="C:\Windows\System32\spfileq".SpFileQueueNodeRemove
+  SpFileQueueOpen="C:\Windows\System32\spfileq".SpFileQueueOpen
+  SpFileQueueRename="C:\Windows\System32\spfileq".SpFileQueueRename
+  SpFileQueueSetFlags="C:\Windows\System32\spfileq".SpFileQueueSetFlags

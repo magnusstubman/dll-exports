@@ -1,0 +1,6 @@
+EXPORTS
+  CreateRdpUdpStreamWrapper="C:\Windows\System32\rdpnano".CreateRdpUdpStreamWrapper
+  CreateRdpWebSocketStreamWrapper="C:\Windows\System32\rdpnano".CreateRdpWebSocketStreamWrapper
+  DllMain="C:\Windows\System32\rdpnano".DllMain
+  FreeRdpUdpStreamWrapper="C:\Windows\System32\rdpnano".FreeRdpUdpStreamWrapper
+  FreeRdpWebSocketStreamWrapper="C:\Windows\System32\rdpnano".FreeRdpWebSocketStreamWrapper

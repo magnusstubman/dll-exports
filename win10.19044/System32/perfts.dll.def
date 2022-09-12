@@ -1,0 +1,7 @@
+EXPORTS
+  CloseLagPerfData="C:\Windows\System32\perfts".CloseLagPerfData
+  CloseTSObject="C:\Windows\System32\perfts".CloseTSObject
+  CollectLagPerfData="C:\Windows\System32\perfts".CollectLagPerfData
+  CollectTSObjectData="C:\Windows\System32\perfts".CollectTSObjectData
+  OpenLagPerfData="C:\Windows\System32\perfts".OpenLagPerfData
+  OpenTSObject="C:\Windows\System32\perfts".OpenTSObject

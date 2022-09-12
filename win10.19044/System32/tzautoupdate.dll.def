@@ -1,0 +1,5 @@
+EXPORTS
+  AttemptToUpdateTimeZone="C:\Windows\System32\tzautoupdate".AttemptToUpdateTimeZone
+  AttemptToUpdateTimeZoneAndEnableChangeDetection="C:\Windows\System32\tzautoupdate".AttemptToUpdateTimeZoneAndEnableChangeDetection
+  ServiceMain="C:\Windows\System32\tzautoupdate".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\tzautoupdate".SvchostPushServiceGlobals

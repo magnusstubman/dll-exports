@@ -1,0 +1,10 @@
+EXPORTS
+  SnmpMgrClose="C:\Windows\System32\mgmtapi".SnmpMgrClose
+  SnmpMgrCtl="C:\Windows\System32\mgmtapi".SnmpMgrCtl
+  SnmpMgrGetTrap="C:\Windows\System32\mgmtapi".SnmpMgrGetTrap
+  SnmpMgrGetTrapEx="C:\Windows\System32\mgmtapi".SnmpMgrGetTrapEx
+  SnmpMgrOidToStr="C:\Windows\System32\mgmtapi".SnmpMgrOidToStr
+  SnmpMgrOpen="C:\Windows\System32\mgmtapi".SnmpMgrOpen
+  SnmpMgrRequest="C:\Windows\System32\mgmtapi".SnmpMgrRequest
+  SnmpMgrStrToOid="C:\Windows\System32\mgmtapi".SnmpMgrStrToOid
+  SnmpMgrTrapListen="C:\Windows\System32\mgmtapi".SnmpMgrTrapListen

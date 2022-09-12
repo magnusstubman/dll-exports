@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Family.Client".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Family.Client".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Family.Client".DllGetClassObject

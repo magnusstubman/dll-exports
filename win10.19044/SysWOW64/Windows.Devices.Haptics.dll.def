@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.Devices.Haptics".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.Devices.Haptics".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.Devices.Haptics".DllGetClassObject

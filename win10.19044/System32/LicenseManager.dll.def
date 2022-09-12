@@ -1,0 +1,21 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LicenseManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\LicenseManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\LicenseManager".DllGetClassObject
+  LmCreateLicenseManager="C:\Windows\System32\LicenseManager".LmCreateLicenseManager
+  LmCreateStandardServiceProvider="C:\Windows\System32\LicenseManager".LmCreateStandardServiceProvider
+  ServiceBeginAcquireLicense="C:\Windows\System32\LicenseManager".ServiceBeginAcquireLicense
+  ServiceCleanup="C:\Windows\System32\LicenseManager".ServiceCleanup
+  ServiceCreateApplicationLicenseManager="C:\Windows\System32\LicenseManager".ServiceCreateApplicationLicenseManager
+  ServiceEnsureLicenseForOptionalPackageUsage="C:\Windows\System32\LicenseManager".ServiceEnsureLicenseForOptionalPackageUsage
+  ServiceEnsureLicenseForPackageActivation="C:\Windows\System32\LicenseManager".ServiceEnsureLicenseForPackageActivation
+  ServiceInitialize="C:\Windows\System32\LicenseManager".ServiceInitialize
+  ServiceOptionalPackageRundownNotification="C:\Windows\System32\LicenseManager".ServiceOptionalPackageRundownNotification
+  ServicePackageRundownNotification="C:\Windows\System32\LicenseManager".ServicePackageRundownNotification
+  ServicePackageSuspendedNotification="C:\Windows\System32\LicenseManager".ServicePackageSuspendedNotification
+  ServicePrecacheLicenseForPackageResume="C:\Windows\System32\LicenseManager".ServicePrecacheLicenseForPackageResume
+  ServiceReset="C:\Windows\System32\LicenseManager".ServiceReset
+  SetServiceStatusHandle="C:\Windows\System32\LicenseManager".SetServiceStatusHandle
+  WnfEventHandlerForDeviceIdChange="C:\Windows\System32\LicenseManager".WnfEventHandlerForDeviceIdChange
+  WnfEventHandlerForOfflinePcChange="C:\Windows\System32\LicenseManager".WnfEventHandlerForOfflinePcChange
+  WnfEventHandlerForXboxTestNetworkConnectionComplete="C:\Windows\System32\LicenseManager".WnfEventHandlerForXboxTestNetworkConnectionComplete

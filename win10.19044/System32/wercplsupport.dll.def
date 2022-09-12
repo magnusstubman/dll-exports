@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wercplsupport".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wercplsupport".DllGetClassObject
+  ServiceMain="C:\Windows\System32\wercplsupport".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\wercplsupport".SvchostPushServiceGlobals
+  WerComGetAdminStores="C:\Windows\System32\wercplsupport".WerComGetAdminStores

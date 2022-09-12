@@ -1,0 +1,4 @@
+EXPORTS
+  FreeErrorDetails="C:\Windows\System32\ErrorDetailsCore".FreeErrorDetails
+  GetErrorDetails="C:\Windows\System32\ErrorDetailsCore".GetErrorDetails
+  GetErrorDetailsWithContext="C:\Windows\System32\ErrorDetailsCore".GetErrorDetailsWithContext

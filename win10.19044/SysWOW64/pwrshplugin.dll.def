@@ -1,0 +1,13 @@
+EXPORTS
+  GetCLRVersionForPSVersion="C:\Windows\SysWOW64\pwrshplugin".GetCLRVersionForPSVersion
+  PerformWSManPluginReportCompletion="C:\Windows\SysWOW64\pwrshplugin".PerformWSManPluginReportCompletion
+  WSManPluginCommand="C:\Windows\SysWOW64\pwrshplugin".WSManPluginCommand
+  WSManPluginConnect="C:\Windows\SysWOW64\pwrshplugin".WSManPluginConnect
+  WSManPluginReceive="C:\Windows\SysWOW64\pwrshplugin".WSManPluginReceive
+  WSManPluginReleaseCommandContext="C:\Windows\SysWOW64\pwrshplugin".WSManPluginReleaseCommandContext
+  WSManPluginReleaseShellContext="C:\Windows\SysWOW64\pwrshplugin".WSManPluginReleaseShellContext
+  WSManPluginSend="C:\Windows\SysWOW64\pwrshplugin".WSManPluginSend
+  WSManPluginShell="C:\Windows\SysWOW64\pwrshplugin".WSManPluginShell
+  WSManPluginShutdown="C:\Windows\SysWOW64\pwrshplugin".WSManPluginShutdown
+  WSManPluginSignal="C:\Windows\SysWOW64\pwrshplugin".WSManPluginSignal
+  WSManPluginStartup="C:\Windows\SysWOW64\pwrshplugin".WSManPluginStartup

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Graphics.Display.DisplayEnhancementOverride".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Graphics.Display.DisplayEnhancementOverride".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Graphics.Display.DisplayEnhancementOverride".DllGetClassObject

@@ -1,0 +1,24 @@
+EXPORTS
+  LuiAddProfile="C:\Windows\System32\luiapi".LuiAddProfile
+  LuiCancelOperation="C:\Windows\System32\luiapi".LuiCancelOperation
+  LuiCloseHandle="C:\Windows\System32\luiapi".LuiCloseHandle
+  LuiDeleteProfile="C:\Windows\System32\luiapi".LuiDeleteProfile
+  LuiDisableProfile="C:\Windows\System32\luiapi".LuiDisableProfile
+  LuiDiscoverProfiles="C:\Windows\System32\luiapi".LuiDiscoverProfiles
+  LuiEnableProfile="C:\Windows\System32\luiapi".LuiEnableProfile
+  LuiInstallProfile="C:\Windows\System32\luiapi".LuiInstallProfile
+  LuiOpenHandle="C:\Windows\System32\luiapi".LuiOpenHandle
+  LuiProcessActivationCode="C:\Windows\System32\luiapi".LuiProcessActivationCode
+  LuiRegisterForAllEnterpriseProfileNotifications="C:\Windows\System32\luiapi".LuiRegisterForAllEnterpriseProfileNotifications
+  LuiRegisterForAllProfileNotifications="C:\Windows\System32\luiapi".LuiRegisterForAllProfileNotifications
+  LuiRegisterForEnterpriseEsimNotifications="C:\Windows\System32\luiapi".LuiRegisterForEnterpriseEsimNotifications
+  LuiRegisterForEsimNotifications="C:\Windows\System32\luiapi".LuiRegisterForEsimNotifications
+  LuiRegisterForLpaNotifications="C:\Windows\System32\luiapi".LuiRegisterForLpaNotifications
+  LuiReleaseProvisioningProfile="C:\Windows\System32\luiapi".LuiReleaseProvisioningProfile
+  LuiRequestProvisioningProfile="C:\Windows\System32\luiapi".LuiRequestProvisioningProfile
+  LuiSetDefaultSmdpAddress="C:\Windows\System32\luiapi".LuiSetDefaultSmdpAddress
+  LuiSetEsimPolicy="C:\Windows\System32\luiapi".LuiSetEsimPolicy
+  LuiSetProfileNickname="C:\Windows\System32\luiapi".LuiSetProfileNickname
+  LuiSetUserAuthenticationMode="C:\Windows\System32\luiapi".LuiSetUserAuthenticationMode
+  LuiVerifyClientToken="C:\Windows\System32\luiapi".LuiVerifyClientToken
+  LuiWipeEsim="C:\Windows\System32\luiapi".LuiWipeEsim

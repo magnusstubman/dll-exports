@@ -1,0 +1,3 @@
+EXPORTS
+  ApHostServerStatus_EnsureServerReady="C:\Windows\SysWOW64\APHostClient".ApHostServerStatus_EnsureServerReady
+  CreateAPHostClient="C:\Windows\SysWOW64\APHostClient".CreateAPHostClient

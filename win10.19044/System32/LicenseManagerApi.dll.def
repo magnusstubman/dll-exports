@@ -1,0 +1,13 @@
+EXPORTS
+  BeginAcquireStoreLicenseForPackageActivation="C:\Windows\System32\LicenseManagerApi".BeginAcquireStoreLicenseForPackageActivation
+  BeginAcquireStoreLicenseForPackageActivation2="C:\Windows\System32\LicenseManagerApi".BeginAcquireStoreLicenseForPackageActivation2
+  DllMain="C:\Windows\System32\LicenseManagerApi".DllMain
+  EnsureStoreLicenseForPackageActivation="C:\Windows\System32\LicenseManagerApi".EnsureStoreLicenseForPackageActivation
+  EnsureStoreLicenseForPackageActivation2="C:\Windows\System32\LicenseManagerApi".EnsureStoreLicenseForPackageActivation2
+  PackageRundownNotificationForStoreLicense="C:\Windows\System32\LicenseManagerApi".PackageRundownNotificationForStoreLicense
+  PackageRundownNotificationForStoreLicense2="C:\Windows\System32\LicenseManagerApi".PackageRundownNotificationForStoreLicense2
+  PackageSuspendedNotificationForStoreLicense="C:\Windows\System32\LicenseManagerApi".PackageSuspendedNotificationForStoreLicense
+  PackageSuspendedNotificationForStoreLicense2="C:\Windows\System32\LicenseManagerApi".PackageSuspendedNotificationForStoreLicense2
+  PrecacheStoreLicenseForPackageResume="C:\Windows\System32\LicenseManagerApi".PrecacheStoreLicenseForPackageResume
+  PrecacheStoreLicenseForPackageResume2="C:\Windows\System32\LicenseManagerApi".PrecacheStoreLicenseForPackageResume2
+  Reset="C:\Windows\System32\LicenseManagerApi".Reset

@@ -1,0 +1,8 @@
+EXPORTS
+  VM3DGLHelperCleanup="C:\Windows\System32\vm3dglhelper64".VM3DGLHelperCleanup
+  VM3DGLHelperDevLog="C:\Windows\System32\vm3dglhelper64".VM3DGLHelperDevLog
+  VM3DGLHelperGetDevCapMaxCount="C:\Windows\System32\vm3dglhelper64".VM3DGLHelperGetDevCapMaxCount
+  VM3DGLHelperInit="C:\Windows\System32\vm3dglhelper64".VM3DGLHelperInit
+  VM3DGLHelperLog="C:\Windows\System32\vm3dglhelper64".VM3DGLHelperLog
+  VM3DGLHelperRLog="C:\Windows\System32\vm3dglhelper64".VM3DGLHelperRLog
+  VM3DGLHelperSetLogLevels="C:\Windows\System32\vm3dglhelper64".VM3DGLHelperSetLogLevels

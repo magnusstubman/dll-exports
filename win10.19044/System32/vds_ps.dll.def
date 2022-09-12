@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\vds_ps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\vds_ps".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\vds_ps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\vds_ps".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\vds_ps".GetProxyDllInfo

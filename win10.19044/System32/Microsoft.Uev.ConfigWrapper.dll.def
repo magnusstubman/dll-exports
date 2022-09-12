@@ -1,0 +1,7 @@
+EXPORTS
+  ClearSettingGroupValue="C:\Windows\System32\Microsoft.Uev.ConfigWrapper".ClearSettingGroupValue
+  ClearSettingValue="C:\Windows\System32\Microsoft.Uev.ConfigWrapper".ClearSettingValue
+  GetSettingGroupValue="C:\Windows\System32\Microsoft.Uev.ConfigWrapper".GetSettingGroupValue
+  GetSettingValue="C:\Windows\System32\Microsoft.Uev.ConfigWrapper".GetSettingValue
+  SetSettingGroupValue="C:\Windows\System32\Microsoft.Uev.ConfigWrapper".SetSettingGroupValue
+  SetSettingValue="C:\Windows\System32\Microsoft.Uev.ConfigWrapper".SetSettingValue

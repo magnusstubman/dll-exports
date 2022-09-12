@@ -1,0 +1,15 @@
+EXPORTS
+  IntPstGetCertificate="C:\Windows\System32\CertPolEng".IntPstGetCertificate
+  IntPstGetNameIdentifierForCertificate="C:\Windows\System32\CertPolEng".IntPstGetNameIdentifierForCertificate
+  IntPstGetTrustAnchors="C:\Windows\System32\CertPolEng".IntPstGetTrustAnchors
+  IntPstMapCertificateToProvider="C:\Windows\System32\CertPolEng".IntPstMapCertificateToProvider
+  IntPstMapUserCredsToProvider="C:\Windows\System32\CertPolEng".IntPstMapUserCredsToProvider
+  IntPstValidate="C:\Windows\System32\CertPolEng".IntPstValidate
+  PstAcquirePrivateKey="C:\Windows\System32\CertPolEng".PstAcquirePrivateKey
+  PstGetCertificateChain="C:\Windows\System32\CertPolEng".PstGetCertificateChain
+  PstGetCertificates="C:\Windows\System32\CertPolEng".PstGetCertificates
+  PstGetTrustAnchors="C:\Windows\System32\CertPolEng".PstGetTrustAnchors
+  PstGetTrustAnchorsEx="C:\Windows\System32\CertPolEng".PstGetTrustAnchorsEx
+  PstGetUserNameForCertificate="C:\Windows\System32\CertPolEng".PstGetUserNameForCertificate
+  PstMapCertificate="C:\Windows\System32\CertPolEng".PstMapCertificate
+  PstValidate="C:\Windows\System32\CertPolEng".PstValidate

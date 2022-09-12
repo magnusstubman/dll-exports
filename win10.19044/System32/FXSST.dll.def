@@ -1,0 +1,5 @@
+EXPORTS
+  DllMain="C:\Windows\System32\FXSST".DllMain
+  FaxMonitorShutdown="C:\Windows\System32\FXSST".FaxMonitorShutdown
+  FaxMonitorStartup="C:\Windows\System32\FXSST".FaxMonitorStartup
+  IsFaxMessage="C:\Windows\System32\FXSST".IsFaxMessage

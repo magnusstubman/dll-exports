@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ActivationClient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ActivationClient".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\ActivationClient".DllGetClassObject

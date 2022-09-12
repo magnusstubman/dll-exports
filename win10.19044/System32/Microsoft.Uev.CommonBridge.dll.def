@@ -1,0 +1,13 @@
+EXPORTS
+  GetAssociatedTemplateList="C:\Windows\System32\Microsoft.Uev.CommonBridge".GetAssociatedTemplateList
+  GetOriginalRepositoryPath="C:\Windows\System32\Microsoft.Uev.CommonBridge".GetOriginalRepositoryPath
+  GetProfileRepositoryBasePath="C:\Windows\System32\Microsoft.Uev.CommonBridge".GetProfileRepositoryBasePath
+  GetProfileRepositoryBasePathForMachine="C:\Windows\System32\Microsoft.Uev.CommonBridge".GetProfileRepositoryBasePathForMachine
+  GetRepositoryPathForWin8Apps="C:\Windows\System32\Microsoft.Uev.CommonBridge".GetRepositoryPathForWin8Apps
+  GetRepositoryPathFromTemplate="C:\Windows\System32\Microsoft.Uev.CommonBridge".GetRepositoryPathFromTemplate
+  GetShellTemplatePackageIds="C:\Windows\System32\Microsoft.Uev.CommonBridge".GetShellTemplatePackageIds
+  GetTemplatePackageIds="C:\Windows\System32\Microsoft.Uev.CommonBridge".GetTemplatePackageIds
+  RunSyncController="C:\Windows\System32\Microsoft.Uev.CommonBridge".RunSyncController
+  RunSyncControllerAsync="C:\Windows\System32\Microsoft.Uev.CommonBridge".RunSyncControllerAsync
+  StartProcessWatcherDriver="C:\Windows\System32\Microsoft.Uev.CommonBridge".StartProcessWatcherDriver
+  StopProcessWatcherDriver="C:\Windows\System32\Microsoft.Uev.CommonBridge".StopProcessWatcherDriver

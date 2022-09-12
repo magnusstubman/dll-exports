@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ResourceMapper".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ResourceMapper".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\ResourceMapper".DllGetClassObject

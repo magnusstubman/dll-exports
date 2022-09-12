@@ -1,0 +1,7 @@
+EXPORTS
+  drvCommConfigDialogA="C:\Windows\SysWOW64\serialui".drvCommConfigDialogA
+  drvCommConfigDialogW="C:\Windows\SysWOW64\serialui".drvCommConfigDialogW
+  drvGetDefaultCommConfigA="C:\Windows\SysWOW64\serialui".drvGetDefaultCommConfigA
+  drvGetDefaultCommConfigW="C:\Windows\SysWOW64\serialui".drvGetDefaultCommConfigW
+  drvSetDefaultCommConfigA="C:\Windows\SysWOW64\serialui".drvSetDefaultCommConfigA
+  drvSetDefaultCommConfigW="C:\Windows\SysWOW64\serialui".drvSetDefaultCommConfigW

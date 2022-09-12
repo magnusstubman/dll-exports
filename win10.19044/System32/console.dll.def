@@ -1,0 +1,4 @@
+EXPORTS
+  CPlApplet="C:\Windows\System32\console".CPlApplet
+  DllCanUnloadNow="C:\Windows\System32\console".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\console".DllGetClassObject

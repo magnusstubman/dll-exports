@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\QuickActionsDataModel".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\QuickActionsDataModel".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\QuickActionsDataModel".DllGetClassObject
+  GetQuickActionsProvider="C:\Windows\System32\QuickActionsDataModel".GetQuickActionsProvider

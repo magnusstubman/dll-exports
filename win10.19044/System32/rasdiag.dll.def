@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\rasdiag".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\rasdiag".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\rasdiag".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\rasdiag".DllUnregisterServer

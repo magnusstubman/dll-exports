@@ -1,0 +1,13 @@
+EXPORTS
+  DirectSoundCaptureCreate="C:\Windows\System32\dsound".DirectSoundCaptureCreate
+  DirectSoundCaptureCreate8="C:\Windows\System32\dsound".DirectSoundCaptureCreate8
+  DirectSoundCaptureEnumerateA="C:\Windows\System32\dsound".DirectSoundCaptureEnumerateA
+  DirectSoundCaptureEnumerateW="C:\Windows\System32\dsound".DirectSoundCaptureEnumerateW
+  DirectSoundCreate="C:\Windows\System32\dsound".DirectSoundCreate
+  DirectSoundCreate8="C:\Windows\System32\dsound".DirectSoundCreate8
+  DirectSoundEnumerateA="C:\Windows\System32\dsound".DirectSoundEnumerateA
+  DirectSoundEnumerateW="C:\Windows\System32\dsound".DirectSoundEnumerateW
+  DirectSoundFullDuplexCreate="C:\Windows\System32\dsound".DirectSoundFullDuplexCreate
+  DllCanUnloadNow="C:\Windows\System32\dsound".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dsound".DllGetClassObject
+  GetDeviceID="C:\Windows\System32\dsound".GetDeviceID

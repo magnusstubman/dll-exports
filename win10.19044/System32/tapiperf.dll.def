@@ -1,0 +1,4 @@
+EXPORTS
+  CloseTapiPerformanceData="C:\Windows\System32\tapiperf".CloseTapiPerformanceData
+  CollectTapiPerformanceData="C:\Windows\System32\tapiperf".CollectTapiPerformanceData
+  OpenTapiPerformanceData="C:\Windows\System32\tapiperf".OpenTapiPerformanceData

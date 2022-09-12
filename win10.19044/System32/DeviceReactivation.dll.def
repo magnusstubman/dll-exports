@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DeviceReactivation".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\DeviceReactivation".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\DeviceReactivation".DllGetClassObject

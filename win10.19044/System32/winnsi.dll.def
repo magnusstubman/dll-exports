@@ -1,0 +1,16 @@
+EXPORTS
+  NsiConnectToServer="C:\Windows\System32\winnsi".NsiConnectToServer
+  NsiDisconnectFromServer="C:\Windows\System32\winnsi".NsiDisconnectFromServer
+  NsiRpcDeregisterChangeNotification="C:\Windows\System32\winnsi".NsiRpcDeregisterChangeNotification
+  NsiRpcDeregisterChangeNotificationEx="C:\Windows\System32\winnsi".NsiRpcDeregisterChangeNotificationEx
+  NsiRpcEnumerateObjectsAllParameters="C:\Windows\System32\winnsi".NsiRpcEnumerateObjectsAllParameters
+  NsiRpcGetAllParameters="C:\Windows\System32\winnsi".NsiRpcGetAllParameters
+  NsiRpcGetAllParametersEx="C:\Windows\System32\winnsi".NsiRpcGetAllParametersEx
+  NsiRpcGetParameter="C:\Windows\System32\winnsi".NsiRpcGetParameter
+  NsiRpcGetParameterEx="C:\Windows\System32\winnsi".NsiRpcGetParameterEx
+  NsiRpcRegisterChangeNotification="C:\Windows\System32\winnsi".NsiRpcRegisterChangeNotification
+  NsiRpcRegisterChangeNotificationEx="C:\Windows\System32\winnsi".NsiRpcRegisterChangeNotificationEx
+  NsiRpcSetAllParameters="C:\Windows\System32\winnsi".NsiRpcSetAllParameters
+  NsiRpcSetAllParametersEx="C:\Windows\System32\winnsi".NsiRpcSetAllParametersEx
+  NsiRpcSetParameter="C:\Windows\System32\winnsi".NsiRpcSetParameter
+  NsiRpcSetParameterEx="C:\Windows\System32\winnsi".NsiRpcSetParameterEx

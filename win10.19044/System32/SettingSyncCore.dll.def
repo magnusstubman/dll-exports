@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingSyncCore".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\SettingSyncCore".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\SettingSyncCore".DllGetClassObject

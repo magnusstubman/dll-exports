@@ -1,0 +1,15 @@
+EXPORTS
+  WcCompressFile="C:\Windows\System32\wcimage".WcCompressFile
+  WcCompressFileAsync="C:\Windows\System32\wcimage".WcCompressFileAsync
+  WcConvertToReparsePoint="C:\Windows\System32\wcimage".WcConvertToReparsePoint
+  WcCreateContainerImageFromPortableBaseLayer="C:\Windows\System32\wcimage".WcCreateContainerImageFromPortableBaseLayer
+  WcCreateContainerImageFromWim="C:\Windows\System32\wcimage".WcCreateContainerImageFromWim
+  WcCreateContainerImageFromWimEx="C:\Windows\System32\wcimage".WcCreateContainerImageFromWimEx
+  WcDismountVirtualDisk="C:\Windows\System32\wcimage".WcDismountVirtualDisk
+  WcDismountVirtualDiskFromHandle="C:\Windows\System32\wcimage".WcDismountVirtualDiskFromHandle
+  WcEnsurePathExists="C:\Windows\System32\wcimage".WcEnsurePathExists
+  WcExpandContainerWim="C:\Windows\System32\wcimage".WcExpandContainerWim
+  WcMountVirtualDisk="C:\Windows\System32\wcimage".WcMountVirtualDisk
+  WcProcessContainerLayer="C:\Windows\System32\wcimage".WcProcessContainerLayer
+  WcSetVirtualDiskAttributes="C:\Windows\System32\wcimage".WcSetVirtualDiskAttributes
+  WcWaitForPendingFileCompressionOperations="C:\Windows\System32\wcimage".WcWaitForPendingFileCompressionOperations

@@ -1,0 +1,2 @@
+EXPORTS
+  CreateUIObject="C:\Windows\System32\CertEnrollUI".CreateUIObject

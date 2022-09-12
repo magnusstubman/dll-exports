@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DevicesFlowBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\DevicesFlowBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\DevicesFlowBroker".DllGetClassObject
+  ServiceMain="C:\Windows\System32\DevicesFlowBroker".ServiceMain

@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\es".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\es".DllGetClassObject
+  LCEControlServer="C:\Windows\SysWOW64\es".LCEControlServer
+  NotifyLogoffUser="C:\Windows\SysWOW64\es".NotifyLogoffUser
+  NotifyLogonUser="C:\Windows\SysWOW64\es".NotifyLogonUser
+  ServiceMain="C:\Windows\SysWOW64\es".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\SysWOW64\es".SvchostPushServiceGlobals

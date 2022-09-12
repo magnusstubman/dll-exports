@@ -1,0 +1,12 @@
+EXPORTS
+  AppIDConstructAppxAttributes="C:\Windows\System32\appidapi".AppIDConstructAppxAttributes
+  AppIDDecodeAttributeString="C:\Windows\System32\appidapi".AppIDDecodeAttributeString
+  AppIDEncodeAttributeString="C:\Windows\System32\appidapi".AppIDEncodeAttributeString
+  AppIDFreeAttributeString="C:\Windows\System32\appidapi".AppIDFreeAttributeString
+  AppIDGetAppxFileAttributes="C:\Windows\System32\appidapi".AppIDGetAppxFileAttributes
+  AppIDGetFileAttributes="C:\Windows\System32\appidapi".AppIDGetFileAttributes
+  AppIDGetMsiVersionInfo="C:\Windows\System32\appidapi".AppIDGetMsiVersionInfo
+  AppIDReleaseAppxFileAttributes="C:\Windows\System32\appidapi".AppIDReleaseAppxFileAttributes
+  AppIDReleaseFileAttributes="C:\Windows\System32\appidapi".AppIDReleaseFileAttributes
+  CompareToSystemCIPolicy="C:\Windows\System32\appidapi".CompareToSystemCIPolicy
+  UpdateSystemCIPolicy="C:\Windows\System32\appidapi".UpdateSystemCIPolicy

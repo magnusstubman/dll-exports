@@ -1,0 +1,13 @@
+EXPORTS
+  CPlApplet="C:\Windows\System32\usbui".CPlApplet
+  DllCanUnloadNow="C:\Windows\System32\usbui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\usbui".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\usbui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\usbui".DllUnregisterServer
+  USBControllerBandwidthPage="C:\Windows\System32\usbui".USBControllerBandwidthPage
+  USBControllerPropPageProvider="C:\Windows\System32\usbui".USBControllerPropPageProvider
+  USBDevicePropPageProvider="C:\Windows\System32\usbui".USBDevicePropPageProvider
+  USBErrorHandler="C:\Windows\System32\usbui".USBErrorHandler
+  USBHubPowerPage="C:\Windows\System32\usbui".USBHubPowerPage
+  USBHubPropPageProvider="C:\Windows\System32\usbui".USBHubPropPageProvider
+  UsbControlPanelApplet="C:\Windows\System32\usbui".UsbControlPanelApplet

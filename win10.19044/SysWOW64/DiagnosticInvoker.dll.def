@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\DiagnosticInvoker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\DiagnosticInvoker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\DiagnosticInvoker".DllGetClassObject

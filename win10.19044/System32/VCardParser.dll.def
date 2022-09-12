@@ -1,0 +1,7 @@
+EXPORTS
+  CreateCardParser="C:\Windows\System32\VCardParser".CreateCardParser
+  CreateCardParserEx="C:\Windows\System32\VCardParser".CreateCardParserEx
+  CreateCardParserExA="C:\Windows\System32\VCardParser".CreateCardParserExA
+  CreateICalGen="C:\Windows\System32\VCardParser".CreateICalGen
+  CreateVCardGen="C:\Windows\System32\VCardParser".CreateVCardGen
+  EncodeQP="C:\Windows\System32\VCardParser".EncodeQP

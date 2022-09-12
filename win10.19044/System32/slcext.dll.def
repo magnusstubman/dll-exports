@@ -1,0 +1,10 @@
+EXPORTS
+  SLAcquireGenuineTicket="C:\Windows\System32\slcext".SLAcquireGenuineTicket
+  SLActivateProduct="C:\Windows\System32\slcext".SLActivateProduct
+  SLGetPackageProductKey="C:\Windows\System32\slcext".SLGetPackageProductKey
+  SLGetPackageProperties="C:\Windows\System32\slcext".SLGetPackageProperties
+  SLGetPackageToken="C:\Windows\System32\slcext".SLGetPackageToken
+  SLGetReferralInformation="C:\Windows\System32\slcext".SLGetReferralInformation
+  SLGetServerStatus="C:\Windows\System32\slcext".SLGetServerStatus
+  SLInstallPackage="C:\Windows\System32\slcext".SLInstallPackage
+  SLUninstallPackage="C:\Windows\System32\slcext".SLUninstallPackage

@@ -1,0 +1,12 @@
+EXPORTS
+  SclAcquireRequiredPrivileges="C:\Windows\SysWOW64\setupcl".SclAcquireRequiredPrivileges
+  SclClearPendedRequest="C:\Windows\SysWOW64\setupcl".SclClearPendedRequest
+  SclExecutePendedRequests="C:\Windows\SysWOW64\setupcl".SclExecutePendedRequests
+  SclExecuteRequest="C:\Windows\SysWOW64\setupcl".SclExecuteRequest
+  SclFreeRequest="C:\Windows\SysWOW64\setupcl".SclFreeRequest
+  SclGetPendedRequest="C:\Windows\SysWOW64\setupcl".SclGetPendedRequest
+  SclLoadStringResource="C:\Windows\SysWOW64\setupcl".SclLoadStringResource
+  SclPendRequest="C:\Windows\SysWOW64\setupcl".SclPendRequest
+  SclPendedRequestExists="C:\Windows\SysWOW64\setupcl".SclPendedRequestExists
+  SclPreCompilePendedRequests="C:\Windows\SysWOW64\setupcl".SclPreCompilePendedRequests
+  SclReleasePrivileges="C:\Windows\SysWOW64\setupcl".SclReleasePrivileges

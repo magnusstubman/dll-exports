@@ -1,0 +1,12 @@
+EXPORTS
+  ?AddLDMObjMapEntry@CDataCache@@QEAAXPEAU_LDM_OBJ_MAP_ENTRY@@@Z="C:\Windows\System32\dmvdsitf".?AddLDMObjMapEntry@CDataCache@@QEAAXPEAU_LDM_OBJ_MAP_ENTRY@@@Z
+  ?GetDiskCount@CDataCache@@QEAAKXZ="C:\Windows\System32\dmvdsitf".?GetDiskCount@CDataCache@@QEAAKXZ
+  ?GetLdmObjectId@CDMNodeObj@@QEAA_JXZ="C:\Windows\System32\dmvdsitf".?GetLdmObjectId@CDMNodeObj@@QEAA_JXZ
+  ?GetNumMembers@CDMNodeObj@@QEAAKXZ="C:\Windows\System32\dmvdsitf".?GetNumMembers@CDMNodeObj@@QEAAKXZ
+  ?GetOcxFrameCWndPtr@CTaskData@@QEAAPEAVCWnd@@XZ="C:\Windows\System32\dmvdsitf".?GetOcxFrameCWndPtr@CTaskData@@QEAAPEAVCWnd@@XZ
+  ?GetRegionColorStructPtr@CTaskData@@QEAAXPEAPEAU_REGION_COLORS@@AEAH@Z="C:\Windows\System32\dmvdsitf".?GetRegionColorStructPtr@CTaskData@@QEAAXPEAPEAU_REGION_COLORS@@AEAH@Z
+  ?GetServerName@CDataCache@@QEAA?AVCString@@XZ="C:\Windows\System32\dmvdsitf".?GetServerName@CDataCache@@QEAA?AVCString@@XZ
+  ?GetVolumeCount@CDataCache@@QEAAKXZ="C:\Windows\System32\dmvdsitf".?GetVolumeCount@CDataCache@@QEAAKXZ
+  CreateDataCacheZ="C:\Windows\System32\dmvdsitf".CreateDataCacheZ
+  CreateServerRequestsZ="C:\Windows\System32\dmvdsitf".CreateServerRequestsZ
+  LoadPropertyPageData="C:\Windows\System32\dmvdsitf".LoadPropertyPageData

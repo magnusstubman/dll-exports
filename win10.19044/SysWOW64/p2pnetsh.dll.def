@@ -1,0 +1,2 @@
+EXPORTS
+  InitHelperDll="C:\Windows\SysWOW64\p2pnetsh".InitHelperDll

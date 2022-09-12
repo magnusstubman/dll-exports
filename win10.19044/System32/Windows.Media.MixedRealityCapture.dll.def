@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.MixedRealityCapture".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Media.MixedRealityCapture".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Media.MixedRealityCapture".DllGetClassObject

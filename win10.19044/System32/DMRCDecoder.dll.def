@@ -1,0 +1,23 @@
+EXPORTS
+  CreateDecoder="C:\Windows\System32\DMRCDecoder".CreateDecoder
+  DeleteDecoder="C:\Windows\System32\DMRCDecoder".DeleteDecoder
+  Detect="C:\Windows\System32\DMRCDecoder".Detect
+  EnableExtendedReadingDistance="C:\Windows\System32\DMRCDecoder".EnableExtendedReadingDistance
+  EnableFalsePositiveMitigation="C:\Windows\System32\DMRCDecoder".EnableFalsePositiveMitigation
+  EnableInvertedReads="C:\Windows\System32\DMRCDecoder".EnableInvertedReads
+  GetActiveBarcodeTypes="C:\Windows\System32\DMRCDecoder".GetActiveBarcodeTypes
+  GetBarcodeAttributesSupport="C:\Windows\System32\DMRCDecoder".GetBarcodeAttributesSupport
+  GetExceptions="C:\Windows\System32\DMRCDecoder".GetExceptions
+  GetMillisecsPerFrameBarcode="C:\Windows\System32\DMRCDecoder".GetMillisecsPerFrameBarcode
+  GetMillisecsPerFrameDWCode="C:\Windows\System32\DMRCDecoder".GetMillisecsPerFrameDWCode
+  GetPayloadBarcodeType="C:\Windows\System32\DMRCDecoder".GetPayloadBarcodeType
+  GetPayloadCount="C:\Windows\System32\DMRCDecoder".GetPayloadCount
+  GetPayloadData="C:\Windows\System32\DMRCDecoder".GetPayloadData
+  GetPayloadRawData="C:\Windows\System32\DMRCDecoder".GetPayloadRawData
+  GetRebarNV12BufferPtr="C:\Windows\System32\DMRCDecoder".GetRebarNV12BufferPtr
+  GetStatus="C:\Windows\System32\DMRCDecoder".GetStatus
+  GetSupportedBarcodeTypes="C:\Windows\System32\DMRCDecoder".GetSupportedBarcodeTypes
+  SetActiveBarcodeTypes="C:\Windows\System32\DMRCDecoder".SetActiveBarcodeTypes
+  SetBarcodeCheckDigitAttribute="C:\Windows\System32\DMRCDecoder".SetBarcodeCheckDigitAttribute
+  SetBarcodeDecodeLengthAttribute="C:\Windows\System32\DMRCDecoder".SetBarcodeDecodeLengthAttribute
+  SetBarcodeTransmitCheckDigitAttribute="C:\Windows\System32\DMRCDecoder".SetBarcodeTransmitCheckDigitAttribute

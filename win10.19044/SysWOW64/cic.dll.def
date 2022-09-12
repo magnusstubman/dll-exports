@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\cic".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\cic".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\cic".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\cic".DllUnregisterServer

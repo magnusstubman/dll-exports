@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\azroleui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\azroleui".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\azroleui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\azroleui".DllUnregisterServer

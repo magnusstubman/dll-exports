@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\dialclient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\dialclient".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\dialclient".DllGetClassObject

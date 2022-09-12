@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\windows.applicationmodel.datatransfer".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\windows.applicationmodel.datatransfer".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\windows.applicationmodel.datatransfer".DllGetClassObject

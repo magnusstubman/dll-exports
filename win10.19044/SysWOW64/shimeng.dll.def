@@ -1,0 +1,12 @@
+EXPORTS
+  SE_DllLoaded="C:\Windows\SysWOW64\shimeng".SE_DllLoaded
+  SE_DllUnloaded="C:\Windows\SysWOW64\shimeng".SE_DllUnloaded
+  SE_DynamicShim="C:\Windows\SysWOW64\shimeng".SE_DynamicShim
+  SE_GetHookAPIs="C:\Windows\SysWOW64\shimeng".SE_GetHookAPIs
+  SE_GetMaxShimCount="C:\Windows\SysWOW64\shimeng".SE_GetMaxShimCount
+  SE_GetProcAddressIgnoreIncExc="C:\Windows\SysWOW64\shimeng".SE_GetProcAddressIgnoreIncExc
+  SE_GetShimCount="C:\Windows\SysWOW64\shimeng".SE_GetShimCount
+  SE_InstallAfterInit="C:\Windows\SysWOW64\shimeng".SE_InstallAfterInit
+  SE_InstallBeforeInit="C:\Windows\SysWOW64\shimeng".SE_InstallBeforeInit
+  SE_IsShimDll="C:\Windows\SysWOW64\shimeng".SE_IsShimDll
+  SE_ProcessDying="C:\Windows\SysWOW64\shimeng".SE_ProcessDying

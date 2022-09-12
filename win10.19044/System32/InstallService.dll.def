@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\InstallService".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\InstallService".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\InstallService".DllGetClassObject
+  ServiceMain="C:\Windows\System32\InstallService".ServiceMain

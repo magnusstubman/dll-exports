@@ -1,0 +1,4 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\System32\bcdsrv".DllGetClassObject
+  DllMain="C:\Windows\System32\bcdsrv".DllMain
+  DllRegisterServer="C:\Windows\System32\bcdsrv".DllRegisterServer

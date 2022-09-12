@@ -1,0 +1,11 @@
+EXPORTS
+  VmbusPipeClientEnumeratePipes="C:\Windows\System32\vmbuspipe".VmbusPipeClientEnumeratePipes
+  VmbusPipeClientOpenChannel="C:\Windows\System32\vmbuspipe".VmbusPipeClientOpenChannel
+  VmbusPipeClientOpenChannelEx="C:\Windows\System32\vmbuspipe".VmbusPipeClientOpenChannelEx
+  VmbusPipeClientReadyForChannelNotification="C:\Windows\System32\vmbuspipe".VmbusPipeClientReadyForChannelNotification
+  VmbusPipeClientRegisterChannelNotification="C:\Windows\System32\vmbuspipe".VmbusPipeClientRegisterChannelNotification
+  VmbusPipeClientUnregisterChannelNotification="C:\Windows\System32\vmbuspipe".VmbusPipeClientUnregisterChannelNotification
+  VmbusPipeClientWaitChannel="C:\Windows\System32\vmbuspipe".VmbusPipeClientWaitChannel
+  VmbusPipeServerConnectPipe="C:\Windows\System32\vmbuspipe".VmbusPipeServerConnectPipe
+  VmbusPipeServerOfferChannel="C:\Windows\System32\vmbuspipe".VmbusPipeServerOfferChannel
+  VmbusPipeServerOfferChannelEx="C:\Windows\System32\vmbuspipe".VmbusPipeServerOfferChannelEx

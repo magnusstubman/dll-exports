@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DwmInitializeEngine=\"C:\\Windows\\System32\\dwmredir.DwmInitializeEngine\"")
+#pragma comment(linker, "/export:DwmInitializePort=\"C:\\Windows\\System32\\dwmredir.DwmInitializePort\"")
+#pragma comment(linker, "/export:DwmRedirectionManagerInitialize=\"C:\\Windows\\System32\\dwmredir.DwmRedirectionManagerInitialize\"")
+#pragma comment(linker, "/export:DwmRedirectionManagerShutdown=\"C:\\Windows\\System32\\dwmredir.DwmRedirectionManagerShutdown\"")
+#pragma comment(linker, "/export:DwmRenderDesktopForDDA=\"C:\\Windows\\System32\\dwmredir.DwmRenderDesktopForDDA\"")
+#pragma comment(linker, "/export:DwmShutdownEngine=\"C:\\Windows\\System32\\dwmredir.DwmShutdownEngine\"")
+#pragma comment(linker, "/export:DwmVersionCheck=\"C:\\Windows\\System32\\dwmredir.DwmVersionCheck\"")

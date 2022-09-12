@@ -63,16 +63,22 @@ def doFolder(folder, outFolder):
 
     if len(exports) > 0:
       f = open(os.path.join(outFolder, fileName + '.cpp'), 'w')
+      defF = open(os.path.join(outFolder, fileName + '.def'), 'w')
+      defF.write('EXPORTS' + '\n')
 
       for export in exports:
         line = '#pragma comment(linker, "/export:' + export + '=\\"' + dll.replace('\\', '\\\\')[:-3] + export + '\\"")'
         f.write(line + '\n')
 
+        defLine = '  ' + export + '="' + dll[:-4] + '".' + export
+        defF.write(defLine + '\n')
+
       f.close()
+      defF.close()
 
 
 if __name__ == "__main__":
-  parentFolder = 'win10.19042'
+  parentFolder = 'win10.19044'
   createFolder(parentFolder)
   doFolder('C:\\Windows\\SysWOW64', os.path.join(parentFolder, 'SysWOW64'))
   doFolder('C:\\Windows\\System32', os.path.join(parentFolder, 'System32'))

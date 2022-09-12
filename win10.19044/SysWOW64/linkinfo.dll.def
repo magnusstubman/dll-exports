@@ -1,0 +1,16 @@
+EXPORTS
+  CompareLinkInfoReferents="C:\Windows\SysWOW64\linkinfo".CompareLinkInfoReferents
+  CompareLinkInfoVolumes="C:\Windows\SysWOW64\linkinfo".CompareLinkInfoVolumes
+  CreateLinkInfo="C:\Windows\SysWOW64\linkinfo".CreateLinkInfo
+  CreateLinkInfoA="C:\Windows\SysWOW64\linkinfo".CreateLinkInfoA
+  CreateLinkInfoW="C:\Windows\SysWOW64\linkinfo".CreateLinkInfoW
+  DestroyLinkInfo="C:\Windows\SysWOW64\linkinfo".DestroyLinkInfo
+  DisconnectLinkInfo="C:\Windows\SysWOW64\linkinfo".DisconnectLinkInfo
+  GetCanonicalPathInfo="C:\Windows\SysWOW64\linkinfo".GetCanonicalPathInfo
+  GetCanonicalPathInfoA="C:\Windows\SysWOW64\linkinfo".GetCanonicalPathInfoA
+  GetCanonicalPathInfoW="C:\Windows\SysWOW64\linkinfo".GetCanonicalPathInfoW
+  GetLinkInfoData="C:\Windows\SysWOW64\linkinfo".GetLinkInfoData
+  IsValidLinkInfo="C:\Windows\SysWOW64\linkinfo".IsValidLinkInfo
+  ResolveLinkInfo="C:\Windows\SysWOW64\linkinfo".ResolveLinkInfo
+  ResolveLinkInfoA="C:\Windows\SysWOW64\linkinfo".ResolveLinkInfoA
+  ResolveLinkInfoW="C:\Windows\SysWOW64\linkinfo".ResolveLinkInfoW

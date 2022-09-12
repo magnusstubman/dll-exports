@@ -1,0 +1,23 @@
+EXPORTS
+  CoreUIClientCreate="C:\Windows\SysWOW64\CoreUIComponents".CoreUIClientCreate
+  CoreUIClientTestCreate="C:\Windows\SysWOW64\CoreUIComponents".CoreUIClientTestCreate
+  CoreUIConfigureTestHost="C:\Windows\SysWOW64\CoreUIComponents".CoreUIConfigureTestHost
+  CoreUICreateDuplicateWindowFactory="C:\Windows\SysWOW64\CoreUIComponents".CoreUICreateDuplicateWindowFactory
+  CoreUICreateICoreWindowFactory="C:\Windows\SysWOW64\CoreUIComponents".CoreUICreateICoreWindowFactory
+  CoreUIFactoryCreate="C:\Windows\SysWOW64\CoreUIComponents".CoreUIFactoryCreate
+  CoreUIServerCreate="C:\Windows\SysWOW64\CoreUIComponents".CoreUIServerCreate
+  CoreUIServerTestCreate="C:\Windows\SysWOW64\CoreUIComponents".CoreUIServerTestCreate
+  CreateNavigationClientWindowAdapter="C:\Windows\SysWOW64\CoreUIComponents".CreateNavigationClientWindowAdapter
+  DllCanUnloadNow="C:\Windows\SysWOW64\CoreUIComponents".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\CoreUIComponents".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\CoreUIComponents".DllGetClassObject
+  MinUserGetInputHost="C:\Windows\SysWOW64\CoreUIComponents".MinUserGetInputHost
+  MinUserGetInputRoutingInfo="C:\Windows\SysWOW64\CoreUIComponents".MinUserGetInputRoutingInfo
+  MinUserInputInitialize="C:\Windows\SysWOW64\CoreUIComponents".MinUserInputInitialize
+  MinUserNotifyOneCoreTransformMode="C:\Windows\SysWOW64\CoreUIComponents".MinUserNotifyOneCoreTransformMode
+  MinUserRegisterPointerInputTarget="C:\Windows\SysWOW64\CoreUIComponents".MinUserRegisterPointerInputTarget
+  MinUserRequestViewHitTest="C:\Windows\SysWOW64\CoreUIComponents".MinUserRequestViewHitTest
+  MinUserReregisterPointerInputTargets="C:\Windows\SysWOW64\CoreUIComponents".MinUserReregisterPointerInputTargets
+  MinUserUnregisterPointerInputTarget="C:\Windows\SysWOW64\CoreUIComponents".MinUserUnregisterPointerInputTarget
+  ServiceMain="C:\Windows\SysWOW64\CoreUIComponents".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\SysWOW64\CoreUIComponents".SvchostPushServiceGlobals

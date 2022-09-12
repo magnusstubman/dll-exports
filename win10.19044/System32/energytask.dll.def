@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\energytask".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\energytask".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\energytask".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\energytask".DllUnregisterServer

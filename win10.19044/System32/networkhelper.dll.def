@@ -1,0 +1,15 @@
+EXPORTS
+  CHttpTransport_CreateInstance="C:\Windows\System32\networkhelper".CHttpTransport_CreateInstance
+  CheckPdcRenewal="C:\Windows\System32\networkhelper".CheckPdcRenewal
+  CreateControlChannelTriggerConnectionManager="C:\Windows\System32\networkhelper".CreateControlChannelTriggerConnectionManager
+  GetOrCreateNullPowerDependencyCoordinatorManager="C:\Windows\System32\networkhelper".GetOrCreateNullPowerDependencyCoordinatorManager
+  GetSerializedAppMetadata="C:\Windows\System32\networkhelper".GetSerializedAppMetadata
+  InitializePowerDependencyCoordinatorManager="C:\Windows\System32\networkhelper".InitializePowerDependencyCoordinatorManager
+  IsNetworkConnectionCostRestricted="C:\Windows\System32\networkhelper".IsNetworkConnectionCostRestricted
+  ProgressStatus="C:\Windows\System32\networkhelper".ProgressStatus
+  ReleasePowerDependencyCoordinatorManager="C:\Windows\System32\networkhelper".ReleasePowerDependencyCoordinatorManager
+  ReportSyncProgress="C:\Windows\System32\networkhelper".ReportSyncProgress
+  SyncPdcReference_WatchdogReport="C:\Windows\System32\networkhelper".SyncPdcReference_WatchdogReport
+  SyncPdcReference_WatchdogsEnabled="C:\Windows\System32\networkhelper".SyncPdcReference_WatchdogsEnabled
+  SyncWerReportComponentName="C:\Windows\System32\networkhelper".SyncWerReportComponentName
+  SyncWerReportGenerator="C:\Windows\System32\networkhelper".SyncWerReportGenerator

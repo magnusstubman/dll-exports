@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\BcastDVRBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\BcastDVRBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\BcastDVRBroker".DllGetClassObject

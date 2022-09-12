@@ -1,0 +1,4 @@
+EXPORTS
+  CloseTapiPerformanceData="C:\Windows\SysWOW64\tapiperf".CloseTapiPerformanceData
+  CollectTapiPerformanceData="C:\Windows\SysWOW64\tapiperf".CollectTapiPerformanceData
+  OpenTapiPerformanceData="C:\Windows\SysWOW64\tapiperf".OpenTapiPerformanceData

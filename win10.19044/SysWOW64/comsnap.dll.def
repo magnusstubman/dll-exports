@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\comsnap".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\comsnap".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\comsnap".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\comsnap".DllUnregisterServer
+  InstallDsExtension="C:\Windows\SysWOW64\comsnap".InstallDsExtension

@@ -1,0 +1,6 @@
+EXPORTS
+  ActivatePackage="C:\Windows\System32\embeddedmodesvcapi".ActivatePackage
+  DllCanUnloadNow="C:\Windows\System32\embeddedmodesvcapi".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\embeddedmodesvcapi".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\embeddedmodesvcapi".DllGetClassObject
+  IsEmbeddedModeAllowed="C:\Windows\System32\embeddedmodesvcapi".IsEmbeddedModeAllowed

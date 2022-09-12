@@ -1,0 +1,22 @@
+EXPORTS
+  DrtClose="C:\Windows\SysWOW64\drt".DrtClose
+  DrtContinueSearch="C:\Windows\SysWOW64\drt".DrtContinueSearch
+  DrtEndSearch="C:\Windows\SysWOW64\drt".DrtEndSearch
+  DrtFlushCache="C:\Windows\SysWOW64\drt".DrtFlushCache
+  DrtGetCacheStatsEx="C:\Windows\SysWOW64\drt".DrtGetCacheStatsEx
+  DrtGetEventData="C:\Windows\SysWOW64\drt".DrtGetEventData
+  DrtGetEventDataSize="C:\Windows\SysWOW64\drt".DrtGetEventDataSize
+  DrtGetInstanceName="C:\Windows\SysWOW64\drt".DrtGetInstanceName
+  DrtGetInstanceNameSize="C:\Windows\SysWOW64\drt".DrtGetInstanceNameSize
+  DrtGetSearchPath="C:\Windows\SysWOW64\drt".DrtGetSearchPath
+  DrtGetSearchPathSize="C:\Windows\SysWOW64\drt".DrtGetSearchPathSize
+  DrtGetSearchResult="C:\Windows\SysWOW64\drt".DrtGetSearchResult
+  DrtGetSearchResultSize="C:\Windows\SysWOW64\drt".DrtGetSearchResultSize
+  DrtHandlePowerEvent="C:\Windows\SysWOW64\drt".DrtHandlePowerEvent
+  DrtOpen="C:\Windows\SysWOW64\drt".DrtOpen
+  DrtPingPeer="C:\Windows\SysWOW64\drt".DrtPingPeer
+  DrtRegisterKey="C:\Windows\SysWOW64\drt".DrtRegisterKey
+  DrtStartPartitionDetection="C:\Windows\SysWOW64\drt".DrtStartPartitionDetection
+  DrtStartSearch="C:\Windows\SysWOW64\drt".DrtStartSearch
+  DrtUnregisterKey="C:\Windows\SysWOW64\drt".DrtUnregisterKey
+  DrtUpdateKey="C:\Windows\SysWOW64\drt".DrtUpdateKey

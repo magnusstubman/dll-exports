@@ -1,0 +1,11 @@
+EXPORTS
+  LsCsp_DecryptEnvelopedData="C:\Windows\System32\tlscsp".LsCsp_DecryptEnvelopedData
+  LsCsp_EncryptHwid="C:\Windows\System32\tlscsp".LsCsp_EncryptHwid
+  LsCsp_GetServerData="C:\Windows\System32\tlscsp".LsCsp_GetServerData
+  LsCsp_RetrieveSecret="C:\Windows\System32\tlscsp".LsCsp_RetrieveSecret
+  LsCsp_StoreSecret="C:\Windows\System32\tlscsp".LsCsp_StoreSecret
+  TLSCspInit="C:\Windows\System32\tlscsp".TLSCspInit
+  TLSCspShutdown="C:\Windows\System32\tlscsp".TLSCspShutdown
+  TLSCspStartInstallCertificateThread="C:\Windows\System32\tlscsp".TLSCspStartInstallCertificateThread
+  TLSFreeTSCertificate="C:\Windows\System32\tlscsp".TLSFreeTSCertificate
+  TLSGetTSCertificate="C:\Windows\System32\tlscsp".TLSGetTSCertificate

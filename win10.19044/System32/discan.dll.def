@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\discan".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\discan".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\discan".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\discan".DllUnregisterServer

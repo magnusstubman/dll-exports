@@ -1,0 +1,11 @@
+EXPORTS
+  AppRepComputeImageHash="C:\Windows\SysWOW64\apprepapi".AppRepComputeImageHash
+  AppRepComputeImageHashWithOffset="C:\Windows\SysWOW64\apprepapi".AppRepComputeImageHashWithOffset
+  AppRepComputeSignatureInfo="C:\Windows\SysWOW64\apprepapi".AppRepComputeSignatureInfo
+  AppRepFreeAttributeLib="C:\Windows\SysWOW64\apprepapi".AppRepFreeAttributeLib
+  AppRepInitializeAttributeLib="C:\Windows\SysWOW64\apprepapi".AppRepInitializeAttributeLib
+  AppRepParameterCleanup="C:\Windows\SysWOW64\apprepapi".AppRepParameterCleanup
+  AppRepPartialTelemetryCleanup="C:\Windows\SysWOW64\apprepapi".AppRepPartialTelemetryCleanup
+  RepGetFileInformation="C:\Windows\SysWOW64\apprepapi".RepGetFileInformation
+  RepInformUserAction="C:\Windows\SysWOW64\apprepapi".RepInformUserAction
+  ReputationInfoCleanup="C:\Windows\SysWOW64\apprepapi".ReputationInfoCleanup

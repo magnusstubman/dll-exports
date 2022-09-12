@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\findnetprinters".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\findnetprinters".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\findnetprinters".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\findnetprinters".DllUnregisterServer

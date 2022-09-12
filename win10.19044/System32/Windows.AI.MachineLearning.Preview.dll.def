@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.AI.MachineLearning.Preview".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.AI.MachineLearning.Preview".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.AI.MachineLearning.Preview".DllGetClassObject

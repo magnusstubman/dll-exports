@@ -1,0 +1,7 @@
+EXPORTS
+  DLLGetDocumentation="C:\Windows\SysWOW64\scrrun".DLLGetDocumentation
+  DllCanUnloadNow="C:\Windows\SysWOW64\scrrun".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\scrrun".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\scrrun".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\scrrun".DllUnregisterServer
+  DoOpenPipeStream="C:\Windows\SysWOW64\scrrun".DoOpenPipeStream

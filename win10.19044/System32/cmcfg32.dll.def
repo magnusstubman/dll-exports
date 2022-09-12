@@ -1,0 +1,5 @@
+EXPORTS
+  CMConfig="C:\Windows\System32\cmcfg32".CMConfig
+  CMConfigEx="C:\Windows\System32\cmcfg32".CMConfigEx
+  CmstpExtensionProc="C:\Windows\System32\cmcfg32".CmstpExtensionProc
+  CmstpExtensionProc2="C:\Windows\System32\cmcfg32".CmstpExtensionProc2

@@ -1,0 +1,5 @@
+EXPORTS
+  ServiceTriggerEnumerateTransferredSockets="C:\Windows\System32\sbservicetrigger".ServiceTriggerEnumerateTransferredSockets
+  ServiceTriggerRetrieveSocketContext="C:\Windows\System32\sbservicetrigger".ServiceTriggerRetrieveSocketContext
+  ServiceTriggerRetrieveSockets="C:\Windows\System32\sbservicetrigger".ServiceTriggerRetrieveSockets
+  ServiceTriggerTransferSocketOwnership="C:\Windows\System32\sbservicetrigger".ServiceTriggerTransferSocketOwnership

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PlaySndSrv".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\PlaySndSrv".DllGetClassObject
+  PlaySoundServerInitialize="C:\Windows\System32\PlaySndSrv".PlaySoundServerInitialize
+  PlaySoundServerTerminate="C:\Windows\System32\PlaySndSrv".PlaySoundServerTerminate

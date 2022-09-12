@@ -1,0 +1,5 @@
+EXPORTS
+  Deinitialize="C:\Windows\System32\AppVEntSubsystemController".Deinitialize
+  GetComponent="C:\Windows\System32\AppVEntSubsystemController".GetComponent
+  GetVirtualEnvironmentUtils="C:\Windows\System32\AppVEntSubsystemController".GetVirtualEnvironmentUtils
+  Initialize="C:\Windows\System32\AppVEntSubsystemController".Initialize

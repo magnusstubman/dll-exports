@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Globalization".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Globalization".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Globalization".DllGetClassObject

@@ -1,0 +1,5 @@
+EXPORTS
+  GetExclusionListFromRegistry="C:\Windows\System32\profsvc".GetExclusionListFromRegistry
+  GetUserChoiceForSlowLink="C:\Windows\System32\profsvc".GetUserChoiceForSlowLink
+  GetUserPreferenceValue="C:\Windows\System32\profsvc".GetUserPreferenceValue
+  UserProfileServiceMain="C:\Windows\System32\profsvc".UserProfileServiceMain

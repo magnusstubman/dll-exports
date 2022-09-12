@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\actxprxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\actxprxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\actxprxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\actxprxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\actxprxy".GetProxyDllInfo

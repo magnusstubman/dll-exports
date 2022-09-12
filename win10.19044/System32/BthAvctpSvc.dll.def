@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\BthAvctpSvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\BthAvctpSvc".DllGetClassObject
+  ServiceMain="C:\Windows\System32\BthAvctpSvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\BthAvctpSvc".SvchostPushServiceGlobals

@@ -1,0 +1,16 @@
+EXPORTS
+  FveCertCanCertificateBeAdded="C:\Windows\System32\fvecerts".FveCertCanCertificateBeAdded
+  FveCertCreateCertInfo="C:\Windows\System32\fvecerts".FveCertCreateCertInfo
+  FveCertCreateSelfSignedCertificate="C:\Windows\System32\fvecerts".FveCertCreateSelfSignedCertificate
+  FveCertFilterForValidCertificates="C:\Windows\System32\fvecerts".FveCertFilterForValidCertificates
+  FveCertFindValidCertificates="C:\Windows\System32\fvecerts".FveCertFindValidCertificates
+  FveCertFreeCertInfo="C:\Windows\System32\fvecerts".FveCertFreeCertInfo
+  FveCertGetCertContextFromCert="C:\Windows\System32\fvecerts".FveCertGetCertContextFromCert
+  FveCertGetCertContextFromPfx="C:\Windows\System32\fvecerts".FveCertGetCertContextFromPfx
+  FveCertGetCertHashFromCertContext="C:\Windows\System32\fvecerts".FveCertGetCertHashFromCertContext
+  FveCertGetPrivateKeyHandle="C:\Windows\System32\fvecerts".FveCertGetPrivateKeyHandle
+  FveCertGetPublicKeyHandle="C:\Windows\System32\fvecerts".FveCertGetPublicKeyHandle
+  FveCertIsAlternateCert="C:\Windows\System32\fvecerts".FveCertIsAlternateCert
+  FveCertIsValidCertInfo="C:\Windows\System32\fvecerts".FveCertIsValidCertInfo
+  FveCertSignData="C:\Windows\System32\fvecerts".FveCertSignData
+  FveCertWritePfxFromCertContext="C:\Windows\System32\fvecerts".FveCertWritePfxFromCertContext

@@ -1,0 +1,11 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\srmscan".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\srmscan".DllGetClassObject
+  SrmCalculateCrcHash="C:\Windows\SysWOW64\srmscan".SrmCalculateCrcHash
+  SrmCreateOrDeleteNotificationScheduledTask="C:\Windows\SysWOW64\srmscan".SrmCreateOrDeleteNotificationScheduledTask
+  SrmEnsureSystemVolumeInformationFolder="C:\Windows\SysWOW64\srmscan".SrmEnsureSystemVolumeInformationFolder
+  SrmIsInCluster="C:\Windows\SysWOW64\srmscan".SrmIsInCluster
+  SrmIsNameInExpression="C:\Windows\SysWOW64\srmscan".SrmIsNameInExpression
+  SrmLocalFileTimeToUtcFileTime="C:\Windows\SysWOW64\srmscan".SrmLocalFileTimeToUtcFileTime
+  SrmUtcFileTimeToLocalFileTime="C:\Windows\SysWOW64\srmscan".SrmUtcFileTimeToLocalFileTime
+  SrmValidateNamespaceRoots="C:\Windows\SysWOW64\srmscan".SrmValidateNamespaceRoots

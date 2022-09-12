@@ -1,0 +1,6 @@
+EXPORTS
+  FthSysprepSpecialize="C:\Windows\System32\fthsvc".FthSysprepSpecialize
+  FthSysprepSpecializeOffline="C:\Windows\System32\fthsvc".FthSysprepSpecializeOffline
+  WdiDiagnosticModuleMain="C:\Windows\System32\fthsvc".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\System32\fthsvc".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\System32\fthsvc".WdiHandleInstance

@@ -1,0 +1,24 @@
+EXPORTS
+  ADsPropCheckIfWritable="C:\Windows\SysWOW64\dsprop".ADsPropCheckIfWritable
+  ADsPropCreateNotifyObj="C:\Windows\SysWOW64\dsprop".ADsPropCreateNotifyObj
+  ADsPropGetInitInfo="C:\Windows\SysWOW64\dsprop".ADsPropGetInitInfo
+  ADsPropSendErrorMessage="C:\Windows\SysWOW64\dsprop".ADsPropSendErrorMessage
+  ADsPropSetHwnd="C:\Windows\SysWOW64\dsprop".ADsPropSetHwnd
+  ADsPropSetHwndWithTitle="C:\Windows\SysWOW64\dsprop".ADsPropSetHwndWithTitle
+  ADsPropShowErrorDialog="C:\Windows\SysWOW64\dsprop".ADsPropShowErrorDialog
+  BringSheetToForeground="C:\Windows\SysWOW64\dsprop".BringSheetToForeground
+  CheckADsError="C:\Windows\SysWOW64\dsprop".CheckADsError
+  CrackName="C:\Windows\SysWOW64\dsprop".CrackName
+  DSPROP_GetGCSearchOnDomain="C:\Windows\SysWOW64\dsprop".DSPROP_GetGCSearchOnDomain
+  DllCanUnloadNow="C:\Windows\SysWOW64\dsprop".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dsprop".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\dsprop".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\dsprop".DllUnregisterServer
+  ErrMsg="C:\Windows\SysWOW64\dsprop".ErrMsg
+  ErrMsgParam="C:\Windows\SysWOW64\dsprop".ErrMsgParam
+  FindSheet="C:\Windows\SysWOW64\dsprop".FindSheet
+  IsSheetAlreadyUp="C:\Windows\SysWOW64\dsprop".IsSheetAlreadyUp
+  MsgBox="C:\Windows\SysWOW64\dsprop".MsgBox
+  PostADsPropSheet="C:\Windows\SysWOW64\dsprop".PostADsPropSheet
+  ReportError="C:\Windows\SysWOW64\dsprop".ReportError
+  Smart_PADS_ATTR_INFO__Empty="C:\Windows\SysWOW64\dsprop".Smart_PADS_ATTR_INFO__Empty

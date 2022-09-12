@@ -1,0 +1,4 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\System32\hvsigpext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\hvsigpext".DllUnregisterServer
+  ProcessHVSIPolicy="C:\Windows\System32\hvsigpext".ProcessHVSIPolicy

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.Devices".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Media.Devices".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Media.Devices".DllGetClassObject

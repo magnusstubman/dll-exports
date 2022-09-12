@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\printticketvalidation".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\printticketvalidation".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\printticketvalidation".DllGetClassObject

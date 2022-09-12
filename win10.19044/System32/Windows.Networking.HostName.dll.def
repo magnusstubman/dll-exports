@@ -1,0 +1,13 @@
+EXPORTS
+  CreateEndpointPairFromSockAddrs="C:\Windows\System32\Windows.Networking.HostName".CreateEndpointPairFromSockAddrs
+  CreateHostNameFromSockAddr="C:\Windows\System32\Windows.Networking.HostName".CreateHostNameFromSockAddr
+  CreateHostNameFromString="C:\Windows\System32\Windows.Networking.HostName".CreateHostNameFromString
+  CreateNetworkAdapterFromGuid="C:\Windows\System32\Windows.Networking.HostName".CreateNetworkAdapterFromGuid
+  DllCanUnloadNow="C:\Windows\System32\Windows.Networking.HostName".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Networking.HostName".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Networking.HostName".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.Networking.HostName".DllMain
+  DllRegisterServer="C:\Windows\System32\Windows.Networking.HostName".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Networking.HostName".DllUnregisterServer
+  GetAllHostNames="C:\Windows\System32\Windows.Networking.HostName".GetAllHostNames
+  GetSortedEndpointPairs="C:\Windows\System32\Windows.Networking.HostName".GetSortedEndpointPairs

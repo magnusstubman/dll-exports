@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MFPlay".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MFPlay".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MFPlay".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MFPlay".DllUnregisterServer
+  MFPCreateMediaPlayer="C:\Windows\System32\MFPlay".MFPCreateMediaPlayer
+  MFPCreateMediaPlayerEx="C:\Windows\System32\MFPlay".MFPCreateMediaPlayerEx

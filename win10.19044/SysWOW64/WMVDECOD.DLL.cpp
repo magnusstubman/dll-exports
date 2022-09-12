@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:CreateInstance=\"C:\\Windows\\SysWOW64\\WMVDECOD.CreateInstance\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\WMVDECOD.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\WMVDECOD.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\WMVDECOD.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\WMVDECOD.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetVC1DecoderFunctionTable=\"C:\\Windows\\SysWOW64\\WMVDECOD.GetVC1DecoderFunctionTable\"")

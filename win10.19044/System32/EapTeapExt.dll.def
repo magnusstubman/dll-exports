@@ -1,0 +1,3 @@
+EXPORTS
+  TeapExt_EapPeerInvokeConfigUI="C:\Windows\System32\EapTeapExt".TeapExt_EapPeerInvokeConfigUI
+  TtlsExt_FreeMemoryExt="C:\Windows\System32\EapTeapExt".TtlsExt_FreeMemoryExt

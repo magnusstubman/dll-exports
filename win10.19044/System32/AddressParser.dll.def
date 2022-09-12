@@ -1,0 +1,19 @@
+EXPORTS
+  DestroyAddressParser="C:\Windows\System32\AddressParser".DestroyAddressParser
+  GetCity="C:\Windows\System32\AddressParser".GetCity
+  GetCountryName="C:\Windows\System32\AddressParser".GetCountryName
+  GetCountryStringFromIndex="C:\Windows\System32\AddressParser".GetCountryStringFromIndex
+  GetFullAddress="C:\Windows\System32\AddressParser".GetFullAddress
+  GetNewAddressParser="C:\Windows\System32\AddressParser".GetNewAddressParser
+  GetPostalCode="C:\Windows\System32\AddressParser".GetPostalCode
+  GetState="C:\Windows\System32\AddressParser".GetState
+  GetStreet="C:\Windows\System32\AddressParser".GetStreet
+  ParseAddress="C:\Windows\System32\AddressParser".ParseAddress
+  RebuildAddress="C:\Windows\System32\AddressParser".RebuildAddress
+  SetCity="C:\Windows\System32\AddressParser".SetCity
+  SetCountryName="C:\Windows\System32\AddressParser".SetCountryName
+  SetFullAddress="C:\Windows\System32\AddressParser".SetFullAddress
+  SetPostalCode="C:\Windows\System32\AddressParser".SetPostalCode
+  SetState="C:\Windows\System32\AddressParser".SetState
+  SetStreet="C:\Windows\System32\AddressParser".SetStreet
+  UpdateDefCountry="C:\Windows\System32\AddressParser".UpdateDefCountry

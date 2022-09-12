@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\EhStorAPI".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\EhStorAPI".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\EhStorAPI".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\EhStorAPI".DllUnregisterServer

@@ -1,0 +1,7 @@
+EXPORTS
+  APIExportForDetours="C:\Windows\System32\AppVEntSubsystems64".APIExportForDetours
+  CurrentThreadIsVirtualized="C:\Windows\System32\AppVEntSubsystems64".CurrentThreadIsVirtualized
+  IsProcessHooked="C:\Windows\System32\AppVEntSubsystems64".IsProcessHooked
+  RequestUnhookedFunctionList="C:\Windows\System32\AppVEntSubsystems64".RequestUnhookedFunctionList
+  VirtualizeCurrentProcess="C:\Windows\System32\AppVEntSubsystems64".VirtualizeCurrentProcess
+  VirtualizeCurrentThread="C:\Windows\System32\AppVEntSubsystems64".VirtualizeCurrentThread

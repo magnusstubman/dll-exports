@@ -1,0 +1,18 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\occache".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\occache".DllGetClassObject
+  FindControlClose="C:\Windows\SysWOW64\occache".FindControlClose
+  FindFirstControl="C:\Windows\SysWOW64\occache".FindFirstControl
+  FindFirstControlArch="C:\Windows\SysWOW64\occache".FindFirstControlArch
+  FindNextControl="C:\Windows\SysWOW64\occache".FindNextControl
+  FindNextControlArch="C:\Windows\SysWOW64\occache".FindNextControlArch
+  GetControlDependentFile="C:\Windows\SysWOW64\occache".GetControlDependentFile
+  GetControlInfo="C:\Windows\SysWOW64\occache".GetControlInfo
+  IsModuleRemovable="C:\Windows\SysWOW64\occache".IsModuleRemovable
+  ReleaseControlHandle="C:\Windows\SysWOW64\occache".ReleaseControlHandle
+  RemoveControlByHandle="C:\Windows\SysWOW64\occache".RemoveControlByHandle
+  RemoveControlByHandle2="C:\Windows\SysWOW64\occache".RemoveControlByHandle2
+  RemoveControlByName="C:\Windows\SysWOW64\occache".RemoveControlByName
+  RemoveControlByName2="C:\Windows\SysWOW64\occache".RemoveControlByName2
+  RemoveExpiredControls="C:\Windows\SysWOW64\occache".RemoveExpiredControls
+  SweepControlsByLastAccessDate="C:\Windows\SysWOW64\occache".SweepControlsByLastAccessDate

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Shell.ServiceHostBuilder".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.Shell.ServiceHostBuilder".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.Shell.ServiceHostBuilder".GetProxyDllInfo

@@ -1,0 +1,16 @@
+EXPORTS
+  DMOEnum="C:\Windows\System32\msdmo".DMOEnum
+  DMOGetName="C:\Windows\System32\msdmo".DMOGetName
+  DMOGetTypes="C:\Windows\System32\msdmo".DMOGetTypes
+  DMOGuidToStrA="C:\Windows\System32\msdmo".DMOGuidToStrA
+  DMOGuidToStrW="C:\Windows\System32\msdmo".DMOGuidToStrW
+  DMORegister="C:\Windows\System32\msdmo".DMORegister
+  DMOStrToGuidA="C:\Windows\System32\msdmo".DMOStrToGuidA
+  DMOStrToGuidW="C:\Windows\System32\msdmo".DMOStrToGuidW
+  DMOUnregister="C:\Windows\System32\msdmo".DMOUnregister
+  MoCopyMediaType="C:\Windows\System32\msdmo".MoCopyMediaType
+  MoCreateMediaType="C:\Windows\System32\msdmo".MoCreateMediaType
+  MoDeleteMediaType="C:\Windows\System32\msdmo".MoDeleteMediaType
+  MoDuplicateMediaType="C:\Windows\System32\msdmo".MoDuplicateMediaType
+  MoFreeMediaType="C:\Windows\System32\msdmo".MoFreeMediaType
+  MoInitMediaType="C:\Windows\System32\msdmo".MoInitMediaType

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\msjetoledb40".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\msjetoledb40".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\msjetoledb40".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\msjetoledb40".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\msjetoledb40".DllUnregisterServer

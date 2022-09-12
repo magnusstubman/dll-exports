@@ -1,0 +1,5 @@
+EXPORTS
+  NetScheduleJobAdd="C:\Windows\SysWOW64\schedcli".NetScheduleJobAdd
+  NetScheduleJobDel="C:\Windows\SysWOW64\schedcli".NetScheduleJobDel
+  NetScheduleJobEnum="C:\Windows\SysWOW64\schedcli".NetScheduleJobEnum
+  NetScheduleJobGetInfo="C:\Windows\SysWOW64\schedcli".NetScheduleJobGetInfo

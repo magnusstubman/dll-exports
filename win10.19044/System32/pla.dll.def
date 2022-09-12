@@ -1,0 +1,16 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\pla".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\pla".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\pla".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\pla".DllUnregisterServer
+  PlaDeleteReport="C:\Windows\System32\pla".PlaDeleteReport
+  PlaExpandTaskArguments="C:\Windows\System32\pla".PlaExpandTaskArguments
+  PlaExtractCabinet="C:\Windows\System32\pla".PlaExtractCabinet
+  PlaGetLegacyAlertActionsFlagsFromString="C:\Windows\System32\pla".PlaGetLegacyAlertActionsFlagsFromString
+  PlaGetLegacyAlertActionsStringFromFlags="C:\Windows\System32\pla".PlaGetLegacyAlertActionsStringFromFlags
+  PlaGetServerCapabilities="C:\Windows\System32\pla".PlaGetServerCapabilities
+  PlaHost="C:\Windows\System32\pla".PlaHost
+  PlaServer="C:\Windows\System32\pla".PlaServer
+  PlaUpgrade="C:\Windows\System32\pla".PlaUpgrade
+  ServiceMain="C:\Windows\System32\pla".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\pla".SvchostPushServiceGlobals

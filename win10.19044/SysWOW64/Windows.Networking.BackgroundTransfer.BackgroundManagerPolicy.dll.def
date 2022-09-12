@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.Networking.BackgroundTransfer.BackgroundManagerPolicy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.Networking.BackgroundTransfer.BackgroundManagerPolicy".DllGetClassObject

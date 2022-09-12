@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mmgaproxystub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mmgaproxystub".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\mmgaproxystub".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mmgaproxystub".DllUnregisterServer

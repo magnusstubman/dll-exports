@@ -1,0 +1,12 @@
+EXPORTS
+  AuthBrokerClearThreadClientContext="C:\Windows\System32\AuthBroker".AuthBrokerClearThreadClientContext
+  AuthBrokerCreateClientContext="C:\Windows\System32\AuthBroker".AuthBrokerCreateClientContext
+  AuthBrokerFreeClientContext="C:\Windows\System32\AuthBroker".AuthBrokerFreeClientContext
+  AuthBrokerSetThreadClientContext="C:\Windows\System32\AuthBroker".AuthBrokerSetThreadClientContext
+  DllCanUnloadNow="C:\Windows\System32\AuthBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\AuthBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\AuthBroker".DllGetClassObject
+  DllInstall="C:\Windows\System32\AuthBroker".DllInstall
+  DllRegisterServer="C:\Windows\System32\AuthBroker".DllRegisterServer
+  FindCallingThreadImmersiveWindow="C:\Windows\System32\AuthBroker".FindCallingThreadImmersiveWindow
+  PurgeAuthHostSsoCache="C:\Windows\System32\AuthBroker".PurgeAuthHostSsoCache

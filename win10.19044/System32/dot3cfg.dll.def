@@ -1,0 +1,3 @@
+EXPORTS
+  GetResourceString="C:\Windows\System32\dot3cfg".GetResourceString
+  InitHelperDll="C:\Windows\System32\dot3cfg".InitHelperDll

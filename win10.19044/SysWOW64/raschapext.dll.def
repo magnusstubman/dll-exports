@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\raschapext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\raschapext".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\raschapext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\raschapext".DllUnregisterServer
+  RasChapExt_FreeMemory="C:\Windows\SysWOW64\raschapext".RasChapExt_FreeMemory
+  RasChapExt_GetConfigForceNotDomainJoined="C:\Windows\SysWOW64\raschapext".RasChapExt_GetConfigForceNotDomainJoined
+  RasChapExt_GetConfigIgnoreIASLogon="C:\Windows\SysWOW64\raschapext".RasChapExt_GetConfigIgnoreIASLogon
+  RasChapExt_GetConfigKeepCredentialsOnFailure="C:\Windows\SysWOW64\raschapext".RasChapExt_GetConfigKeepCredentialsOnFailure
+  RasChapExt_GetUserCredentials="C:\Windows\SysWOW64\raschapext".RasChapExt_GetUserCredentials
+  RasChapExt_InvokeConfigUI="C:\Windows\SysWOW64\raschapext".RasChapExt_InvokeConfigUI
+  RasChapExt_InvokeInteractiveUI="C:\Windows\SysWOW64\raschapext".RasChapExt_InvokeInteractiveUI
+  RasChapExt_ShowHelp="C:\Windows\SysWOW64\raschapext".RasChapExt_ShowHelp

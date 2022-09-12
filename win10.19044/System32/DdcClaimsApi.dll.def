@@ -1,0 +1,3 @@
+EXPORTS
+  DdcGetDeviceClaimsForUser="C:\Windows\System32\DdcClaimsApi".DdcGetDeviceClaimsForUser
+  FreeDeviceClaimsResponse="C:\Windows\System32\DdcClaimsApi".FreeDeviceClaimsResponse

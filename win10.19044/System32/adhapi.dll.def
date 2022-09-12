@@ -1,0 +1,8 @@
+EXPORTS
+  AdhEngineClose="C:\Windows\System32\adhapi".AdhEngineClose
+  AdhEngineOpen="C:\Windows\System32\adhapi".AdhEngineOpen
+  AdhGetConfig="C:\Windows\System32\adhapi".AdhGetConfig
+  AdhGetEvidenceCollectorResult="C:\Windows\System32\adhapi".AdhGetEvidenceCollectorResult
+  AdhStatusEventSubscribe="C:\Windows\System32\adhapi".AdhStatusEventSubscribe
+  AdhStatusEventUnsubscribe="C:\Windows\System32\adhapi".AdhStatusEventUnsubscribe
+  DllMain="C:\Windows\System32\adhapi".DllMain

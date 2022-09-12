@@ -1,0 +1,7 @@
+EXPORTS
+  drvCommConfigDialogA="C:\Windows\System32\serialui".drvCommConfigDialogA
+  drvCommConfigDialogW="C:\Windows\System32\serialui".drvCommConfigDialogW
+  drvGetDefaultCommConfigA="C:\Windows\System32\serialui".drvGetDefaultCommConfigA
+  drvGetDefaultCommConfigW="C:\Windows\System32\serialui".drvGetDefaultCommConfigW
+  drvSetDefaultCommConfigA="C:\Windows\System32\serialui".drvSetDefaultCommConfigA
+  drvSetDefaultCommConfigW="C:\Windows\System32\serialui".drvSetDefaultCommConfigW

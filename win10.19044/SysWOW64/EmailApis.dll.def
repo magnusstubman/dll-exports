@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\EmailApis".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\EmailApis".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\EmailApis".DllGetClassObject

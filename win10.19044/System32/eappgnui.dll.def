@@ -1,0 +1,4 @@
+EXPORTS
+  EapPeerFreeErrorMemory="C:\Windows\System32\eappgnui".EapPeerFreeErrorMemory
+  EapPeerFreeMemory="C:\Windows\System32\eappgnui".EapPeerFreeMemory
+  EapPeerInvokeIdentityUI="C:\Windows\System32\eappgnui".EapPeerInvokeIdentityUI

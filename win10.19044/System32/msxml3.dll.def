@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\msxml3".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\msxml3".DllGetClassObject
+  DllMain="C:\Windows\System32\msxml3".DllMain
+  DllRegisterServer="C:\Windows\System32\msxml3".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msxml3".DllUnregisterServer

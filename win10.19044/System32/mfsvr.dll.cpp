@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\mfsvr.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\mfsvr.DllGetClassObject\"")
+#pragma comment(linker, "/export:MFCreateHDCPStatus=\"C:\\Windows\\System32\\mfsvr.MFCreateHDCPStatus\"")
+#pragma comment(linker, "/export:MFCreateMediaEngineVideoOTA=\"C:\\Windows\\System32\\mfsvr.MFCreateMediaEngineVideoOTA\"")
+#pragma comment(linker, "/export:MFCreateOPMHelper=\"C:\\Windows\\System32\\mfsvr.MFCreateOPMHelper\"")
+#pragma comment(linker, "/export:MFCreateTimedTextRenderer=\"C:\\Windows\\System32\\mfsvr.MFCreateTimedTextRenderer\"")

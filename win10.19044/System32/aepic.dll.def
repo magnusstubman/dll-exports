@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\aepic".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\aepic".DllGetActivationFactory
+  GetAppInventoryCore="C:\Windows\System32\aepic".GetAppInventoryCore
+  GetPrivacyLevel="C:\Windows\System32\aepic".GetPrivacyLevel
+  PicAmiClose="C:\Windows\System32\aepic".PicAmiClose
+  PicAmiInitialize="C:\Windows\System32\aepic".PicAmiInitialize
+  PicFreeFileInfo="C:\Windows\System32\aepic".PicFreeFileInfo
+  PicRetrieveFileInfo="C:\Windows\System32\aepic".PicRetrieveFileInfo
+  PicRetrieveFileInfoAppx="C:\Windows\System32\aepic".PicRetrieveFileInfoAppx
+  PicRetrieveFileLastRunTime="C:\Windows\System32\aepic".PicRetrieveFileLastRunTime
+  PicUpdateFileLastRunTime="C:\Windows\System32\aepic".PicUpdateFileLastRunTime
+  UpdateSoftwareInventoryTC2="C:\Windows\System32\aepic".UpdateSoftwareInventoryTC2

@@ -1,0 +1,10 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wmdrmsdk".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wmdrmsdk".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wmdrmsdk".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wmdrmsdk".DllUnregisterServer
+  MFWMDRMOutputTrustAuthority_CreateInstance="C:\Windows\System32\wmdrmsdk".MFWMDRMOutputTrustAuthority_CreateInstance
+  WMDRMCreateProvider="C:\Windows\System32\wmdrmsdk".WMDRMCreateProvider
+  WMDRMShutdown="C:\Windows\System32\wmdrmsdk".WMDRMShutdown
+  WMDRMStartup="C:\Windows\System32\wmdrmsdk".WMDRMStartup
+  _WMDRMCreateProvider="C:\Windows\System32\wmdrmsdk"._WMDRMCreateProvider

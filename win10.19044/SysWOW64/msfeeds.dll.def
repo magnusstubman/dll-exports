@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\msfeeds".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\msfeeds".DllGetClassObject
+  MsfeedsCreateInstance="C:\Windows\SysWOW64\msfeeds".MsfeedsCreateInstance

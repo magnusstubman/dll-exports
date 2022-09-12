@@ -1,0 +1,4 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\SysWOW64\WindowsCodecsExt".DllGetClassObject
+  IWICColorTransform_Initialize_Proxy="C:\Windows\SysWOW64\WindowsCodecsExt".IWICColorTransform_Initialize_Proxy
+  WICCreateColorTransform_Proxy="C:\Windows\SysWOW64\WindowsCodecsExt".WICCreateColorTransform_Proxy

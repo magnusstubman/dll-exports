@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\twinui".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\twinui".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\twinui".DllGetClassObject

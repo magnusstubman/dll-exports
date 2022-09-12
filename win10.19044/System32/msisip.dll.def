@@ -1,0 +1,9 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\System32\msisip".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msisip".DllUnregisterServer
+  MsiSIPCreateIndirectData="C:\Windows\System32\msisip".MsiSIPCreateIndirectData
+  MsiSIPGetSignedDataMsg="C:\Windows\System32\msisip".MsiSIPGetSignedDataMsg
+  MsiSIPIsMyTypeOfFile="C:\Windows\System32\msisip".MsiSIPIsMyTypeOfFile
+  MsiSIPPutSignedDataMsg="C:\Windows\System32\msisip".MsiSIPPutSignedDataMsg
+  MsiSIPRemoveSignedDataMsg="C:\Windows\System32\msisip".MsiSIPRemoveSignedDataMsg
+  MsiSIPVerifyIndirectData="C:\Windows\System32\msisip".MsiSIPVerifyIndirectData

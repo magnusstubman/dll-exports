@@ -1,0 +1,6 @@
+EXPORTS
+  SssBindServicingStack="C:\Windows\SysWOW64\SSShim".SssBindServicingStack
+  SssGetServicingStackFilePath="C:\Windows\SysWOW64\SSShim".SssGetServicingStackFilePath
+  SssGetServicingStackFilePathLength="C:\Windows\SysWOW64\SSShim".SssGetServicingStackFilePathLength
+  SssPreloadDownlevelDependencies="C:\Windows\SysWOW64\SSShim".SssPreloadDownlevelDependencies
+  SssReleaseServicingStack="C:\Windows\SysWOW64\SSShim".SssReleaseServicingStack

@@ -1,0 +1,22 @@
+EXPORTS
+  CMCheckColors="C:\Windows\System32\icm32".CMCheckColors
+  CMCheckColorsInGamut="C:\Windows\System32\icm32".CMCheckColorsInGamut
+  CMCheckRGBs="C:\Windows\System32\icm32".CMCheckRGBs
+  CMConvertColorNameToIndex="C:\Windows\System32\icm32".CMConvertColorNameToIndex
+  CMConvertIndexToColorName="C:\Windows\System32\icm32".CMConvertIndexToColorName
+  CMCreateDeviceLinkProfile="C:\Windows\System32\icm32".CMCreateDeviceLinkProfile
+  CMCreateMultiProfileTransform="C:\Windows\System32\icm32".CMCreateMultiProfileTransform
+  CMCreateProfile="C:\Windows\System32\icm32".CMCreateProfile
+  CMCreateProfileW="C:\Windows\System32\icm32".CMCreateProfileW
+  CMCreateTransform="C:\Windows\System32\icm32".CMCreateTransform
+  CMCreateTransformExt="C:\Windows\System32\icm32".CMCreateTransformExt
+  CMCreateTransformExtW="C:\Windows\System32\icm32".CMCreateTransformExtW
+  CMCreateTransformW="C:\Windows\System32\icm32".CMCreateTransformW
+  CMDeleteTransform="C:\Windows\System32\icm32".CMDeleteTransform
+  CMGetInfo="C:\Windows\System32\icm32".CMGetInfo
+  CMGetNamedProfileInfo="C:\Windows\System32\icm32".CMGetNamedProfileInfo
+  CMIsProfileValid="C:\Windows\System32\icm32".CMIsProfileValid
+  CMTranslateColors="C:\Windows\System32\icm32".CMTranslateColors
+  CMTranslateRGB="C:\Windows\System32\icm32".CMTranslateRGB
+  CMTranslateRGBs="C:\Windows\System32\icm32".CMTranslateRGBs
+  CMTranslateRGBsExt="C:\Windows\System32\icm32".CMTranslateRGBsExt

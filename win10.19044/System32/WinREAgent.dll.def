@@ -1,0 +1,2 @@
+EXPORTS
+  CreateWinREServicingManager="C:\Windows\System32\WinREAgent".CreateWinREServicingManager

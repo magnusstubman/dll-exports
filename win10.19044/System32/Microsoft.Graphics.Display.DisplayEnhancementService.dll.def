@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\Microsoft.Graphics.Display.DisplayEnhancementService".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\Microsoft.Graphics.Display.DisplayEnhancementService".SvchostPushServiceGlobals

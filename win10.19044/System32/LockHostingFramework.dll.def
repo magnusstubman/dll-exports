@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LockHostingFramework".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\LockHostingFramework".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\LockHostingFramework".DllGetClassObject
+  ShutdownLockAppHostServer="C:\Windows\System32\LockHostingFramework".ShutdownLockAppHostServer
+  StartLockAppHostServer="C:\Windows\System32\LockHostingFramework".StartLockAppHostServer

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\srm_ps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\srm_ps".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\srm_ps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\srm_ps".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\srm_ps".GetProxyDllInfo

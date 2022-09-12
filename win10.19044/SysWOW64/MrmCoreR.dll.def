@@ -1,0 +1,19 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MrmCoreR".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\MrmCoreR".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\MrmCoreR".DllGetClassObject
+  GetInternalReferenceBlobForManifestValue="C:\Windows\SysWOW64\MrmCoreR".GetInternalReferenceBlobForManifestValue
+  GetMergedSystemPri="C:\Windows\SysWOW64\MrmCoreR".GetMergedSystemPri
+  GetMergedSystemPriEx="C:\Windows\SysWOW64\MrmCoreR".GetMergedSystemPriEx
+  GetStringValueForManifestField="C:\Windows\SysWOW64\MrmCoreR".GetStringValueForManifestField
+  MergeResourcePackPri="C:\Windows\SysWOW64\MrmCoreR".MergeResourcePackPri
+  MergeSystemPriFiles="C:\Windows\SysWOW64\MrmCoreR".MergeSystemPriFiles
+  ResourceManagerQueueGetCurrentDepth="C:\Windows\SysWOW64\MrmCoreR".ResourceManagerQueueGetCurrentDepth
+  ResourceManagerQueueGetGlobalFlags="C:\Windows\SysWOW64\MrmCoreR".ResourceManagerQueueGetGlobalFlags
+  ResourceManagerQueueGetMrtCachePathForPackage="C:\Windows\SysWOW64\MrmCoreR".ResourceManagerQueueGetMrtCachePathForPackage
+  ResourceManagerQueueGetString="C:\Windows\SysWOW64\MrmCoreR".ResourceManagerQueueGetString
+  ResourceManagerQueueGetStringDirect="C:\Windows\SysWOW64\MrmCoreR".ResourceManagerQueueGetStringDirect
+  ResourceManagerQueueIsResourceReference="C:\Windows\SysWOW64\MrmCoreR".ResourceManagerQueueIsResourceReference
+  ResourceManagerQueueReset="C:\Windows\SysWOW64\MrmCoreR".ResourceManagerQueueReset
+  ResourceManagerQueueSetGlobalFlags="C:\Windows\SysWOW64\MrmCoreR".ResourceManagerQueueSetGlobalFlags
+  ShouldMergeInproc="C:\Windows\SysWOW64\MrmCoreR".ShouldMergeInproc

@@ -1,0 +1,11 @@
+EXPORTS
+  LsCsp_DecryptEnvelopedData="C:\Windows\SysWOW64\tlscsp".LsCsp_DecryptEnvelopedData
+  LsCsp_EncryptHwid="C:\Windows\SysWOW64\tlscsp".LsCsp_EncryptHwid
+  LsCsp_GetServerData="C:\Windows\SysWOW64\tlscsp".LsCsp_GetServerData
+  LsCsp_RetrieveSecret="C:\Windows\SysWOW64\tlscsp".LsCsp_RetrieveSecret
+  LsCsp_StoreSecret="C:\Windows\SysWOW64\tlscsp".LsCsp_StoreSecret
+  TLSCspInit="C:\Windows\SysWOW64\tlscsp".TLSCspInit
+  TLSCspShutdown="C:\Windows\SysWOW64\tlscsp".TLSCspShutdown
+  TLSCspStartInstallCertificateThread="C:\Windows\SysWOW64\tlscsp".TLSCspStartInstallCertificateThread
+  TLSFreeTSCertificate="C:\Windows\SysWOW64\tlscsp".TLSFreeTSCertificate
+  TLSGetTSCertificate="C:\Windows\SysWOW64\tlscsp".TLSGetTSCertificate

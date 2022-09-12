@@ -1,0 +1,11 @@
+EXPORTS
+  TokenBindingDeleteAllBindings="C:\Windows\SysWOW64\tokenbinding".TokenBindingDeleteAllBindings
+  TokenBindingDeleteBinding="C:\Windows\SysWOW64\tokenbinding".TokenBindingDeleteBinding
+  TokenBindingGenerateBinding="C:\Windows\SysWOW64\tokenbinding".TokenBindingGenerateBinding
+  TokenBindingGenerateID="C:\Windows\SysWOW64\tokenbinding".TokenBindingGenerateID
+  TokenBindingGenerateIDForUri="C:\Windows\SysWOW64\tokenbinding".TokenBindingGenerateIDForUri
+  TokenBindingGenerateMessage="C:\Windows\SysWOW64\tokenbinding".TokenBindingGenerateMessage
+  TokenBindingGetHighestSupportedVersion="C:\Windows\SysWOW64\tokenbinding".TokenBindingGetHighestSupportedVersion
+  TokenBindingGetKeyTypesClient="C:\Windows\SysWOW64\tokenbinding".TokenBindingGetKeyTypesClient
+  TokenBindingGetKeyTypesServer="C:\Windows\SysWOW64\tokenbinding".TokenBindingGetKeyTypesServer
+  TokenBindingVerifyMessage="C:\Windows\SysWOW64\tokenbinding".TokenBindingVerifyMessage

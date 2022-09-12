@@ -1,0 +1,6 @@
+EXPORTS
+  DoAction="C:\Windows\System32\elshyph".DoAction
+  FreePropertyBag="C:\Windows\System32\elshyph".FreePropertyBag
+  FreeService="C:\Windows\System32\elshyph".FreeService
+  InitService="C:\Windows\System32\elshyph".InitService
+  RecognizeText="C:\Windows\System32\elshyph".RecognizeText

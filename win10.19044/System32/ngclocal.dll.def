@@ -1,0 +1,6 @@
+EXPORTS
+  NgcLocalAddCredential="C:\Windows\System32\ngclocal".NgcLocalAddCredential
+  NgcLocalAddCredentialSilent="C:\Windows\System32\ngclocal".NgcLocalAddCredentialSilent
+  NgcLocalChangeCredential="C:\Windows\System32\ngclocal".NgcLocalChangeCredential
+  NgcLocalFindCredential="C:\Windows\System32\ngclocal".NgcLocalFindCredential
+  NgcLocalRemoveCredential="C:\Windows\System32\ngclocal".NgcLocalRemoveCredential

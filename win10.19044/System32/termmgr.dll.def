@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\termmgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\termmgr".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\termmgr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\termmgr".DllUnregisterServer

@@ -1,0 +1,10 @@
+EXPORTS
+  TetheringStationConnect="C:\Windows\System32\TetheringStation".TetheringStationConnect
+  TetheringStationDeinitialize="C:\Windows\System32\TetheringStation".TetheringStationDeinitialize
+  TetheringStationDisconnect="C:\Windows\System32\TetheringStation".TetheringStationDisconnect
+  TetheringStationEnumerate="C:\Windows\System32\TetheringStation".TetheringStationEnumerate
+  TetheringStationFreeMemory="C:\Windows\System32\TetheringStation".TetheringStationFreeMemory
+  TetheringStationInitialize="C:\Windows\System32\TetheringStation".TetheringStationInitialize
+  TetheringStationRefresh="C:\Windows\System32\TetheringStation".TetheringStationRefresh
+  TetheringStationRegisterForNotification="C:\Windows\System32\TetheringStation".TetheringStationRegisterForNotification
+  TetheringStationUnregisterForNotification="C:\Windows\System32\TetheringStation".TetheringStationUnregisterForNotification

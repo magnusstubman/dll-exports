@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\usercpl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\usercpl".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\usercpl".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\usercpl".DllUnregisterServer

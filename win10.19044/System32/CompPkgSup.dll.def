@@ -1,0 +1,11 @@
+EXPORTS
+  AreDvdCodecsEnabled="C:\Windows\System32\CompPkgSup".AreDvdCodecsEnabled
+  GetMediaComponentPackageInfo="C:\Windows\System32\CompPkgSup".GetMediaComponentPackageInfo
+  GetMediaExtensionCommunicationFactory="C:\Windows\System32\CompPkgSup".GetMediaExtensionCommunicationFactory
+  GetNetworkRequestCount="C:\Windows\System32\CompPkgSup".GetNetworkRequestCount
+  GetServerForPMP="C:\Windows\System32\CompPkgSup".GetServerForPMP
+  InstantiateComponentFromPackage="C:\Windows\System32\CompPkgSup".InstantiateComponentFromPackage
+  IsMediaBehaviorEnabled="C:\Windows\System32\CompPkgSup".IsMediaBehaviorEnabled
+  RegisterServerForPMP="C:\Windows\System32\CompPkgSup".RegisterServerForPMP
+  RequireNetworkDuringMediaTaskCompletion="C:\Windows\System32\CompPkgSup".RequireNetworkDuringMediaTaskCompletion
+  UnregisterServerForPMP="C:\Windows\System32\CompPkgSup".UnregisterServerForPMP

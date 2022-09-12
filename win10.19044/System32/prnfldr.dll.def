@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\prnfldr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\prnfldr".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\prnfldr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\prnfldr".DllUnregisterServer

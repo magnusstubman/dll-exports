@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MBMediaManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\MBMediaManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\MBMediaManager".DllGetClassObject

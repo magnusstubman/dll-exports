@@ -1,0 +1,6 @@
+EXPORTS
+  ExecuteUninstall="C:\Windows\System32\osuninst".ExecuteUninstall
+  GetUninstallImageSize="C:\Windows\System32\osuninst".GetUninstallImageSize
+  IsUninstallImageValid="C:\Windows\System32\osuninst".IsUninstallImageValid
+  ProvideUiAlerts="C:\Windows\System32\osuninst".ProvideUiAlerts
+  RemoveUninstallImage="C:\Windows\System32\osuninst".RemoveUninstallImage

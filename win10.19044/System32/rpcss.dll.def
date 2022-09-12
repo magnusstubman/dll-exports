@@ -1,0 +1,5 @@
+EXPORTS
+  CoGetComCatalog="C:\Windows\System32\rpcss".CoGetComCatalog
+  GetRPCSSInfo="C:\Windows\System32\rpcss".GetRPCSSInfo
+  ServiceMain="C:\Windows\System32\rpcss".ServiceMain
+  WhichService="C:\Windows\System32\rpcss".WhichService

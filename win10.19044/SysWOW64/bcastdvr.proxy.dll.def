@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\bcastdvr.proxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\bcastdvr.proxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\bcastdvr.proxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\bcastdvr.proxy".DllUnregisterServer

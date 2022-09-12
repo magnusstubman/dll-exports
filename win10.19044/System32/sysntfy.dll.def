@@ -1,0 +1,3 @@
+EXPORTS
+  SysNotifyStartServer="C:\Windows\System32\sysntfy".SysNotifyStartServer
+  SysNotifyStopServer="C:\Windows\System32\sysntfy".SysNotifyStopServer

@@ -1,0 +1,18 @@
+EXPORTS
+  BluetoothCloseNetworkHandle="C:\Windows\System32\bthpanapi".BluetoothCloseNetworkHandle
+  BluetoothConnectToNetwork="C:\Windows\System32\bthpanapi".BluetoothConnectToNetwork
+  BluetoothCreateNetworkHandle="C:\Windows\System32\bthpanapi".BluetoothCreateNetworkHandle
+  BluetoothDisconnectFromNetwork="C:\Windows\System32\bthpanapi".BluetoothDisconnectFromNetwork
+  BluetoothDuplicateNetworkHandle="C:\Windows\System32\bthpanapi".BluetoothDuplicateNetworkHandle
+  BluetoothFindFirstNetwork="C:\Windows\System32\bthpanapi".BluetoothFindFirstNetwork
+  BluetoothFindNetworkClose="C:\Windows\System32\bthpanapi".BluetoothFindNetworkClose
+  BluetoothFindNextNetwork="C:\Windows\System32\bthpanapi".BluetoothFindNextNetwork
+  BluetoothGetIncompleteConnectedNetworkHandle="C:\Windows\System32\bthpanapi".BluetoothGetIncompleteConnectedNetworkHandle
+  BluetoothGetNetworkAddress="C:\Windows\System32\bthpanapi".BluetoothGetNetworkAddress
+  BluetoothGetNetworkAvailableRoles="C:\Windows\System32\bthpanapi".BluetoothGetNetworkAvailableRoles
+  BluetoothGetNetworkContainerId="C:\Windows\System32\bthpanapi".BluetoothGetNetworkContainerId
+  BluetoothGetNetworkInterfaceId="C:\Windows\System32\bthpanapi".BluetoothGetNetworkInterfaceId
+  BluetoothGetNetworkName="C:\Windows\System32\bthpanapi".BluetoothGetNetworkName
+  BluetoothGetNetworkStatus="C:\Windows\System32\bthpanapi".BluetoothGetNetworkStatus
+  BluetoothRegisterNetworkNotifications="C:\Windows\System32\bthpanapi".BluetoothRegisterNetworkNotifications
+  BluetoothUnregisterNetworkNotifications="C:\Windows\System32\bthpanapi".BluetoothUnregisterNetworkNotifications

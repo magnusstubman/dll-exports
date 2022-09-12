@@ -1,0 +1,18 @@
+EXPORTS
+  AddDevice="C:\Windows\System32\sti_ci".AddDevice
+  ClassInstall="C:\Windows\System32\sti_ci".ClassInstall
+  CoinstallerEntry="C:\Windows\System32\sti_ci".CoinstallerEntry
+  CreateWiaDeviceList="C:\Windows\System32\sti_ci".CreateWiaDeviceList
+  DestroyWiaDeviceList="C:\Windows\System32\sti_ci".DestroyWiaDeviceList
+  DisableWiaDevice="C:\Windows\System32\sti_ci".DisableWiaDevice
+  EnableWiaDevice="C:\Windows\System32\sti_ci".EnableWiaDevice
+  GetWiaDeviceProperty="C:\Windows\System32\sti_ci".GetWiaDeviceProperty
+  InstallWiaDevice="C:\Windows\System32\sti_ci".InstallWiaDevice
+  InstallWiaService="C:\Windows\System32\sti_ci".InstallWiaService
+  SetWiaDeviceProperty="C:\Windows\System32\sti_ci".SetWiaDeviceProperty
+  UninstallWiaDevice="C:\Windows\System32\sti_ci".UninstallWiaDevice
+  WiaAddDevice="C:\Windows\System32\sti_ci".WiaAddDevice
+  WiaCreatePortList="C:\Windows\System32\sti_ci".WiaCreatePortList
+  WiaDestroyPortList="C:\Windows\System32\sti_ci".WiaDestroyPortList
+  WiaDeviceEnum="C:\Windows\System32\sti_ci".WiaDeviceEnum
+  WiaRemoveDevice="C:\Windows\System32\sti_ci".WiaRemoveDevice

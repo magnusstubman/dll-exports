@@ -1,0 +1,24 @@
+EXPORTS
+  EapTls_SaveUserCredentials="C:\Windows\SysWOW64\rastls".EapTls_SaveUserCredentials
+  RasEapCreateConnectionProperties="C:\Windows\SysWOW64\rastls".RasEapCreateConnectionProperties
+  RasEapCreateConnectionProperties2="C:\Windows\SysWOW64\rastls".RasEapCreateConnectionProperties2
+  RasEapCreateConnectionPropertiesXml="C:\Windows\SysWOW64\rastls".RasEapCreateConnectionPropertiesXml
+  RasEapCreateMethodConfiguration="C:\Windows\SysWOW64\rastls".RasEapCreateMethodConfiguration
+  RasEapCreateUserProperties="C:\Windows\SysWOW64\rastls".RasEapCreateUserProperties
+  RasEapCreateUserProperties2="C:\Windows\SysWOW64\rastls".RasEapCreateUserProperties2
+  RasEapFreeMemory="C:\Windows\SysWOW64\rastls".RasEapFreeMemory
+  RasEapGetConfigBlobAndUserBlob="C:\Windows\SysWOW64\rastls".RasEapGetConfigBlobAndUserBlob
+  RasEapGetCredentials="C:\Windows\SysWOW64\rastls".RasEapGetCredentials
+  RasEapGetIdentity="C:\Windows\SysWOW64\rastls".RasEapGetIdentity
+  RasEapGetIdentityPageGuid="C:\Windows\SysWOW64\rastls".RasEapGetIdentityPageGuid
+  RasEapGetInfo="C:\Windows\SysWOW64\rastls".RasEapGetInfo
+  RasEapGetMethodProperties="C:\Windows\SysWOW64\rastls".RasEapGetMethodProperties
+  RasEapGetNextPageGuid="C:\Windows\SysWOW64\rastls".RasEapGetNextPageGuid
+  RasEapInvokeConfigUI="C:\Windows\SysWOW64\rastls".RasEapInvokeConfigUI
+  RasEapInvokeInteractiveUI="C:\Windows\SysWOW64\rastls".RasEapInvokeInteractiveUI
+  RasEapQueryCredentialInputFields="C:\Windows\SysWOW64\rastls".RasEapQueryCredentialInputFields
+  RasEapQueryInteractiveUIInputFields="C:\Windows\SysWOW64\rastls".RasEapQueryInteractiveUIInputFields
+  RasEapQueryUIBlobFromInteractiveUIInputFields="C:\Windows\SysWOW64\rastls".RasEapQueryUIBlobFromInteractiveUIInputFields
+  RasEapQueryUserBlobFromCredentialInputFields="C:\Windows\SysWOW64\rastls".RasEapQueryUserBlobFromCredentialInputFields
+  RasEapSetRetryFlag="C:\Windows\SysWOW64\rastls".RasEapSetRetryFlag
+  RasEapUpdateServerConfig="C:\Windows\SysWOW64\rastls".RasEapUpdateServerConfig

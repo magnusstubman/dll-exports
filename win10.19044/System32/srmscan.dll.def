@@ -1,0 +1,11 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\srmscan".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\srmscan".DllGetClassObject
+  SrmCalculateCrcHash="C:\Windows\System32\srmscan".SrmCalculateCrcHash
+  SrmCreateOrDeleteNotificationScheduledTask="C:\Windows\System32\srmscan".SrmCreateOrDeleteNotificationScheduledTask
+  SrmEnsureSystemVolumeInformationFolder="C:\Windows\System32\srmscan".SrmEnsureSystemVolumeInformationFolder
+  SrmIsInCluster="C:\Windows\System32\srmscan".SrmIsInCluster
+  SrmIsNameInExpression="C:\Windows\System32\srmscan".SrmIsNameInExpression
+  SrmLocalFileTimeToUtcFileTime="C:\Windows\System32\srmscan".SrmLocalFileTimeToUtcFileTime
+  SrmUtcFileTimeToLocalFileTime="C:\Windows\System32\srmscan".SrmUtcFileTimeToLocalFileTime
+  SrmValidateNamespaceRoots="C:\Windows\System32\srmscan".SrmValidateNamespaceRoots

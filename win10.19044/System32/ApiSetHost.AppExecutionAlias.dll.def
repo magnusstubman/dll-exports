@@ -1,0 +1,21 @@
+EXPORTS
+  CheckAppExecutionAliasApplicationType="C:\Windows\System32\ApiSetHost.AppExecutionAlias".CheckAppExecutionAliasApplicationType
+  CloseAppExecutionAliasEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".CloseAppExecutionAliasEx
+  CompleteAppExecutionAliasProcessCreationEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".CompleteAppExecutionAliasProcessCreationEx
+  CreateAppExecutionAliasEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".CreateAppExecutionAliasEx
+  CreateAppExecutionAliasEx2="C:\Windows\System32\ApiSetHost.AppExecutionAlias".CreateAppExecutionAliasEx2
+  DllCanUnloadNow="C:\Windows\System32\ApiSetHost.AppExecutionAlias".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ApiSetHost.AppExecutionAlias".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\ApiSetHost.AppExecutionAlias".DllGetClassObject
+  FreeAppExecutionAliasInfoEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".FreeAppExecutionAliasInfoEx
+  GetAppExecutionAliasApplicationType="C:\Windows\System32\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasApplicationType
+  GetAppExecutionAliasApplicationUserModelIdEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasApplicationUserModelIdEx
+  GetAppExecutionAliasExecutableEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasExecutableEx
+  GetAppExecutionAliasPackageFamilyNameEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasPackageFamilyNameEx
+  GetAppExecutionAliasPackageFullNameEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasPackageFullNameEx
+  GetAppExecutionAliasPath="C:\Windows\System32\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasPath
+  LoadAppExecutionAliasInfoEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".LoadAppExecutionAliasInfoEx
+  OpenAppExecutionAliasForUserEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".OpenAppExecutionAliasForUserEx
+  PerformAppxLicenseRundownEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".PerformAppxLicenseRundownEx
+  PersistAppExecutionAliasToFileEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".PersistAppExecutionAliasToFileEx
+  PersistAppExecutionAliasToFileHandleEx="C:\Windows\System32\ApiSetHost.AppExecutionAlias".PersistAppExecutionAliasToFileHandleEx

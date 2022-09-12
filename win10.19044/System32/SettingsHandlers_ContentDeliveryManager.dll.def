@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_ContentDeliveryManager".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_ContentDeliveryManager".DllGetClassObject
+  GetSetting="C:\Windows\System32\SettingsHandlers_ContentDeliveryManager".GetSetting

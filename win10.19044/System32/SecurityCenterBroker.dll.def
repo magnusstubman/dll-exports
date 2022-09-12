@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SecurityCenterBroker".DllCanUnloadNow
+  DllMain="C:\Windows\System32\SecurityCenterBroker".DllMain
+  RegisterSecurityCenterBroker="C:\Windows\System32\SecurityCenterBroker".RegisterSecurityCenterBroker
+  UnregisterSecurityCenterBroker="C:\Windows\System32\SecurityCenterBroker".UnregisterSecurityCenterBroker

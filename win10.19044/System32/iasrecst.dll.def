@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\iasrecst".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\iasrecst".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\iasrecst".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\iasrecst".DllUnregisterServer

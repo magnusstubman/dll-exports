@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MFPlay".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MFPlay".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\MFPlay".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\MFPlay".DllUnregisterServer
+  MFPCreateMediaPlayer="C:\Windows\SysWOW64\MFPlay".MFPCreateMediaPlayer
+  MFPCreateMediaPlayerEx="C:\Windows\SysWOW64\MFPlay".MFPCreateMediaPlayerEx

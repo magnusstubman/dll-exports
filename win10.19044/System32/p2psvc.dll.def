@@ -1,0 +1,4 @@
+EXPORTS
+  GroupServiceMain="C:\Windows\System32\p2psvc".GroupServiceMain
+  InitSecurityInterfaceW="C:\Windows\System32\p2psvc".InitSecurityInterfaceW
+  SvchostPushServiceGlobals="C:\Windows\System32\p2psvc".SvchostPushServiceGlobals

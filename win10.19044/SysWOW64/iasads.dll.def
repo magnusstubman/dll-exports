@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\iasads".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\iasads".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\iasads".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\iasads".DllUnregisterServer

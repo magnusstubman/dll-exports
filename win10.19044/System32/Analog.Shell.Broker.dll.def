@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Analog.Shell.Broker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Analog.Shell.Broker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Analog.Shell.Broker".DllGetClassObject
+  DllMain="C:\Windows\System32\Analog.Shell.Broker".DllMain
+  DllRegisterServer="C:\Windows\System32\Analog.Shell.Broker".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Analog.Shell.Broker".DllUnregisterServer

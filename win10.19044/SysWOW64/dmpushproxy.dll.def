@@ -1,0 +1,9 @@
+EXPORTS
+  PushRouter_Close="C:\Windows\SysWOW64\dmpushproxy".PushRouter_Close
+  PushRouter_FreeGetMessageEventName="C:\Windows\SysWOW64\dmpushproxy".PushRouter_FreeGetMessageEventName
+  PushRouter_FreeMessage="C:\Windows\SysWOW64\dmpushproxy".PushRouter_FreeMessage
+  PushRouter_FreeMessageEx="C:\Windows\SysWOW64\dmpushproxy".PushRouter_FreeMessageEx
+  PushRouter_GetMessage="C:\Windows\SysWOW64\dmpushproxy".PushRouter_GetMessage
+  PushRouter_GetMessageEx="C:\Windows\SysWOW64\dmpushproxy".PushRouter_GetMessageEx
+  PushRouter_Open="C:\Windows\SysWOW64\dmpushproxy".PushRouter_Open
+  PushRouter_SubmitPush="C:\Windows\SysWOW64\dmpushproxy".PushRouter_SubmitPush

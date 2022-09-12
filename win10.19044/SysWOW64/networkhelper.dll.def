@@ -1,0 +1,15 @@
+EXPORTS
+  CHttpTransport_CreateInstance="C:\Windows\SysWOW64\networkhelper".CHttpTransport_CreateInstance
+  CheckPdcRenewal="C:\Windows\SysWOW64\networkhelper".CheckPdcRenewal
+  CreateControlChannelTriggerConnectionManager="C:\Windows\SysWOW64\networkhelper".CreateControlChannelTriggerConnectionManager
+  GetOrCreateNullPowerDependencyCoordinatorManager="C:\Windows\SysWOW64\networkhelper".GetOrCreateNullPowerDependencyCoordinatorManager
+  GetSerializedAppMetadata="C:\Windows\SysWOW64\networkhelper".GetSerializedAppMetadata
+  InitializePowerDependencyCoordinatorManager="C:\Windows\SysWOW64\networkhelper".InitializePowerDependencyCoordinatorManager
+  IsNetworkConnectionCostRestricted="C:\Windows\SysWOW64\networkhelper".IsNetworkConnectionCostRestricted
+  ProgressStatus="C:\Windows\SysWOW64\networkhelper".ProgressStatus
+  ReleasePowerDependencyCoordinatorManager="C:\Windows\SysWOW64\networkhelper".ReleasePowerDependencyCoordinatorManager
+  ReportSyncProgress="C:\Windows\SysWOW64\networkhelper".ReportSyncProgress
+  SyncPdcReference_WatchdogReport="C:\Windows\SysWOW64\networkhelper".SyncPdcReference_WatchdogReport
+  SyncPdcReference_WatchdogsEnabled="C:\Windows\SysWOW64\networkhelper".SyncPdcReference_WatchdogsEnabled
+  SyncWerReportComponentName="C:\Windows\SysWOW64\networkhelper".SyncWerReportComponentName
+  SyncWerReportGenerator="C:\Windows\SysWOW64\networkhelper".SyncWerReportGenerator

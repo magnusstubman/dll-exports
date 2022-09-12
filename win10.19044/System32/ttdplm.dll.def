@@ -1,0 +1,6 @@
+EXPORTS
+  CreateModernAppToDelete="C:\Windows\System32\ttdplm".CreateModernAppToDelete
+  CreateModernAppToTrace="C:\Windows\System32\ttdplm".CreateModernAppToTrace
+  GetMaxPackageNameLength="C:\Windows\System32\ttdplm".GetMaxPackageNameLength
+  GetPackageFromPid="C:\Windows\System32\ttdplm".GetPackageFromPid
+  SetPermisionsForFolder="C:\Windows\System32\ttdplm".SetPermisionsForFolder

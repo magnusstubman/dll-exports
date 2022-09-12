@@ -1,0 +1,2 @@
+EXPORTS
+  IsDeviceEnrolled="C:\Windows\SysWOW64\enrollmentapi".IsDeviceEnrolled

@@ -1,0 +1,12 @@
+EXPORTS
+  InitializePushRouter="C:\Windows\System32\DMPushRouterCore".InitializePushRouter
+  PrAreAllClientsHandled="C:\Windows\System32\DMPushRouterCore".PrAreAllClientsHandled
+  PrSvcDecMessageCount="C:\Windows\System32\DMPushRouterCore".PrSvcDecMessageCount
+  PrSvcGetMessageCount="C:\Windows\System32\DMPushRouterCore".PrSvcGetMessageCount
+  PrSvcIncMessageCount="C:\Windows\System32\DMPushRouterCore".PrSvcIncMessageCount
+  PrSvcSetMessageCount="C:\Windows\System32\DMPushRouterCore".PrSvcSetMessageCount
+  PushRouter_SubmitPushLocal="C:\Windows\System32\DMPushRouterCore".PushRouter_SubmitPushLocal
+  RegisterRPCInterface="C:\Windows\System32\DMPushRouterCore".RegisterRPCInterface
+  ShutDownPushRouter="C:\Windows\System32\DMPushRouterCore".ShutDownPushRouter
+  ShutDownPushRouterSynchronously="C:\Windows\System32\DMPushRouterCore".ShutDownPushRouterSynchronously
+  UnregisterRPCInterface="C:\Windows\System32\DMPushRouterCore".UnregisterRPCInterface

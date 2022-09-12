@@ -1,0 +1,6 @@
+EXPORTS
+  WSManPluginShutdown="C:\Windows\SysWOW64\wevtfwd".WSManPluginShutdown
+  WSManPluginStartup="C:\Windows\SysWOW64\wevtfwd".WSManPluginStartup
+  WSManProvPullEvents="C:\Windows\SysWOW64\wevtfwd".WSManProvPullEvents
+  WSManProvSubscribe="C:\Windows\SysWOW64\wevtfwd".WSManProvSubscribe
+  WSManProvUnsubscribe="C:\Windows\SysWOW64\wevtfwd".WSManProvUnsubscribe

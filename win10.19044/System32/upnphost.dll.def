@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\upnphost".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\upnphost".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\upnphost".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\upnphost".DllUnregisterServer
+  ServiceMain="C:\Windows\System32\upnphost".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\upnphost".SvchostPushServiceGlobals

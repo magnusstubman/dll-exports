@@ -1,0 +1,18 @@
+EXPORTS
+  AddMIMEFileTypesPS="C:\Windows\System32\url".AddMIMEFileTypesPS
+  AutodialHookCallback="C:\Windows\System32\url".AutodialHookCallback
+  FileProtocolHandler="C:\Windows\System32\url".FileProtocolHandler
+  FileProtocolHandlerA="C:\Windows\System32\url".FileProtocolHandlerA
+  InetIsOffline="C:\Windows\System32\url".InetIsOffline
+  MIMEAssociationDialogA="C:\Windows\System32\url".MIMEAssociationDialogA
+  MIMEAssociationDialogW="C:\Windows\System32\url".MIMEAssociationDialogW
+  MailToProtocolHandler="C:\Windows\System32\url".MailToProtocolHandler
+  MailToProtocolHandlerA="C:\Windows\System32\url".MailToProtocolHandlerA
+  OpenURL="C:\Windows\System32\url".OpenURL
+  OpenURLA="C:\Windows\System32\url".OpenURLA
+  TelnetProtocolHandler="C:\Windows\System32\url".TelnetProtocolHandler
+  TelnetProtocolHandlerA="C:\Windows\System32\url".TelnetProtocolHandlerA
+  TranslateURLA="C:\Windows\System32\url".TranslateURLA
+  TranslateURLW="C:\Windows\System32\url".TranslateURLW
+  URLAssociationDialogA="C:\Windows\System32\url".URLAssociationDialogA
+  URLAssociationDialogW="C:\Windows\System32\url".URLAssociationDialogW

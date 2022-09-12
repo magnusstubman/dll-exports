@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\pnpclean".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\pnpclean".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\pnpclean".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\pnpclean".DllUnregisterServer
+  RunDLL_PnpClean="C:\Windows\System32\pnpclean".RunDLL_PnpClean

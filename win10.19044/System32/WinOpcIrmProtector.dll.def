@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WinOpcIrmProtector".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WinOpcIrmProtector".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WinOpcIrmProtector".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WinOpcIrmProtector".DllUnregisterServer

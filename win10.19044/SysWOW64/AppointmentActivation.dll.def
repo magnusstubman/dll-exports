@@ -1,0 +1,27 @@
+EXPORTS
+  AwaitAppointmentActivation="C:\Windows\SysWOW64\AppointmentActivation".AwaitAppointmentActivation
+  DeserializeActivationArgs="C:\Windows\SysWOW64\AppointmentActivation".DeserializeActivationArgs
+  DeserializeAppointment="C:\Windows\SysWOW64\AppointmentActivation".DeserializeAppointment
+  DllCanUnloadNow="C:\Windows\SysWOW64\AppointmentActivation".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\AppointmentActivation".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\AppointmentActivation".DllGetClassObject
+  GetAddAppointmentArgument="C:\Windows\SysWOW64\AppointmentActivation".GetAddAppointmentArgument
+  GetCalendarChooserArgument="C:\Windows\SysWOW64\AppointmentActivation".GetCalendarChooserArgument
+  GetLegacyAppointmentDetailsArgumentString="C:\Windows\SysWOW64\AppointmentActivation".GetLegacyAppointmentDetailsArgumentString
+  GetProxyDllInfo="C:\Windows\SysWOW64\AppointmentActivation".GetProxyDllInfo
+  GetRemoveAppointmentArgument="C:\Windows\SysWOW64\AppointmentActivation".GetRemoveAppointmentArgument
+  GetReplaceAppointmentArgument="C:\Windows\SysWOW64\AppointmentActivation".GetReplaceAppointmentArgument
+  GetWindowIdOfHost="C:\Windows\SysWOW64\AppointmentActivation".GetWindowIdOfHost
+  ReleaseActivationArgs="C:\Windows\SysWOW64\AppointmentActivation".ReleaseActivationArgs
+  SerializeAppointmentIdsResult="C:\Windows\SysWOW64\AppointmentActivation".SerializeAppointmentIdsResult
+  SerializeCalendarIdResult="C:\Windows\SysWOW64\AppointmentActivation".SerializeCalendarIdResult
+  ShowAddAppointment="C:\Windows\SysWOW64\AppointmentActivation".ShowAddAppointment
+  ShowAddAppointmentAsync="C:\Windows\SysWOW64\AppointmentActivation".ShowAddAppointmentAsync
+  ShowAppointmentDetails="C:\Windows\SysWOW64\AppointmentActivation".ShowAppointmentDetails
+  ShowCalendarChooser="C:\Windows\SysWOW64\AppointmentActivation".ShowCalendarChooser
+  ShowCalendarChooserAsync="C:\Windows\SysWOW64\AppointmentActivation".ShowCalendarChooserAsync
+  ShowRemoveAppointment="C:\Windows\SysWOW64\AppointmentActivation".ShowRemoveAppointment
+  ShowRemoveAppointmentAsync="C:\Windows\SysWOW64\AppointmentActivation".ShowRemoveAppointmentAsync
+  ShowReplaceAppointment="C:\Windows\SysWOW64\AppointmentActivation".ShowReplaceAppointment
+  ShowReplaceAppointmentAsync="C:\Windows\SysWOW64\AppointmentActivation".ShowReplaceAppointmentAsync
+  ShowTimeFrame="C:\Windows\SysWOW64\AppointmentActivation".ShowTimeFrame

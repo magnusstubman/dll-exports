@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\HvsiManagementApi".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\HvsiManagementApi".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\HvsiManagementApi".DllGetClassObject

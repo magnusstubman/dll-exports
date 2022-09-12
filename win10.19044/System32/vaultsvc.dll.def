@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\vaultsvc".ServiceMain
+  VaultSvcStopCallback="C:\Windows\System32\vaultsvc".VaultSvcStopCallback

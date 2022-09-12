@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_Region".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_Region".DllGetClassObject
+  GetSetting="C:\Windows\System32\SettingsHandlers_Region".GetSetting

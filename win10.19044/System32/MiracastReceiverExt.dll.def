@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MiracastReceiverExt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MiracastReceiverExt".DllGetClassObject
+  DllMain="C:\Windows\System32\MiracastReceiverExt".DllMain
+  GetPlatformSpecificLockScreenAppLauncher="C:\Windows\System32\MiracastReceiverExt".GetPlatformSpecificLockScreenAppLauncher
+  IsLockScreenActive="C:\Windows\System32\MiracastReceiverExt".IsLockScreenActive

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\upnp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\upnp".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\upnp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\upnp".DllUnregisterServer
+  HrRehydratorCreateServiceObject="C:\Windows\SysWOW64\upnp".HrRehydratorCreateServiceObject

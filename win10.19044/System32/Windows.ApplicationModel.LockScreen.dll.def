@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.ApplicationModel.LockScreen".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.ApplicationModel.LockScreen".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.ApplicationModel.LockScreen".DllGetClassObject

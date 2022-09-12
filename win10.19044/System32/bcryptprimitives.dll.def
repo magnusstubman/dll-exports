@@ -1,0 +1,11 @@
+EXPORTS
+  GetAsymmetricEncryptionInterface="C:\Windows\System32\bcryptprimitives".GetAsymmetricEncryptionInterface
+  GetCipherInterface="C:\Windows\System32\bcryptprimitives".GetCipherInterface
+  GetHashInterface="C:\Windows\System32\bcryptprimitives".GetHashInterface
+  GetKeyDerivationInterface="C:\Windows\System32\bcryptprimitives".GetKeyDerivationInterface
+  GetRngInterface="C:\Windows\System32\bcryptprimitives".GetRngInterface
+  GetSecretAgreementInterface="C:\Windows\System32\bcryptprimitives".GetSecretAgreementInterface
+  GetSignatureInterface="C:\Windows\System32\bcryptprimitives".GetSignatureInterface
+  MSCryptConvertRsaPrivateBlobToFullRsaBlob="C:\Windows\System32\bcryptprimitives".MSCryptConvertRsaPrivateBlobToFullRsaBlob
+  ProcessPrng="C:\Windows\System32\bcryptprimitives".ProcessPrng
+  ProcessPrngGuid="C:\Windows\System32\bcryptprimitives".ProcessPrngGuid

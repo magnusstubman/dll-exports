@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CredDialogBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\CredDialogBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\CredDialogBroker".DllGetClassObject

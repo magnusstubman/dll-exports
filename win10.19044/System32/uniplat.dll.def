@@ -1,0 +1,27 @@
+EXPORTS
+  AllocateOverStructEx="C:\Windows\System32\uniplat".AllocateOverStructEx
+  CallBeginning="C:\Windows\System32\uniplat".CallBeginning
+  CallEnding="C:\Windows\System32\uniplat".CallEnding
+  CancelUnimodemTimer="C:\Windows\System32\uniplat".CancelUnimodemTimer
+  CreateOverStructPool="C:\Windows\System32\uniplat".CreateOverStructPool
+  CreateUnimodemTimer="C:\Windows\System32\uniplat".CreateUnimodemTimer
+  DestroyOverStructPool="C:\Windows\System32\uniplat".DestroyOverStructPool
+  FreeOverStruct="C:\Windows\System32\uniplat".FreeOverStruct
+  FreeUnimodemTimer="C:\Windows\System32\uniplat".FreeUnimodemTimer
+  MonitorHandle="C:\Windows\System32\uniplat".MonitorHandle
+  ReinitOverStruct="C:\Windows\System32\uniplat".ReinitOverStruct
+  ResetCallCount="C:\Windows\System32\uniplat".ResetCallCount
+  SetUnimodemTimer="C:\Windows\System32\uniplat".SetUnimodemTimer
+  StartMonitorThread="C:\Windows\System32\uniplat".StartMonitorThread
+  StopMonitorThread="C:\Windows\System32\uniplat".StopMonitorThread
+  StopMonitoringHandle="C:\Windows\System32\uniplat".StopMonitoringHandle
+  SyncDeviceIoControl="C:\Windows\System32\uniplat".SyncDeviceIoControl
+  UmPlatformDeinitialize="C:\Windows\System32\uniplat".UmPlatformDeinitialize
+  UmPlatformInitialize="C:\Windows\System32\uniplat".UmPlatformInitialize
+  UnimodemDeviceIoControlEx="C:\Windows\System32\uniplat".UnimodemDeviceIoControlEx
+  UnimodemNotifyTSP="C:\Windows\System32\uniplat".UnimodemNotifyTSP
+  UnimodemQueueUserAPC="C:\Windows\System32\uniplat".UnimodemQueueUserAPC
+  UnimodemReadFileEx="C:\Windows\System32\uniplat".UnimodemReadFileEx
+  UnimodemWaitCommEventEx="C:\Windows\System32\uniplat".UnimodemWaitCommEventEx
+  UnimodemWriteFileEx="C:\Windows\System32\uniplat".UnimodemWriteFileEx
+  WinntIsWorkstation="C:\Windows\System32\uniplat".WinntIsWorkstation

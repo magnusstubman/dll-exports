@@ -1,0 +1,11 @@
+EXPORTS
+  UirGetScreenComment="C:\Windows\System32\uireng".UirGetScreenComment
+  UirInitializeEngine="C:\Windows\System32\uireng".UirInitializeEngine
+  UirIsRecordingActive="C:\Windows\System32\uireng".UirIsRecordingActive
+  UirOutCreateOutputFile="C:\Windows\System32\uireng".UirOutCreateOutputFile
+  UirPauseRecordingSession="C:\Windows\System32\uireng".UirPauseRecordingSession
+  UirResumeRecordingSession="C:\Windows\System32\uireng".UirResumeRecordingSession
+  UirStartRecordingSession="C:\Windows\System32\uireng".UirStartRecordingSession
+  UirStopRecordingSession="C:\Windows\System32\uireng".UirStopRecordingSession
+  UirUninitializeEngine="C:\Windows\System32\uireng".UirUninitializeEngine
+  UirUpdateRecordingSession="C:\Windows\System32\uireng".UirUpdateRecordingSession

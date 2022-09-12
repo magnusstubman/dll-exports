@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DXP".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DXP".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\DXP".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\DXP".DllUnregisterServer

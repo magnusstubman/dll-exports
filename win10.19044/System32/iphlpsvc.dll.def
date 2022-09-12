@@ -1,0 +1,4 @@
+EXPORTS
+  IphlpsvcSysprepGeneralize="C:\Windows\System32\iphlpsvc".IphlpsvcSysprepGeneralize
+  ServiceMain="C:\Windows\System32\iphlpsvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\iphlpsvc".SvchostPushServiceGlobals

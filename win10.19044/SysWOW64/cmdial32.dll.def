@@ -1,0 +1,14 @@
+EXPORTS
+  AutoDialFunc="C:\Windows\SysWOW64\cmdial32".AutoDialFunc
+  CmCustomDialDlg="C:\Windows\SysWOW64\cmdial32".CmCustomDialDlg
+  CmCustomHangUp="C:\Windows\SysWOW64\cmdial32".CmCustomHangUp
+  CmReConnect="C:\Windows\SysWOW64\cmdial32".CmReConnect
+  GetCustomProperty="C:\Windows\SysWOW64\cmdial32".GetCustomProperty
+  InetDialHandler="C:\Windows\SysWOW64\cmdial32".InetDialHandler
+  RasCustomDeleteEntryNotify="C:\Windows\SysWOW64\cmdial32".RasCustomDeleteEntryNotify
+  RasCustomDial="C:\Windows\SysWOW64\cmdial32".RasCustomDial
+  RasCustomDialDlg="C:\Windows\SysWOW64\cmdial32".RasCustomDialDlg
+  RasCustomEntryDlg="C:\Windows\SysWOW64\cmdial32".RasCustomEntryDlg
+  RasCustomHangUp="C:\Windows\SysWOW64\cmdial32".RasCustomHangUp
+  _AutoDialFunc@16="C:\Windows\SysWOW64\cmdial32"._AutoDialFunc@16
+  _InetDialHandler@16="C:\Windows\SysWOW64\cmdial32"._InetDialHandler@16

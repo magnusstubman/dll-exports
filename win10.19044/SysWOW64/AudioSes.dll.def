@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AudioSes".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\AudioSes".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\AudioSes".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\AudioSes".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\AudioSes".DllUnregisterServer

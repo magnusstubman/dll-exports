@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\PortableDeviceTypes".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\PortableDeviceTypes".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\PortableDeviceTypes".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\PortableDeviceTypes".DllUnregisterServer

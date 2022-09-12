@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CallButtons.ProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\CallButtons.ProxyStub".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\CallButtons.ProxyStub".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\CallButtons.ProxyStub".DllUnregisterServer

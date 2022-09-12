@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\rdpendp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\rdpendp".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\rdpendp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\rdpendp".DllUnregisterServer
+  GetTSAudioEndpointEnumeratorForSession="C:\Windows\SysWOW64\rdpendp".GetTSAudioEndpointEnumeratorForSession

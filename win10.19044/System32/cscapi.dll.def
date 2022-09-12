@@ -1,0 +1,8 @@
+EXPORTS
+  CscNetApiGetInterface="C:\Windows\System32\cscapi".CscNetApiGetInterface
+  CscSearchApiGetInterface="C:\Windows\System32\cscapi".CscSearchApiGetInterface
+  OfflineFilesEnable="C:\Windows\System32\cscapi".OfflineFilesEnable
+  OfflineFilesGetShareCachingMode="C:\Windows\System32\cscapi".OfflineFilesGetShareCachingMode
+  OfflineFilesQueryStatus="C:\Windows\System32\cscapi".OfflineFilesQueryStatus
+  OfflineFilesQueryStatusEx="C:\Windows\System32\cscapi".OfflineFilesQueryStatusEx
+  OfflineFilesStart="C:\Windows\System32\cscapi".OfflineFilesStart

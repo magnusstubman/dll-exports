@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Networking.ServiceDiscovery.Dnssd".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Networking.ServiceDiscovery.Dnssd".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Networking.ServiceDiscovery.Dnssd".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.Networking.ServiceDiscovery.Dnssd".GetProxyDllInfo

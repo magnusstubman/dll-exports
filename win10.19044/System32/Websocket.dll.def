@@ -1,0 +1,14 @@
+EXPORTS
+  WebSocketAbortHandle="C:\Windows\System32\Websocket".WebSocketAbortHandle
+  WebSocketBeginClientHandshake="C:\Windows\System32\Websocket".WebSocketBeginClientHandshake
+  WebSocketBeginServerHandshake="C:\Windows\System32\Websocket".WebSocketBeginServerHandshake
+  WebSocketCompleteAction="C:\Windows\System32\Websocket".WebSocketCompleteAction
+  WebSocketCreateClientHandle="C:\Windows\System32\Websocket".WebSocketCreateClientHandle
+  WebSocketCreateServerHandle="C:\Windows\System32\Websocket".WebSocketCreateServerHandle
+  WebSocketDeleteHandle="C:\Windows\System32\Websocket".WebSocketDeleteHandle
+  WebSocketEndClientHandshake="C:\Windows\System32\Websocket".WebSocketEndClientHandshake
+  WebSocketEndServerHandshake="C:\Windows\System32\Websocket".WebSocketEndServerHandshake
+  WebSocketGetAction="C:\Windows\System32\Websocket".WebSocketGetAction
+  WebSocketGetGlobalProperty="C:\Windows\System32\Websocket".WebSocketGetGlobalProperty
+  WebSocketReceive="C:\Windows\System32\Websocket".WebSocketReceive
+  WebSocketSend="C:\Windows\System32\Websocket".WebSocketSend

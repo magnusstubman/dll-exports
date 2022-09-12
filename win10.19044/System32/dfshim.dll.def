@@ -1,0 +1,21 @@
+EXPORTS
+  CleanOnlineAppCache="C:\Windows\System32\dfshim".CleanOnlineAppCache
+  CreateActContext="C:\Windows\System32\dfshim".CreateActContext
+  CreateCMSFromXml="C:\Windows\System32\dfshim".CreateCMSFromXml
+  DllCanUnloadNow="C:\Windows\System32\dfshim".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dfshim".DllGetClassObject
+  GetCurrentActContext="C:\Windows\System32\dfshim".GetCurrentActContext
+  GetDeploymentDataFromManifest="C:\Windows\System32\dfshim".GetDeploymentDataFromManifest
+  GetUserStateManager="C:\Windows\System32\dfshim".GetUserStateManager
+  GetUserStore="C:\Windows\System32\dfshim".GetUserStore
+  KillService="C:\Windows\System32\dfshim".KillService
+  LaunchApplication="C:\Windows\System32\dfshim".LaunchApplication
+  ParseManifest="C:\Windows\System32\dfshim".ParseManifest
+  ShArpMaintain="C:\Windows\System32\dfshim".ShArpMaintain
+  ShArpMaintainW="C:\Windows\System32\dfshim".ShArpMaintainW
+  ShOpenVerbApplication="C:\Windows\System32\dfshim".ShOpenVerbApplication
+  ShOpenVerbApplicationW="C:\Windows\System32\dfshim".ShOpenVerbApplicationW
+  ShOpenVerbExtension="C:\Windows\System32\dfshim".ShOpenVerbExtension
+  ShOpenVerbExtensionW="C:\Windows\System32\dfshim".ShOpenVerbExtensionW
+  ShOpenVerbShortcut="C:\Windows\System32\dfshim".ShOpenVerbShortcut
+  ShOpenVerbShortcutW="C:\Windows\System32\dfshim".ShOpenVerbShortcutW

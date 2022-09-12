@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CscMig".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\CscMig".DllGetClassObject
+  DllMain="C:\Windows\System32\CscMig".DllMain
+  DllRegisterServer="C:\Windows\System32\CscMig".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\CscMig".DllUnregisterServer

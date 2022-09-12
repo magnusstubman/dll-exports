@@ -1,0 +1,7 @@
+EXPORTS
+  NetDriverInstallClose="C:\Windows\System32\NetDriverInstall".NetDriverInstallClose
+  NetDriverInstallCommit="C:\Windows\System32\NetDriverInstall".NetDriverInstallCommit
+  NetDriverInstallInitialize="C:\Windows\System32\NetDriverInstall".NetDriverInstallInitialize
+  NetDriverInstallProcessAdditions="C:\Windows\System32\NetDriverInstall".NetDriverInstallProcessAdditions
+  NetDriverInstallProcessRemovals="C:\Windows\System32\NetDriverInstall".NetDriverInstallProcessRemovals
+  NetDriverInstallSync="C:\Windows\System32\NetDriverInstall".NetDriverInstallSync

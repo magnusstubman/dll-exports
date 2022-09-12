@@ -1,0 +1,16 @@
+EXPORTS
+  EapHostPeerConfigBlob2Xml="C:\Windows\System32\eappcfg".EapHostPeerConfigBlob2Xml
+  EapHostPeerConfigXml2Blob="C:\Windows\System32\eappcfg".EapHostPeerConfigXml2Blob
+  EapHostPeerCreateMethodConfiguration="C:\Windows\System32\eappcfg".EapHostPeerCreateMethodConfiguration
+  EapHostPeerCredentialsXml2Blob="C:\Windows\System32\eappcfg".EapHostPeerCredentialsXml2Blob
+  EapHostPeerFreeErrorMemory="C:\Windows\System32\eappcfg".EapHostPeerFreeErrorMemory
+  EapHostPeerFreeMemory="C:\Windows\System32\eappcfg".EapHostPeerFreeMemory
+  EapHostPeerGetMethodProperties="C:\Windows\System32\eappcfg".EapHostPeerGetMethodProperties
+  EapHostPeerGetMethods="C:\Windows\System32\eappcfg".EapHostPeerGetMethods
+  EapHostPeerInvokeConfigUI="C:\Windows\System32\eappcfg".EapHostPeerInvokeConfigUI
+  EapHostPeerInvokeIdentityUI="C:\Windows\System32\eappcfg".EapHostPeerInvokeIdentityUI
+  EapHostPeerInvokeInteractiveUI="C:\Windows\System32\eappcfg".EapHostPeerInvokeInteractiveUI
+  EapHostPeerQueryCredentialInputFields="C:\Windows\System32\eappcfg".EapHostPeerQueryCredentialInputFields
+  EapHostPeerQueryInteractiveUIInputFields="C:\Windows\System32\eappcfg".EapHostPeerQueryInteractiveUIInputFields
+  EapHostPeerQueryUIBlobFromInteractiveUIInputFields="C:\Windows\System32\eappcfg".EapHostPeerQueryUIBlobFromInteractiveUIInputFields
+  EapHostPeerQueryUserBlobFromCredentialInputFields="C:\Windows\System32\eappcfg".EapHostPeerQueryUserBlobFromCredentialInputFields

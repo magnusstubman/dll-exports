@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\XamlTileRender".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\XamlTileRender".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\XamlTileRender".DllGetClassObject

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dmwmicsp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dmwmicsp".DllGetClassObject
+  DllMain="C:\Windows\System32\dmwmicsp".DllMain

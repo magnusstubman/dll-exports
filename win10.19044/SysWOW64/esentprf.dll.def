@@ -1,0 +1,4 @@
+EXPORTS
+  ClosePerformanceData="C:\Windows\SysWOW64\esentprf".ClosePerformanceData
+  CollectPerformanceData="C:\Windows\SysWOW64\esentprf".CollectPerformanceData
+  OpenPerformanceData="C:\Windows\SysWOW64\esentprf".OpenPerformanceData

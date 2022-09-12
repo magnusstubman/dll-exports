@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\cdosys".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\cdosys".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\cdosys".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\cdosys".DllUnregisterServer

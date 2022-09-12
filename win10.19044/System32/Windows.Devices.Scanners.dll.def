@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.Scanners".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.Scanners".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.Scanners".DllGetClassObject

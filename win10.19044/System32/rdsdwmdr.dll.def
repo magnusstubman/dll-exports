@@ -1,0 +1,4 @@
+EXPORTS
+  DwmIndirectCreate="C:\Windows\System32\rdsdwmdr".DwmIndirectCreate
+  DwmIndirectOutput="C:\Windows\System32\rdsdwmdr".DwmIndirectOutput
+  DwmIndirectSetDebugFlag="C:\Windows\System32\rdsdwmdr".DwmIndirectSetDebugFlag

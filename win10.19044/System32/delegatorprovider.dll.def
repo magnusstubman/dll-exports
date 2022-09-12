@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\delegatorprovider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\delegatorprovider".DllGetClassObject
+  DllMain="C:\Windows\System32\delegatorprovider".DllMain

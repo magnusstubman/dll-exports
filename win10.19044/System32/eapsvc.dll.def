@@ -1,0 +1,2 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\eapsvc".ServiceMain

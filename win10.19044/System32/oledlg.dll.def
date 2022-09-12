@@ -1,0 +1,24 @@
+EXPORTS
+  OleUIAddVerbMenuA="C:\Windows\System32\oledlg".OleUIAddVerbMenuA
+  OleUIAddVerbMenuW="C:\Windows\System32\oledlg".OleUIAddVerbMenuW
+  OleUIBusyA="C:\Windows\System32\oledlg".OleUIBusyA
+  OleUIBusyW="C:\Windows\System32\oledlg".OleUIBusyW
+  OleUICanConvertOrActivateAs="C:\Windows\System32\oledlg".OleUICanConvertOrActivateAs
+  OleUIChangeIconA="C:\Windows\System32\oledlg".OleUIChangeIconA
+  OleUIChangeIconW="C:\Windows\System32\oledlg".OleUIChangeIconW
+  OleUIChangeSourceA="C:\Windows\System32\oledlg".OleUIChangeSourceA
+  OleUIChangeSourceW="C:\Windows\System32\oledlg".OleUIChangeSourceW
+  OleUIConvertA="C:\Windows\System32\oledlg".OleUIConvertA
+  OleUIConvertW="C:\Windows\System32\oledlg".OleUIConvertW
+  OleUIEditLinksA="C:\Windows\System32\oledlg".OleUIEditLinksA
+  OleUIEditLinksW="C:\Windows\System32\oledlg".OleUIEditLinksW
+  OleUIInsertObjectA="C:\Windows\System32\oledlg".OleUIInsertObjectA
+  OleUIInsertObjectW="C:\Windows\System32\oledlg".OleUIInsertObjectW
+  OleUIObjectPropertiesA="C:\Windows\System32\oledlg".OleUIObjectPropertiesA
+  OleUIObjectPropertiesW="C:\Windows\System32\oledlg".OleUIObjectPropertiesW
+  OleUIPasteSpecialA="C:\Windows\System32\oledlg".OleUIPasteSpecialA
+  OleUIPasteSpecialW="C:\Windows\System32\oledlg".OleUIPasteSpecialW
+  OleUIPromptUserA="C:\Windows\System32\oledlg".OleUIPromptUserA
+  OleUIPromptUserW="C:\Windows\System32\oledlg".OleUIPromptUserW
+  OleUIUpdateLinksA="C:\Windows\System32\oledlg".OleUIUpdateLinksA
+  OleUIUpdateLinksW="C:\Windows\System32\oledlg".OleUIUpdateLinksW

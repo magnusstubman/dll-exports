@@ -1,0 +1,17 @@
+EXPORTS
+  AllocateAttributes="C:\Windows\SysWOW64\iashlpr".AllocateAttributes
+  ConfigureIas="C:\Windows\SysWOW64\iashlpr".ConfigureIas
+  DllCanUnloadNow="C:\Windows\SysWOW64\iashlpr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\iashlpr".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\iashlpr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\iashlpr".DllUnregisterServer
+  DoRequest="C:\Windows\SysWOW64\iashlpr".DoRequest
+  DoRequestAsync="C:\Windows\SysWOW64\iashlpr".DoRequestAsync
+  FreeAttributes="C:\Windows\SysWOW64\iashlpr".FreeAttributes
+  GetOptionIas="C:\Windows\SysWOW64\iashlpr".GetOptionIas
+  InitializeIas="C:\Windows\SysWOW64\iashlpr".InitializeIas
+  MemAllocIas="C:\Windows\SysWOW64\iashlpr".MemAllocIas
+  MemFreeIas="C:\Windows\SysWOW64\iashlpr".MemFreeIas
+  MemReallocIas="C:\Windows\SysWOW64\iashlpr".MemReallocIas
+  SetOptionIas="C:\Windows\SysWOW64\iashlpr".SetOptionIas
+  ShutdownIas="C:\Windows\SysWOW64\iashlpr".ShutdownIas

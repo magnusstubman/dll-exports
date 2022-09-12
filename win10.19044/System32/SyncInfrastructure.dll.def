@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SyncInfrastructure".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SyncInfrastructure".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\SyncInfrastructure".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\SyncInfrastructure".DllUnregisterServer

@@ -1,0 +1,10 @@
+EXPORTS
+  DllMain="C:\Windows\System32\ServicingUAPI".DllMain
+  EnumerateFeatures="C:\Windows\System32\ServicingUAPI".EnumerateFeatures
+  FreeEnumerateFeaturesResult="C:\Windows\System32\ServicingUAPI".FreeEnumerateFeaturesResult
+  FreeInstallFeaturesResult="C:\Windows\System32\ServicingUAPI".FreeInstallFeaturesResult
+  FreeUninstallFeaturesResult="C:\Windows\System32\ServicingUAPI".FreeUninstallFeaturesResult
+  GetFeatureState="C:\Windows\System32\ServicingUAPI".GetFeatureState
+  InstallFeatures="C:\Windows\System32\ServicingUAPI".InstallFeatures
+  IsFeatureInstalled="C:\Windows\System32\ServicingUAPI".IsFeatureInstalled
+  UninstallFeatures="C:\Windows\System32\ServicingUAPI".UninstallFeatures

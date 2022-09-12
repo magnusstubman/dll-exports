@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mssprxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mssprxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\mssprxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mssprxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\mssprxy".GetProxyDllInfo

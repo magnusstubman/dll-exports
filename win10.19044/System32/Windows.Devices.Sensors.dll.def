@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.Sensors".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.Sensors".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.Sensors".DllGetClassObject

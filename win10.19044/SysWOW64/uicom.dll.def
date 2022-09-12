@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\uicom".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\uicom".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\uicom".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\uicom".DllUnregisterServer

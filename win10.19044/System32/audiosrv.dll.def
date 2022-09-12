@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\audiosrv".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\audiosrv".SvchostPushServiceGlobals

@@ -1,0 +1,4 @@
+EXPORTS
+  EapPeerFreeErrorMemory="C:\Windows\System32\EapTeapAuth".EapPeerFreeErrorMemory
+  EapPeerFreeMemory="C:\Windows\System32\EapTeapAuth".EapPeerFreeMemory
+  EapPeerGetInfo="C:\Windows\System32\EapTeapAuth".EapPeerGetInfo

@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\SysWOW64\tapisrv".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\SysWOW64\tapisrv".SvchostPushServiceGlobals

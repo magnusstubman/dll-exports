@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MicrosoftAccountWAMExtension".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\MicrosoftAccountWAMExtension".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\MicrosoftAccountWAMExtension".DllGetClassObject

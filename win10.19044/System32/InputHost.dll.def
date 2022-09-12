@@ -1,0 +1,24 @@
+EXPORTS
+  CreateComboButtonProxy="C:\Windows\System32\InputHost".CreateComboButtonProxy
+  CreateCursorClient="C:\Windows\System32\InputHost".CreateCursorClient
+  CreateCursorManager="C:\Windows\System32\InputHost".CreateCursorManager
+  CreateDragOperationPrivate="C:\Windows\System32\InputHost".CreateDragOperationPrivate
+  CreateGenericInputHost="C:\Windows\System32\InputHost".CreateGenericInputHost
+  CreateHeatGripServiceClient="C:\Windows\System32\InputHost".CreateHeatGripServiceClient
+  CreateInputDeviceWatcher="C:\Windows\System32\InputHost".CreateInputDeviceWatcher
+  CreateInputHost="C:\Windows\System32\InputHost".CreateInputHost
+  CreateInputHostForProcess="C:\Windows\System32\InputHost".CreateInputHostForProcess
+  CreateInputSystemClientConnection="C:\Windows\System32\InputHost".CreateInputSystemClientConnection
+  CreateMPCManagerClient="C:\Windows\System32\InputHost".CreateMPCManagerClient
+  CreatePointerInputHost="C:\Windows\System32\InputHost".CreatePointerInputHost
+  CreateTouchInputHost="C:\Windows\System32\InputHost".CreateTouchInputHost
+  CreateViewHitTestRequestClient="C:\Windows\System32\InputHost".CreateViewHitTestRequestClient
+  DllCanUnloadNow="C:\Windows\System32\InputHost".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\InputHost".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\InputHost".DllGetClassObject
+  SetInputButtonEnabledOnIdle="C:\Windows\System32\InputHost".SetInputButtonEnabledOnIdle
+  SetInputDeviceIndicatorState="C:\Windows\System32\InputHost".SetInputDeviceIndicatorState
+  SetInputDeviceRepeatParameters="C:\Windows\System32\InputHost".SetInputDeviceRepeatParameters
+  SetInputFocus="C:\Windows\System32\InputHost".SetInputFocus
+  TouchInputHostCreate="C:\Windows\System32\InputHost".TouchInputHostCreate
+  ViewHitTestClientCreate="C:\Windows\System32\InputHost".ViewHitTestClientCreate

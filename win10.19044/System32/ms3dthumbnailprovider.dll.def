@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ms3dthumbnailprovider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ms3dthumbnailprovider".DllGetClassObject

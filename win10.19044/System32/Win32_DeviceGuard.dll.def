@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Win32_DeviceGuard".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Win32_DeviceGuard".DllGetClassObject
+  DllMain="C:\Windows\System32\Win32_DeviceGuard".DllMain
+  DllRegisterServer="C:\Windows\System32\Win32_DeviceGuard".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Win32_DeviceGuard".DllUnregisterServer
+  GetProviderClassID="C:\Windows\System32\Win32_DeviceGuard".GetProviderClassID
+  MI_Main="C:\Windows\System32\Win32_DeviceGuard".MI_Main

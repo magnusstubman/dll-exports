@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\StorageContextHandler".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\StorageContextHandler".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\StorageContextHandler".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\StorageContextHandler".DllUnregisterServer

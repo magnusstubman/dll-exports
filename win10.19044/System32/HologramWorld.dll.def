@@ -1,0 +1,3 @@
+EXPORTS
+  CreateDebugOverlay="C:\Windows\System32\HologramWorld".CreateDebugOverlay
+  GetSharedWorldFactory="C:\Windows\System32\HologramWorld".GetSharedWorldFactory

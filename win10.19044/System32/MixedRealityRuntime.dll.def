@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MixedRealityRuntime".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\MixedRealityRuntime".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\MixedRealityRuntime".DllGetClassObject
+  ServiceMain="C:\Windows\System32\MixedRealityRuntime".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\MixedRealityRuntime".SvchostPushServiceGlobals
+  xrNegotiateLoaderRuntimeInterface="C:\Windows\System32\MixedRealityRuntime".xrNegotiateLoaderRuntimeInterface

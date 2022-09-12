@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mshtmled".DllCanUnloadNow
+  DllEnumClassObjects="C:\Windows\SysWOW64\mshtmled".DllEnumClassObjects
+  DllGetClassObject="C:\Windows\SysWOW64\mshtmled".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\mshtmled".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mshtmled".DllUnregisterServer

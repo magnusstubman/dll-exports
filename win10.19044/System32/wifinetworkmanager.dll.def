@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wifinetworkmanager".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wifinetworkmanager".DllGetClassObject
+  PopulateFuncTable="C:\Windows\System32\wifinetworkmanager".PopulateFuncTable

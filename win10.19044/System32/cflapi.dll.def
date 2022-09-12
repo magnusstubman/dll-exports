@@ -1,0 +1,13 @@
+EXPORTS
+  CflClearScenarioData="C:\Windows\System32\cflapi".CflClearScenarioData
+  CflClearTempUserAccount="C:\Windows\System32\cflapi".CflClearTempUserAccount
+  CflDeserializeSessionContext="C:\Windows\System32\cflapi".CflDeserializeSessionContext
+  CflFreeBuffer="C:\Windows\System32\cflapi".CflFreeBuffer
+  CflGetScenarioData="C:\Windows\System32\cflapi".CflGetScenarioData
+  CflGetTransitionScenarioData="C:\Windows\System32\cflapi".CflGetTransitionScenarioData
+  CflSecureFreeBuffer="C:\Windows\System32\cflapi".CflSecureFreeBuffer
+  CflSerializeSessionContext="C:\Windows\System32\cflapi".CflSerializeSessionContext
+  CflSetScenarioData="C:\Windows\System32\cflapi".CflSetScenarioData
+  CflSetupAuthEnvironment="C:\Windows\System32\cflapi".CflSetupAuthEnvironment
+  CflSetupTempUserAccount="C:\Windows\System32\cflapi".CflSetupTempUserAccount
+  CflSetupTransitionToUserAccount="C:\Windows\System32\cflapi".CflSetupTransitionToUserAccount

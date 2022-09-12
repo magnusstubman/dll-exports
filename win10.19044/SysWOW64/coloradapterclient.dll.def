@@ -1,0 +1,7 @@
+EXPORTS
+  ModernColorGetGDILutFromHDC="C:\Windows\SysWOW64\coloradapterclient".ModernColorGetGDILutFromHDC
+  ModernColorSetGDILut="C:\Windows\SysWOW64\coloradapterclient".ModernColorSetGDILut
+  ModernColorSetGDILutFromHDC="C:\Windows\SysWOW64\coloradapterclient".ModernColorSetGDILutFromHDC
+  ModernColorSetLut="C:\Windows\SysWOW64\coloradapterclient".ModernColorSetLut
+  ModernColorSetMatrix="C:\Windows\SysWOW64\coloradapterclient".ModernColorSetMatrix
+  ModernColorSetMatrixFromHDC="C:\Windows\SysWOW64\coloradapterclient".ModernColorSetMatrixFromHDC

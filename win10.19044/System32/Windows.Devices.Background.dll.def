@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.Background".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.Background".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.Background".DllGetClassObject

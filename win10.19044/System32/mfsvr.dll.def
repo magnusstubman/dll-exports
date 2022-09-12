@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mfsvr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mfsvr".DllGetClassObject
+  MFCreateHDCPStatus="C:\Windows\System32\mfsvr".MFCreateHDCPStatus
+  MFCreateMediaEngineVideoOTA="C:\Windows\System32\mfsvr".MFCreateMediaEngineVideoOTA
+  MFCreateOPMHelper="C:\Windows\System32\mfsvr".MFCreateOPMHelper
+  MFCreateTimedTextRenderer="C:\Windows\System32\mfsvr".MFCreateTimedTextRenderer

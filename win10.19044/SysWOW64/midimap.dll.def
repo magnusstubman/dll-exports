@@ -1,0 +1,4 @@
+EXPORTS
+  DriverProc="C:\Windows\SysWOW64\midimap".DriverProc
+  modMessage="C:\Windows\SysWOW64\midimap".modMessage
+  modmCallback="C:\Windows\SysWOW64\midimap".modmCallback

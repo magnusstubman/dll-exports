@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\btpanui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\btpanui".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\btpanui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\btpanui".DllUnregisterServer

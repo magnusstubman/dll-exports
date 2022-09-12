@@ -1,0 +1,15 @@
+EXPORTS
+  CredUIInternalCmdLinePromptForCredentialsA="C:\Windows\System32\wincredui".CredUIInternalCmdLinePromptForCredentialsA
+  CredUIInternalCmdLinePromptForCredentialsW="C:\Windows\System32\wincredui".CredUIInternalCmdLinePromptForCredentialsW
+  CredUIInternalConfirmCredentialsA="C:\Windows\System32\wincredui".CredUIInternalConfirmCredentialsA
+  CredUIInternalConfirmCredentialsW="C:\Windows\System32\wincredui".CredUIInternalConfirmCredentialsW
+  CredUIInternalInitControls="C:\Windows\System32\wincredui".CredUIInternalInitControls
+  CredUIInternalPromptForCredentialsA="C:\Windows\System32\wincredui".CredUIInternalPromptForCredentialsA
+  CredUIInternalPromptForCredentialsW="C:\Windows\System32\wincredui".CredUIInternalPromptForCredentialsW
+  CredUIInternalPromptForWindowsCredentialsA="C:\Windows\System32\wincredui".CredUIInternalPromptForWindowsCredentialsA
+  CredUIInternalPromptForWindowsCredentialsW="C:\Windows\System32\wincredui".CredUIInternalPromptForWindowsCredentialsW
+  CredUIInternalPromptForWindowsCredentialsWorker="C:\Windows\System32\wincredui".CredUIInternalPromptForWindowsCredentialsWorker
+  DllCanUnloadNow="C:\Windows\System32\wincredui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wincredui".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wincredui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wincredui".DllUnregisterServer

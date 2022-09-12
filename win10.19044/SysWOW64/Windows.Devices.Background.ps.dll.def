@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.Devices.Background.ps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.Devices.Background.ps".DllGetClassObject

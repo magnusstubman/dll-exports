@@ -1,0 +1,4 @@
+EXPORTS
+  GcoAddMessage="C:\Windows\SysWOW64\GameChatOverlayExt".GcoAddMessage
+  GcoGetDesiredPosition="C:\Windows\SysWOW64\GameChatOverlayExt".GcoGetDesiredPosition
+  GcoSetDesiredPosition="C:\Windows\SysWOW64\GameChatOverlayExt".GcoSetDesiredPosition

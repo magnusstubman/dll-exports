@@ -1,0 +1,3 @@
+EXPORTS
+  CryptServiceMain="C:\Windows\System32\cryptsvc".CryptServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\cryptsvc".SvchostPushServiceGlobals

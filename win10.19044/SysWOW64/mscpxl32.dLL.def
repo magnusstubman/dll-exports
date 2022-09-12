@@ -1,0 +1,5 @@
+EXPORTS
+  ConfigTranslator="C:\Windows\SysWOW64\mscpxl32".ConfigTranslator
+  ConfigureDlgProc="C:\Windows\SysWOW64\mscpxl32".ConfigureDlgProc
+  SQLDataSourceToDriver="C:\Windows\SysWOW64\mscpxl32".SQLDataSourceToDriver
+  SQLDriverToDataSource="C:\Windows\SysWOW64\mscpxl32".SQLDriverToDataSource

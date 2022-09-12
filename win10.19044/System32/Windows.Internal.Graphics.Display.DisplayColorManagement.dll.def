@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.Graphics.Display.DisplayColorManagement".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Internal.Graphics.Display.DisplayColorManagement".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.Graphics.Display.DisplayColorManagement".DllGetClassObject

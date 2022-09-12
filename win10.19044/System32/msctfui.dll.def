@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\msctfui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\msctfui".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\msctfui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msctfui".DllUnregisterServer

@@ -1,0 +1,13 @@
+EXPORTS
+  EapPeerConfigBlob2Xml="C:\Windows\System32\SimCfg".EapPeerConfigBlob2Xml
+  EapPeerConfigXml2Blob="C:\Windows\System32\SimCfg".EapPeerConfigXml2Blob
+  EapPeerCredentialsXml2Blob="C:\Windows\System32\SimCfg".EapPeerCredentialsXml2Blob
+  EapPeerFreeErrorMemory="C:\Windows\System32\SimCfg".EapPeerFreeErrorMemory
+  EapPeerFreeMemory="C:\Windows\System32\SimCfg".EapPeerFreeMemory
+  EapPeerGetConfigBlobAndUserBlob="C:\Windows\System32\SimCfg".EapPeerGetConfigBlobAndUserBlob
+  EapPeerGetIdentityPageGuid="C:\Windows\System32\SimCfg".EapPeerGetIdentityPageGuid
+  EapPeerInvokeConfigUI="C:\Windows\System32\SimCfg".EapPeerInvokeConfigUI
+  EapPeerInvokeIdentityUI="C:\Windows\System32\SimCfg".EapPeerInvokeIdentityUI
+  EapPeerInvokeInteractiveUI="C:\Windows\System32\SimCfg".EapPeerInvokeInteractiveUI
+  InternalFunction01="C:\Windows\System32\SimCfg".InternalFunction01
+  InternalFunction02="C:\Windows\System32\SimCfg".InternalFunction02

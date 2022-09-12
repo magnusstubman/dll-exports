@@ -1,0 +1,12 @@
+EXPORTS
+  EngHostAttest="C:\Windows\System32\SgrmEnclave".EngHostAttest
+  EngHostCreateAttestationClient="C:\Windows\System32\SgrmEnclave".EngHostCreateAttestationClient
+  EngHostDestroyAttestationClient="C:\Windows\System32\SgrmEnclave".EngHostDestroyAttestationClient
+  EngHostDispatchThread="C:\Windows\System32\SgrmEnclave".EngHostDispatchThread
+  EngHostGetRuntimeReport="C:\Windows\System32\SgrmEnclave".EngHostGetRuntimeReport
+  EngHostGetSessionCertificate="C:\Windows\System32\SgrmEnclave".EngHostGetSessionCertificate
+  EngHostGetSessionReport="C:\Windows\System32\SgrmEnclave".EngHostGetSessionReport
+  EngHostInitialize="C:\Windows\System32\SgrmEnclave".EngHostInitialize
+  EngHostNotify="C:\Windows\System32\SgrmEnclave".EngHostNotify
+  EngHostReinitialize="C:\Windows\System32\SgrmEnclave".EngHostReinitialize
+  EngHostShutdown="C:\Windows\System32\SgrmEnclave".EngHostShutdown

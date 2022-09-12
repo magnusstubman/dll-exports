@@ -1,0 +1,20 @@
+EXPORTS
+  DllMain="C:\Windows\System32\msv1_0".DllMain
+  LsaApCallPackage="C:\Windows\System32\msv1_0".LsaApCallPackage
+  LsaApCallPackagePassthrough="C:\Windows\System32\msv1_0".LsaApCallPackagePassthrough
+  LsaApCallPackageUntrusted="C:\Windows\System32\msv1_0".LsaApCallPackageUntrusted
+  LsaApInitializePackage="C:\Windows\System32\msv1_0".LsaApInitializePackage
+  LsaApLogonTerminated="C:\Windows\System32\msv1_0".LsaApLogonTerminated
+  LsaApLogonUserEx2="C:\Windows\System32\msv1_0".LsaApLogonUserEx2
+  Msv1_0ExportSubAuthenticationRoutine="C:\Windows\System32\msv1_0".Msv1_0ExportSubAuthenticationRoutine
+  Msv1_0SubAuthenticationPresent="C:\Windows\System32\msv1_0".Msv1_0SubAuthenticationPresent
+  MsvGetLogonAttemptCount="C:\Windows\System32\msv1_0".MsvGetLogonAttemptCount
+  MsvIsIpAddressLocal="C:\Windows\System32\msv1_0".MsvIsIpAddressLocal
+  MsvIsLocalhostAliases="C:\Windows\System32\msv1_0".MsvIsLocalhostAliases
+  MsvSamLogoff="C:\Windows\System32\msv1_0".MsvSamLogoff
+  MsvSamValidate="C:\Windows\System32\msv1_0".MsvSamValidate
+  MsvValidateTarget="C:\Windows\System32\msv1_0".MsvValidateTarget
+  SpInitialize="C:\Windows\System32\msv1_0".SpInitialize
+  SpInstanceInit="C:\Windows\System32\msv1_0".SpInstanceInit
+  SpLsaModeInitialize="C:\Windows\System32\msv1_0".SpLsaModeInitialize
+  SpUserModeInitialize="C:\Windows\System32\msv1_0".SpUserModeInitialize

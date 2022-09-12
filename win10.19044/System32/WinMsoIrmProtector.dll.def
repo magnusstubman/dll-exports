@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WinMsoIrmProtector".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WinMsoIrmProtector".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WinMsoIrmProtector".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WinMsoIrmProtector".DllUnregisterServer

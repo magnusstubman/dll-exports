@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\InstallService".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\InstallService".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\InstallService".DllGetClassObject
+  ServiceMain="C:\Windows\SysWOW64\InstallService".ServiceMain

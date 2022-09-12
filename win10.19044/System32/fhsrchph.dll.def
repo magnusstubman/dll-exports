@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fhsrchph".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fhsrchph".DllGetClassObject
+  DllInstall="C:\Windows\System32\fhsrchph".DllInstall
+  DllRegisterServer="C:\Windows\System32\fhsrchph".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fhsrchph".DllUnregisterServer

@@ -1,0 +1,15 @@
+EXPORTS
+  CopyLZFile="C:\Windows\System32\lz32".CopyLZFile
+  GetExpandedNameA="C:\Windows\System32\lz32".GetExpandedNameA
+  GetExpandedNameW="C:\Windows\System32\lz32".GetExpandedNameW
+  LZClose="C:\Windows\System32\lz32".LZClose
+  LZCloseFile="C:\Windows\System32\lz32".LZCloseFile
+  LZCopy="C:\Windows\System32\lz32".LZCopy
+  LZCreateFileW="C:\Windows\System32\lz32".LZCreateFileW
+  LZDone="C:\Windows\System32\lz32".LZDone
+  LZInit="C:\Windows\System32\lz32".LZInit
+  LZOpenFileA="C:\Windows\System32\lz32".LZOpenFileA
+  LZOpenFileW="C:\Windows\System32\lz32".LZOpenFileW
+  LZRead="C:\Windows\System32\lz32".LZRead
+  LZSeek="C:\Windows\System32\lz32".LZSeek
+  LZStart="C:\Windows\System32\lz32".LZStart

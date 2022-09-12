@@ -1,0 +1,8 @@
+EXPORTS
+  ImplatMuxDispatch="C:\Windows\System32\ImplatSetup".ImplatMuxDispatch
+  ImplatMuxMemberUninstall="C:\Windows\System32\ImplatSetup".ImplatMuxMemberUninstall
+  ImplatMuxModified="C:\Windows\System32\ImplatSetup".ImplatMuxModified
+  ImplatMuxVirtualInterfaceChanged="C:\Windows\System32\ImplatSetup".ImplatMuxVirtualInterfaceChanged
+  ImplatMuxVirtualInterfaces="C:\Windows\System32\ImplatSetup".ImplatMuxVirtualInterfaces
+  ImplatTransactionDispatch="C:\Windows\System32\ImplatSetup".ImplatTransactionDispatch
+  ImplatVmsBinding="C:\Windows\System32\ImplatSetup".ImplatVmsBinding

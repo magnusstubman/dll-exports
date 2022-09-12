@@ -1,0 +1,24 @@
+EXPORTS
+  RasCpEnumProtocolIds="C:\Windows\System32\raschap".RasCpEnumProtocolIds
+  RasCpGetInfo="C:\Windows\System32\raschap".RasCpGetInfo
+  RasEapCreateConnectionProperties="C:\Windows\System32\raschap".RasEapCreateConnectionProperties
+  RasEapCreateConnectionProperties2="C:\Windows\System32\raschap".RasEapCreateConnectionProperties2
+  RasEapCreateConnectionPropertiesXml="C:\Windows\System32\raschap".RasEapCreateConnectionPropertiesXml
+  RasEapCreateMethodConfiguration="C:\Windows\System32\raschap".RasEapCreateMethodConfiguration
+  RasEapCreateUserProperties="C:\Windows\System32\raschap".RasEapCreateUserProperties
+  RasEapCreateUserProperties2="C:\Windows\System32\raschap".RasEapCreateUserProperties2
+  RasEapFreeMemory="C:\Windows\System32\raschap".RasEapFreeMemory
+  RasEapGetConfigBlobAndUserBlob="C:\Windows\System32\raschap".RasEapGetConfigBlobAndUserBlob
+  RasEapGetCredentials="C:\Windows\System32\raschap".RasEapGetCredentials
+  RasEapGetIdentity="C:\Windows\System32\raschap".RasEapGetIdentity
+  RasEapGetIdentityPageGuid="C:\Windows\System32\raschap".RasEapGetIdentityPageGuid
+  RasEapGetInfo="C:\Windows\System32\raschap".RasEapGetInfo
+  RasEapGetMethodProperties="C:\Windows\System32\raschap".RasEapGetMethodProperties
+  RasEapGetNextPageGuid="C:\Windows\System32\raschap".RasEapGetNextPageGuid
+  RasEapInvokeConfigUI="C:\Windows\System32\raschap".RasEapInvokeConfigUI
+  RasEapInvokeInteractiveUI="C:\Windows\System32\raschap".RasEapInvokeInteractiveUI
+  RasEapQueryCredentialInputFields="C:\Windows\System32\raschap".RasEapQueryCredentialInputFields
+  RasEapQueryInteractiveUIInputFields="C:\Windows\System32\raschap".RasEapQueryInteractiveUIInputFields
+  RasEapQueryUIBlobFromInteractiveUIInputFields="C:\Windows\System32\raschap".RasEapQueryUIBlobFromInteractiveUIInputFields
+  RasEapQueryUserBlobFromCredentialInputFields="C:\Windows\System32\raschap".RasEapQueryUserBlobFromCredentialInputFields
+  RasEapSetRetryFlag="C:\Windows\System32\raschap".RasEapSetRetryFlag

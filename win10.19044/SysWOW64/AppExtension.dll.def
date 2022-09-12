@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AppExtension".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\AppExtension".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\AppExtension".DllGetClassObject

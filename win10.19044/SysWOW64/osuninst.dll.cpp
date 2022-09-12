@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:ExecuteUninstall=\"C:\\Windows\\SysWOW64\\osuninst.ExecuteUninstall\"")
+#pragma comment(linker, "/export:GetUninstallImageSize=\"C:\\Windows\\SysWOW64\\osuninst.GetUninstallImageSize\"")
+#pragma comment(linker, "/export:IsUninstallImageValid=\"C:\\Windows\\SysWOW64\\osuninst.IsUninstallImageValid\"")
+#pragma comment(linker, "/export:ProvideUiAlerts=\"C:\\Windows\\SysWOW64\\osuninst.ProvideUiAlerts\"")
+#pragma comment(linker, "/export:RemoveUninstallImage=\"C:\\Windows\\SysWOW64\\osuninst.RemoveUninstallImage\"")

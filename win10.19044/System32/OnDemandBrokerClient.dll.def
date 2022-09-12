@@ -1,0 +1,2 @@
+EXPORTS
+  CreateOnDemandBrokerClient="C:\Windows\System32\OnDemandBrokerClient".CreateOnDemandBrokerClient

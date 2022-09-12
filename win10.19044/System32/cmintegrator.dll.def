@@ -1,0 +1,4 @@
+EXPORTS
+  VpnCmOracleCheckVpnAvailability="C:\Windows\System32\cmintegrator".VpnCmOracleCheckVpnAvailability
+  VpnCmOracleInitialize="C:\Windows\System32\cmintegrator".VpnCmOracleInitialize
+  VpnCmOracleShutdown="C:\Windows\System32\cmintegrator".VpnCmOracleShutdown

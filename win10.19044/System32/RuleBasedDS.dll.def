@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RuleBasedDS".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\RuleBasedDS".DllGetClassObject

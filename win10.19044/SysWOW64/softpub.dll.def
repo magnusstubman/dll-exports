@@ -1,0 +1,25 @@
+EXPORTS
+  AddPersonalTrustDBPages="C:\Windows\SysWOW64\softpub".AddPersonalTrustDBPages
+  DllRegisterServer="C:\Windows\SysWOW64\softpub".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\softpub".DllUnregisterServer
+  DriverCleanupPolicy="C:\Windows\SysWOW64\softpub".DriverCleanupPolicy
+  DriverFinalPolicy="C:\Windows\SysWOW64\softpub".DriverFinalPolicy
+  DriverInitializePolicy="C:\Windows\SysWOW64\softpub".DriverInitializePolicy
+  FindCertsByIssuer="C:\Windows\SysWOW64\softpub".FindCertsByIssuer
+  GenericChainCertificateTrust="C:\Windows\SysWOW64\softpub".GenericChainCertificateTrust
+  GenericChainFinalProv="C:\Windows\SysWOW64\softpub".GenericChainFinalProv
+  HTTPSCertificateTrust="C:\Windows\SysWOW64\softpub".HTTPSCertificateTrust
+  HTTPSFinalProv="C:\Windows\SysWOW64\softpub".HTTPSFinalProv
+  OfficeCleanupPolicy="C:\Windows\SysWOW64\softpub".OfficeCleanupPolicy
+  OfficeInitializePolicy="C:\Windows\SysWOW64\softpub".OfficeInitializePolicy
+  OpenPersonalTrustDBDialog="C:\Windows\SysWOW64\softpub".OpenPersonalTrustDBDialog
+  SoftpubAuthenticode="C:\Windows\SysWOW64\softpub".SoftpubAuthenticode
+  SoftpubCheckCert="C:\Windows\SysWOW64\softpub".SoftpubCheckCert
+  SoftpubCleanup="C:\Windows\SysWOW64\softpub".SoftpubCleanup
+  SoftpubDefCertInit="C:\Windows\SysWOW64\softpub".SoftpubDefCertInit
+  SoftpubDumpStructure="C:\Windows\SysWOW64\softpub".SoftpubDumpStructure
+  SoftpubFreeDefUsageCallData="C:\Windows\SysWOW64\softpub".SoftpubFreeDefUsageCallData
+  SoftpubInitialize="C:\Windows\SysWOW64\softpub".SoftpubInitialize
+  SoftpubLoadDefUsageCallData="C:\Windows\SysWOW64\softpub".SoftpubLoadDefUsageCallData
+  SoftpubLoadMessage="C:\Windows\SysWOW64\softpub".SoftpubLoadMessage
+  SoftpubLoadSignature="C:\Windows\SysWOW64\softpub".SoftpubLoadSignature

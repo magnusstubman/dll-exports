@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ieproxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ieproxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\ieproxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\ieproxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\ieproxy".GetProxyDllInfo

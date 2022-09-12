@@ -1,0 +1,20 @@
+EXPORTS
+  CfgUtilCheckCharacteristicNode="C:\Windows\System32\dmcfgutils".CfgUtilCheckCharacteristicNode
+  CfgUtilCheckParmNode="C:\Windows\System32\dmcfgutils".CfgUtilCheckParmNode
+  CfgUtilCreateCharacteristic="C:\Windows\System32\dmcfgutils".CfgUtilCreateCharacteristic
+  CfgUtilCreateParm="C:\Windows\System32\dmcfgutils".CfgUtilCreateParm
+  CfgUtilGetConfigDataTypeName="C:\Windows\System32\dmcfgutils".CfgUtilGetConfigDataTypeName
+  CfgUtilGetConfigSemanticTypeName="C:\Windows\System32\dmcfgutils".CfgUtilGetConfigSemanticTypeName
+  CfgUtilGetElementName="C:\Windows\System32\dmcfgutils".CfgUtilGetElementName
+  CfgUtilGetName="C:\Windows\System32\dmcfgutils".CfgUtilGetName
+  CfgUtilGetParmAttributeName="C:\Windows\System32\dmcfgutils".CfgUtilGetParmAttributeName
+  CfgUtilParseConfigDataTypeName="C:\Windows\System32\dmcfgutils".CfgUtilParseConfigDataTypeName
+  CfgUtilParseConfigSemanticTypeName="C:\Windows\System32\dmcfgutils".CfgUtilParseConfigSemanticTypeName
+  CfgUtilParseElementName="C:\Windows\System32\dmcfgutils".CfgUtilParseElementName
+  CfgUtilParseName="C:\Windows\System32\dmcfgutils".CfgUtilParseName
+  CfgUtilParseNameByLen="C:\Windows\System32\dmcfgutils".CfgUtilParseNameByLen
+  CfgUtilParseParmAttributeName="C:\Windows\System32\dmcfgutils".CfgUtilParseParmAttributeName
+  CleanupPolicyComplianceEnsuranceForSource="C:\Windows\System32\dmcfgutils".CleanupPolicyComplianceEnsuranceForSource
+  EnsurePolicyComplianceForSource="C:\Windows\System32\dmcfgutils".EnsurePolicyComplianceForSource
+  SyncGetDeviceUniqueID="C:\Windows\System32\dmcfgutils".SyncGetDeviceUniqueID
+  VerifyFullAdminPrivileges="C:\Windows\System32\dmcfgutils".VerifyFullAdminPrivileges

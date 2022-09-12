@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\socialapis".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\socialapis".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\socialapis".DllGetClassObject

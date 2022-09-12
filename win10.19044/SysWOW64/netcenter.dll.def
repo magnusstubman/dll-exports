@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\netcenter".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\netcenter".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\netcenter".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\netcenter".DllUnregisterServer

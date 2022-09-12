@@ -1,0 +1,22 @@
+EXPORTS
+  CertConfigureTrustA="C:\Windows\System32\cryptdlg".CertConfigureTrustA
+  CertConfigureTrustW="C:\Windows\System32\cryptdlg".CertConfigureTrustW
+  CertModifyCertificatesToTrust="C:\Windows\System32\cryptdlg".CertModifyCertificatesToTrust
+  CertSelectCertificateA="C:\Windows\System32\cryptdlg".CertSelectCertificateA
+  CertSelectCertificateW="C:\Windows\System32\cryptdlg".CertSelectCertificateW
+  CertTrustCertPolicy="C:\Windows\System32\cryptdlg".CertTrustCertPolicy
+  CertTrustCleanup="C:\Windows\System32\cryptdlg".CertTrustCleanup
+  CertTrustFinalPolicy="C:\Windows\System32\cryptdlg".CertTrustFinalPolicy
+  CertTrustInit="C:\Windows\System32\cryptdlg".CertTrustInit
+  CertViewPropertiesA="C:\Windows\System32\cryptdlg".CertViewPropertiesA
+  CertViewPropertiesW="C:\Windows\System32\cryptdlg".CertViewPropertiesW
+  DecodeAttrSequence="C:\Windows\System32\cryptdlg".DecodeAttrSequence
+  DecodeRecipientID="C:\Windows\System32\cryptdlg".DecodeRecipientID
+  DllRegisterServer="C:\Windows\System32\cryptdlg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\cryptdlg".DllUnregisterServer
+  EncodeAttrSequence="C:\Windows\System32\cryptdlg".EncodeAttrSequence
+  EncodeRecipientID="C:\Windows\System32\cryptdlg".EncodeRecipientID
+  FormatPKIXEmailProtection="C:\Windows\System32\cryptdlg".FormatPKIXEmailProtection
+  FormatVerisignExtension="C:\Windows\System32\cryptdlg".FormatVerisignExtension
+  GetFriendlyNameOfCertA="C:\Windows\System32\cryptdlg".GetFriendlyNameOfCertA
+  GetFriendlyNameOfCertW="C:\Windows\System32\cryptdlg".GetFriendlyNameOfCertW

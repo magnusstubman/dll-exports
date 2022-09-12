@@ -1,0 +1,4 @@
+EXPORTS
+  CallBlockTabForDialogUntilActive="C:\Windows\System32\WpAXHolder".CallBlockTabForDialogUntilActive
+  GetFlashShimHandler="C:\Windows\System32\WpAXHolder".GetFlashShimHandler
+  RunAsAXHolder="C:\Windows\System32\WpAXHolder".RunAsAXHolder

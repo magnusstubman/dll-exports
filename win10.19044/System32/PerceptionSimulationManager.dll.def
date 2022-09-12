@@ -1,0 +1,7 @@
+EXPORTS
+  CreatePerceptionSimulationManager="C:\Windows\System32\PerceptionSimulationManager".CreatePerceptionSimulationManager
+  CreatePerceptionSimulationRecording="C:\Windows\System32\PerceptionSimulationManager".CreatePerceptionSimulationRecording
+  GetControlMode="C:\Windows\System32\PerceptionSimulationManager".GetControlMode
+  GetIsUsingDriver="C:\Windows\System32\PerceptionSimulationManager".GetIsUsingDriver
+  LoadPerceptionSimulationRecording="C:\Windows\System32\PerceptionSimulationManager".LoadPerceptionSimulationRecording
+  SetControlMode="C:\Windows\System32\PerceptionSimulationManager".SetControlMode

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\eventcls".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\eventcls".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\eventcls".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\eventcls".DllUnregisterServer

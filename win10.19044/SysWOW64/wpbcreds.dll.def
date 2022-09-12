@@ -1,0 +1,8 @@
+EXPORTS
+  WpbcCleanup="C:\Windows\SysWOW64\wpbcreds".WpbcCleanup
+  WpbcCreateRemoveTestCredentials="C:\Windows\SysWOW64\wpbcreds".WpbcCreateRemoveTestCredentials
+  WpbcCreateTestPin="C:\Windows\SysWOW64\wpbcreds".WpbcCreateTestPin
+  WpbcExportCredentials="C:\Windows\SysWOW64\wpbcreds".WpbcExportCredentials
+  WpbcGetPinInfo="C:\Windows\SysWOW64\wpbcreds".WpbcGetPinInfo
+  WpbcInitialize="C:\Windows\SysWOW64\wpbcreds".WpbcInitialize
+  WpbcVerifyUser="C:\Windows\SysWOW64\wpbcreds".WpbcVerifyUser

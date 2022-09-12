@@ -1,0 +1,11 @@
+EXPORTS
+  EapPeerConfigBlob2Xml="C:\Windows\SysWOW64\EapTeapConfig".EapPeerConfigBlob2Xml
+  EapPeerConfigXml2Blob="C:\Windows\SysWOW64\EapTeapConfig".EapPeerConfigXml2Blob
+  EapPeerCredentialsXml2Blob="C:\Windows\SysWOW64\EapTeapConfig".EapPeerCredentialsXml2Blob
+  EapPeerFreeErrorMemory="C:\Windows\SysWOW64\EapTeapConfig".EapPeerFreeErrorMemory
+  EapPeerFreeMemory="C:\Windows\SysWOW64\EapTeapConfig".EapPeerFreeMemory
+  EapPeerGetMethodProperties="C:\Windows\SysWOW64\EapTeapConfig".EapPeerGetMethodProperties
+  EapPeerGetNextPageGuid="C:\Windows\SysWOW64\EapTeapConfig".EapPeerGetNextPageGuid
+  EapPeerInvokeConfigUI="C:\Windows\SysWOW64\EapTeapConfig".EapPeerInvokeConfigUI
+  EapPeerInvokeInteractiveUI="C:\Windows\SysWOW64\EapTeapConfig".EapPeerInvokeInteractiveUI
+  EapPeerQueryInteractiveUIInputFields="C:\Windows\SysWOW64\EapTeapConfig".EapPeerQueryInteractiveUIInputFields

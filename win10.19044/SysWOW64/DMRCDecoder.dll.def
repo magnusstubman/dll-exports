@@ -1,0 +1,23 @@
+EXPORTS
+  CreateDecoder="C:\Windows\SysWOW64\DMRCDecoder".CreateDecoder
+  DeleteDecoder="C:\Windows\SysWOW64\DMRCDecoder".DeleteDecoder
+  Detect="C:\Windows\SysWOW64\DMRCDecoder".Detect
+  EnableExtendedReadingDistance="C:\Windows\SysWOW64\DMRCDecoder".EnableExtendedReadingDistance
+  EnableFalsePositiveMitigation="C:\Windows\SysWOW64\DMRCDecoder".EnableFalsePositiveMitigation
+  EnableInvertedReads="C:\Windows\SysWOW64\DMRCDecoder".EnableInvertedReads
+  GetActiveBarcodeTypes="C:\Windows\SysWOW64\DMRCDecoder".GetActiveBarcodeTypes
+  GetBarcodeAttributesSupport="C:\Windows\SysWOW64\DMRCDecoder".GetBarcodeAttributesSupport
+  GetExceptions="C:\Windows\SysWOW64\DMRCDecoder".GetExceptions
+  GetMillisecsPerFrameBarcode="C:\Windows\SysWOW64\DMRCDecoder".GetMillisecsPerFrameBarcode
+  GetMillisecsPerFrameDWCode="C:\Windows\SysWOW64\DMRCDecoder".GetMillisecsPerFrameDWCode
+  GetPayloadBarcodeType="C:\Windows\SysWOW64\DMRCDecoder".GetPayloadBarcodeType
+  GetPayloadCount="C:\Windows\SysWOW64\DMRCDecoder".GetPayloadCount
+  GetPayloadData="C:\Windows\SysWOW64\DMRCDecoder".GetPayloadData
+  GetPayloadRawData="C:\Windows\SysWOW64\DMRCDecoder".GetPayloadRawData
+  GetRebarNV12BufferPtr="C:\Windows\SysWOW64\DMRCDecoder".GetRebarNV12BufferPtr
+  GetStatus="C:\Windows\SysWOW64\DMRCDecoder".GetStatus
+  GetSupportedBarcodeTypes="C:\Windows\SysWOW64\DMRCDecoder".GetSupportedBarcodeTypes
+  SetActiveBarcodeTypes="C:\Windows\SysWOW64\DMRCDecoder".SetActiveBarcodeTypes
+  SetBarcodeCheckDigitAttribute="C:\Windows\SysWOW64\DMRCDecoder".SetBarcodeCheckDigitAttribute
+  SetBarcodeDecodeLengthAttribute="C:\Windows\SysWOW64\DMRCDecoder".SetBarcodeDecodeLengthAttribute
+  SetBarcodeTransmitCheckDigitAttribute="C:\Windows\SysWOW64\DMRCDecoder".SetBarcodeTransmitCheckDigitAttribute

@@ -1,0 +1,12 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\kerberos".DllMain
+  KerbCreateTokenFromTicketForKdc="C:\Windows\SysWOW64\kerberos".KerbCreateTokenFromTicketForKdc
+  KerbDomainChangeCallback="C:\Windows\SysWOW64\kerberos".KerbDomainChangeCallback
+  KerbIsInitialized="C:\Windows\SysWOW64\kerberos".KerbIsInitialized
+  KerbKdcCallBack="C:\Windows\SysWOW64\kerberos".KerbKdcCallBack
+  KerbMakeKdcCall="C:\Windows\SysWOW64\kerberos".KerbMakeKdcCall
+  Kerberos="C:\Windows\SysWOW64\kerberos".Kerberos
+  SpInitialize="C:\Windows\SysWOW64\kerberos".SpInitialize
+  SpInstanceInit="C:\Windows\SysWOW64\kerberos".SpInstanceInit
+  SpLsaModeInitialize="C:\Windows\SysWOW64\kerberos".SpLsaModeInitialize
+  SpUserModeInitialize="C:\Windows\SysWOW64\kerberos".SpUserModeInitialize

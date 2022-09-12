@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fhlisten".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fhlisten".DllGetClassObject
+  DllInstall="C:\Windows\System32\fhlisten".DllInstall
+  DllRegisterServer="C:\Windows\System32\fhlisten".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fhlisten".DllUnregisterServer

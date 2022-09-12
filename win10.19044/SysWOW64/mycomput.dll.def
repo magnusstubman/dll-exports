@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mycomput".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mycomput".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\mycomput".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mycomput".DllUnregisterServer

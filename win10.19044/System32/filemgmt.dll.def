@@ -1,0 +1,7 @@
+EXPORTS
+  CacheSettingsDlg="C:\Windows\System32\filemgmt".CacheSettingsDlg
+  CacheSettingsDlg2="C:\Windows\System32\filemgmt".CacheSettingsDlg2
+  DllCanUnloadNow="C:\Windows\System32\filemgmt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\filemgmt".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\filemgmt".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\filemgmt".DllUnregisterServer

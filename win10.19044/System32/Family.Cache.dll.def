@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Family.Cache".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Family.Cache".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Family.Cache".DllGetClassObject

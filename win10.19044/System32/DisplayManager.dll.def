@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DisplayManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\DisplayManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\DisplayManager".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\DisplayManager".GetProxyDllInfo

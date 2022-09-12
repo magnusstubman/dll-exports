@@ -1,0 +1,4 @@
+EXPORTS
+  WdiDiagnosticModuleMain="C:\Windows\SysWOW64\srumsvc".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\SysWOW64\srumsvc".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\SysWOW64\srumsvc".WdiHandleInstance

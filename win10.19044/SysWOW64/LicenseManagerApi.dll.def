@@ -1,0 +1,13 @@
+EXPORTS
+  BeginAcquireStoreLicenseForPackageActivation="C:\Windows\SysWOW64\LicenseManagerApi".BeginAcquireStoreLicenseForPackageActivation
+  BeginAcquireStoreLicenseForPackageActivation2="C:\Windows\SysWOW64\LicenseManagerApi".BeginAcquireStoreLicenseForPackageActivation2
+  DllMain="C:\Windows\SysWOW64\LicenseManagerApi".DllMain
+  EnsureStoreLicenseForPackageActivation="C:\Windows\SysWOW64\LicenseManagerApi".EnsureStoreLicenseForPackageActivation
+  EnsureStoreLicenseForPackageActivation2="C:\Windows\SysWOW64\LicenseManagerApi".EnsureStoreLicenseForPackageActivation2
+  PackageRundownNotificationForStoreLicense="C:\Windows\SysWOW64\LicenseManagerApi".PackageRundownNotificationForStoreLicense
+  PackageRundownNotificationForStoreLicense2="C:\Windows\SysWOW64\LicenseManagerApi".PackageRundownNotificationForStoreLicense2
+  PackageSuspendedNotificationForStoreLicense="C:\Windows\SysWOW64\LicenseManagerApi".PackageSuspendedNotificationForStoreLicense
+  PackageSuspendedNotificationForStoreLicense2="C:\Windows\SysWOW64\LicenseManagerApi".PackageSuspendedNotificationForStoreLicense2
+  PrecacheStoreLicenseForPackageResume="C:\Windows\SysWOW64\LicenseManagerApi".PrecacheStoreLicenseForPackageResume
+  PrecacheStoreLicenseForPackageResume2="C:\Windows\SysWOW64\LicenseManagerApi".PrecacheStoreLicenseForPackageResume2
+  Reset="C:\Windows\SysWOW64\LicenseManagerApi".Reset

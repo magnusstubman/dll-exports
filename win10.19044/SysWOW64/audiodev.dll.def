@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\audiodev".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\audiodev".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\audiodev".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\audiodev".DllUnregisterServer
+  _CDefFolderMenu_MergeMenu@16="C:\Windows\SysWOW64\audiodev"._CDefFolderMenu_MergeMenu@16
+  _CIDLData_CreateFromIDArray@16="C:\Windows\SysWOW64\audiodev"._CIDLData_CreateFromIDArray@16

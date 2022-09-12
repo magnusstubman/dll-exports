@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mfsvr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mfsvr".DllGetClassObject
+  MFCreateHDCPStatus="C:\Windows\SysWOW64\mfsvr".MFCreateHDCPStatus
+  MFCreateMediaEngineVideoOTA="C:\Windows\SysWOW64\mfsvr".MFCreateMediaEngineVideoOTA
+  MFCreateOPMHelper="C:\Windows\SysWOW64\mfsvr".MFCreateOPMHelper
+  MFCreateTimedTextRenderer="C:\Windows\SysWOW64\mfsvr".MFCreateTimedTextRenderer

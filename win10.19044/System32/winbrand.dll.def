@@ -1,0 +1,16 @@
+EXPORTS
+  BrandingFormatString="C:\Windows\System32\winbrand".BrandingFormatString
+  BrandingFormatStringForEdition="C:\Windows\System32\winbrand".BrandingFormatStringForEdition
+  BrandingLoadBitmap="C:\Windows\System32\winbrand".BrandingLoadBitmap
+  BrandingLoadCursor="C:\Windows\System32\winbrand".BrandingLoadCursor
+  BrandingLoadIcon="C:\Windows\System32\winbrand".BrandingLoadIcon
+  BrandingLoadImage="C:\Windows\System32\winbrand".BrandingLoadImage
+  BrandingLoadNeutralStringForEdition="C:\Windows\System32\winbrand".BrandingLoadNeutralStringForEdition
+  BrandingLoadString="C:\Windows\System32\winbrand".BrandingLoadString
+  BrandingLoadStringForEdition="C:\Windows\System32\winbrand".BrandingLoadStringForEdition
+  EulaFreeBuffer="C:\Windows\System32\winbrand".EulaFreeBuffer
+  GetEULAFile="C:\Windows\System32\winbrand".GetEULAFile
+  GetEULAInCurrentUILanguage="C:\Windows\System32\winbrand".GetEULAInCurrentUILanguage
+  GetHinstanceByNameSpace="C:\Windows\System32\winbrand".GetHinstanceByNameSpace
+  GetInstalledEULAPath="C:\Windows\System32\winbrand".GetInstalledEULAPath
+  InstallEULA="C:\Windows\System32\winbrand".InstallEULA

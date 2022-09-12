@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\windowsudk.shellcommon".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\windowsudk.shellcommon".DllGetActivationFactory
+  ServiceMain="C:\Windows\System32\windowsudk.shellcommon".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\windowsudk.shellcommon".SvchostPushServiceGlobals

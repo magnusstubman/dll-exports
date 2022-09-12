@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\sppwmi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\sppwmi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\sppwmi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\sppwmi".DllUnregisterServer

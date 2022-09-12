@@ -1,0 +1,3 @@
+EXPORTS
+  CopyMspFilesToSystemMsiCache="C:\Windows\SysWOW64\ocsetapi".CopyMspFilesToSystemMsiCache
+  RemoveMspFilesFromSystemMsiCache="C:\Windows\SysWOW64\ocsetapi".RemoveMspFilesFromSystemMsiCache

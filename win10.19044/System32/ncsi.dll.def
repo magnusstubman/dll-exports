@@ -1,0 +1,12 @@
+EXPORTS
+  NcsiAllocateAndGetConnectivityStatusSet="C:\Windows\System32\ncsi".NcsiAllocateAndGetConnectivityStatusSet
+  NcsiDeregisterConnectivityStatusChange="C:\Windows\System32\ncsi".NcsiDeregisterConnectivityStatusChange
+  NcsiFreeConnectivityStatusSet="C:\Windows\System32\ncsi".NcsiFreeConnectivityStatusSet
+  NcsiGetCaptivePortalHosts="C:\Windows\System32\ncsi".NcsiGetCaptivePortalHosts
+  NcsiGetWebProbeConfig="C:\Windows\System32\ncsi".NcsiGetWebProbeConfig
+  NcsiIdentifyUserSpecificProxies="C:\Windows\System32\ncsi".NcsiIdentifyUserSpecificProxies
+  NcsiNotifySessionChange="C:\Windows\System32\ncsi".NcsiNotifySessionChange
+  NcsiPerformRefresh="C:\Windows\System32\ncsi".NcsiPerformRefresh
+  NcsiPerformReprobe="C:\Windows\System32\ncsi".NcsiPerformReprobe
+  NcsiRegisterConnectivityStatusChange="C:\Windows\System32\ncsi".NcsiRegisterConnectivityStatusChange
+  NcsiUpdateClientPresence="C:\Windows\System32\ncsi".NcsiUpdateClientPresence

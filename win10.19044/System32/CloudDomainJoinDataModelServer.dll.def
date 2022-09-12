@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CloudDomainJoinDataModelServer".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\CloudDomainJoinDataModelServer".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\CloudDomainJoinDataModelServer".DllGetClassObject

@@ -1,0 +1,3 @@
+EXPORTS
+  KbdLayerDescriptor="C:\Windows\SysWOW64\kbd106n".KbdLayerDescriptor
+  KbdNlsLayerDescriptor="C:\Windows\SysWOW64\kbd106n".KbdNlsLayerDescriptor

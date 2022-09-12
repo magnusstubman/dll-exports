@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\qedit".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\qedit".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\qedit".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\qedit".DllUnregisterServer

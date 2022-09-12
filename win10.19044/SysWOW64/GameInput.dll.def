@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\GameInput".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\GameInput".DllGetClassObject
+  GameInputCreate="C:\Windows\SysWOW64\GameInput".GameInputCreate

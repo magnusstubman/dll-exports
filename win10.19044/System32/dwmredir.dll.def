@@ -1,0 +1,8 @@
+EXPORTS
+  DwmInitializeEngine="C:\Windows\System32\dwmredir".DwmInitializeEngine
+  DwmInitializePort="C:\Windows\System32\dwmredir".DwmInitializePort
+  DwmRedirectionManagerInitialize="C:\Windows\System32\dwmredir".DwmRedirectionManagerInitialize
+  DwmRedirectionManagerShutdown="C:\Windows\System32\dwmredir".DwmRedirectionManagerShutdown
+  DwmRenderDesktopForDDA="C:\Windows\System32\dwmredir".DwmRenderDesktopForDDA
+  DwmShutdownEngine="C:\Windows\System32\dwmredir".DwmShutdownEngine
+  DwmVersionCheck="C:\Windows\System32\dwmredir".DwmVersionCheck

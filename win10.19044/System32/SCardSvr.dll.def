@@ -1,0 +1,4 @@
+EXPORTS
+  CalaisMain="C:\Windows\System32\SCardSvr".CalaisMain
+  InitSmartCardService="C:\Windows\System32\SCardSvr".InitSmartCardService
+  SvchostPushServiceGlobals="C:\Windows\System32\SCardSvr".SvchostPushServiceGlobals

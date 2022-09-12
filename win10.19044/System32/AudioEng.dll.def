@@ -1,0 +1,7 @@
+EXPORTS
+  AERT_Allocate="C:\Windows\System32\AudioEng".AERT_Allocate
+  AERT_Free="C:\Windows\System32\AudioEng".AERT_Free
+  DllCanUnloadNow="C:\Windows\System32\AudioEng".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\AudioEng".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\AudioEng".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\AudioEng".DllUnregisterServer

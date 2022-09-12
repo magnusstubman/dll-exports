@@ -1,0 +1,5 @@
+EXPORTS
+  ?CreateAgentActivationRuntime@@YG?AV?$shared_ptr@VIAgentActivationRuntime@VoiceAgentServices@Microsoft@@@std@@XZ="C:\Windows\SysWOW64\agentactivationruntime".?CreateAgentActivationRuntime@@YG?AV?$shared_ptr@VIAgentActivationRuntime@VoiceAgentServices@Microsoft@@@std@@XZ
+  ?GetAgentActivationRuntime@@YG?AV?$shared_ptr@VIAgentActivationRuntime@VoiceAgentServices@Microsoft@@@std@@XZ="C:\Windows\SysWOW64\agentactivationruntime".?GetAgentActivationRuntime@@YG?AV?$shared_ptr@VIAgentActivationRuntime@VoiceAgentServices@Microsoft@@@std@@XZ
+  ?GetLoggerInstance@@YGAAVLogger@VoiceAgentServices@Microsoft@@XZ="C:\Windows\SysWOW64\agentactivationruntime".?GetLoggerInstance@@YGAAVLogger@VoiceAgentServices@Microsoft@@XZ
+  ?ReleaseAgentActivationRuntime@@YGXXZ="C:\Windows\SysWOW64\agentactivationruntime".?ReleaseAgentActivationRuntime@@YGXXZ

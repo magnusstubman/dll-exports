@@ -1,0 +1,3 @@
+EXPORTS
+  InitializePrintMonitorUI="C:\Windows\System32\APMonUI".InitializePrintMonitorUI
+  LocalConfigurePortUI="C:\Windows\System32\APMonUI".LocalConfigurePortUI

@@ -1,0 +1,6 @@
+EXPORTS
+  IdnToAscii="C:\Windows\SysWOW64\normaliz".IdnToAscii
+  IdnToNameprepUnicode="C:\Windows\SysWOW64\normaliz".IdnToNameprepUnicode
+  IdnToUnicode="C:\Windows\SysWOW64\normaliz".IdnToUnicode
+  IsNormalizedString="C:\Windows\SysWOW64\normaliz".IsNormalizedString
+  NormalizeString="C:\Windows\SysWOW64\normaliz".NormalizeString

@@ -1,0 +1,5 @@
+EXPORTS
+  BfeGetDirectDispatchTable="C:\Windows\System32\BFE".BfeGetDirectDispatchTable
+  BfeOnServiceStartTypeChange="C:\Windows\System32\BFE".BfeOnServiceStartTypeChange
+  BfeServiceMain="C:\Windows\System32\BFE".BfeServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\BFE".SvchostPushServiceGlobals

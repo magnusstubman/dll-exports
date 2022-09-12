@@ -1,0 +1,13 @@
+EXPORTS
+  GetBootPolicySetForEdition="C:\Windows\System32\pkeyhelper".GetBootPolicySetForEdition
+  GetCompositionEditionForVirtualEdition="C:\Windows\System32\pkeyhelper".GetCompositionEditionForVirtualEdition
+  GetDefaultProductKeyForPfn="C:\Windows\System32\pkeyhelper".GetDefaultProductKeyForPfn
+  GetEditionIdFromName="C:\Windows\System32\pkeyhelper".GetEditionIdFromName
+  GetEditionNameFromId="C:\Windows\System32\pkeyhelper".GetEditionNameFromId
+  GetProductKeyFromContentId="C:\Windows\System32\pkeyhelper".GetProductKeyFromContentId
+  GetVirtualEditionsForCompositionEdition="C:\Windows\System32\pkeyhelper".GetVirtualEditionsForCompositionEdition
+  IsDefaultPKey="C:\Windows\System32\pkeyhelper".IsDefaultPKey
+  SkuGetProductKeyForEdition="C:\Windows\System32\pkeyhelper".SkuGetProductKeyForEdition
+  SkuGetUpgradeProductKey="C:\Windows\System32\pkeyhelper".SkuGetUpgradeProductKey
+  SkuGetUpgradeProductKeyEx="C:\Windows\System32\pkeyhelper".SkuGetUpgradeProductKeyEx
+  SkuGetUpgradeProductKeyFromDownlevelEdition="C:\Windows\System32\pkeyhelper".SkuGetUpgradeProductKeyFromDownlevelEdition

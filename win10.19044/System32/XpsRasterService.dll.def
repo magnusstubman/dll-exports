@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\XpsRasterService".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\XpsRasterService".DllGetClassObject
+  DrvPopulateFilterServices="C:\Windows\System32\XpsRasterService".DrvPopulateFilterServices

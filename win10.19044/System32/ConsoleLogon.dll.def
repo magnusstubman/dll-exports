@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ConsoleLogon".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ConsoleLogon".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\ConsoleLogon".DllGetClassObject

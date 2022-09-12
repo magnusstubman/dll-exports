@@ -1,0 +1,9 @@
+EXPORTS
+  JsThunk_AllocateData="C:\Windows\System32\Chakrathunk".JsThunk_AllocateData
+  JsThunk_Cleanup="C:\Windows\System32\Chakrathunk".JsThunk_Cleanup
+  JsThunk_CleanupDefer="C:\Windows\System32\Chakrathunk".JsThunk_CleanupDefer
+  JsThunk_CleanupFinish="C:\Windows\System32\Chakrathunk".JsThunk_CleanupFinish
+  JsThunk_DataToCode="C:\Windows\System32\Chakrathunk".JsThunk_DataToCode
+  JsThunk_GetSize="C:\Windows\System32\Chakrathunk".JsThunk_GetSize
+  JsThunk_InitData="C:\Windows\System32\Chakrathunk".JsThunk_InitData
+  JsThunk_Is="C:\Windows\System32\Chakrathunk".JsThunk_Is

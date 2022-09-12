@@ -1,0 +1,13 @@
+EXPORTS
+  CPlApplet="C:\Windows\SysWOW64\usbui".CPlApplet
+  DllCanUnloadNow="C:\Windows\SysWOW64\usbui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\usbui".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\usbui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\usbui".DllUnregisterServer
+  USBControllerBandwidthPage="C:\Windows\SysWOW64\usbui".USBControllerBandwidthPage
+  USBControllerPropPageProvider="C:\Windows\SysWOW64\usbui".USBControllerPropPageProvider
+  USBDevicePropPageProvider="C:\Windows\SysWOW64\usbui".USBDevicePropPageProvider
+  USBErrorHandler="C:\Windows\SysWOW64\usbui".USBErrorHandler
+  USBHubPowerPage="C:\Windows\SysWOW64\usbui".USBHubPowerPage
+  USBHubPropPageProvider="C:\Windows\SysWOW64\usbui".USBHubPropPageProvider
+  UsbControlPanelApplet="C:\Windows\SysWOW64\usbui".UsbControlPanelApplet

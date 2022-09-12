@@ -1,0 +1,3 @@
+EXPORTS
+  DxcCreateInstance="C:\Windows\System32\dxilconv".DxcCreateInstance
+  DxcCreateInstance2="C:\Windows\System32\dxilconv".DxcCreateInstance2

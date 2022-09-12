@@ -1,0 +1,11 @@
+EXPORTS
+  CancelCDMOperation="C:\Windows\SysWOW64\wudriver".CancelCDMOperation
+  CloseCDMContext="C:\Windows\SysWOW64\wudriver".CloseCDMContext
+  DetFilesDownloaded="C:\Windows\SysWOW64\wudriver".DetFilesDownloaded
+  DownloadIsInternetAvailable="C:\Windows\SysWOW64\wudriver".DownloadIsInternetAvailable
+  DownloadUpdatedFiles="C:\Windows\SysWOW64\wudriver".DownloadUpdatedFiles
+  FindMatchingDriver="C:\Windows\SysWOW64\wudriver".FindMatchingDriver
+  LogDriverNotFound="C:\Windows\SysWOW64\wudriver".LogDriverNotFound
+  OpenCDMContext="C:\Windows\SysWOW64\wudriver".OpenCDMContext
+  OpenCDMContextEx="C:\Windows\SysWOW64\wudriver".OpenCDMContextEx
+  QueryDetectionFiles="C:\Windows\SysWOW64\wudriver".QueryDetectionFiles

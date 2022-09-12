@@ -1,0 +1,14 @@
+EXPORTS
+  ?CancelWriteICR@@YAJPEAPEAUIComponentRecords@@@Z="C:\Windows\System32\catsrv".?CancelWriteICR@@YAJPEAPEAUIComponentRecords@@@Z
+  ?GetReadICR@@YAJHPEAPEAUIComponentRecords@@@Z="C:\Windows\System32\catsrv".?GetReadICR@@YAJHPEAPEAUIComponentRecords@@@Z
+  ?GetWriteICR@@YAJPEAPEAUIComponentRecords@@@Z="C:\Windows\System32\catsrv".?GetWriteICR@@YAJPEAPEAUIComponentRecords@@@Z
+  ?ReleaseReadICR@@YAXPEAPEAUIComponentRecords@@@Z="C:\Windows\System32\catsrv".?ReleaseReadICR@@YAXPEAPEAUIComponentRecords@@@Z
+  ?SaveWriteICR@@YAJPEAPEAUIComponentRecords@@@Z="C:\Windows\System32\catsrv".?SaveWriteICR@@YAJPEAPEAUIComponentRecords@@@Z
+  CreateComponentLibraryTS="C:\Windows\System32\catsrv".CreateComponentLibraryTS
+  DllCanUnloadNow="C:\Windows\System32\catsrv".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\catsrv".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\catsrv".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\catsrv".DllUnregisterServer
+  GetAppImport="C:\Windows\System32\catsrv".GetAppImport
+  GetCatalogCRMClerk="C:\Windows\System32\catsrv".GetCatalogCRMClerk
+  OpenComponentLibraryTS="C:\Windows\System32\catsrv".OpenComponentLibraryTS

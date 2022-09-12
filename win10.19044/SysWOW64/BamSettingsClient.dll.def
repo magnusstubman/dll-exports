@@ -1,0 +1,6 @@
+EXPORTS
+  BamCreateSettingsClientLib="C:\Windows\SysWOW64\BamSettingsClient".BamCreateSettingsClientLib
+  BamDestroySettingsClientLib="C:\Windows\SysWOW64\BamSettingsClient".BamDestroySettingsClientLib
+  BamFreeQueriedApplications="C:\Windows\SysWOW64\BamSettingsClient".BamFreeQueriedApplications
+  BamQueryKnownApplications="C:\Windows\SysWOW64\BamSettingsClient".BamQueryKnownApplications
+  BamSetUserManagementState="C:\Windows\SysWOW64\BamSettingsClient".BamSetUserManagementState

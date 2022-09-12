@@ -1,0 +1,12 @@
+EXPORTS
+  ConvertTextXmlToWBXmlEx="C:\Windows\System32\dmxmlhelputils".ConvertTextXmlToWBXmlEx
+  ConvertWBXmlToTextXmlEx="C:\Windows\System32\dmxmlhelputils".ConvertWBXmlToTextXmlEx
+  WBXMLToTextXMLGeneric="C:\Windows\System32\dmxmlhelputils".WBXMLToTextXMLGeneric
+  WSPFreeBuffer="C:\Windows\System32\dmxmlhelputils".WSPFreeBuffer
+  XMLHCreateChildElement="C:\Windows\System32\dmxmlhelputils".XMLHCreateChildElement
+  XMLHEscapeString="C:\Windows\System32\dmxmlhelputils".XMLHEscapeString
+  XMLHGetBooleanAttributeVal="C:\Windows\System32\dmxmlhelputils".XMLHGetBooleanAttributeVal
+  XMLHGetBstrVarFromAttr="C:\Windows\System32\dmxmlhelputils".XMLHGetBstrVarFromAttr
+  XMLHGetBstrVarFromAttr2="C:\Windows\System32\dmxmlhelputils".XMLHGetBstrVarFromAttr2
+  XMLHGetStringAttributeVal="C:\Windows\System32\dmxmlhelputils".XMLHGetStringAttributeVal
+  XMLHSkipXMLProlog="C:\Windows\System32\dmxmlhelputils".XMLHSkipXMLProlog

@@ -1,0 +1,4 @@
+EXPORTS
+  ClosePerformanceData="C:\Windows\System32\esentprf".ClosePerformanceData
+  CollectPerformanceData="C:\Windows\System32\esentprf".CollectPerformanceData
+  OpenPerformanceData="C:\Windows\System32\esentprf".OpenPerformanceData

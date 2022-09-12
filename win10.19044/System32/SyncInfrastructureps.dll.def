@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SyncInfrastructureps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SyncInfrastructureps".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\SyncInfrastructureps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\SyncInfrastructureps".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\SyncInfrastructureps".GetProxyDllInfo

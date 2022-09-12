@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fontext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fontext".DllGetClassObject
+  DownloadAndInstallOptionalFontsAsync="C:\Windows\System32\fontext".DownloadAndInstallOptionalFontsAsync
+  InstallFontFile="C:\Windows\System32\fontext".InstallFontFile

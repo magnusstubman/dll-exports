@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mfreadwrite".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mfreadwrite".DllGetClassObject
+  MFCreateSinkWriterFromMediaSink="C:\Windows\SysWOW64\mfreadwrite".MFCreateSinkWriterFromMediaSink
+  MFCreateSinkWriterFromURL="C:\Windows\SysWOW64\mfreadwrite".MFCreateSinkWriterFromURL
+  MFCreateSourceReaderFromByteStream="C:\Windows\SysWOW64\mfreadwrite".MFCreateSourceReaderFromByteStream
+  MFCreateSourceReaderFromMediaSource="C:\Windows\SysWOW64\mfreadwrite".MFCreateSourceReaderFromMediaSource
+  MFCreateSourceReaderFromURL="C:\Windows\SysWOW64\mfreadwrite".MFCreateSourceReaderFromURL

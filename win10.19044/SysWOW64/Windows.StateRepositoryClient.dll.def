@@ -1,0 +1,25 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.StateRepositoryClient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.StateRepositoryClient".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.StateRepositoryClient".DllGetClassObject
+  SRCheckIntegrity="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRCheckIntegrity
+  SRDictionaryFree="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRDictionaryFree
+  SRDictionaryToPropertySet="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRDictionaryToPropertySet
+  SRGetEffectivePackageStatusForUserFromToken="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRGetEffectivePackageStatusForUserFromToken
+  SRGetEffectivePackageStatusForUserSid="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRGetEffectivePackageStatusForUserSid
+  SRGetExternalLocation="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRGetExternalLocation
+  SRGetIsEffectiveSupportedUsersMultiple="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRGetIsEffectiveSupportedUsersMultiple
+  SRGetPackageOriginForUser="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRGetPackageOriginForUser
+  SRGetPackageStatus="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRGetPackageStatus
+  SRGetPackageStatusForUserFromToken="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRGetPackageStatusForUserFromToken
+  SRGetPackageStatusForUserSid="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRGetPackageStatusForUserSid
+  SRGetStagedPackageOrigin="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRGetStagedPackageOrigin
+  SRPropertySetToDictionary="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRPropertySetToDictionary
+  SRRemovePackageStatus="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRRemovePackageStatus
+  SRRemovePackageStatusForUserFromToken="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRRemovePackageStatusForUserFromToken
+  SRRemovePackageStatusForUserSid="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRRemovePackageStatusForUserSid
+  SRRepair="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRRepair
+  SRUpdatePackageStatus="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRUpdatePackageStatus
+  SRUpdatePackageStatusForUserFromToken="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRUpdatePackageStatusForUserFromToken
+  SRUpdatePackageStatusForUserSid="C:\Windows\SysWOW64\Windows.StateRepositoryClient".SRUpdatePackageStatusForUserSid
+  StateRepositoryDoMaintenanceTasks="C:\Windows\SysWOW64\Windows.StateRepositoryClient".StateRepositoryDoMaintenanceTasks

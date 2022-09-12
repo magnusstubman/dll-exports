@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\NPSM".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\NPSM".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\NPSM".DllGetClassObject
+  RegisterNowPlayingSessionManagerFactory="C:\Windows\System32\NPSM".RegisterNowPlayingSessionManagerFactory
+  ServiceMain="C:\Windows\System32\NPSM".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\NPSM".SvchostPushServiceGlobals
+  UnregisterNowPlayingSessionManagerFactory="C:\Windows\System32\NPSM".UnregisterNowPlayingSessionManagerFactory

@@ -1,0 +1,8 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\msdtclog".CreateInstance
+  DeleteInstance="C:\Windows\System32\msdtclog".DeleteInstance
+  DllGetClassObject="C:\Windows\System32\msdtclog".DllGetClassObject
+  DllGetDTCLOG="C:\Windows\System32\msdtclog".DllGetDTCLOG
+  DllGetDTCLOG2="C:\Windows\System32\msdtclog".DllGetDTCLOG2
+  DllRegisterServer="C:\Windows\System32\msdtclog".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msdtclog".DllUnregisterServer

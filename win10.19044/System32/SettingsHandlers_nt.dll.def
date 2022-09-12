@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_nt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_nt".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\SettingsHandlers_nt".GetProxyDllInfo
+  GetSetting="C:\Windows\System32\SettingsHandlers_nt".GetSetting

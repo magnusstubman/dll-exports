@@ -1,0 +1,5 @@
+EXPORTS
+  RunDll32Main="C:\Windows\System32\diagtrack".RunDll32Main
+  ServiceMain="C:\Windows\System32\diagtrack".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\diagtrack".SvchostPushServiceGlobals
+  UtcSysprepGeneralize="C:\Windows\System32\diagtrack".UtcSysprepGeneralize

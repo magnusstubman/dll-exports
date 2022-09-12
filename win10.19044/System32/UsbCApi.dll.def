@@ -1,0 +1,11 @@
+EXPORTS
+  UsbCApi_DeregisterConsumer="C:\Windows\System32\UsbCApi".UsbCApi_DeregisterConsumer
+  UsbCApi_FreeProviders="C:\Windows\System32\UsbCApi".UsbCApi_FreeProviders
+  UsbCApi_GetConnectorProperties="C:\Windows\System32\UsbCApi".UsbCApi_GetConnectorProperties
+  UsbCApi_GetConnectorState="C:\Windows\System32\UsbCApi".UsbCApi_GetConnectorState
+  UsbCApi_GetProviderInformation="C:\Windows\System32\UsbCApi".UsbCApi_GetProviderInformation
+  UsbCApi_GetProviders="C:\Windows\System32\UsbCApi".UsbCApi_GetProviders
+  UsbCApi_IsEqualChangeStamps="C:\Windows\System32\UsbCApi".UsbCApi_IsEqualChangeStamps
+  UsbCApi_RegisterConsumer="C:\Windows\System32\UsbCApi".UsbCApi_RegisterConsumer
+  UsbCApi_SetConnectorDataRole="C:\Windows\System32\UsbCApi".UsbCApi_SetConnectorDataRole
+  UsbCApi_SetConnectorPowerRole="C:\Windows\System32\UsbCApi".UsbCApi_SetConnectorPowerRole

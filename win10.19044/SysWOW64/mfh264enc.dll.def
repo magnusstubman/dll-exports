@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mfh264enc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mfh264enc".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\mfh264enc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mfh264enc".DllUnregisterServer

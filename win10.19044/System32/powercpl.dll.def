@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\powercpl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\powercpl".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\powercpl".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\powercpl".DllUnregisterServer

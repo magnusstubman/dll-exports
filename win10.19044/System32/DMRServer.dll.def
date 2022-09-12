@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DMRServer".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\DMRServer".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\DMRServer".DllGetClassObject

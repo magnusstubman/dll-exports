@@ -1,0 +1,12 @@
+EXPORTS
+  DoesCallHistoryItemMatchFilter="C:\Windows\SysWOW64\CallHistoryClient".DoesCallHistoryItemMatchFilter
+  StringToUdmObjectId="C:\Windows\SysWOW64\CallHistoryClient".StringToUdmObjectId
+  UdmAreCallEventsEqual="C:\Windows\SysWOW64\CallHistoryClient".UdmAreCallEventsEqual
+  UdmCancelAsyncTask="C:\Windows\SysWOW64\CallHistoryClient".UdmCancelAsyncTask
+  UdmCreateDataSession="C:\Windows\SysWOW64\CallHistoryClient".UdmCreateDataSession
+  UdmCreateDataSessionForUser="C:\Windows\SysWOW64\CallHistoryClient".UdmCreateDataSessionForUser
+  UdmCreateSyncCallbackHandler="C:\Windows\SysWOW64\CallHistoryClient".UdmCreateSyncCallbackHandler
+  UdmDebugModifyNotifyState="C:\Windows\SysWOW64\CallHistoryClient".UdmDebugModifyNotifyState
+  UdmFreeCallFavoriteItemSet="C:\Windows\SysWOW64\CallHistoryClient".UdmFreeCallFavoriteItemSet
+  UdmFreeCallHistoryItemSet="C:\Windows\SysWOW64\CallHistoryClient".UdmFreeCallHistoryItemSet
+  UdmObjectIdToString="C:\Windows\SysWOW64\CallHistoryClient".UdmObjectIdToString

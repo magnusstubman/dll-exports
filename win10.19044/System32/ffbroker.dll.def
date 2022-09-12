@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ffbroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ffbroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\ffbroker".DllGetClassObject

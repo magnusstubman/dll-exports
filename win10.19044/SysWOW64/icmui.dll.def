@@ -1,0 +1,3 @@
+EXPORTS
+  SetupColorMatchingA="C:\Windows\SysWOW64\icmui".SetupColorMatchingA
+  SetupColorMatchingW="C:\Windows\SysWOW64\icmui".SetupColorMatchingW

@@ -1,0 +1,5 @@
+EXPORTS
+  CleanupIS="C:\Windows\SysWOW64\AcSpecfc".CleanupIS
+  GetHookAPIs="C:\Windows\SysWOW64\AcSpecfc".GetHookAPIs
+  NotifyShims="C:\Windows\SysWOW64\AcSpecfc".NotifyShims
+  StiCreateInstanceA="C:\Windows\SysWOW64\AcSpecfc".StiCreateInstanceA

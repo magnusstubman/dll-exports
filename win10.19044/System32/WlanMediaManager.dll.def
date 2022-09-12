@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WlanMediaManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\WlanMediaManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\WlanMediaManager".DllGetClassObject

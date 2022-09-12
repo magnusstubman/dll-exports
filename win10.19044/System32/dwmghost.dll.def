@@ -1,0 +1,5 @@
+EXPORTS
+  DWMGhostCleanup="C:\Windows\System32\dwmghost".DWMGhostCleanup
+  DWMGhostHandleGhostMsg="C:\Windows\System32\dwmghost".DWMGhostHandleGhostMsg
+  DWMGhostInitialize="C:\Windows\System32\dwmghost".DWMGhostInitialize
+  DWMGhostSetInShutdown="C:\Windows\System32\dwmghost".DWMGhostSetInShutdown

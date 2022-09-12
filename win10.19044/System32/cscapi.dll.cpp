@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:CscNetApiGetInterface=\"C:\\Windows\\System32\\cscapi.CscNetApiGetInterface\"")
+#pragma comment(linker, "/export:CscSearchApiGetInterface=\"C:\\Windows\\System32\\cscapi.CscSearchApiGetInterface\"")
+#pragma comment(linker, "/export:OfflineFilesEnable=\"C:\\Windows\\System32\\cscapi.OfflineFilesEnable\"")
+#pragma comment(linker, "/export:OfflineFilesGetShareCachingMode=\"C:\\Windows\\System32\\cscapi.OfflineFilesGetShareCachingMode\"")
+#pragma comment(linker, "/export:OfflineFilesQueryStatus=\"C:\\Windows\\System32\\cscapi.OfflineFilesQueryStatus\"")
+#pragma comment(linker, "/export:OfflineFilesQueryStatusEx=\"C:\\Windows\\System32\\cscapi.OfflineFilesQueryStatusEx\"")
+#pragma comment(linker, "/export:OfflineFilesStart=\"C:\\Windows\\System32\\cscapi.OfflineFilesStart\"")

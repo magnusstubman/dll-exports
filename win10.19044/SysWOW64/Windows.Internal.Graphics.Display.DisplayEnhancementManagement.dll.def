@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.Internal.Graphics.Display.DisplayEnhancementManagement".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.Internal.Graphics.Display.DisplayEnhancementManagement".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.Internal.Graphics.Display.DisplayEnhancementManagement".DllGetClassObject

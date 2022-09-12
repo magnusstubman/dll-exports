@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\PlaySndSrv".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\PlaySndSrv".DllGetClassObject
+  PlaySoundServerInitialize="C:\Windows\SysWOW64\PlaySndSrv".PlaySoundServerInitialize
+  PlaySoundServerTerminate="C:\Windows\SysWOW64\PlaySndSrv".PlaySoundServerTerminate

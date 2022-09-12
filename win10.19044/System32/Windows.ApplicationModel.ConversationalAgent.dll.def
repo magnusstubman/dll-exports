@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.ApplicationModel.ConversationalAgent".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.ApplicationModel.ConversationalAgent".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.ApplicationModel.ConversationalAgent".DllGetClassObject

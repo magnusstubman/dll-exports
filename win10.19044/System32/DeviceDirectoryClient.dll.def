@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DeviceDirectoryClient".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DeviceDirectoryClient".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\DeviceDirectoryClient".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\DeviceDirectoryClient".DllUnregisterServer

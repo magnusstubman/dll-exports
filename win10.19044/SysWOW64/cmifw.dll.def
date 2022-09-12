@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\cmifw".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\cmifw".DllGetClassObject
+  EnableGroupW="C:\Windows\SysWOW64\cmifw".EnableGroupW
+  unattendW="C:\Windows\SysWOW64\cmifw".unattendW

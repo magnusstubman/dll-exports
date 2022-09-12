@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PrintPlatformConfig".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\PrintPlatformConfig".DllGetClassObject

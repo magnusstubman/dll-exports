@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SystemSettings.Handlers".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\SystemSettings.Handlers".DllGetActivationFactory
+  GetSetting="C:\Windows\System32\SystemSettings.Handlers".GetSetting

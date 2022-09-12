@@ -1,0 +1,4 @@
+EXPORTS
+  Deinitialize="C:\Windows\System32\AppVPublishing".Deinitialize
+  GetComponent="C:\Windows\System32\AppVPublishing".GetComponent
+  Initialize="C:\Windows\System32\AppVPublishing".Initialize

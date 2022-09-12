@@ -1,0 +1,3 @@
+EXPORTS
+  SdClassCoInstaller="C:\Windows\System32\sdhcinst".SdClassCoInstaller
+  SdClassInstall="C:\Windows\System32\sdhcinst".SdClassInstall

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wiadefui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wiadefui".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wiadefui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wiadefui".DllUnregisterServer

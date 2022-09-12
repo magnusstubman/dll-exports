@@ -1,0 +1,16 @@
+EXPORTS
+  FveAuthWithClearKey="C:\Windows\System32\bderepair".FveAuthWithClearKey
+  FveAuthWithKey="C:\Windows\System32\bderepair".FveAuthWithKey
+  FveAuthWithPassphraseW="C:\Windows\System32\bderepair".FveAuthWithPassphraseW
+  FveAuthWithPasswordW="C:\Windows\System32\bderepair".FveAuthWithPasswordW
+  FveCreateRestoreContext="C:\Windows\System32\bderepair".FveCreateRestoreContext
+  FveDecryptData="C:\Windows\System32\bderepair".FveDecryptData
+  FveDestroyRestoreContext="C:\Windows\System32\bderepair".FveDestroyRestoreContext
+  FveGetConvLogOffset="C:\Windows\System32\bderepair".FveGetConvLogOffset
+  FveGetInterruptedRangeOffset="C:\Windows\System32\bderepair".FveGetInterruptedRangeOffset
+  FveGetMetadataFromRestoreContext="C:\Windows\System32\bderepair".FveGetMetadataFromRestoreContext
+  FveLoadConvLog="C:\Windows\System32\bderepair".FveLoadConvLog
+  FveRecoverBlock="C:\Windows\System32\bderepair".FveRecoverBlock
+  FveSupplyInformationBlock="C:\Windows\System32\bderepair".FveSupplyInformationBlock
+  FveSupplyKeyPackage="C:\Windows\System32\bderepair".FveSupplyKeyPackage
+  FveSupplyWatermark="C:\Windows\System32\bderepair".FveSupplyWatermark

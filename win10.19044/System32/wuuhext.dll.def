@@ -1,0 +1,5 @@
+EXPORTS
+  WUCreateDriverUtil="C:\Windows\System32\wuuhext".WUCreateDriverUtil
+  WUCreateExpressionEvaluator="C:\Windows\System32\wuuhext".WUCreateExpressionEvaluator
+  WUCreateUpdateHandler="C:\Windows\System32\wuuhext".WUCreateUpdateHandler
+  WUGetHardwareIdInfo="C:\Windows\System32\wuuhext".WUGetHardwareIdInfo

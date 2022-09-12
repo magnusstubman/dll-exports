@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\certenc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\certenc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\certenc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\certenc".DllUnregisterServer

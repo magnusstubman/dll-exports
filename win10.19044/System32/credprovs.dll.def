@@ -1,0 +1,4 @@
+EXPORTS
+  CreatePasswordProviderWrapperInstance="C:\Windows\System32\credprovs".CreatePasswordProviderWrapperInstance
+  DllCanUnloadNow="C:\Windows\System32\credprovs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\credprovs".DllGetClassObject

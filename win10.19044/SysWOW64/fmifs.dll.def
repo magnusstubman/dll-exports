@@ -1,0 +1,26 @@
+EXPORTS
+  Chkdsk="C:\Windows\SysWOW64\fmifs".Chkdsk
+  ChkdskEx="C:\Windows\SysWOW64\fmifs".ChkdskEx
+  ComputeFmMediaType="C:\Windows\SysWOW64\fmifs".ComputeFmMediaType
+  DiskCopy="C:\Windows\SysWOW64\fmifs".DiskCopy
+  EnableVolumeCompression="C:\Windows\SysWOW64\fmifs".EnableVolumeCompression
+  EnableVolumeIntegrity="C:\Windows\SysWOW64\fmifs".EnableVolumeIntegrity
+  Extend="C:\Windows\SysWOW64\fmifs".Extend
+  Format="C:\Windows\SysWOW64\fmifs".Format
+  FormatEx="C:\Windows\SysWOW64\fmifs".FormatEx
+  FormatEx2="C:\Windows\SysWOW64\fmifs".FormatEx2
+  FreeCorruptionInfo="C:\Windows\SysWOW64\fmifs".FreeCorruptionInfo
+  GetCorruptionInfoClose="C:\Windows\SysWOW64\fmifs".GetCorruptionInfoClose
+  GetDefaultFileSystem="C:\Windows\SysWOW64\fmifs".GetDefaultFileSystem
+  GetFirstCorruptionInfo="C:\Windows\SysWOW64\fmifs".GetFirstCorruptionInfo
+  GetNextCorruptionInfo="C:\Windows\SysWOW64\fmifs".GetNextCorruptionInfo
+  QueryAvailableFileSystemFormat="C:\Windows\SysWOW64\fmifs".QueryAvailableFileSystemFormat
+  QueryCorruptionState="C:\Windows\SysWOW64\fmifs".QueryCorruptionState
+  QueryCorruptionStateByHandle="C:\Windows\SysWOW64\fmifs".QueryCorruptionStateByHandle
+  QueryDeviceInformation="C:\Windows\SysWOW64\fmifs".QueryDeviceInformation
+  QueryDeviceInformationByHandle="C:\Windows\SysWOW64\fmifs".QueryDeviceInformationByHandle
+  QueryFileSystemName="C:\Windows\SysWOW64\fmifs".QueryFileSystemName
+  QueryIsDiskCheckScheduledForNextBoot="C:\Windows\SysWOW64\fmifs".QueryIsDiskCheckScheduledForNextBoot
+  QueryLatestFileSystemVersion="C:\Windows\SysWOW64\fmifs".QueryLatestFileSystemVersion
+  QuerySupportedMedia="C:\Windows\SysWOW64\fmifs".QuerySupportedMedia
+  SetLabel="C:\Windows\SysWOW64\fmifs".SetLabel

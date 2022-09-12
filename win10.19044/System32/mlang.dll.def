@@ -1,0 +1,13 @@
+EXPORTS
+  ConvertINetMultiByteToUnicode="C:\Windows\System32\mlang".ConvertINetMultiByteToUnicode
+  ConvertINetReset="C:\Windows\System32\mlang".ConvertINetReset
+  ConvertINetString="C:\Windows\System32\mlang".ConvertINetString
+  ConvertINetUnicodeToMultiByte="C:\Windows\System32\mlang".ConvertINetUnicodeToMultiByte
+  DllCanUnloadNow="C:\Windows\System32\mlang".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mlang".DllGetClassObject
+  GetGlobalFontLinkObject="C:\Windows\System32\mlang".GetGlobalFontLinkObject
+  IsConvertINetStringAvailable="C:\Windows\System32\mlang".IsConvertINetStringAvailable
+  LcidToRfc1766A="C:\Windows\System32\mlang".LcidToRfc1766A
+  LcidToRfc1766W="C:\Windows\System32\mlang".LcidToRfc1766W
+  Rfc1766ToLcidA="C:\Windows\System32\mlang".Rfc1766ToLcidA
+  Rfc1766ToLcidW="C:\Windows\System32\mlang".Rfc1766ToLcidW

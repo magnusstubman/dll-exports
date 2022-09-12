@@ -1,0 +1,24 @@
+EXPORTS
+  DeviceAdvancedPropertiesA="C:\Windows\SysWOW64\devmgr".DeviceAdvancedPropertiesA
+  DeviceAdvancedPropertiesW="C:\Windows\SysWOW64\devmgr".DeviceAdvancedPropertiesW
+  DeviceCreateHardwarePage="C:\Windows\SysWOW64\devmgr".DeviceCreateHardwarePage
+  DeviceCreateHardwarePageCustom="C:\Windows\SysWOW64\devmgr".DeviceCreateHardwarePageCustom
+  DeviceCreateHardwarePageEx="C:\Windows\SysWOW64\devmgr".DeviceCreateHardwarePageEx
+  DeviceManager_ExecuteA="C:\Windows\SysWOW64\devmgr".DeviceManager_ExecuteA
+  DeviceManager_ExecuteW="C:\Windows\SysWOW64\devmgr".DeviceManager_ExecuteW
+  DeviceProblemTextA="C:\Windows\SysWOW64\devmgr".DeviceProblemTextA
+  DeviceProblemTextW="C:\Windows\SysWOW64\devmgr".DeviceProblemTextW
+  DeviceProblemWizardA="C:\Windows\SysWOW64\devmgr".DeviceProblemWizardA
+  DeviceProblemWizardW="C:\Windows\SysWOW64\devmgr".DeviceProblemWizardW
+  DeviceProblenWizard_RunDLLA="C:\Windows\SysWOW64\devmgr".DeviceProblenWizard_RunDLLA
+  DeviceProblenWizard_RunDLLW="C:\Windows\SysWOW64\devmgr".DeviceProblenWizard_RunDLLW
+  DevicePropertiesA="C:\Windows\SysWOW64\devmgr".DevicePropertiesA
+  DevicePropertiesExA="C:\Windows\SysWOW64\devmgr".DevicePropertiesExA
+  DevicePropertiesExW="C:\Windows\SysWOW64\devmgr".DevicePropertiesExW
+  DevicePropertiesW="C:\Windows\SysWOW64\devmgr".DevicePropertiesW
+  DeviceProperties_RunDLLA="C:\Windows\SysWOW64\devmgr".DeviceProperties_RunDLLA
+  DeviceProperties_RunDLLW="C:\Windows\SysWOW64\devmgr".DeviceProperties_RunDLLW
+  DllCanUnloadNow="C:\Windows\SysWOW64\devmgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\devmgr".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\devmgr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\devmgr".DllUnregisterServer

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\InstallServiceTasks".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\InstallServiceTasks".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\InstallServiceTasks".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\InstallServiceTasks".DllUnregisterServer
+  ForceAppInUseRestart="C:\Windows\System32\InstallServiceTasks".ForceAppInUseRestart

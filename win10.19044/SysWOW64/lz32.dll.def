@@ -1,0 +1,15 @@
+EXPORTS
+  CopyLZFile="C:\Windows\SysWOW64\lz32".CopyLZFile
+  GetExpandedNameA="C:\Windows\SysWOW64\lz32".GetExpandedNameA
+  GetExpandedNameW="C:\Windows\SysWOW64\lz32".GetExpandedNameW
+  LZClose="C:\Windows\SysWOW64\lz32".LZClose
+  LZCloseFile="C:\Windows\SysWOW64\lz32".LZCloseFile
+  LZCopy="C:\Windows\SysWOW64\lz32".LZCopy
+  LZCreateFileW="C:\Windows\SysWOW64\lz32".LZCreateFileW
+  LZDone="C:\Windows\SysWOW64\lz32".LZDone
+  LZInit="C:\Windows\SysWOW64\lz32".LZInit
+  LZOpenFileA="C:\Windows\SysWOW64\lz32".LZOpenFileA
+  LZOpenFileW="C:\Windows\SysWOW64\lz32".LZOpenFileW
+  LZRead="C:\Windows\SysWOW64\lz32".LZRead
+  LZSeek="C:\Windows\SysWOW64\lz32".LZSeek
+  LZStart="C:\Windows\SysWOW64\lz32".LZStart

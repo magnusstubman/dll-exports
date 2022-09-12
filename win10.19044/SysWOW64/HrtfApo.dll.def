@@ -1,0 +1,6 @@
+EXPORTS
+  CreateHrtfApo="C:\Windows\SysWOW64\HrtfApo".CreateHrtfApo
+  CreateHrtfApoWithDatasetType="C:\Windows\SysWOW64\HrtfApo".CreateHrtfApoWithDatasetType
+  CreateHrtfEngineFactory="C:\Windows\SysWOW64\HrtfApo".CreateHrtfEngineFactory
+  GetHrtfEngineMinFrameCount="C:\Windows\SysWOW64\HrtfApo".GetHrtfEngineMinFrameCount
+  IsHrtfApoAvailable="C:\Windows\SysWOW64\HrtfApo".IsHrtfApoAvailable

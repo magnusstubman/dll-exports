@@ -1,0 +1,10 @@
+EXPORTS
+  WcAttachFilterEx="C:\Windows\System32\wc_storage".WcAttachFilterEx
+  WcCreateSandboxStubFiles="C:\Windows\System32\wc_storage".WcCreateSandboxStubFiles
+  WcDestroyLayer="C:\Windows\System32\wc_storage".WcDestroyLayer
+  WcDetachFilterEx="C:\Windows\System32\wc_storage".WcDetachFilterEx
+  WcExportLayerEx="C:\Windows\System32\wc_storage".WcExportLayerEx
+  WcImportLayerEx="C:\Windows\System32\wc_storage".WcImportLayerEx
+  WcInitializeSandbox="C:\Windows\System32\wc_storage".WcInitializeSandbox
+  WcInitializeSandboxEx="C:\Windows\System32\wc_storage".WcInitializeSandboxEx
+  WcPopulateNewLayer="C:\Windows\System32\wc_storage".WcPopulateNewLayer

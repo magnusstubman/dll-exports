@@ -1,0 +1,7 @@
+EXPORTS
+  ?classCCachedDataPathProperty@CCachedDataPathProperty@@2UCRuntimeClass@@B="C:\Windows\SysWOW64\mfc42u".?classCCachedDataPathProperty@CCachedDataPathProperty@@2UCRuntimeClass@@B
+  ?classCDataPathProperty@CDataPathProperty@@2UCRuntimeClass@@B="C:\Windows\SysWOW64\mfc42u".?classCDataPathProperty@CDataPathProperty@@2UCRuntimeClass@@B
+  DllCanUnloadNow="C:\Windows\SysWOW64\mfc42u".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mfc42u".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\mfc42u".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\mfc42u".DllUnregisterServer

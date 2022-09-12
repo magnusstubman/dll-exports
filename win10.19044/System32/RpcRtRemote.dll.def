@@ -1,0 +1,11 @@
+EXPORTS
+  DuplicateCertificate="C:\Windows\System32\RpcRtRemote".DuplicateCertificate
+  FreeCertificate="C:\Windows\System32\RpcRtRemote".FreeCertificate
+  GeneratePrincipalName="C:\Windows\System32\RpcRtRemote".GeneratePrincipalName
+  I_RpcExtInitializeExtensionPoint="C:\Windows\System32\RpcRtRemote".I_RpcExtInitializeExtensionPoint
+  IndicatePortInUse="C:\Windows\System32\RpcRtRemote".IndicatePortInUse
+  IsMarshaledCredential="C:\Windows\System32\RpcRtRemote".IsMarshaledCredential
+  MatchPrincipalName="C:\Windows\System32\RpcRtRemote".MatchPrincipalName
+  ProcessAndProvisionCertificate="C:\Windows\System32\RpcRtRemote".ProcessAndProvisionCertificate
+  ResetIndicatedPortsInUse="C:\Windows\System32\RpcRtRemote".ResetIndicatedPortsInUse
+  ValidatePrincipalName="C:\Windows\System32\RpcRtRemote".ValidatePrincipalName

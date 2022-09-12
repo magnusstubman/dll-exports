@@ -1,0 +1,7 @@
+EXPORTS
+  AzGenerateAudit="C:\Windows\System32\AzSqlExt".AzGenerateAudit
+  __GetXpVersion="C:\Windows\System32\AzSqlExt".__GetXpVersion
+  xp_AzManAddRole="C:\Windows\System32\AzSqlExt".xp_AzManAddRole
+  xp_AzManAddUserToRole="C:\Windows\System32\AzSqlExt".xp_AzManAddUserToRole
+  xp_AzManDeleteRole="C:\Windows\System32\AzSqlExt".xp_AzManDeleteRole
+  xp_AzManRemoveUserFromRole="C:\Windows\System32\AzSqlExt".xp_AzManRemoveUserFromRole

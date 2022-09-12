@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\pnpui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\pnpui".DllGetClassObject
+  InstallSecurityPrompt="C:\Windows\System32\pnpui".InstallSecurityPrompt
+  InstallSecurityPromptLUA="C:\Windows\System32\pnpui".InstallSecurityPromptLUA
+  InstallSecurityPromptRunDllW="C:\Windows\System32\pnpui".InstallSecurityPromptRunDllW
+  NotifyDevicesNeedRebootRunDllW="C:\Windows\System32\pnpui".NotifyDevicesNeedRebootRunDllW
+  SimplifiedDINotificationW="C:\Windows\System32\pnpui".SimplifiedDINotificationW

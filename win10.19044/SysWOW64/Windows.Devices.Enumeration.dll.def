@@ -1,0 +1,6 @@
+EXPORTS
+  AqsFreeDevQueryFilter="C:\Windows\SysWOW64\Windows.Devices.Enumeration".AqsFreeDevQueryFilter
+  AqsToDevQueryFilter="C:\Windows\SysWOW64\Windows.Devices.Enumeration".AqsToDevQueryFilter
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.Devices.Enumeration".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.Devices.Enumeration".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.Devices.Enumeration".DllGetClassObject

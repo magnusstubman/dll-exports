@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:WSDCHNGRChallengeDeviceClass=\"C:\\Windows\\SysWOW64\\wsdchngr.WSDCHNGRChallengeDeviceClass\"")
+#pragma comment(linker, "/export:WSDCHNGRInitialize=\"C:\\Windows\\SysWOW64\\wsdchngr.WSDCHNGRInitialize\"")
+#pragma comment(linker, "/export:WSDCHNGRRegisterDeviceToChallenge=\"C:\\Windows\\SysWOW64\\wsdchngr.WSDCHNGRRegisterDeviceToChallenge\"")
+#pragma comment(linker, "/export:WSDCHNGRRegisterDeviceToChallengeByGlobalId=\"C:\\Windows\\SysWOW64\\wsdchngr.WSDCHNGRRegisterDeviceToChallengeByGlobalId\"")
+#pragma comment(linker, "/export:WSDCHNGRRemoveDevice=\"C:\\Windows\\SysWOW64\\wsdchngr.WSDCHNGRRemoveDevice\"")
+#pragma comment(linker, "/export:WSDCHNGRShutdown=\"C:\\Windows\\SysWOW64\\wsdchngr.WSDCHNGRShutdown\"")

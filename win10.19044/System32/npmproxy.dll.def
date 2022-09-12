@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\npmproxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\npmproxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\npmproxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\npmproxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\npmproxy".GetProxyDllInfo

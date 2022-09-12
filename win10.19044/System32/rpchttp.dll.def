@@ -1,0 +1,20 @@
+EXPORTS
+  CompareHttpTransportCredentials="C:\Windows\System32\rpchttp".CompareHttpTransportCredentials
+  ConvertToUnicodeHttpTransportCredentials="C:\Windows\System32\rpchttp".ConvertToUnicodeHttpTransportCredentials
+  DuplicateHttpTransportCredentials="C:\Windows\System32\rpchttp".DuplicateHttpTransportCredentials
+  FreeHttpTransportCredentials="C:\Windows\System32\rpchttp".FreeHttpTransportCredentials
+  HTTP2GetRpcConnectionTransport="C:\Windows\System32\rpchttp".HTTP2GetRpcConnectionTransport
+  HTTP2ProcessComplexTReceive="C:\Windows\System32\rpchttp".HTTP2ProcessComplexTReceive
+  HTTP2ProcessComplexTSend="C:\Windows\System32\rpchttp".HTTP2ProcessComplexTSend
+  HTTP2ProcessRuntimePostedEvent="C:\Windows\System32\rpchttp".HTTP2ProcessRuntimePostedEvent
+  HTTP2TestHook="C:\Windows\System32\rpchttp".HTTP2TestHook
+  HttpParseNetworkOptions="C:\Windows\System32\rpchttp".HttpParseNetworkOptions
+  HttpSendIdentifyResponse="C:\Windows\System32\rpchttp".HttpSendIdentifyResponse
+  I_RpcExtInitializeExtensionPoint="C:\Windows\System32\rpchttp".I_RpcExtInitializeExtensionPoint
+  I_RpcGetRpcProxy="C:\Windows\System32\rpchttp".I_RpcGetRpcProxy
+  I_RpcProxyNewConnection="C:\Windows\System32\rpchttp".I_RpcProxyNewConnection
+  I_RpcReplyToClientWithStatus="C:\Windows\System32\rpchttp".I_RpcReplyToClientWithStatus
+  I_RpcTransFreeHttpCredentials="C:\Windows\System32\rpchttp".I_RpcTransFreeHttpCredentials
+  I_RpcTransGetHttpCredentials="C:\Windows\System32\rpchttp".I_RpcTransGetHttpCredentials
+  WS_HTTP2_CONNECTION__Initialize="C:\Windows\System32\rpchttp".WS_HTTP2_CONNECTION__Initialize
+  WS_HTTP2_INITIAL_CONNECTION__new="C:\Windows\System32\rpchttp".WS_HTTP2_INITIAL_CONNECTION__new

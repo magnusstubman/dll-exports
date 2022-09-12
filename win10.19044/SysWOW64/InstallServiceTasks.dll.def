@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\InstallServiceTasks".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\InstallServiceTasks".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\InstallServiceTasks".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\InstallServiceTasks".DllUnregisterServer
+  ForceAppInUseRestart="C:\Windows\SysWOW64\InstallServiceTasks".ForceAppInUseRestart

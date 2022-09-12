@@ -1,0 +1,4 @@
+EXPORTS
+  CloseDiskObject="C:\Windows\System32\perfdisk".CloseDiskObject
+  CollectDiskObjectData="C:\Windows\System32\perfdisk".CollectDiskObjectData
+  OpenDiskObject="C:\Windows\System32\perfdisk".OpenDiskObject

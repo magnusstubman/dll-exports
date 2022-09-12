@@ -1,0 +1,12 @@
+EXPORTS
+  CredentialUpdateFree="C:\Windows\System32\kdcpw".CredentialUpdateFree
+  CredentialUpdateNotify="C:\Windows\System32\kdcpw".CredentialUpdateNotify
+  CredentialUpdateNotify2="C:\Windows\System32\kdcpw".CredentialUpdateNotify2
+  CredentialUpdateRegister="C:\Windows\System32\kdcpw".CredentialUpdateRegister
+  CredentialUpdateRegister2="C:\Windows\System32\kdcpw".CredentialUpdateRegister2
+  InitializeChangeNotify="C:\Windows\System32\kdcpw".InitializeChangeNotify
+  PasswordChangeNotify="C:\Windows\System32\kdcpw".PasswordChangeNotify
+  RegisterMappedEntrypoints="C:\Windows\System32\kdcpw".RegisterMappedEntrypoints
+  StrongNtowfFree="C:\Windows\System32\kdcpw".StrongNtowfFree
+  StrongNtowfNotify="C:\Windows\System32\kdcpw".StrongNtowfNotify
+  StrongNtowfRegister="C:\Windows\System32\kdcpw".StrongNtowfRegister

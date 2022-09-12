@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\WindowsCodecsRaw".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\WindowsCodecsRaw".DllGetClassObject

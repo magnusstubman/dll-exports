@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.WiFi".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.WiFi".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.WiFi".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.Devices.WiFi".DllMain
+  DllRegisterServer="C:\Windows\System32\Windows.Devices.WiFi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Devices.WiFi".DllUnregisterServer

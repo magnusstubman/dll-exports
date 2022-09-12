@@ -1,0 +1,4 @@
+EXPORTS
+  DMProcessConfigXML="C:\Windows\SysWOW64\dmprocessxmlfiltered".DMProcessConfigXML
+  DMProcessConfigXMLFiltered="C:\Windows\SysWOW64\dmprocessxmlfiltered".DMProcessConfigXMLFiltered
+  MdmProcessConfigXmlWithAttributes="C:\Windows\SysWOW64\dmprocessxmlfiltered".MdmProcessConfigXmlWithAttributes

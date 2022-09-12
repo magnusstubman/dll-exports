@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Management.ModernDeployment.ConfigProviders".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.Management.ModernDeployment.ConfigProviders".DllGetClassObject

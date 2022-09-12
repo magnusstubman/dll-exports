@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\IasMigPlugin".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\IasMigPlugin".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\IasMigPlugin".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\IasMigPlugin".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\IasMigPlugin".DllUnregisterServer
+  IasUpgradeComplianceCheck="C:\Windows\SysWOW64\IasMigPlugin".IasUpgradeComplianceCheck

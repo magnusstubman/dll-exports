@@ -1,0 +1,7 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\System32\gptext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\gptext".DllUnregisterServer
+  ProcessConnectivityPlatformPolicy="C:\Windows\System32\gptext".ProcessConnectivityPlatformPolicy
+  ProcessEQoSPolicy="C:\Windows\System32\gptext".ProcessEQoSPolicy
+  ProcessPSCHEDPolicy="C:\Windows\System32\gptext".ProcessPSCHEDPolicy
+  ProcessTCPIPPolicy="C:\Windows\System32\gptext".ProcessTCPIPPolicy

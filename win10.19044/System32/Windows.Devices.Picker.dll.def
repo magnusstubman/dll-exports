@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.Picker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.Picker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.Picker".DllGetClassObject
+  ServiceMain="C:\Windows\System32\Windows.Devices.Picker".ServiceMain

@@ -1,0 +1,3 @@
+EXPORTS
+  SvchostPushServiceGlobals="C:\Windows\System32\wwansvc".SvchostPushServiceGlobals
+  WwanSvcMain="C:\Windows\System32\wwansvc".WwanSvcMain

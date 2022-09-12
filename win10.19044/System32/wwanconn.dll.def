@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wwanconn".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wwanconn".DllGetClassObject
+  DllMain="C:\Windows\System32\wwanconn".DllMain

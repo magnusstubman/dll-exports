@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ddisplay".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\ddisplay".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\ddisplay".DllGetClassObject

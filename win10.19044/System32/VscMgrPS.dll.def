@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\VscMgrPS".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\VscMgrPS".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\VscMgrPS".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\VscMgrPS".DllUnregisterServer

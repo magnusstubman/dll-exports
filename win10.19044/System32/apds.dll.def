@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\apds".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\apds".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\apds".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\apds".DllUnregisterServer

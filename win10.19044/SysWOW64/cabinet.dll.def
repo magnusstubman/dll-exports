@@ -1,0 +1,27 @@
+EXPORTS
+  CloseCompressor="C:\Windows\SysWOW64\cabinet".CloseCompressor
+  CloseDecompressor="C:\Windows\SysWOW64\cabinet".CloseDecompressor
+  Compress="C:\Windows\SysWOW64\cabinet".Compress
+  CreateCompressor="C:\Windows\SysWOW64\cabinet".CreateCompressor
+  CreateDecompressor="C:\Windows\SysWOW64\cabinet".CreateDecompressor
+  Decompress="C:\Windows\SysWOW64\cabinet".Decompress
+  DeleteExtractedFiles="C:\Windows\SysWOW64\cabinet".DeleteExtractedFiles
+  DllGetVersion="C:\Windows\SysWOW64\cabinet".DllGetVersion
+  Extract="C:\Windows\SysWOW64\cabinet".Extract
+  FCIAddFile="C:\Windows\SysWOW64\cabinet".FCIAddFile
+  FCICreate="C:\Windows\SysWOW64\cabinet".FCICreate
+  FCIDestroy="C:\Windows\SysWOW64\cabinet".FCIDestroy
+  FCIFlushCabinet="C:\Windows\SysWOW64\cabinet".FCIFlushCabinet
+  FCIFlushFolder="C:\Windows\SysWOW64\cabinet".FCIFlushFolder
+  FDICopy="C:\Windows\SysWOW64\cabinet".FDICopy
+  FDICreate="C:\Windows\SysWOW64\cabinet".FDICreate
+  FDIDestroy="C:\Windows\SysWOW64\cabinet".FDIDestroy
+  FDIIsCabinet="C:\Windows\SysWOW64\cabinet".FDIIsCabinet
+  FDITruncateCabinet="C:\Windows\SysWOW64\cabinet".FDITruncateCabinet
+  GetDllVersion="C:\Windows\SysWOW64\cabinet".GetDllVersion
+  QueryCompressorInformation="C:\Windows\SysWOW64\cabinet".QueryCompressorInformation
+  QueryDecompressorInformation="C:\Windows\SysWOW64\cabinet".QueryDecompressorInformation
+  ResetCompressor="C:\Windows\SysWOW64\cabinet".ResetCompressor
+  ResetDecompressor="C:\Windows\SysWOW64\cabinet".ResetDecompressor
+  SetCompressorInformation="C:\Windows\SysWOW64\cabinet".SetCompressorInformation
+  SetDecompressorInformation="C:\Windows\SysWOW64\cabinet".SetDecompressorInformation

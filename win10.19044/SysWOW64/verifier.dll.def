@@ -1,0 +1,27 @@
+EXPORTS
+  AVrfAPILookupCallback="C:\Windows\SysWOW64\verifier".AVrfAPILookupCallback
+  VerifierAddFreeMemoryCallback="C:\Windows\SysWOW64\verifier".VerifierAddFreeMemoryCallback
+  VerifierCheckPageHeapAllocation="C:\Windows\SysWOW64\verifier".VerifierCheckPageHeapAllocation
+  VerifierCreateRpcPageHeap="C:\Windows\SysWOW64\verifier".VerifierCreateRpcPageHeap
+  VerifierDeleteFreeMemoryCallback="C:\Windows\SysWOW64\verifier".VerifierDeleteFreeMemoryCallback
+  VerifierDestroyRpcPageHeap="C:\Windows\SysWOW64\verifier".VerifierDestroyRpcPageHeap
+  VerifierDisableFaultInjectionExclusionRange="C:\Windows\SysWOW64\verifier".VerifierDisableFaultInjectionExclusionRange
+  VerifierDisableFaultInjectionTargetRange="C:\Windows\SysWOW64\verifier".VerifierDisableFaultInjectionTargetRange
+  VerifierEnableFaultInjectionExclusionRange="C:\Windows\SysWOW64\verifier".VerifierEnableFaultInjectionExclusionRange
+  VerifierEnableFaultInjectionTargetRange="C:\Windows\SysWOW64\verifier".VerifierEnableFaultInjectionTargetRange
+  VerifierEnumerateResource="C:\Windows\SysWOW64\verifier".VerifierEnumerateResource
+  VerifierForceNormalHeap="C:\Windows\SysWOW64\verifier".VerifierForceNormalHeap
+  VerifierGetInfoForException="C:\Windows\SysWOW64\verifier".VerifierGetInfoForException
+  VerifierGetMemoryForDump="C:\Windows\SysWOW64\verifier".VerifierGetMemoryForDump
+  VerifierGetPropertyValueByName="C:\Windows\SysWOW64\verifier".VerifierGetPropertyValueByName
+  VerifierGetProviderHelper="C:\Windows\SysWOW64\verifier".VerifierGetProviderHelper
+  VerifierIsAddressInAnyPageHeap="C:\Windows\SysWOW64\verifier".VerifierIsAddressInAnyPageHeap
+  VerifierIsCurrentThreadHoldingLocks="C:\Windows\SysWOW64\verifier".VerifierIsCurrentThreadHoldingLocks
+  VerifierIsDllEntryActive="C:\Windows\SysWOW64\verifier".VerifierIsDllEntryActive
+  VerifierIsPerUserSettingsEnabled="C:\Windows\SysWOW64\verifier".VerifierIsPerUserSettingsEnabled
+  VerifierQueryRuntimeFlags="C:\Windows\SysWOW64\verifier".VerifierQueryRuntimeFlags
+  VerifierRedirectStopFunctions="C:\Windows\SysWOW64\verifier".VerifierRedirectStopFunctions
+  VerifierSetFaultInjectionProbability="C:\Windows\SysWOW64\verifier".VerifierSetFaultInjectionProbability
+  VerifierSetFlags="C:\Windows\SysWOW64\verifier".VerifierSetFlags
+  VerifierSetRuntimeFlags="C:\Windows\SysWOW64\verifier".VerifierSetRuntimeFlags
+  VerifierStopMessage="C:\Windows\SysWOW64\verifier".VerifierStopMessage

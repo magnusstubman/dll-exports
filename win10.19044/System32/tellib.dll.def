@@ -1,0 +1,25 @@
+EXPORTS
+  TelLib_Cleanup="C:\Windows\System32\tellib".TelLib_Cleanup
+  TelLib_ConfigureSetting="C:\Windows\System32\tellib".TelLib_ConfigureSetting
+  TelLib_EventWrite="C:\Windows\System32\tellib".TelLib_EventWrite
+  TelLib_ForceUpload="C:\Windows\System32\tellib".TelLib_ForceUpload
+  TelLib_ForceUploadLatency="C:\Windows\System32\tellib".TelLib_ForceUploadLatency
+  TelLib_Initialize="C:\Windows\System32\tellib".TelLib_Initialize
+  TelLib_Initialize2="C:\Windows\System32\tellib".TelLib_Initialize2
+  TelLib_SetAgentConnectivityCallback="C:\Windows\System32\tellib".TelLib_SetAgentConnectivityCallback
+  TelLib_SetBandwidthExceededChangedCallback="C:\Windows\System32\tellib".TelLib_SetBandwidthExceededChangedCallback
+  TelLib_SetBatteryState="C:\Windows\System32\tellib".TelLib_SetBatteryState
+  TelLib_SetConnectedStandby="C:\Windows\System32\tellib".TelLib_SetConnectedStandby
+  TelLib_SetCustomRequestFieldCallback="C:\Windows\System32\tellib".TelLib_SetCustomRequestFieldCallback
+  TelLib_SetDailyUploadQuota="C:\Windows\System32\tellib".TelLib_SetDailyUploadQuota
+  TelLib_SetDiskActivityCallback="C:\Windows\System32\tellib".TelLib_SetDiskActivityCallback
+  TelLib_SetDiskQuota="C:\Windows\System32\tellib".TelLib_SetDiskQuota
+  TelLib_SetGeneralQuietMode="C:\Windows\System32\tellib".TelLib_SetGeneralQuietMode
+  TelLib_SetNetworkActivityCallback="C:\Windows\System32\tellib".TelLib_SetNetworkActivityCallback
+  TelLib_SetNetworkImpersonationContext="C:\Windows\System32\tellib".TelLib_SetNetworkImpersonationContext
+  TelLib_SetNetworkState="C:\Windows\System32\tellib".TelLib_SetNetworkState
+  TelLib_SetProxyInfo="C:\Windows\System32\tellib".TelLib_SetProxyInfo
+  TelLib_SetTenantToken="C:\Windows\System32\tellib".TelLib_SetTenantToken
+  TelLib_SetTimerValue="C:\Windows\System32\tellib".TelLib_SetTimerValue
+  TelLib_SetUploadFailedCallback="C:\Windows\System32\tellib".TelLib_SetUploadFailedCallback
+  TelLib_SetUploadUrls="C:\Windows\System32\tellib".TelLib_SetUploadUrls

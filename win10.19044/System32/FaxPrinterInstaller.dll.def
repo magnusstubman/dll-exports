@@ -1,0 +1,3 @@
+EXPORTS
+  InstallLocalFaxPrinter="C:\Windows\System32\FaxPrinterInstaller".InstallLocalFaxPrinter
+  UninstallLocalFaxPrinter="C:\Windows\System32\FaxPrinterInstaller".UninstallLocalFaxPrinter

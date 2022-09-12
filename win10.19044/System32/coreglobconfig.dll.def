@@ -1,0 +1,12 @@
+EXPORTS
+  CreateUserSpecificGlobalizationSettings="C:\Windows\System32\coreglobconfig".CreateUserSpecificGlobalizationSettings
+  DllCanUnloadNow="C:\Windows\System32\coreglobconfig".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\coreglobconfig".DllGetClassObject
+  GetDisplayLanguageLocalizedName="C:\Windows\System32\coreglobconfig".GetDisplayLanguageLocalizedName
+  GetDisplayLanguageNativeName="C:\Windows\System32\coreglobconfig".GetDisplayLanguageNativeName
+  GetSupportedDisplayLanguages="C:\Windows\System32\coreglobconfig".GetSupportedDisplayLanguages
+  SetDisplayLanguageCore="C:\Windows\System32\coreglobconfig".SetDisplayLanguageCore
+  SetUserDisplayLanguageCore="C:\Windows\System32\coreglobconfig".SetUserDisplayLanguageCore
+  SyncLanguageDataFromCloud="C:\Windows\System32\coreglobconfig".SyncLanguageDataFromCloud
+  SyncLanguageDataToCloud="C:\Windows\System32\coreglobconfig".SyncLanguageDataToCloud
+  UpdateDefaultGlobalizationSettings="C:\Windows\System32\coreglobconfig".UpdateDefaultGlobalizationSettings

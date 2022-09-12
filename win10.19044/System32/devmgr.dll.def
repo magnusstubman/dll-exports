@@ -1,0 +1,24 @@
+EXPORTS
+  DeviceAdvancedPropertiesA="C:\Windows\System32\devmgr".DeviceAdvancedPropertiesA
+  DeviceAdvancedPropertiesW="C:\Windows\System32\devmgr".DeviceAdvancedPropertiesW
+  DeviceCreateHardwarePage="C:\Windows\System32\devmgr".DeviceCreateHardwarePage
+  DeviceCreateHardwarePageCustom="C:\Windows\System32\devmgr".DeviceCreateHardwarePageCustom
+  DeviceCreateHardwarePageEx="C:\Windows\System32\devmgr".DeviceCreateHardwarePageEx
+  DeviceManager_ExecuteA="C:\Windows\System32\devmgr".DeviceManager_ExecuteA
+  DeviceManager_ExecuteW="C:\Windows\System32\devmgr".DeviceManager_ExecuteW
+  DeviceProblemTextA="C:\Windows\System32\devmgr".DeviceProblemTextA
+  DeviceProblemTextW="C:\Windows\System32\devmgr".DeviceProblemTextW
+  DeviceProblemWizardA="C:\Windows\System32\devmgr".DeviceProblemWizardA
+  DeviceProblemWizardW="C:\Windows\System32\devmgr".DeviceProblemWizardW
+  DeviceProblenWizard_RunDLLA="C:\Windows\System32\devmgr".DeviceProblenWizard_RunDLLA
+  DeviceProblenWizard_RunDLLW="C:\Windows\System32\devmgr".DeviceProblenWizard_RunDLLW
+  DevicePropertiesA="C:\Windows\System32\devmgr".DevicePropertiesA
+  DevicePropertiesExA="C:\Windows\System32\devmgr".DevicePropertiesExA
+  DevicePropertiesExW="C:\Windows\System32\devmgr".DevicePropertiesExW
+  DevicePropertiesW="C:\Windows\System32\devmgr".DevicePropertiesW
+  DeviceProperties_RunDLLA="C:\Windows\System32\devmgr".DeviceProperties_RunDLLA
+  DeviceProperties_RunDLLW="C:\Windows\System32\devmgr".DeviceProperties_RunDLLW
+  DllCanUnloadNow="C:\Windows\System32\devmgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\devmgr".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\devmgr".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\devmgr".DllUnregisterServer

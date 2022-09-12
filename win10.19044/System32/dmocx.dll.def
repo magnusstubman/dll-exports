@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dmocx".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dmocx".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dmocx".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dmocx".DllUnregisterServer

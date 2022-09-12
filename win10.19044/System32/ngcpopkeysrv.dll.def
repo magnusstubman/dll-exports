@@ -1,0 +1,16 @@
+EXPORTS
+  NgcGetPregenKey="C:\Windows\System32\ngcpopkeysrv".NgcGetPregenKey
+  NgcPregenKey="C:\Windows\System32\ngcpopkeysrv".NgcPregenKey
+  NgcTriggerTask="C:\Windows\System32\ngcpopkeysrv".NgcTriggerTask
+  s_NgcDecryptWithSymmetricPopKey="C:\Windows\System32\ngcpopkeysrv".s_NgcDecryptWithSymmetricPopKey
+  s_NgcDeleteSymmetricPopKeyTransportKey="C:\Windows\System32\ngcpopkeysrv".s_NgcDeleteSymmetricPopKeyTransportKey
+  s_NgcEncryptWithSymmetricPopKey="C:\Windows\System32\ngcpopkeysrv".s_NgcEncryptWithSymmetricPopKey
+  s_NgcGetKeyAttestationForContainerService="C:\Windows\System32\ngcpopkeysrv".s_NgcGetKeyAttestationForContainerService
+  s_NgcGetPregenKeyState="C:\Windows\System32\ngcpopkeysrv".s_NgcGetPregenKeyState
+  s_NgcGetPregenUserKey="C:\Windows\System32\ngcpopkeysrv".s_NgcGetPregenUserKey
+  s_NgcGetSymmetricPopKeyTransportKey="C:\Windows\System32\ngcpopkeysrv".s_NgcGetSymmetricPopKeyTransportKey
+  s_NgcGetSymmetricPopKeyTransportKeyName="C:\Windows\System32\ngcpopkeysrv".s_NgcGetSymmetricPopKeyTransportKeyName
+  s_NgcImportSymmetricPopKey="C:\Windows\System32\ngcpopkeysrv".s_NgcImportSymmetricPopKey
+  s_NgcRenewKeyAttestation="C:\Windows\System32\ngcpopkeysrv".s_NgcRenewKeyAttestation
+  s_NgcSignWithSymmetricPopKey="C:\Windows\System32\ngcpopkeysrv".s_NgcSignWithSymmetricPopKey
+  s_NgcVerifyWithSymmetricPopKey="C:\Windows\System32\ngcpopkeysrv".s_NgcVerifyWithSymmetricPopKey

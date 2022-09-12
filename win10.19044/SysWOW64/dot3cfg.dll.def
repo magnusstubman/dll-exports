@@ -1,0 +1,3 @@
+EXPORTS
+  GetResourceString="C:\Windows\SysWOW64\dot3cfg".GetResourceString
+  InitHelperDll="C:\Windows\SysWOW64\dot3cfg".InitHelperDll

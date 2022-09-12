@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\windowslivelogin".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\windowslivelogin".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\windowslivelogin".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\windowslivelogin".DllUnregisterServer

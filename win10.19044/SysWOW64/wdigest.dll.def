@@ -1,0 +1,10 @@
+EXPORTS
+  CredentialUpdateFree="C:\Windows\SysWOW64\wdigest".CredentialUpdateFree
+  CredentialUpdateNotify="C:\Windows\SysWOW64\wdigest".CredentialUpdateNotify
+  CredentialUpdateRegister="C:\Windows\SysWOW64\wdigest".CredentialUpdateRegister
+  SpInitialize="C:\Windows\SysWOW64\wdigest".SpInitialize
+  SpInstanceInit="C:\Windows\SysWOW64\wdigest".SpInstanceInit
+  SpLsaModeInitialize="C:\Windows\SysWOW64\wdigest".SpLsaModeInitialize
+  SpUserModeInitialize="C:\Windows\SysWOW64\wdigest".SpUserModeInitialize
+  SsiCredentialsUpdateFree="C:\Windows\SysWOW64\wdigest".SsiCredentialsUpdateFree
+  SsiCredentialsUpdateNotify="C:\Windows\SysWOW64\wdigest".SsiCredentialsUpdateNotify

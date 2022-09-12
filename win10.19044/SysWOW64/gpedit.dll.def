@@ -1,0 +1,9 @@
+EXPORTS
+  BrowseForGPO="C:\Windows\SysWOW64\gpedit".BrowseForGPO
+  CreateGPOLink="C:\Windows\SysWOW64\gpedit".CreateGPOLink
+  DeleteAllGPOLinks="C:\Windows\SysWOW64\gpedit".DeleteAllGPOLinks
+  DeleteGPOLink="C:\Windows\SysWOW64\gpedit".DeleteGPOLink
+  DllCanUnloadNow="C:\Windows\SysWOW64\gpedit".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\gpedit".DllGetClassObject
+  ExportRSoPData="C:\Windows\SysWOW64\gpedit".ExportRSoPData
+  ImportRSoPData="C:\Windows\SysWOW64\gpedit".ImportRSoPData

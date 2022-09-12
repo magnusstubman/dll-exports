@@ -1,0 +1,15 @@
+EXPORTS
+  BackupPerfRegistryToFileW="C:\Windows\System32\loadperf".BackupPerfRegistryToFileW
+  InstallPerfDllA="C:\Windows\System32\loadperf".InstallPerfDllA
+  InstallPerfDllW="C:\Windows\System32\loadperf".InstallPerfDllW
+  LoadPerfCounterTextStringsA="C:\Windows\System32\loadperf".LoadPerfCounterTextStringsA
+  LoadPerfCounterTextStringsW="C:\Windows\System32\loadperf".LoadPerfCounterTextStringsW
+  LpAcquireInstallationMutex="C:\Windows\System32\loadperf".LpAcquireInstallationMutex
+  LpReleaseInstallationMutex="C:\Windows\System32\loadperf".LpReleaseInstallationMutex
+  RestorePerfRegistryFromFileW="C:\Windows\System32\loadperf".RestorePerfRegistryFromFileW
+  SetServiceAsTrustedA="C:\Windows\System32\loadperf".SetServiceAsTrustedA
+  SetServiceAsTrustedW="C:\Windows\System32\loadperf".SetServiceAsTrustedW
+  UnloadPerfCounterTextStringsA="C:\Windows\System32\loadperf".UnloadPerfCounterTextStringsA
+  UnloadPerfCounterTextStringsW="C:\Windows\System32\loadperf".UnloadPerfCounterTextStringsW
+  UpdatePerfNameFilesA="C:\Windows\System32\loadperf".UpdatePerfNameFilesA
+  UpdatePerfNameFilesW="C:\Windows\System32\loadperf".UpdatePerfNameFilesW

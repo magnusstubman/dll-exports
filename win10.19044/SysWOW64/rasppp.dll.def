@@ -1,0 +1,9 @@
+EXPORTS
+  InitializeProtocolEngine="C:\Windows\SysWOW64\rasppp".InitializeProtocolEngine
+  InitializeServerProtocolEngine="C:\Windows\SysWOW64\rasppp".InitializeServerProtocolEngine
+  PppStop="C:\Windows\SysWOW64\rasppp".PppStop
+  RasCpEnumProtocolIds="C:\Windows\SysWOW64\rasppp".RasCpEnumProtocolIds
+  RasCpGetInfo="C:\Windows\SysWOW64\rasppp".RasCpGetInfo
+  SendMessageToProtocolEngine="C:\Windows\SysWOW64\rasppp".SendMessageToProtocolEngine
+  UninitializeProtocolEngine="C:\Windows\SysWOW64\rasppp".UninitializeProtocolEngine
+  UninitializeServerProtocolEngine="C:\Windows\SysWOW64\rasppp".UninitializeServerProtocolEngine

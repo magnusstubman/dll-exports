@@ -1,0 +1,4 @@
+EXPORTS
+  Dot11MsmDeInit="C:\Windows\System32\wlanmsm".Dot11MsmDeInit
+  Dot11MsmInit="C:\Windows\System32\wlanmsm".Dot11MsmInit
+  InitializeDll="C:\Windows\System32\wlanmsm".InitializeDll

@@ -1,0 +1,4 @@
+EXPORTS
+  CloseUsbPerformanceData="C:\Windows\SysWOW64\usbperf".CloseUsbPerformanceData
+  CollectUsbPerformanceData="C:\Windows\SysWOW64\usbperf".CollectUsbPerformanceData
+  OpenUsbPerformanceData="C:\Windows\SysWOW64\usbperf".OpenUsbPerformanceData

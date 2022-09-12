@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\FXSCOM".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\FXSCOM".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\FXSCOM".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\FXSCOM".DllUnregisterServer

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CredProvDataModel".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\CredProvDataModel".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\CredProvDataModel".DllGetClassObject

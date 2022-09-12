@@ -1,0 +1,8 @@
+EXPORTS
+  IEApplyCurrentHardening="C:\Windows\SysWOW64\iesetup".IEApplyCurrentHardening
+  IEHardenAdmin="C:\Windows\SysWOW64\iesetup".IEHardenAdmin
+  IEHardenAdminNow="C:\Windows\SysWOW64\iesetup".IEHardenAdminNow
+  IEHardenLMSettings="C:\Windows\SysWOW64\iesetup".IEHardenLMSettings
+  IEHardenMachineNow="C:\Windows\SysWOW64\iesetup".IEHardenMachineNow
+  IEHardenUser="C:\Windows\SysWOW64\iesetup".IEHardenUser
+  IEShowHardeningDialog="C:\Windows\SysWOW64\iesetup".IEShowHardeningDialog

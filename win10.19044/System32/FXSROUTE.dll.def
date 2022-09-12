@@ -1,0 +1,11 @@
+EXPORTS
+  FaxExtInitializeConfig="C:\Windows\System32\FXSROUTE".FaxExtInitializeConfig
+  FaxRouteConfigure="C:\Windows\System32\FXSROUTE".FaxRouteConfigure
+  FaxRouteDeviceChangeNotification="C:\Windows\System32\FXSROUTE".FaxRouteDeviceChangeNotification
+  FaxRouteDeviceEnable="C:\Windows\System32\FXSROUTE".FaxRouteDeviceEnable
+  FaxRouteEmail="C:\Windows\System32\FXSROUTE".FaxRouteEmail
+  FaxRouteGetRoutingInfo="C:\Windows\System32\FXSROUTE".FaxRouteGetRoutingInfo
+  FaxRouteInitialize="C:\Windows\System32\FXSROUTE".FaxRouteInitialize
+  FaxRoutePrint="C:\Windows\System32\FXSROUTE".FaxRoutePrint
+  FaxRouteSetRoutingInfo="C:\Windows\System32\FXSROUTE".FaxRouteSetRoutingInfo
+  FaxRouteStore="C:\Windows\System32\FXSROUTE".FaxRouteStore

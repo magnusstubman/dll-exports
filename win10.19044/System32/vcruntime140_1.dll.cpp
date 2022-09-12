@@ -1,0 +1,1 @@
+#pragma comment(linker, "/export:__CxxFrameHandler4=\"C:\\Windows\\System32\\vcruntime140_1.__CxxFrameHandler4\"")

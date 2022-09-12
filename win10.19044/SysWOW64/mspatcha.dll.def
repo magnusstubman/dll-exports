@@ -1,0 +1,17 @@
+EXPORTS
+  ApplyPatchToFileA="C:\Windows\SysWOW64\mspatcha".ApplyPatchToFileA
+  ApplyPatchToFileByBuffers="C:\Windows\SysWOW64\mspatcha".ApplyPatchToFileByBuffers
+  ApplyPatchToFileByHandles="C:\Windows\SysWOW64\mspatcha".ApplyPatchToFileByHandles
+  ApplyPatchToFileByHandlesEx="C:\Windows\SysWOW64\mspatcha".ApplyPatchToFileByHandlesEx
+  ApplyPatchToFileExA="C:\Windows\SysWOW64\mspatcha".ApplyPatchToFileExA
+  ApplyPatchToFileExW="C:\Windows\SysWOW64\mspatcha".ApplyPatchToFileExW
+  ApplyPatchToFileW="C:\Windows\SysWOW64\mspatcha".ApplyPatchToFileW
+  GetFilePatchSignatureA="C:\Windows\SysWOW64\mspatcha".GetFilePatchSignatureA
+  GetFilePatchSignatureByBuffer="C:\Windows\SysWOW64\mspatcha".GetFilePatchSignatureByBuffer
+  GetFilePatchSignatureByHandle="C:\Windows\SysWOW64\mspatcha".GetFilePatchSignatureByHandle
+  GetFilePatchSignatureW="C:\Windows\SysWOW64\mspatcha".GetFilePatchSignatureW
+  NormalizeFileForPatchSignature="C:\Windows\SysWOW64\mspatcha".NormalizeFileForPatchSignature
+  TestApplyPatchToFileA="C:\Windows\SysWOW64\mspatcha".TestApplyPatchToFileA
+  TestApplyPatchToFileByBuffers="C:\Windows\SysWOW64\mspatcha".TestApplyPatchToFileByBuffers
+  TestApplyPatchToFileByHandles="C:\Windows\SysWOW64\mspatcha".TestApplyPatchToFileByHandles
+  TestApplyPatchToFileW="C:\Windows\SysWOW64\mspatcha".TestApplyPatchToFileW

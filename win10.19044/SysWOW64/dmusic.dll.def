@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\dmusic".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dmusic".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\dmusic".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\dmusic".DllUnregisterServer

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Gaming.Preview".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Gaming.Preview".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Gaming.Preview".DllGetClassObject

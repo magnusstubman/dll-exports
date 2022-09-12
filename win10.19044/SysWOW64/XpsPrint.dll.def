@@ -1,0 +1,3 @@
+EXPORTS
+  StartXpsPrintJob="C:\Windows\SysWOW64\XpsPrint".StartXpsPrintJob
+  StartXpsPrintJob1="C:\Windows\SysWOW64\XpsPrint".StartXpsPrintJob1

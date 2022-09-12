@@ -1,0 +1,8 @@
+EXPORTS
+  CscNetApiGetInterface="C:\Windows\SysWOW64\cscapi".CscNetApiGetInterface
+  CscSearchApiGetInterface="C:\Windows\SysWOW64\cscapi".CscSearchApiGetInterface
+  OfflineFilesEnable="C:\Windows\SysWOW64\cscapi".OfflineFilesEnable
+  OfflineFilesGetShareCachingMode="C:\Windows\SysWOW64\cscapi".OfflineFilesGetShareCachingMode
+  OfflineFilesQueryStatus="C:\Windows\SysWOW64\cscapi".OfflineFilesQueryStatus
+  OfflineFilesQueryStatusEx="C:\Windows\SysWOW64\cscapi".OfflineFilesQueryStatusEx
+  OfflineFilesStart="C:\Windows\SysWOW64\cscapi".OfflineFilesStart

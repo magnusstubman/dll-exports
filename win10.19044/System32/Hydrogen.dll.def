@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Hydrogen".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Hydrogen".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Hydrogen".DllGetClassObject

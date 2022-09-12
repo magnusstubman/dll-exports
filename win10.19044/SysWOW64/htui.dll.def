@@ -1,0 +1,8 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\htui".DllMain
+  HTUI_ColorAdjustment="C:\Windows\SysWOW64\htui".HTUI_ColorAdjustment
+  HTUI_ColorAdjustmentA="C:\Windows\SysWOW64\htui".HTUI_ColorAdjustmentA
+  HTUI_ColorAdjustmentW="C:\Windows\SysWOW64\htui".HTUI_ColorAdjustmentW
+  HTUI_DeviceColorAdjustment="C:\Windows\SysWOW64\htui".HTUI_DeviceColorAdjustment
+  HTUI_DeviceColorAdjustmentA="C:\Windows\SysWOW64\htui".HTUI_DeviceColorAdjustmentA
+  HTUI_DeviceColorAdjustmentW="C:\Windows\SysWOW64\htui".HTUI_DeviceColorAdjustmentW

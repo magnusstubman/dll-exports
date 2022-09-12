@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mswmdm".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mswmdm".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mswmdm".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mswmdm".DllUnregisterServer

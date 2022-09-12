@@ -1,0 +1,3 @@
+EXPORTS
+  ConvertFAT="C:\Windows\System32\cnvfat".ConvertFAT
+  IsConversionAvailable="C:\Windows\System32\cnvfat".IsConversionAvailable

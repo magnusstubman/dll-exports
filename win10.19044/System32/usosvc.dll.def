@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\usosvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\usosvc".DllGetClassObject
+  GetDefaultConfiguration="C:\Windows\System32\usosvc".GetDefaultConfiguration
+  GetNextAcceptableTime="C:\Windows\System32\usosvc".GetNextAcceptableTime
+  GetNextAcceptableTimeEx="C:\Windows\System32\usosvc".GetNextAcceptableTimeEx
+  GetSmartActiveHours="C:\Windows\System32\usosvc".GetSmartActiveHours
+  GetSmartActiveHoursEx="C:\Windows\System32\usosvc".GetSmartActiveHoursEx
+  GetSmartBusyCheckVelocityFeature="C:\Windows\System32\usosvc".GetSmartBusyCheckVelocityFeature
+  GetTimeIntervalConfidence="C:\Windows\System32\usosvc".GetTimeIntervalConfidence
+  GetUserActivityPredictionEx="C:\Windows\System32\usosvc".GetUserActivityPredictionEx
+  ServiceMain="C:\Windows\System32\usosvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\usosvc".SvchostPushServiceGlobals

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\UIManagerBrokerps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\UIManagerBrokerps".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\UIManagerBrokerps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\UIManagerBrokerps".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\UIManagerBrokerps".GetProxyDllInfo

@@ -1,0 +1,5 @@
+EXPORTS
+  CPlApplet="C:\Windows\System32\srchadmin".CPlApplet
+  DllCanUnloadNow="C:\Windows\System32\srchadmin".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\srchadmin".DllGetClassObject
+  ProcessGroupPolicy="C:\Windows\System32\srchadmin".ProcessGroupPolicy

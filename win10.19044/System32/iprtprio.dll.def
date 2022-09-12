@@ -1,0 +1,6 @@
+EXPORTS
+  CleanUpIpPriority="C:\Windows\System32\iprtprio".CleanUpIpPriority
+  ComputeRouteMetric="C:\Windows\System32\iprtprio".ComputeRouteMetric
+  ComputeRouteMetricEx="C:\Windows\System32\iprtprio".ComputeRouteMetricEx
+  GetPriorityInfo="C:\Windows\System32\iprtprio".GetPriorityInfo
+  SetPriorityInfo="C:\Windows\System32\iprtprio".SetPriorityInfo

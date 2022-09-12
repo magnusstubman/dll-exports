@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\provdatastore".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\provdatastore".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\provdatastore".DllGetClassObject
+  MvDsGetInfoFromMcc="C:\Windows\System32\provdatastore".MvDsGetInfoFromMcc
+  MvGetMccFromGeoId="C:\Windows\System32\provdatastore".MvGetMccFromGeoId
+  ValidateMnc="C:\Windows\System32\provdatastore".ValidateMnc

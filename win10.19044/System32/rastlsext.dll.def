@@ -1,0 +1,16 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\rastlsext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\rastlsext".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\rastlsext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\rastlsext".DllUnregisterServer
+  RasTlsExt_FreeMemory="C:\Windows\System32\rastlsext".RasTlsExt_FreeMemory
+  RasTlsExt_GetConfigCacheOnlyCertValidation="C:\Windows\System32\rastlsext".RasTlsExt_GetConfigCacheOnlyCertValidation
+  RasTlsExt_GetConfigForceNotDomainJoined="C:\Windows\System32\rastlsext".RasTlsExt_GetConfigForceNotDomainJoined
+  RasTlsExt_GetPinUserBlob="C:\Windows\System32\rastlsext".RasTlsExt_GetPinUserBlob
+  RasTlsExt_GetServerCertDetails="C:\Windows\System32\rastlsext".RasTlsExt_GetServerCertDetails
+  RasTlsExt_PackUserBlob="C:\Windows\System32\rastlsext".RasTlsExt_PackUserBlob
+  RasTlsExt_SelectCertificate="C:\Windows\System32\rastlsext".RasTlsExt_SelectCertificate
+  RasTlsExt_ShowHelp="C:\Windows\System32\rastlsext".RasTlsExt_ShowHelp
+  RasTlsExt_UnpackUserBlob="C:\Windows\System32\rastlsext".RasTlsExt_UnpackUserBlob
+  RasTlsExt_ValidateServer="C:\Windows\System32\rastlsext".RasTlsExt_ValidateServer
+  RasTlsExt_ValidateServerDialogProc="C:\Windows\System32\rastlsext".RasTlsExt_ValidateServerDialogProc

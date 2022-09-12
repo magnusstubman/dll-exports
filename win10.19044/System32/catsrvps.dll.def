@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\catsrvps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\catsrvps".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\catsrvps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\catsrvps".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\catsrvps".GetProxyDllInfo

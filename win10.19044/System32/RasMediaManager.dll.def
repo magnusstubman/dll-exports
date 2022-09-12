@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RasMediaManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\RasMediaManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\RasMediaManager".DllGetClassObject

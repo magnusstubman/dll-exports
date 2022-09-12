@@ -1,0 +1,15 @@
+EXPORTS
+  CredUIInternalCmdLinePromptForCredentialsA="C:\Windows\SysWOW64\wincredui".CredUIInternalCmdLinePromptForCredentialsA
+  CredUIInternalCmdLinePromptForCredentialsW="C:\Windows\SysWOW64\wincredui".CredUIInternalCmdLinePromptForCredentialsW
+  CredUIInternalConfirmCredentialsA="C:\Windows\SysWOW64\wincredui".CredUIInternalConfirmCredentialsA
+  CredUIInternalConfirmCredentialsW="C:\Windows\SysWOW64\wincredui".CredUIInternalConfirmCredentialsW
+  CredUIInternalInitControls="C:\Windows\SysWOW64\wincredui".CredUIInternalInitControls
+  CredUIInternalPromptForCredentialsA="C:\Windows\SysWOW64\wincredui".CredUIInternalPromptForCredentialsA
+  CredUIInternalPromptForCredentialsW="C:\Windows\SysWOW64\wincredui".CredUIInternalPromptForCredentialsW
+  CredUIInternalPromptForWindowsCredentialsA="C:\Windows\SysWOW64\wincredui".CredUIInternalPromptForWindowsCredentialsA
+  CredUIInternalPromptForWindowsCredentialsW="C:\Windows\SysWOW64\wincredui".CredUIInternalPromptForWindowsCredentialsW
+  CredUIInternalPromptForWindowsCredentialsWorker="C:\Windows\SysWOW64\wincredui".CredUIInternalPromptForWindowsCredentialsWorker
+  DllCanUnloadNow="C:\Windows\SysWOW64\wincredui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wincredui".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wincredui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wincredui".DllUnregisterServer

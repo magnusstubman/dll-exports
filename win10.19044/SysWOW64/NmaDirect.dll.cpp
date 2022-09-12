@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\NmaDirect.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\NmaDirect.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\NmaDirect.DllGetClassObject\"")
+#pragma comment(linker, "/export:NmaDirect_OverrideUserLocation=\"C:\\Windows\\SysWOW64\\NmaDirect.NmaDirect_OverrideUserLocation\"")
+#pragma comment(linker, "/export:NmaDirect_StartGuidanceWithSimulatedRoute=\"C:\\Windows\\SysWOW64\\NmaDirect.NmaDirect_StartGuidanceWithSimulatedRoute\"")

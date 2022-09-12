@@ -1,0 +1,18 @@
+EXPORTS
+  AddMIMEFileTypesPS="C:\Windows\SysWOW64\url".AddMIMEFileTypesPS
+  AutodialHookCallback="C:\Windows\SysWOW64\url".AutodialHookCallback
+  FileProtocolHandler="C:\Windows\SysWOW64\url".FileProtocolHandler
+  FileProtocolHandlerA="C:\Windows\SysWOW64\url".FileProtocolHandlerA
+  InetIsOffline="C:\Windows\SysWOW64\url".InetIsOffline
+  MIMEAssociationDialogA="C:\Windows\SysWOW64\url".MIMEAssociationDialogA
+  MIMEAssociationDialogW="C:\Windows\SysWOW64\url".MIMEAssociationDialogW
+  MailToProtocolHandler="C:\Windows\SysWOW64\url".MailToProtocolHandler
+  MailToProtocolHandlerA="C:\Windows\SysWOW64\url".MailToProtocolHandlerA
+  OpenURL="C:\Windows\SysWOW64\url".OpenURL
+  OpenURLA="C:\Windows\SysWOW64\url".OpenURLA
+  TelnetProtocolHandler="C:\Windows\SysWOW64\url".TelnetProtocolHandler
+  TelnetProtocolHandlerA="C:\Windows\SysWOW64\url".TelnetProtocolHandlerA
+  TranslateURLA="C:\Windows\SysWOW64\url".TranslateURLA
+  TranslateURLW="C:\Windows\SysWOW64\url".TranslateURLW
+  URLAssociationDialogA="C:\Windows\SysWOW64\url".URLAssociationDialogA
+  URLAssociationDialogW="C:\Windows\SysWOW64\url".URLAssociationDialogW

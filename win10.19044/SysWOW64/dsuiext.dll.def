@@ -1,0 +1,10 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\dsuiext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dsuiext".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\dsuiext".DllInstall
+  DllRegisterServer="C:\Windows\SysWOW64\dsuiext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\dsuiext".DllUnregisterServer
+  DsBrowseForContainerA="C:\Windows\SysWOW64\dsuiext".DsBrowseForContainerA
+  DsBrowseForContainerW="C:\Windows\SysWOW64\dsuiext".DsBrowseForContainerW
+  DsGetFriendlyClassName="C:\Windows\SysWOW64\dsuiext".DsGetFriendlyClassName
+  DsGetIcon="C:\Windows\SysWOW64\dsuiext".DsGetIcon

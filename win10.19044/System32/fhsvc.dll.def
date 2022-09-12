@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\System32\fhsvc".DllMain
+  ServiceMain="C:\Windows\System32\fhsvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\fhsvc".SvchostPushServiceGlobals

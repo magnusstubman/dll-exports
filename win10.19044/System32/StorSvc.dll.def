@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\StorSvc".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\StorSvc".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\StorSvc".DllGetClassObject
+  ServiceMain="C:\Windows\System32\StorSvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\StorSvc".SvchostPushServiceGlobals

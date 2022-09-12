@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PerceptionSimulation.ProxyStubs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\PerceptionSimulation.ProxyStubs".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\PerceptionSimulation.ProxyStubs".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\PerceptionSimulation.ProxyStubs".DllUnregisterServer

@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Chakradiag".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\Chakradiag".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\Chakradiag".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\Chakradiag".DllUnregisterServer
+  FreeDumpStreams="C:\Windows\SysWOW64\Chakradiag".FreeDumpStreams
+  GetDumpStreams="C:\Windows\SysWOW64\Chakradiag".GetDumpStreams

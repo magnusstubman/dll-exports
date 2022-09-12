@@ -1,0 +1,2 @@
+EXPORTS
+  HookMain="C:\Windows\SysWOW64\DialogBlockerProc".HookMain

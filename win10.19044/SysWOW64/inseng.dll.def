@@ -1,0 +1,10 @@
+EXPORTS
+  CheckForVersionConflict="C:\Windows\SysWOW64\inseng".CheckForVersionConflict
+  CheckTrust="C:\Windows\SysWOW64\inseng".CheckTrust
+  CheckTrustEx="C:\Windows\SysWOW64\inseng".CheckTrustEx
+  DllCanUnloadNow="C:\Windows\SysWOW64\inseng".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\inseng".DllGetClassObject
+  DownloadFile="C:\Windows\SysWOW64\inseng".DownloadFile
+  GetICifFileFromFile="C:\Windows\SysWOW64\inseng".GetICifFileFromFile
+  GetICifRWFileFromFile="C:\Windows\SysWOW64\inseng".GetICifRWFileFromFile
+  PurgeDownloadDirectory="C:\Windows\SysWOW64\inseng".PurgeDownloadDirectory

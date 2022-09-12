@@ -1,0 +1,25 @@
+EXPORTS
+  CancelProcessEapAuthPacket="C:\Windows\SysWOW64\vpnikeapi".CancelProcessEapAuthPacket
+  CloseTunnel="C:\Windows\SysWOW64\vpnikeapi".CloseTunnel
+  CreateTunnel="C:\Windows\SysWOW64\vpnikeapi".CreateTunnel
+  FreeConfigurationPayloadBuffer="C:\Windows\SysWOW64\vpnikeapi".FreeConfigurationPayloadBuffer
+  FreeEapAuthAttributes="C:\Windows\SysWOW64\vpnikeapi".FreeEapAuthAttributes
+  FreeEapAuthPacket="C:\Windows\SysWOW64\vpnikeapi".FreeEapAuthPacket
+  FreeIDPayloadBuffer="C:\Windows\SysWOW64\vpnikeapi".FreeIDPayloadBuffer
+  FreeTrafficSelectors="C:\Windows\SysWOW64\vpnikeapi".FreeTrafficSelectors
+  GetConfigurationPayloadRequest="C:\Windows\SysWOW64\vpnikeapi".GetConfigurationPayloadRequest
+  GetIDPayload="C:\Windows\SysWOW64\vpnikeapi".GetIDPayload
+  GetOptionalIDrPayload="C:\Windows\SysWOW64\vpnikeapi".GetOptionalIDrPayload
+  GetServerEapAuthRequestPacket="C:\Windows\SysWOW64\vpnikeapi".GetServerEapAuthRequestPacket
+  GetTrafficSelectorsRequest="C:\Windows\SysWOW64\vpnikeapi".GetTrafficSelectorsRequest
+  NewRasIncomingCall="C:\Windows\SysWOW64\vpnikeapi".NewRasIncomingCall
+  ProcessAdditionalAddressNotification="C:\Windows\SysWOW64\vpnikeapi".ProcessAdditionalAddressNotification
+  ProcessConfigurationPayloadReply="C:\Windows\SysWOW64\vpnikeapi".ProcessConfigurationPayloadReply
+  ProcessConfigurationPayloadRequest="C:\Windows\SysWOW64\vpnikeapi".ProcessConfigurationPayloadRequest
+  ProcessEapAuthPacket="C:\Windows\SysWOW64\vpnikeapi".ProcessEapAuthPacket
+  ProcessTrafficSelectorsReply="C:\Windows\SysWOW64\vpnikeapi".ProcessTrafficSelectorsReply
+  ProcessTrafficSelectorsRequest="C:\Windows\SysWOW64\vpnikeapi".ProcessTrafficSelectorsRequest
+  QueryEapAuthAttributes="C:\Windows\SysWOW64\vpnikeapi".QueryEapAuthAttributes
+  RemoveTrafficSelectors="C:\Windows\SysWOW64\vpnikeapi".RemoveTrafficSelectors
+  TunnelAuthDone="C:\Windows\SysWOW64\vpnikeapi".TunnelAuthDone
+  UpdateTunnel="C:\Windows\SysWOW64\vpnikeapi".UpdateTunnel

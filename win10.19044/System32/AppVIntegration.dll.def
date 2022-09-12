@@ -1,0 +1,5 @@
+EXPORTS
+  Deinitialize="C:\Windows\System32\AppVIntegration".Deinitialize
+  GetComponent="C:\Windows\System32\AppVIntegration".GetComponent
+  Initialize="C:\Windows\System32\AppVIntegration".Initialize
+  InitializeISV="C:\Windows\System32\AppVIntegration".InitializeISV

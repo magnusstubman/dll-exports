@@ -1,0 +1,14 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\netshell".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\netshell".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\netshell".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\netshell".DllUnregisterServer
+  HrCreateDesktopIcon="C:\Windows\SysWOW64\netshell".HrCreateDesktopIcon
+  HrGetIconFromMediaType="C:\Windows\SysWOW64\netshell".HrGetIconFromMediaType
+  HrGetIconFromMediaTypeEx="C:\Windows\SysWOW64\netshell".HrGetIconFromMediaTypeEx
+  HrLaunchConnection="C:\Windows\SysWOW64\netshell".HrLaunchConnection
+  HrLaunchConnectionEx="C:\Windows\SysWOW64\netshell".HrLaunchConnectionEx
+  HrRenameConnection="C:\Windows\SysWOW64\netshell".HrRenameConnection
+  NcFreeNetconProperties="C:\Windows\SysWOW64\netshell".NcFreeNetconProperties
+  NcIsValidConnectionName="C:\Windows\SysWOW64\netshell".NcIsValidConnectionName
+  StartNCW="C:\Windows\SysWOW64\netshell".StartNCW

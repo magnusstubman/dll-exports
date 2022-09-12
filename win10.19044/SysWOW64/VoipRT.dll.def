@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\VoipRT".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\VoipRT".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\VoipRT".DllGetClassObject

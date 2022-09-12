@@ -1,0 +1,20 @@
+EXPORTS
+  ApplyProviderSettings="C:\Windows\SysWOW64\Windows.FileExplorer.Common".ApplyProviderSettings
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.FileExplorer.Common".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.FileExplorer.Common".DllGetClassObject
+  FECommon_BindToFilePlaceholderHandler="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_BindToFilePlaceholderHandler
+  FECommon_CSyncRootManager_CreateInstance="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_CSyncRootManager_CreateInstance
+  FECommon_CreatePlaceholderFile="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_CreatePlaceholderFile
+  FECommon_FilePlaceholder_BindToPrimaryStream="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_FilePlaceholder_BindToPrimaryStream
+  FECommon_FilePlaceholder_CreateInstance="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_FilePlaceholder_CreateInstance
+  FECommon_GetPlaceholderStatesFromFileAttributesAndReparsePointTag="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_GetPlaceholderStatesFromFileAttributesAndReparsePointTag
+  FECommon_GetSkyDriveNetworkStates="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_GetSkyDriveNetworkStates
+  FECommon_GetStorageProviderDisplayName="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_GetStorageProviderDisplayName
+  FECommon_GetStorageProviderInfoFromItem="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_GetStorageProviderInfoFromItem
+  FECommon_PerformCloudFilePinAction="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_PerformCloudFilePinAction
+  FECommon_SetPlaceholderReparsePointAttribute="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_SetPlaceholderReparsePointAttribute
+  FECommon_SetPlaceholderReparsePointAttribute2="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_SetPlaceholderReparsePointAttribute2
+  FECommon_UpdateFilePlaceholderStates="C:\Windows\SysWOW64\Windows.FileExplorer.Common".FECommon_UpdateFilePlaceholderStates
+  GatherProviderSettings="C:\Windows\SysWOW64\Windows.FileExplorer.Common".GatherProviderSettings
+  RegisterChangeNotifications="C:\Windows\SysWOW64\Windows.FileExplorer.Common".RegisterChangeNotifications
+  UnregisterChangeNotifications="C:\Windows\SysWOW64\Windows.FileExplorer.Common".UnregisterChangeNotifications

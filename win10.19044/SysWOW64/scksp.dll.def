@@ -1,0 +1,3 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\scksp".DllMain
+  GetKeyStorageInterface="C:\Windows\SysWOW64\scksp".GetKeyStorageInterface

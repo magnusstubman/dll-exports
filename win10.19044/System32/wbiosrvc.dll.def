@@ -1,0 +1,6 @@
+EXPORTS
+  OutOfProcessExceptionEventCallback="C:\Windows\System32\wbiosrvc".OutOfProcessExceptionEventCallback
+  OutOfProcessExceptionEventDebuggerLaunchCallback="C:\Windows\System32\wbiosrvc".OutOfProcessExceptionEventDebuggerLaunchCallback
+  OutOfProcessExceptionEventSignatureCallback="C:\Windows\System32\wbiosrvc".OutOfProcessExceptionEventSignatureCallback
+  ServiceMain="C:\Windows\System32\wbiosrvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\wbiosrvc".SvchostPushServiceGlobals

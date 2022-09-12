@@ -1,0 +1,10 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\shimgvw".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\shimgvw".DllGetClassObject
+  ImageView_Fullscreen="C:\Windows\System32\shimgvw".ImageView_Fullscreen
+  ImageView_FullscreenA="C:\Windows\System32\shimgvw".ImageView_FullscreenA
+  ImageView_FullscreenW="C:\Windows\System32\shimgvw".ImageView_FullscreenW
+  ImageView_PrintTo="C:\Windows\System32\shimgvw".ImageView_PrintTo
+  ImageView_PrintToA="C:\Windows\System32\shimgvw".ImageView_PrintToA
+  ImageView_PrintToW="C:\Windows\System32\shimgvw".ImageView_PrintToW
+  imageview_fullscreenW="C:\Windows\System32\shimgvw".imageview_fullscreenW

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\themeui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\themeui".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\themeui".DllInstall

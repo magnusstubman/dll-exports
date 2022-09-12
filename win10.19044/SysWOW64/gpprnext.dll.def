@@ -1,0 +1,9 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\gpprnext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\gpprnext".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\gpprnext".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\gpprnext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\gpprnext".DllUnregisterServer
+  PrinterGenerateGroupPolicy="C:\Windows\SysWOW64\gpprnext".PrinterGenerateGroupPolicy
+  PrinterProcessGroupPolicy="C:\Windows\SysWOW64\gpprnext".PrinterProcessGroupPolicy
+  PrinterProcessGroupPolicyEx="C:\Windows\SysWOW64\gpprnext".PrinterProcessGroupPolicyEx

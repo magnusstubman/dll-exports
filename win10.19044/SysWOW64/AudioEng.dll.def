@@ -1,0 +1,7 @@
+EXPORTS
+  AERT_Allocate="C:\Windows\SysWOW64\AudioEng".AERT_Allocate
+  AERT_Free="C:\Windows\SysWOW64\AudioEng".AERT_Free
+  DllCanUnloadNow="C:\Windows\SysWOW64\AudioEng".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\AudioEng".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\AudioEng".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\AudioEng".DllUnregisterServer

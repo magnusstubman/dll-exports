@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SensorsClassExtension".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SensorsClassExtension".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\SensorsClassExtension".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\SensorsClassExtension".DllUnregisterServer
+  Microsoft_WDF_UMDF_Version="C:\Windows\System32\SensorsClassExtension".Microsoft_WDF_UMDF_Version

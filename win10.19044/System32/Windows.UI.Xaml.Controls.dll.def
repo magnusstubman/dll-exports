@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.Xaml.Controls".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.Xaml.Controls".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.Xaml.Controls".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.UI.Xaml.Controls".DllMain
+  GetDependencyLocatorStorage="C:\Windows\System32\Windows.UI.Xaml.Controls".GetDependencyLocatorStorage
+  SendTelemetryOnSuspend="C:\Windows\System32\Windows.UI.Xaml.Controls".SendTelemetryOnSuspend
+  XamlTestHookFreeControlsResourceLibrary="C:\Windows\System32\Windows.UI.Xaml.Controls".XamlTestHookFreeControlsResourceLibrary

@@ -1,0 +1,14 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\xboxgipsynthetic".DllMain
+  SyntheticController_AddAudioHeadset="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_AddAudioHeadset
+  SyntheticController_Connect="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_Connect
+  SyntheticController_CreateController="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_CreateController
+  SyntheticController_Disconnect="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_Disconnect
+  SyntheticController_GetDeviceId="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_GetDeviceId
+  SyntheticController_RegisterReportCallback="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_RegisterReportCallback
+  SyntheticController_RemoveAudioHeadset="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_RemoveAudioHeadset
+  SyntheticController_RemoveController="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_RemoveController
+  SyntheticController_SendAudio="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_SendAudio
+  SyntheticController_SendReport="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_SendReport
+  SyntheticController_SetTargetProcess="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_SetTargetProcess
+  SyntheticController_UnregisterReportCallback="C:\Windows\SysWOW64\xboxgipsynthetic".SyntheticController_UnregisterReportCallback

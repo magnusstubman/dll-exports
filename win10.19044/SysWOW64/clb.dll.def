@@ -1,0 +1,6 @@
+EXPORTS
+  ClbAddData="C:\Windows\SysWOW64\clb".ClbAddData
+  ClbSetColumnWidths="C:\Windows\SysWOW64\clb".ClbSetColumnWidths
+  ClbStyleW="C:\Windows\SysWOW64\clb".ClbStyleW
+  ClbWndProc="C:\Windows\SysWOW64\clb".ClbWndProc
+  CustomControlInfoW="C:\Windows\SysWOW64\clb".CustomControlInfoW

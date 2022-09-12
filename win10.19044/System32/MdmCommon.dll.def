@@ -1,0 +1,26 @@
+EXPORTS
+  MdmClearAllHashes="C:\Windows\System32\MdmCommon".MdmClearAllHashes
+  MdmConnectedAccountsChanged="C:\Windows\System32\MdmCommon".MdmConnectedAccountsChanged
+  MdmEnumerateUsers="C:\Windows\System32\MdmCommon".MdmEnumerateUsers
+  MdmGetLocation="C:\Windows\System32\MdmCommon".MdmGetLocation
+  MdmGetServiceTarget="C:\Windows\System32\MdmCommon".MdmGetServiceTarget
+  MdmGetSidsByConnectedCids="C:\Windows\System32\MdmCommon".MdmGetSidsByConnectedCids
+  MdmHandlePushNotification="C:\Windows\System32\MdmCommon".MdmHandlePushNotification
+  MdmIsFindMyDeviceEnabled="C:\Windows\System32\MdmCommon".MdmIsFindMyDeviceEnabled
+  MdmIsRegisteredWithService="C:\Windows\System32\MdmCommon".MdmIsRegisteredWithService
+  MdmMobileNetworksChanged="C:\Windows\System32\MdmCommon".MdmMobileNetworksChanged
+  MdmParseCommandData="C:\Windows\System32\MdmCommon".MdmParseCommandData
+  MdmParseEncryptedRequest="C:\Windows\System32\MdmCommon".MdmParseEncryptedRequest
+  MdmParseLocateCommand="C:\Windows\System32\MdmCommon".MdmParseLocateCommand
+  MdmParseLockCommand="C:\Windows\System32\MdmCommon".MdmParseLockCommand
+  MdmParseNonEncryptedRequest="C:\Windows\System32\MdmCommon".MdmParseNonEncryptedRequest
+  MdmProtectionStateChanged="C:\Windows\System32\MdmCommon".MdmProtectionStateChanged
+  MdmRegisterDevice="C:\Windows\System32\MdmCommon".MdmRegisterDevice
+  MdmRegisterUserDevice="C:\Windows\System32\MdmCommon".MdmRegisterUserDevice
+  MdmSendRequestToCS="C:\Windows\System32\MdmCommon".MdmSendRequestToCS
+  MdmSendRequestToCSWithDelegation="C:\Windows\System32\MdmCommon".MdmSendRequestToCSWithDelegation
+  MdmSetFindMyDevice="C:\Windows\System32\MdmCommon".MdmSetFindMyDevice
+  MdmShouldRegisterDevice="C:\Windows\System32\MdmCommon".MdmShouldRegisterDevice
+  MdmUpdateStatus="C:\Windows\System32\MdmCommon".MdmUpdateStatus
+  MdmUsersAuthorizedToSeeLocation="C:\Windows\System32\MdmCommon".MdmUsersAuthorizedToSeeLocation
+  MdmUsersAuthorizedToSeeLocationAsString="C:\Windows\System32\MdmCommon".MdmUsersAuthorizedToSeeLocationAsString

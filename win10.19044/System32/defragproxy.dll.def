@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\defragproxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\defragproxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\defragproxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\defragproxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\defragproxy".GetProxyDllInfo

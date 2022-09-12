@@ -1,0 +1,4 @@
+EXPORTS
+  DllInstall="C:\Windows\System32\ntvdm64".DllInstall
+  NtVdm64CreateProcessInternalW="C:\Windows\System32\ntvdm64".NtVdm64CreateProcessInternalW
+  NtVdm64RaiseInvalid16BitError="C:\Windows\System32\ntvdm64".NtVdm64RaiseInvalid16BitError

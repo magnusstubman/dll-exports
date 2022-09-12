@@ -1,0 +1,4 @@
+EXPORTS
+  GetPKeyData="C:\Windows\SysWOW64\pidgenx".GetPKeyData
+  PidGenX="C:\Windows\SysWOW64\pidgenx".PidGenX
+  PidGenX2="C:\Windows\SysWOW64\pidgenx".PidGenX2

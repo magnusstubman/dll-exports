@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:CryptsvcDllCtrl=\"C:\\Windows\\System32\\crypttpmeksvc.CryptsvcDllCtrl\"")
+#pragma comment(linker, "/export:EKCliAuthorityKeyGetInfo=\"C:\\Windows\\System32\\crypttpmeksvc.EKCliAuthorityKeyGetInfo\"")
+#pragma comment(linker, "/export:EKCliTpmEndorsementKeyDecryptSCEPChallenge=\"C:\\Windows\\System32\\crypttpmeksvc.EKCliTpmEndorsementKeyDecryptSCEPChallenge\"")
+#pragma comment(linker, "/export:EKCliTpmEndorsementKeyGetInfo=\"C:\\Windows\\System32\\crypttpmeksvc.EKCliTpmEndorsementKeyGetInfo\"")
+#pragma comment(linker, "/export:EKCliTpmGetManufacturerInfo=\"C:\\Windows\\System32\\crypttpmeksvc.EKCliTpmGetManufacturerInfo\"")
+#pragma comment(linker, "/export:FreeCMCResponse=\"C:\\Windows\\System32\\crypttpmeksvc.FreeCMCResponse\"")
+#pragma comment(linker, "/export:IsCmcResponseForAttestation=\"C:\\Windows\\System32\\crypttpmeksvc.IsCmcResponseForAttestation\"")
+#pragma comment(linker, "/export:ParseCMCResponse=\"C:\\Windows\\System32\\crypttpmeksvc.ParseCMCResponse\"")

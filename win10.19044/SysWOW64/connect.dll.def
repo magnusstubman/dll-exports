@@ -1,0 +1,16 @@
+EXPORTS
+  AddConnectionOptionListEntries="C:\Windows\SysWOW64\connect".AddConnectionOptionListEntries
+  CreateVPNConnection="C:\Windows\SysWOW64\connect".CreateVPNConnection
+  DllCanUnloadNow="C:\Windows\SysWOW64\connect".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\connect".DllGetClassObject
+  GetInternetConnected="C:\Windows\SysWOW64\connect".GetInternetConnected
+  GetNetworkConnected="C:\Windows\SysWOW64\connect".GetNetworkConnected
+  GetVPNConnected="C:\Windows\SysWOW64\connect".GetVPNConnected
+  HrIsInternetConnected="C:\Windows\SysWOW64\connect".HrIsInternetConnected
+  HrIsInternetConnectedGUID="C:\Windows\SysWOW64\connect".HrIsInternetConnectedGUID
+  IsInternetConnected="C:\Windows\SysWOW64\connect".IsInternetConnected
+  IsInternetConnectedGUID="C:\Windows\SysWOW64\connect".IsInternetConnectedGUID
+  IsUniqueConnectionName="C:\Windows\SysWOW64\connect".IsUniqueConnectionName
+  RegisterPageWithPage="C:\Windows\SysWOW64\connect".RegisterPageWithPage
+  UnregisterPage="C:\Windows\SysWOW64\connect".UnregisterPage
+  UnregisterPagesLink="C:\Windows\SysWOW64\connect".UnregisterPagesLink

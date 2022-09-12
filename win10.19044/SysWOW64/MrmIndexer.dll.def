@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MrmIndexer".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\MrmIndexer".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\MrmIndexer".DllGetClassObject

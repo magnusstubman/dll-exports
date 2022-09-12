@@ -1,0 +1,9 @@
+EXPORTS
+  DllMain="C:\Windows\System32\acledit".DllMain
+  EditAuditInfo="C:\Windows\System32\acledit".EditAuditInfo
+  EditOwnerInfo="C:\Windows\System32\acledit".EditOwnerInfo
+  EditPermissionInfo="C:\Windows\System32\acledit".EditPermissionInfo
+  FMExtensionProcW="C:\Windows\System32\acledit".FMExtensionProcW
+  SedDiscretionaryAclEditor="C:\Windows\System32\acledit".SedDiscretionaryAclEditor
+  SedSystemAclEditor="C:\Windows\System32\acledit".SedSystemAclEditor
+  SedTakeOwnership="C:\Windows\System32\acledit".SedTakeOwnership

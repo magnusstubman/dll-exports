@@ -1,0 +1,3 @@
+EXPORTS
+  SvchostPushServiceGlobals="C:\Windows\System32\wcncsvc".SvchostPushServiceGlobals
+  WcnServiceMain="C:\Windows\System32\wcncsvc".WcnServiceMain

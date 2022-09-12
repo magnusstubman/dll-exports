@@ -1,0 +1,7 @@
+EXPORTS
+  DLLGetDocumentation="C:\Windows\System32\scrrun".DLLGetDocumentation
+  DllCanUnloadNow="C:\Windows\System32\scrrun".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\scrrun".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\scrrun".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\scrrun".DllUnregisterServer
+  DoOpenPipeStream="C:\Windows\System32\scrrun".DoOpenPipeStream

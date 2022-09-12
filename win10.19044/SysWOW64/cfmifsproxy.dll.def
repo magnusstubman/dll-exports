@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\cfmifsproxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\cfmifsproxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\cfmifsproxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\cfmifsproxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\cfmifsproxy".GetProxyDllInfo

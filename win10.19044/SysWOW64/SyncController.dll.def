@@ -1,0 +1,18 @@
+EXPORTS
+  AccountsMgmtAdviseAccount="C:\Windows\SysWOW64\SyncController".AccountsMgmtAdviseAccount
+  AccountsMgmtConvertWebAccountIdFromAppSpecificId="C:\Windows\SysWOW64\SyncController".AccountsMgmtConvertWebAccountIdFromAppSpecificId
+  AccountsMgmtConvertWebAccountIdToAppSpecificId="C:\Windows\SysWOW64\SyncController".AccountsMgmtConvertWebAccountIdToAppSpecificId
+  AccountsMgmtCreateAccount="C:\Windows\SysWOW64\SyncController".AccountsMgmtCreateAccount
+  AccountsMgmtDeleteAccount="C:\Windows\SysWOW64\SyncController".AccountsMgmtDeleteAccount
+  AccountsMgmtDiscoverExchangeServerConfig="C:\Windows\SysWOW64\SyncController".AccountsMgmtDiscoverExchangeServerConfig
+  AccountsMgmtEnumAccounts="C:\Windows\SysWOW64\SyncController".AccountsMgmtEnumAccounts
+  AccountsMgmtGetNotifications="C:\Windows\SysWOW64\SyncController".AccountsMgmtGetNotifications
+  AccountsMgmtMayIgnoreInvalidServerCertificate="C:\Windows\SysWOW64\SyncController".AccountsMgmtMayIgnoreInvalidServerCertificate
+  AccountsMgmtQueryAccountProperties="C:\Windows\SysWOW64\SyncController".AccountsMgmtQueryAccountProperties
+  AccountsMgmtSaveAccountProperties="C:\Windows\SysWOW64\SyncController".AccountsMgmtSaveAccountProperties
+  AccountsMgmtSyncAccount="C:\Windows\SysWOW64\SyncController".AccountsMgmtSyncAccount
+  AccountsMgmtSyncAccountAndWaitForCompletion="C:\Windows\SysWOW64\SyncController".AccountsMgmtSyncAccountAndWaitForCompletion
+  AccountsMgmtUnadviseAccount="C:\Windows\SysWOW64\SyncController".AccountsMgmtUnadviseAccount
+  AccountsMgmtVerifyExchangeMailBoxTokenAuth="C:\Windows\SysWOW64\SyncController".AccountsMgmtVerifyExchangeMailBoxTokenAuth
+  DllCanUnloadNow="C:\Windows\SysWOW64\SyncController".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\SyncController".DllGetClassObject

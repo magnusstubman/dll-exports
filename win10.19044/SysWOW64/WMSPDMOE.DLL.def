@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\SysWOW64\WMSPDMOE".CreateInstance
+  DllCanUnloadNow="C:\Windows\SysWOW64\WMSPDMOE".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\WMSPDMOE".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\WMSPDMOE".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\WMSPDMOE".DllUnregisterServer

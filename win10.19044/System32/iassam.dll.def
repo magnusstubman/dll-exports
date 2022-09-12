@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\iassam".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\iassam".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\iassam".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\iassam".DllUnregisterServer
+  IASParmsQueryUserProperty="C:\Windows\System32\iassam".IASParmsQueryUserProperty

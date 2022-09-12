@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\regidle".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\regidle".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\regidle".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\regidle".DllUnregisterServer

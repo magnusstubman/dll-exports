@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WMALFXGFXDSP".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WMALFXGFXDSP".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WMALFXGFXDSP".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WMALFXGFXDSP".DllUnregisterServer

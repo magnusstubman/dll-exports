@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LockController".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\LockController".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\LockController".DllGetClassObject

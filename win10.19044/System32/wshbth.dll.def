@@ -1,0 +1,18 @@
+EXPORTS
+  NSPStartup="C:\Windows\System32\wshbth".NSPStartup
+  WSHAddressToString="C:\Windows\System32\wshbth".WSHAddressToString
+  WSHEnumProtocols="C:\Windows\System32\wshbth".WSHEnumProtocols
+  WSHGetBroadcastSockaddr="C:\Windows\System32\wshbth".WSHGetBroadcastSockaddr
+  WSHGetProviderGuid="C:\Windows\System32\wshbth".WSHGetProviderGuid
+  WSHGetSockaddrType="C:\Windows\System32\wshbth".WSHGetSockaddrType
+  WSHGetSocketInformation="C:\Windows\System32\wshbth".WSHGetSocketInformation
+  WSHGetWSAProtocolInfo="C:\Windows\System32\wshbth".WSHGetWSAProtocolInfo
+  WSHGetWildcardSockaddr="C:\Windows\System32\wshbth".WSHGetWildcardSockaddr
+  WSHGetWinsockMapping="C:\Windows\System32\wshbth".WSHGetWinsockMapping
+  WSHIoctl="C:\Windows\System32\wshbth".WSHIoctl
+  WSHJoinLeaf="C:\Windows\System32\wshbth".WSHJoinLeaf
+  WSHNotify="C:\Windows\System32\wshbth".WSHNotify
+  WSHOpenSocket="C:\Windows\System32\wshbth".WSHOpenSocket
+  WSHOpenSocket2="C:\Windows\System32\wshbth".WSHOpenSocket2
+  WSHSetSocketInformation="C:\Windows\System32\wshbth".WSHSetSocketInformation
+  WSHStringToAddress="C:\Windows\System32\wshbth".WSHStringToAddress

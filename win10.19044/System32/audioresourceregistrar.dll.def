@@ -1,0 +1,3 @@
+EXPORTS
+  GetKeywordDetectorRequiredResources="C:\Windows\System32\audioresourceregistrar".GetKeywordDetectorRequiredResources
+  Register="C:\Windows\System32\audioresourceregistrar".Register

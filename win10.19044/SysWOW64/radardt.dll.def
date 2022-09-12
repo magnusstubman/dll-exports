@@ -1,0 +1,6 @@
+EXPORTS
+  RdrSysprepSpecialize="C:\Windows\SysWOW64\radardt".RdrSysprepSpecialize
+  RdrSysprepSpecializeOffline="C:\Windows\SysWOW64\radardt".RdrSysprepSpecializeOffline
+  WdiDiagnosticModuleMain="C:\Windows\SysWOW64\radardt".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\SysWOW64\radardt".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\SysWOW64\radardt".WdiHandleInstance

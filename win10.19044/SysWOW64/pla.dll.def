@@ -1,0 +1,16 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\pla".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\pla".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\pla".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\pla".DllUnregisterServer
+  PlaDeleteReport="C:\Windows\SysWOW64\pla".PlaDeleteReport
+  PlaExpandTaskArguments="C:\Windows\SysWOW64\pla".PlaExpandTaskArguments
+  PlaExtractCabinet="C:\Windows\SysWOW64\pla".PlaExtractCabinet
+  PlaGetLegacyAlertActionsFlagsFromString="C:\Windows\SysWOW64\pla".PlaGetLegacyAlertActionsFlagsFromString
+  PlaGetLegacyAlertActionsStringFromFlags="C:\Windows\SysWOW64\pla".PlaGetLegacyAlertActionsStringFromFlags
+  PlaGetServerCapabilities="C:\Windows\SysWOW64\pla".PlaGetServerCapabilities
+  PlaHost="C:\Windows\SysWOW64\pla".PlaHost
+  PlaServer="C:\Windows\SysWOW64\pla".PlaServer
+  PlaUpgrade="C:\Windows\SysWOW64\pla".PlaUpgrade
+  ServiceMain="C:\Windows\SysWOW64\pla".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\SysWOW64\pla".SvchostPushServiceGlobals

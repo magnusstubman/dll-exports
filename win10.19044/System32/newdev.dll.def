@@ -1,0 +1,27 @@
+EXPORTS
+  CheckDriverSoftwareDependenciesSatisfied="C:\Windows\System32\newdev".CheckDriverSoftwareDependenciesSatisfied
+  DeviceInternetSettingUiW="C:\Windows\System32\newdev".DeviceInternetSettingUiW
+  DiInstallDevice="C:\Windows\System32\newdev".DiInstallDevice
+  DiInstallDriverA="C:\Windows\System32\newdev".DiInstallDriverA
+  DiInstallDriverW="C:\Windows\System32\newdev".DiInstallDriverW
+  DiRollbackDriver="C:\Windows\System32\newdev".DiRollbackDriver
+  DiShowUpdateDevice="C:\Windows\System32\newdev".DiShowUpdateDevice
+  DiShowUpdateDriver="C:\Windows\System32\newdev".DiShowUpdateDriver
+  DiUninstallDevice="C:\Windows\System32\newdev".DiUninstallDevice
+  DiUninstallDriverA="C:\Windows\System32\newdev".DiUninstallDriverA
+  DiUninstallDriverW="C:\Windows\System32\newdev".DiUninstallDriverW
+  GetInternetPolicies="C:\Windows\System32\newdev".GetInternetPolicies
+  InstallLegacyDeviceDriver="C:\Windows\System32\newdev".InstallLegacyDeviceDriver
+  InstallNewDevice="C:\Windows\System32\newdev".InstallNewDevice
+  InstallSelectedDriver="C:\Windows\System32\newdev".InstallSelectedDriver
+  InstallWindowsUpdateDriver="C:\Windows\System32\newdev".InstallWindowsUpdateDriver
+  InstallWindowsUpdateDriverEx="C:\Windows\System32\newdev".InstallWindowsUpdateDriverEx
+  InstallWindowsUpdateDrivers="C:\Windows\System32\newdev".InstallWindowsUpdateDrivers
+  QueryWindowsUpdateDriverStatus="C:\Windows\System32\newdev".QueryWindowsUpdateDriverStatus
+  SetDriverPackageRestorePoint="C:\Windows\System32\newdev".SetDriverPackageRestorePoint
+  SetInternetPolicies="C:\Windows\System32\newdev".SetInternetPolicies
+  UpdateDriverForPlugAndPlayDevicesA="C:\Windows\System32\newdev".UpdateDriverForPlugAndPlayDevicesA
+  UpdateDriverForPlugAndPlayDevicesW="C:\Windows\System32\newdev".UpdateDriverForPlugAndPlayDevicesW
+  pDiDoDeviceInstallAsAdmin="C:\Windows\System32\newdev".pDiDoDeviceInstallAsAdmin
+  pDiDoNullDriverInstall="C:\Windows\System32\newdev".pDiDoNullDriverInstall
+  pDiRunFinishInstallOperations="C:\Windows\System32\newdev".pDiRunFinishInstallOperations

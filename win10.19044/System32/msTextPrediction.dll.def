@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\msTextPrediction".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\msTextPrediction".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\msTextPrediction".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msTextPrediction".DllUnregisterServer

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ProximityCommon".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ProximityCommon".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\SysWOW64\ProximityCommon".GetProxyDllInfo

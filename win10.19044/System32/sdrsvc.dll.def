@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\sdrsvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\sdrsvc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\sdrsvc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\sdrsvc".DllUnregisterServer
+  ServiceMain="C:\Windows\System32\sdrsvc".ServiceMain

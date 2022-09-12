@@ -1,0 +1,14 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\updatepolicy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\updatepolicy".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\updatepolicy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\updatepolicy".DllUnregisterServer
+  GetAutoUpdatePolicy="C:\Windows\SysWOW64\updatepolicy".GetAutoUpdatePolicy
+  GetEnterprisePolicyName="C:\Windows\SysWOW64\updatepolicy".GetEnterprisePolicyName
+  GetSkuUpdateManagementGroup="C:\Windows\SysWOW64\updatepolicy".GetSkuUpdateManagementGroup
+  GetUpdatePolicyName="C:\Windows\SysWOW64\updatepolicy".GetUpdatePolicyName
+  ReadPolicy="C:\Windows\SysWOW64\updatepolicy".ReadPolicy
+  ReadPolicyWithFallback="C:\Windows\SysWOW64\updatepolicy".ReadPolicyWithFallback
+  ReleaseAutoUpdatePolicy="C:\Windows\SysWOW64\updatepolicy".ReleaseAutoUpdatePolicy
+  ReleaseEnterprisePolicyValue="C:\Windows\SysWOW64\updatepolicy".ReleaseEnterprisePolicyValue
+  ReleaseUpdatePolicyValue="C:\Windows\SysWOW64\updatepolicy".ReleaseUpdatePolicyValue

@@ -1,0 +1,7 @@
+EXPORTS
+  DoAction="C:\Windows\SysWOW64\elsTrans".DoAction
+  EnumServices="C:\Windows\SysWOW64\elsTrans".EnumServices
+  FreePropertyBag="C:\Windows\SysWOW64\elsTrans".FreePropertyBag
+  FreeService="C:\Windows\SysWOW64\elsTrans".FreeService
+  InitService="C:\Windows\SysWOW64\elsTrans".InitService
+  RecognizeText="C:\Windows\SysWOW64\elsTrans".RecognizeText

@@ -1,0 +1,9 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\pwlauncher".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\pwlauncher".DllGetClassObject
+  DllInstall="C:\Windows\System32\pwlauncher".DllInstall
+  DllRegisterServer="C:\Windows\System32\pwlauncher".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\pwlauncher".DllUnregisterServer
+  ProcessHibernateGroupPolicy="C:\Windows\System32\pwlauncher".ProcessHibernateGroupPolicy
+  ProcessLauncherGroupPolicy="C:\Windows\System32\pwlauncher".ProcessLauncherGroupPolicy
+  ShowPortableWorkspaceLauncherConfigurationUX="C:\Windows\System32\pwlauncher".ShowPortableWorkspaceLauncherConfigurationUX

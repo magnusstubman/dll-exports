@@ -1,0 +1,8 @@
+EXPORTS
+  AADTBAcquireToken="C:\Windows\System32\aadtb".AADTBAcquireToken
+  AADTBAcquireTokenEx="C:\Windows\System32\aadtb".AADTBAcquireTokenEx
+  AADTBFreeString="C:\Windows\System32\aadtb".AADTBFreeString
+  AADTBFreeStruct="C:\Windows\System32\aadtb".AADTBFreeStruct
+  DllCanUnloadNow="C:\Windows\System32\aadtb".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\aadtb".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\aadtb".DllGetClassObject

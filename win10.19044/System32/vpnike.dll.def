@@ -1,0 +1,7 @@
+EXPORTS
+  InitializeProtocolEngine="C:\Windows\System32\vpnike".InitializeProtocolEngine
+  InitializeServerProtocolEngine="C:\Windows\System32\vpnike".InitializeServerProtocolEngine
+  SendMessageToProtocolEngine="C:\Windows\System32\vpnike".SendMessageToProtocolEngine
+  UninitializeProtocolEngine="C:\Windows\System32\vpnike".UninitializeProtocolEngine
+  UninitializeServerProtocolEngine="C:\Windows\System32\vpnike".UninitializeServerProtocolEngine
+  VpnIkeRoamToBestCostInterface="C:\Windows\System32\vpnike".VpnIkeRoamToBestCostInterface

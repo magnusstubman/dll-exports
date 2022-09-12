@@ -1,0 +1,3 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\NapiNSP".DllMain
+  NSPStartup="C:\Windows\SysWOW64\NapiNSP".NSPStartup

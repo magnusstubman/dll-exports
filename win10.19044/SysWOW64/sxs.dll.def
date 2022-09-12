@@ -1,0 +1,22 @@
+EXPORTS
+  CreateAssemblyCache="C:\Windows\SysWOW64\sxs".CreateAssemblyCache
+  CreateAssemblyNameObject="C:\Windows\SysWOW64\sxs".CreateAssemblyNameObject
+  SxsBeginAssemblyInstall="C:\Windows\SysWOW64\sxs".SxsBeginAssemblyInstall
+  SxsEndAssemblyInstall="C:\Windows\SysWOW64\sxs".SxsEndAssemblyInstall
+  SxsFindClrClassInformation="C:\Windows\SysWOW64\sxs".SxsFindClrClassInformation
+  SxsFindClrSurrogateInformation="C:\Windows\SysWOW64\sxs".SxsFindClrSurrogateInformation
+  SxsGenerateActivationContext="C:\Windows\SysWOW64\sxs".SxsGenerateActivationContext
+  SxsInstallW="C:\Windows\SysWOW64\sxs".SxsInstallW
+  SxsLookupClrGuid="C:\Windows\SysWOW64\sxs".SxsLookupClrGuid
+  SxsOleAut32MapConfiguredClsidToReferenceClsid="C:\Windows\SysWOW64\sxs".SxsOleAut32MapConfiguredClsidToReferenceClsid
+  SxsOleAut32MapIIDOrCLSIDToTypeLibrary="C:\Windows\SysWOW64\sxs".SxsOleAut32MapIIDOrCLSIDToTypeLibrary
+  SxsOleAut32MapIIDToProxyStubCLSID="C:\Windows\SysWOW64\sxs".SxsOleAut32MapIIDToProxyStubCLSID
+  SxsOleAut32MapIIDToTLBPath="C:\Windows\SysWOW64\sxs".SxsOleAut32MapIIDToTLBPath
+  SxsOleAut32MapReferenceClsidToConfiguredClsid="C:\Windows\SysWOW64\sxs".SxsOleAut32MapReferenceClsidToConfiguredClsid
+  SxsOleAut32RedirectTypeLibrary="C:\Windows\SysWOW64\sxs".SxsOleAut32RedirectTypeLibrary
+  SxsProbeAssemblyInstallation="C:\Windows\SysWOW64\sxs".SxsProbeAssemblyInstallation
+  SxsQueryManifestInformation="C:\Windows\SysWOW64\sxs".SxsQueryManifestInformation
+  SxsRunDllInstallAssembly="C:\Windows\SysWOW64\sxs".SxsRunDllInstallAssembly
+  SxsRunDllInstallAssemblyW="C:\Windows\SysWOW64\sxs".SxsRunDllInstallAssemblyW
+  SxsUninstallW="C:\Windows\SysWOW64\sxs".SxsUninstallW
+  SxspGenerateManifestPathOnAssemblyIdentity="C:\Windows\SysWOW64\sxs".SxspGenerateManifestPathOnAssemblyIdentity

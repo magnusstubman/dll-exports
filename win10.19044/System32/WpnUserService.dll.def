@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WpnUserService".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WpnUserService".DllGetClassObject
+  ServiceMain="C:\Windows\System32\WpnUserService".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\WpnUserService".SvchostPushServiceGlobals

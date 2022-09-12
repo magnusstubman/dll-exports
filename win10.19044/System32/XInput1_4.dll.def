@@ -1,0 +1,9 @@
+EXPORTS
+  DllMain="C:\Windows\System32\XInput1_4".DllMain
+  XInputEnable="C:\Windows\System32\XInput1_4".XInputEnable
+  XInputGetAudioDeviceIds="C:\Windows\System32\XInput1_4".XInputGetAudioDeviceIds
+  XInputGetBatteryInformation="C:\Windows\System32\XInput1_4".XInputGetBatteryInformation
+  XInputGetCapabilities="C:\Windows\System32\XInput1_4".XInputGetCapabilities
+  XInputGetKeystroke="C:\Windows\System32\XInput1_4".XInputGetKeystroke
+  XInputGetState="C:\Windows\System32\XInput1_4".XInputGetState
+  XInputSetState="C:\Windows\System32\XInput1_4".XInputSetState

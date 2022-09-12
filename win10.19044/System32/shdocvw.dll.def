@@ -1,0 +1,26 @@
+EXPORTS
+  AddUrlToFavorites="C:\Windows\System32\shdocvw".AddUrlToFavorites
+  DllCanUnloadNow="C:\Windows\System32\shdocvw".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\shdocvw".DllGetClassObject
+  DllGetVersion="C:\Windows\System32\shdocvw".DllGetVersion
+  DllRegisterWindowClasses="C:\Windows\System32\shdocvw".DllRegisterWindowClasses
+  DoAddToFavDlg="C:\Windows\System32\shdocvw".DoAddToFavDlg
+  DoAddToFavDlgW="C:\Windows\System32\shdocvw".DoAddToFavDlgW
+  DoFileDownload="C:\Windows\System32\shdocvw".DoFileDownload
+  DoFileDownloadEx="C:\Windows\System32\shdocvw".DoFileDownloadEx
+  DoOrganizeFavDlg="C:\Windows\System32\shdocvw".DoOrganizeFavDlg
+  DoOrganizeFavDlgW="C:\Windows\System32\shdocvw".DoOrganizeFavDlgW
+  DoPrivacyDlg="C:\Windows\System32\shdocvw".DoPrivacyDlg
+  HlinkFindFrame="C:\Windows\System32\shdocvw".HlinkFindFrame
+  HlinkFrameNavigate="C:\Windows\System32\shdocvw".HlinkFrameNavigate
+  HlinkFrameNavigateNHL="C:\Windows\System32\shdocvw".HlinkFrameNavigateNHL
+  ImportPrivacySettings="C:\Windows\System32\shdocvw".ImportPrivacySettings
+  OpenURL="C:\Windows\System32\shdocvw".OpenURL
+  SHAddSubscribeFavorite="C:\Windows\System32\shdocvw".SHAddSubscribeFavorite
+  SHGetIDispatchForFolder="C:\Windows\System32\shdocvw".SHGetIDispatchForFolder
+  SafeOpenPromptForShellExec="C:\Windows\System32\shdocvw".SafeOpenPromptForShellExec
+  SetQueryNetSessionCount="C:\Windows\System32\shdocvw".SetQueryNetSessionCount
+  SetShellOfflineState="C:\Windows\System32\shdocvw".SetShellOfflineState
+  SoftwareUpdateMessageBox="C:\Windows\System32\shdocvw".SoftwareUpdateMessageBox
+  URLQualifyA="C:\Windows\System32\shdocvw".URLQualifyA
+  URLQualifyW="C:\Windows\System32\shdocvw".URLQualifyW

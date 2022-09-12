@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wavemsp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wavemsp".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wavemsp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wavemsp".DllUnregisterServer

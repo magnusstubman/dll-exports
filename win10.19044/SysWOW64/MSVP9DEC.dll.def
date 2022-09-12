@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MSVP9DEC".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MSVP9DEC".DllGetClassObject

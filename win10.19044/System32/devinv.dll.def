@@ -1,0 +1,9 @@
+EXPORTS
+  CreateDeviceInventory="C:\Windows\System32\devinv".CreateDeviceInventory
+  CreateDeviceInventoryTC="C:\Windows\System32\devinv".CreateDeviceInventoryTC
+  CreateDeviceInventoryTC2="C:\Windows\System32\devinv".CreateDeviceInventoryTC2
+  GetDevInventory="C:\Windows\System32\devinv".GetDevInventory
+  ReportDeviceAdd="C:\Windows\System32\devinv".ReportDeviceAdd
+  ReportDeviceRemove="C:\Windows\System32\devinv".ReportDeviceRemove
+  RunDeviceInventoryW="C:\Windows\System32\devinv".RunDeviceInventoryW
+  SetDevInvDebugCorrelationVector="C:\Windows\System32\devinv".SetDevInvDebugCorrelationVector

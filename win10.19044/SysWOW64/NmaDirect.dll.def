@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\NmaDirect".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\NmaDirect".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\NmaDirect".DllGetClassObject
+  NmaDirect_OverrideUserLocation="C:\Windows\SysWOW64\NmaDirect".NmaDirect_OverrideUserLocation
+  NmaDirect_StartGuidanceWithSimulatedRoute="C:\Windows\SysWOW64\NmaDirect".NmaDirect_StartGuidanceWithSimulatedRoute

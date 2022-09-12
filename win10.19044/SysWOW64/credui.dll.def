@@ -1,0 +1,27 @@
+EXPORTS
+  CredPackAuthenticationBufferA="C:\Windows\SysWOW64\credui".CredPackAuthenticationBufferA
+  CredPackAuthenticationBufferW="C:\Windows\SysWOW64\credui".CredPackAuthenticationBufferW
+  CredUICmdLinePromptForCredentialsA="C:\Windows\SysWOW64\credui".CredUICmdLinePromptForCredentialsA
+  CredUICmdLinePromptForCredentialsW="C:\Windows\SysWOW64\credui".CredUICmdLinePromptForCredentialsW
+  CredUIConfirmCredentialsA="C:\Windows\SysWOW64\credui".CredUIConfirmCredentialsA
+  CredUIConfirmCredentialsW="C:\Windows\SysWOW64\credui".CredUIConfirmCredentialsW
+  CredUIInitControls="C:\Windows\SysWOW64\credui".CredUIInitControls
+  CredUIParseUserNameA="C:\Windows\SysWOW64\credui".CredUIParseUserNameA
+  CredUIParseUserNameW="C:\Windows\SysWOW64\credui".CredUIParseUserNameW
+  CredUIPromptForCredentialsA="C:\Windows\SysWOW64\credui".CredUIPromptForCredentialsA
+  CredUIPromptForCredentialsW="C:\Windows\SysWOW64\credui".CredUIPromptForCredentialsW
+  CredUIPromptForWindowsCredentialsA="C:\Windows\SysWOW64\credui".CredUIPromptForWindowsCredentialsA
+  CredUIPromptForWindowsCredentialsW="C:\Windows\SysWOW64\credui".CredUIPromptForWindowsCredentialsW
+  CredUIPromptForWindowsCredentialsWorker="C:\Windows\SysWOW64\credui".CredUIPromptForWindowsCredentialsWorker
+  CredUIReadSSOCredA="C:\Windows\SysWOW64\credui".CredUIReadSSOCredA
+  CredUIReadSSOCredW="C:\Windows\SysWOW64\credui".CredUIReadSSOCredW
+  CredUIStoreSSOCredA="C:\Windows\SysWOW64\credui".CredUIStoreSSOCredA
+  CredUIStoreSSOCredW="C:\Windows\SysWOW64\credui".CredUIStoreSSOCredW
+  CredUnPackAuthenticationBufferA="C:\Windows\SysWOW64\credui".CredUnPackAuthenticationBufferA
+  CredUnPackAuthenticationBufferW="C:\Windows\SysWOW64\credui".CredUnPackAuthenticationBufferW
+  SspiGetCredUIContext="C:\Windows\SysWOW64\credui".SspiGetCredUIContext
+  SspiIsPromptingNeeded="C:\Windows\SysWOW64\credui".SspiIsPromptingNeeded
+  SspiPromptForCredentialsA="C:\Windows\SysWOW64\credui".SspiPromptForCredentialsA
+  SspiPromptForCredentialsW="C:\Windows\SysWOW64\credui".SspiPromptForCredentialsW
+  SspiUnmarshalCredUIContext="C:\Windows\SysWOW64\credui".SspiUnmarshalCredUIContext
+  SspiUpdateCredentials="C:\Windows\SysWOW64\credui".SspiUpdateCredentials

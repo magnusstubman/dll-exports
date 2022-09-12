@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.PlatformExtension.MiracastBannerExperience".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Internal.PlatformExtension.MiracastBannerExperience".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.PlatformExtension.MiracastBannerExperience".DllGetClassObject

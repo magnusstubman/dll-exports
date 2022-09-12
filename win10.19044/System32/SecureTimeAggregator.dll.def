@@ -1,0 +1,5 @@
+EXPORTS
+  AggregateSSLHandshakeTime="C:\Windows\System32\SecureTimeAggregator".AggregateSSLHandshakeTime
+  DllCanUnloadNow="C:\Windows\System32\SecureTimeAggregator".DllCanUnloadNow
+  GetSecureTime="C:\Windows\System32\SecureTimeAggregator".GetSecureTime
+  UnInitialize="C:\Windows\System32\SecureTimeAggregator".UnInitialize

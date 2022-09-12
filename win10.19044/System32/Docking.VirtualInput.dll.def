@@ -1,0 +1,5 @@
+EXPORTS
+  CreateVirtualInputManager="C:\Windows\System32\Docking.VirtualInput".CreateVirtualInputManager
+  CreateVirtualTouchPad="C:\Windows\System32\Docking.VirtualInput".CreateVirtualTouchPad
+  DllCanUnloadNow="C:\Windows\System32\Docking.VirtualInput".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Docking.VirtualInput".DllGetClassObject

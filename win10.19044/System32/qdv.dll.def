@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\qdv".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\qdv".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\qdv".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\qdv".DllUnregisterServer

@@ -1,0 +1,11 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\DscCoreConfProv".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\DscCoreConfProv".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\DscCoreConfProv".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\DscCoreConfProv".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\DscCoreConfProv".DllUnregisterServer
+  GetProviderClassID="C:\Windows\SysWOW64\DscCoreConfProv".GetProviderClassID
+  MI_Main="C:\Windows\SysWOW64\DscCoreConfProv".MI_Main
+  NITS_PRESENCE_STUB="C:\Windows\SysWOW64\DscCoreConfProv".NITS_PRESENCE_STUB
+  NITS_STUB="C:\Windows\SysWOW64\DscCoreConfProv".NITS_STUB
+  NativeProviderTraps="C:\Windows\SysWOW64\DscCoreConfProv".NativeProviderTraps

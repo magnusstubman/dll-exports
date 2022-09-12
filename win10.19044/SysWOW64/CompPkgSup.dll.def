@@ -1,0 +1,11 @@
+EXPORTS
+  AreDvdCodecsEnabled="C:\Windows\SysWOW64\CompPkgSup".AreDvdCodecsEnabled
+  GetMediaComponentPackageInfo="C:\Windows\SysWOW64\CompPkgSup".GetMediaComponentPackageInfo
+  GetMediaExtensionCommunicationFactory="C:\Windows\SysWOW64\CompPkgSup".GetMediaExtensionCommunicationFactory
+  GetNetworkRequestCount="C:\Windows\SysWOW64\CompPkgSup".GetNetworkRequestCount
+  GetServerForPMP="C:\Windows\SysWOW64\CompPkgSup".GetServerForPMP
+  InstantiateComponentFromPackage="C:\Windows\SysWOW64\CompPkgSup".InstantiateComponentFromPackage
+  IsMediaBehaviorEnabled="C:\Windows\SysWOW64\CompPkgSup".IsMediaBehaviorEnabled
+  RegisterServerForPMP="C:\Windows\SysWOW64\CompPkgSup".RegisterServerForPMP
+  RequireNetworkDuringMediaTaskCompletion="C:\Windows\SysWOW64\CompPkgSup".RequireNetworkDuringMediaTaskCompletion
+  UnregisterServerForPMP="C:\Windows\SysWOW64\CompPkgSup".UnregisterServerForPMP

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.Feedback.Analog.ProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.Feedback.Analog.ProxyStub".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.Internal.Feedback.Analog.ProxyStub".GetProxyDllInfo

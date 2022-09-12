@@ -1,0 +1,16 @@
+EXPORTS
+  WGIGetCompatibleInputMethodsForLanguage="C:\Windows\SysWOW64\globinputhost".WGIGetCompatibleInputMethodsForLanguage
+  WGIGetCompatibleInputMethodsForLanguageKeyboardAndImeMixed="C:\Windows\SysWOW64\globinputhost".WGIGetCompatibleInputMethodsForLanguageKeyboardAndImeMixed
+  WGIGetCurrentInputLanguage="C:\Windows\SysWOW64\globinputhost".WGIGetCurrentInputLanguage
+  WGIGetDefaultInputMethodForLanguage="C:\Windows\SysWOW64\globinputhost".WGIGetDefaultInputMethodForLanguage
+  WGIGetInputMethodDescription="C:\Windows\SysWOW64\globinputhost".WGIGetInputMethodDescription
+  WGIGetInputMethodProperties="C:\Windows\SysWOW64\globinputhost".WGIGetInputMethodProperties
+  WGIGetInputMethodTileName="C:\Windows\SysWOW64\globinputhost".WGIGetInputMethodTileName
+  WGIIsImeInputMethod="C:\Windows\SysWOW64\globinputhost".WGIIsImeInputMethod
+  WGIIsImeScript="C:\Windows\SysWOW64\globinputhost".WGIIsImeScript
+  WGIIsImmersiveInputMethod="C:\Windows\SysWOW64\globinputhost".WGIIsImmersiveInputMethod
+  WGIIsTouchEnabledInputMethod="C:\Windows\SysWOW64\globinputhost".WGIIsTouchEnabledInputMethod
+  WGISetCurrentInputLanguage="C:\Windows\SysWOW64\globinputhost".WGISetCurrentInputLanguage
+  WGITransformInputMethodsForLanguage="C:\Windows\SysWOW64\globinputhost".WGITransformInputMethodsForLanguage
+  WGITransformInputMethodsForLanguageId="C:\Windows\SysWOW64\globinputhost".WGITransformInputMethodsForLanguageId
+  WGIUpdateGlobalSpellerKey="C:\Windows\SysWOW64\globinputhost".WGIUpdateGlobalSpellerKey

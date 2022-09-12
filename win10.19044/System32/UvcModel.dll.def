@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\UvcModel".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\UvcModel".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\UvcModel".DllGetClassObject

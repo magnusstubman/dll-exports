@@ -1,0 +1,5 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\System32\mtxex".DllGetClassObject
+  GetObjectContext="C:\Windows\System32\mtxex".GetObjectContext
+  MTSCreateActivity="C:\Windows\System32\mtxex".MTSCreateActivity
+  SafeRef="C:\Windows\System32\mtxex".SafeRef

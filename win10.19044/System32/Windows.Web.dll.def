@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Web".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Web".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Web".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.Web".DllMain
+  DllRegisterServer="C:\Windows\System32\Windows.Web".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Web".DllUnregisterServer

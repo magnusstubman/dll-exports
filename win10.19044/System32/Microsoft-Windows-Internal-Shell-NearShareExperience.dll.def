@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Microsoft-Windows-Internal-Shell-NearShareExperience".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Microsoft-Windows-Internal-Shell-NearShareExperience".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Microsoft-Windows-Internal-Shell-NearShareExperience".DllGetClassObject

@@ -1,0 +1,10 @@
+EXPORTS
+  SLAcquireGenuineTicket="C:\Windows\SysWOW64\slcext".SLAcquireGenuineTicket
+  SLActivateProduct="C:\Windows\SysWOW64\slcext".SLActivateProduct
+  SLGetPackageProductKey="C:\Windows\SysWOW64\slcext".SLGetPackageProductKey
+  SLGetPackageProperties="C:\Windows\SysWOW64\slcext".SLGetPackageProperties
+  SLGetPackageToken="C:\Windows\SysWOW64\slcext".SLGetPackageToken
+  SLGetReferralInformation="C:\Windows\SysWOW64\slcext".SLGetReferralInformation
+  SLGetServerStatus="C:\Windows\SysWOW64\slcext".SLGetServerStatus
+  SLInstallPackage="C:\Windows\SysWOW64\slcext".SLInstallPackage
+  SLUninstallPackage="C:\Windows\SysWOW64\slcext".SLUninstallPackage

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\rdpsharercom".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\rdpsharercom".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\rdpsharercom".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\rdpsharercom".DllUnregisterServer

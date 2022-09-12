@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\nlasvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\nlasvc".SvchostPushServiceGlobals

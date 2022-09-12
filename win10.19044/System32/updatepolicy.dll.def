@@ -1,0 +1,14 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\updatepolicy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\updatepolicy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\updatepolicy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\updatepolicy".DllUnregisterServer
+  GetAutoUpdatePolicy="C:\Windows\System32\updatepolicy".GetAutoUpdatePolicy
+  GetEnterprisePolicyName="C:\Windows\System32\updatepolicy".GetEnterprisePolicyName
+  GetSkuUpdateManagementGroup="C:\Windows\System32\updatepolicy".GetSkuUpdateManagementGroup
+  GetUpdatePolicyName="C:\Windows\System32\updatepolicy".GetUpdatePolicyName
+  ReadPolicy="C:\Windows\System32\updatepolicy".ReadPolicy
+  ReadPolicyWithFallback="C:\Windows\System32\updatepolicy".ReadPolicyWithFallback
+  ReleaseAutoUpdatePolicy="C:\Windows\System32\updatepolicy".ReleaseAutoUpdatePolicy
+  ReleaseEnterprisePolicyValue="C:\Windows\System32\updatepolicy".ReleaseEnterprisePolicyValue
+  ReleaseUpdatePolicyValue="C:\Windows\System32\updatepolicy".ReleaseUpdatePolicyValue

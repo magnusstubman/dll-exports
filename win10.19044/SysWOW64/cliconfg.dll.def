@@ -1,0 +1,4 @@
+EXPORTS
+  CPlApplet="C:\Windows\SysWOW64\cliconfg".CPlApplet
+  ClientConfigureAddEdit="C:\Windows\SysWOW64\cliconfg".ClientConfigureAddEdit
+  OnInitDialogMain="C:\Windows\SysWOW64\cliconfg".OnInitDialogMain

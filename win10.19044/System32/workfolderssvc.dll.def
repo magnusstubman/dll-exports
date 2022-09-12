@@ -1,0 +1,5 @@
+EXPORTS
+  ClientInitEcsLib="C:\Windows\System32\workfolderssvc".ClientInitEcsLib
+  ClientUnInitEcsLib="C:\Windows\System32\workfolderssvc".ClientUnInitEcsLib
+  DllCanUnloadNow="C:\Windows\System32\workfolderssvc".DllCanUnloadNow
+  ServiceMain="C:\Windows\System32\workfolderssvc".ServiceMain

@@ -1,0 +1,12 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\EsdSip".DllCanUnloadNow
+  DllMain="C:\Windows\System32\EsdSip".DllMain
+  DllRegisterServer="C:\Windows\System32\EsdSip".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\EsdSip".DllUnregisterServer
+  EsdSipCreateHash="C:\Windows\System32\EsdSip".EsdSipCreateHash
+  EsdSipDelSignature="C:\Windows\System32\EsdSip".EsdSipDelSignature
+  EsdSipGetCaps="C:\Windows\System32\EsdSip".EsdSipGetCaps
+  EsdSipGetSignature="C:\Windows\System32\EsdSip".EsdSipGetSignature
+  EsdSipIsMyFileType="C:\Windows\System32\EsdSip".EsdSipIsMyFileType
+  EsdSipPutSignature="C:\Windows\System32\EsdSip".EsdSipPutSignature
+  EsdSipVerifyHash="C:\Windows\System32\EsdSip".EsdSipVerifyHash

@@ -1,0 +1,11 @@
+EXPORTS
+  CPlApplet="C:\Windows\System32\keymgr".CPlApplet
+  DllCanUnloadNow="C:\Windows\System32\keymgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\keymgr".DllGetClassObject
+  DllMain="C:\Windows\System32\keymgr".DllMain
+  KRShowKeyMgr="C:\Windows\System32\keymgr".KRShowKeyMgr
+  PRShowRestoreFromMsginaW="C:\Windows\System32\keymgr".PRShowRestoreFromMsginaW
+  PRShowRestoreWizardExW="C:\Windows\System32\keymgr".PRShowRestoreWizardExW
+  PRShowRestoreWizardW="C:\Windows\System32\keymgr".PRShowRestoreWizardW
+  PRShowSaveFromMsginaW="C:\Windows\System32\keymgr".PRShowSaveFromMsginaW
+  PRShowSaveWizardExW="C:\Windows\System32\keymgr".PRShowSaveWizardExW

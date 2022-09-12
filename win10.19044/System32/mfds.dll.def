@@ -1,0 +1,25 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mfds".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mfds".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mfds".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mfds".DllUnregisterServer
+  InitAACAudioStream_="C:\Windows\System32\mfds".InitAACAudioStream_
+  InitAC3AudioStream_="C:\Windows\System32\mfds".InitAC3AudioStream_
+  InitBDAVLPCMAudioStream_="C:\Windows\System32\mfds".InitBDAVLPCMAudioStream_
+  InitDDPlusAudioStream_="C:\Windows\System32\mfds".InitDDPlusAudioStream_
+  InitDTSAudioStream_="C:\Windows\System32\mfds".InitDTSAudioStream_
+  InitH264Stream_="C:\Windows\System32\mfds".InitH264Stream_
+  InitHEVCStream_="C:\Windows\System32\mfds".InitHEVCStream_
+  InitLPCMAudioStream_="C:\Windows\System32\mfds".InitLPCMAudioStream_
+  InitLPCMMiracastAudioStream_="C:\Windows\System32\mfds".InitLPCMMiracastAudioStream_
+  InitMpeg1VideoStream_="C:\Windows\System32\mfds".InitMpeg1VideoStream_
+  InitMpeg2VideoStream_="C:\Windows\System32\mfds".InitMpeg2VideoStream_
+  InitMpegAudioStream_="C:\Windows\System32\mfds".InitMpegAudioStream_
+  InitTrueHDAudioStream_="C:\Windows\System32\mfds".InitTrueHDAudioStream_
+  PESHeaderLength="C:\Windows\System32\mfds".PESHeaderLength
+  PESPacketLength="C:\Windows\System32\mfds".PESPacketLength
+  PESPacketPTSinPCR="C:\Windows\System32\mfds".PESPacketPTSinPCR
+  PackMuxRate="C:\Windows\System32\mfds".PackMuxRate
+  PackSCR="C:\Windows\System32\mfds".PackSCR
+  xCreateCannedMediaType="C:\Windows\System32\mfds".xCreateCannedMediaType
+  xMediaSubTypeTransform="C:\Windows\System32\mfds".xMediaSubTypeTransform

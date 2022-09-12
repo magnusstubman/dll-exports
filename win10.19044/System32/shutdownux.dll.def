@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\shutdownux".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\shutdownux".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\shutdownux".DllGetClassObject

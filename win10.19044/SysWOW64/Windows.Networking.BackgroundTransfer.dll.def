@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.Networking.BackgroundTransfer".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.Networking.BackgroundTransfer".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.Networking.BackgroundTransfer".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\Windows.Networking.BackgroundTransfer".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\Windows.Networking.BackgroundTransfer".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\Windows.Networking.BackgroundTransfer".DllUnregisterServer

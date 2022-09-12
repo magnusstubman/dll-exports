@@ -1,0 +1,4 @@
+EXPORTS
+  CertPropServiceMain="C:\Windows\System32\certprop".CertPropServiceMain
+  ScPolicyServiceMain="C:\Windows\System32\certprop".ScPolicyServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\certprop".SvchostPushServiceGlobals

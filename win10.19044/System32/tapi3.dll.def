@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\tapi3".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\tapi3".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\tapi3".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\tapi3".DllUnregisterServer

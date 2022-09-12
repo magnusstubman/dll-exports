@@ -1,0 +1,5 @@
+EXPORTS
+  AboutDialogProc="C:\Windows\SysWOW64\ir32_32".AboutDialogProc
+  DllMain="C:\Windows\SysWOW64\ir32_32".DllMain
+  DriverDialogProc="C:\Windows\SysWOW64\ir32_32".DriverDialogProc
+  DriverProc="C:\Windows\SysWOW64\ir32_32".DriverProc

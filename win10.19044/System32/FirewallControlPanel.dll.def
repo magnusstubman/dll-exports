@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\FirewallControlPanel".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\FirewallControlPanel".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\FirewallControlPanel".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\FirewallControlPanel".DllUnregisterServer
+  ShowNotificationDialogW="C:\Windows\System32\FirewallControlPanel".ShowNotificationDialogW
+  ShowWarningDialogW="C:\Windows\System32\FirewallControlPanel".ShowWarningDialogW

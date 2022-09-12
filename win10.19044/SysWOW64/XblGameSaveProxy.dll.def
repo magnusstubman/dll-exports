@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\XblGameSaveProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\XblGameSaveProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\XblGameSaveProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\XblGameSaveProxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\XblGameSaveProxy".GetProxyDllInfo

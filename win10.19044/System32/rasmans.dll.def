@@ -1,0 +1,9 @@
+EXPORTS
+  NlmGetBestCostNetworkConnection="C:\Windows\System32\rasmans".NlmGetBestCostNetworkConnection
+  NlmGetCostedNetworkSettings="C:\Windows\System32\rasmans".NlmGetCostedNetworkSettings
+  NlmSetCostedNetworkSettings="C:\Windows\System32\rasmans".NlmSetCostedNetworkSettings
+  ServiceInitialized="C:\Windows\System32\rasmans".ServiceInitialized
+  ServiceMain="C:\Windows\System32\rasmans".ServiceMain
+  ServiceRequestInProcess="C:\Windows\System32\rasmans".ServiceRequestInProcess
+  VpnProfileMatchingNrpt="C:\Windows\System32\rasmans".VpnProfileMatchingNrpt
+  VpnProfileNrptHasExemptions="C:\Windows\System32\rasmans".VpnProfileNrptHasExemptions

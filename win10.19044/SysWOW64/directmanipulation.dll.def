@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\directmanipulation".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\directmanipulation".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\directmanipulation".DllGetClassObject
+  InitializeDManipHook="C:\Windows\SysWOW64\directmanipulation".InitializeDManipHook

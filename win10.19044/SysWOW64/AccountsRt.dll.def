@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AccountsRt".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\AccountsRt".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\AccountsRt".DllGetClassObject

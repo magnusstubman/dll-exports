@@ -1,0 +1,23 @@
+EXPORTS
+  ??0CSearchServiceObj@@QEAA@AEBV0@@Z="C:\Windows\System32\mssrch".??0CSearchServiceObj@@QEAA@AEBV0@@Z
+  ??0CSearchServiceObj@@QEAA@XZ="C:\Windows\System32\mssrch".??0CSearchServiceObj@@QEAA@XZ
+  ??1CSearchServiceObj@@QEAA@XZ="C:\Windows\System32\mssrch".??1CSearchServiceObj@@QEAA@XZ
+  ??4CSearchServiceObj@@QEAAAEAV0@AEBV0@@Z="C:\Windows\System32\mssrch".??4CSearchServiceObj@@QEAAAEAV0@AEBV0@@Z
+  ??_7CSearchServiceObj@@6B@="C:\Windows\System32\mssrch".??_7CSearchServiceObj@@6B@
+  ?Cleanup@CSearchServiceObj@@SAXXZ="C:\Windows\System32\mssrch".?Cleanup@CSearchServiceObj@@SAXXZ
+  ?GetFileChangeClientManagerInstance@@YA?AV?$shared_ptr@UIFileChangeClientManager@ChangeTracking@Windows@@@std@@XZ="C:\Windows\System32\mssrch".?GetFileChangeClientManagerInstance@@YA?AV?$shared_ptr@UIFileChangeClientManager@ChangeTracking@Windows@@@std@@XZ
+  ?HandleDplKeyChange@CSearchServiceObj@@UEAAJXZ="C:\Windows\System32\mssrch".?HandleDplKeyChange@CSearchServiceObj@@UEAAJXZ
+  ?Initialize@CSearchServiceObj@@UEAAJ_NKPEBV?$vector@VReIndexPatternInfo@@V?$allocator@VReIndexPatternInfo@@@std@@@std@@@Z="C:\Windows\System32\mssrch".?Initialize@CSearchServiceObj@@UEAAJ_NKPEBV?$vector@VReIndexPatternInfo@@V?$allocator@VReIndexPatternInfo@@@std@@@std@@@Z
+  ?LogoffNotification@CSearchServiceObj@@UEAAJK@Z="C:\Windows\System32\mssrch".?LogoffNotification@CSearchServiceObj@@UEAAJK@Z
+  ?LogonNotification@CSearchServiceObj@@UEAAJK@Z="C:\Windows\System32\mssrch".?LogonNotification@CSearchServiceObj@@UEAAJK@Z
+  ?PostServiceStartup@CSearchServiceObj@@UEAAJXZ="C:\Windows\System32\mssrch".?PostServiceStartup@CSearchServiceObj@@UEAAJXZ
+  ?SetServiceStatusObj@CSearchServiceObj@@UEAAJPEAUIDCOMServiceStatus@@@Z="C:\Windows\System32\mssrch".?SetServiceStatusObj@CSearchServiceObj@@UEAAJPEAUIDCOMServiceStatus@@@Z
+  ?Shutdown@CSearchServiceObj@@UEAAJXZ="C:\Windows\System32\mssrch".?Shutdown@CSearchServiceObj@@UEAAJXZ
+  ?Start@CSearchServiceObj@@UEAAJXZ="C:\Windows\System32\mssrch".?Start@CSearchServiceObj@@UEAAJXZ
+  ?Stop@CSearchServiceObj@@UEAAJH@Z="C:\Windows\System32\mssrch".?Stop@CSearchServiceObj@@UEAAJH@Z
+  DllCanUnloadNow="C:\Windows\System32\mssrch".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mssrch".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mssrch".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mssrch".DllUnregisterServer
+  GetCatalogManager="C:\Windows\System32\mssrch".GetCatalogManager
+  MSSrch_SysPrep_Cleanup="C:\Windows\System32\mssrch".MSSrch_SysPrep_Cleanup

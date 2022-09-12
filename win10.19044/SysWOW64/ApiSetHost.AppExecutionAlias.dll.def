@@ -1,0 +1,21 @@
+EXPORTS
+  CheckAppExecutionAliasApplicationType="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".CheckAppExecutionAliasApplicationType
+  CloseAppExecutionAliasEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".CloseAppExecutionAliasEx
+  CompleteAppExecutionAliasProcessCreationEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".CompleteAppExecutionAliasProcessCreationEx
+  CreateAppExecutionAliasEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".CreateAppExecutionAliasEx
+  CreateAppExecutionAliasEx2="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".CreateAppExecutionAliasEx2
+  DllCanUnloadNow="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".DllGetClassObject
+  FreeAppExecutionAliasInfoEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".FreeAppExecutionAliasInfoEx
+  GetAppExecutionAliasApplicationType="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasApplicationType
+  GetAppExecutionAliasApplicationUserModelIdEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasApplicationUserModelIdEx
+  GetAppExecutionAliasExecutableEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasExecutableEx
+  GetAppExecutionAliasPackageFamilyNameEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasPackageFamilyNameEx
+  GetAppExecutionAliasPackageFullNameEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasPackageFullNameEx
+  GetAppExecutionAliasPath="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".GetAppExecutionAliasPath
+  LoadAppExecutionAliasInfoEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".LoadAppExecutionAliasInfoEx
+  OpenAppExecutionAliasForUserEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".OpenAppExecutionAliasForUserEx
+  PerformAppxLicenseRundownEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".PerformAppxLicenseRundownEx
+  PersistAppExecutionAliasToFileEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".PersistAppExecutionAliasToFileEx
+  PersistAppExecutionAliasToFileHandleEx="C:\Windows\SysWOW64\ApiSetHost.AppExecutionAlias".PersistAppExecutionAliasToFileHandleEx

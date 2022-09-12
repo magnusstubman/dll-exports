@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\HoloShellRuntime".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\HoloShellRuntime".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\HoloShellRuntime".DllGetClassObject

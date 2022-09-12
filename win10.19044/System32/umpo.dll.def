@@ -1,0 +1,20 @@
+EXPORTS
+  PtrUmpoFullPowerPlanSupportDisabled="C:\Windows\System32\umpo".PtrUmpoFullPowerPlanSupportDisabled
+  PtrUmpoOnAcPower="C:\Windows\System32\umpo".PtrUmpoOnAcPower
+  PtrUmpoProviderHandle="C:\Windows\System32\umpo".PtrUmpoProviderHandle
+  PtrUmpoSchemeLock="C:\Windows\System32\umpo".PtrUmpoSchemeLock
+  UmpoAllocate="C:\Windows\System32\umpo".UmpoAllocate
+  UmpoAlpcSendPowerMessage="C:\Windows\System32\umpo".UmpoAlpcSendPowerMessage
+  UmpoFree="C:\Windows\System32\umpo".UmpoFree
+  UmpoGetActiveScheme="C:\Windows\System32\umpo".UmpoGetActiveScheme
+  UmpoInternalCloseUserPowerKey="C:\Windows\System32\umpo".UmpoInternalCloseUserPowerKey
+  UmpoInternalConvertGuidToString="C:\Windows\System32\umpo".UmpoInternalConvertGuidToString
+  UmpoInternalDataAccessorToString="C:\Windows\System32\umpo".UmpoInternalDataAccessorToString
+  UmpoInternalGetKeyValueGuid="C:\Windows\System32\umpo".UmpoInternalGetKeyValueGuid
+  UmpoInternalOpenGUIDSubKey="C:\Windows\System32\umpo".UmpoInternalOpenGUIDSubKey
+  UmpoInternalOpenUserPowerKey="C:\Windows\System32\umpo".UmpoInternalOpenUserPowerKey
+  UmpoMain="C:\Windows\System32\umpo".UmpoMain
+  UmpoNotificationHandler="C:\Windows\System32\umpo".UmpoNotificationHandler
+  UmpoNotifyKernelAllPowerPolicyChanged="C:\Windows\System32\umpo".UmpoNotifyKernelAllPowerPolicyChanged
+  UmpoSendKernelPowerPolicyNotification="C:\Windows\System32\umpo".UmpoSendKernelPowerPolicyNotification
+  UmpoWriteToUserPowerKey="C:\Windows\System32\umpo".UmpoWriteToUserPowerKey

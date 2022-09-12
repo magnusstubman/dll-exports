@@ -1,0 +1,13 @@
+EXPORTS
+  CPlApplet="C:\Windows\System32\cscui".CPlApplet
+  CSCOptions_RunDLL="C:\Windows\System32\cscui".CSCOptions_RunDLL
+  CSCOptions_RunDLLA="C:\Windows\System32\cscui".CSCOptions_RunDLLA
+  CSCOptions_RunDLLW="C:\Windows\System32\cscui".CSCOptions_RunDLLW
+  CSCUIInitialize="C:\Windows\System32\cscui".CSCUIInitialize
+  CSCUIOptionsPropertySheet="C:\Windows\System32\cscui".CSCUIOptionsPropertySheet
+  CSCUIRemoveFolderFromCache="C:\Windows\System32\cscui".CSCUIRemoveFolderFromCache
+  CSCUISetState="C:\Windows\System32\cscui".CSCUISetState
+  DllCanUnloadNow="C:\Windows\System32\cscui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\cscui".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\cscui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\cscui".DllUnregisterServer

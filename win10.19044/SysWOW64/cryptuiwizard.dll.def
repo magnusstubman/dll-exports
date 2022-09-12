@@ -1,0 +1,9 @@
+EXPORTS
+  CryptUIWizBuildCTL="C:\Windows\SysWOW64\cryptuiwizard".CryptUIWizBuildCTL
+  CryptUIWizDigitalSign="C:\Windows\SysWOW64\cryptuiwizard".CryptUIWizDigitalSign
+  CryptUIWizExport="C:\Windows\SysWOW64\cryptuiwizard".CryptUIWizExport
+  CryptUIWizFreeDigitalSignContext="C:\Windows\SysWOW64\cryptuiwizard".CryptUIWizFreeDigitalSignContext
+  CryptUIWizImport="C:\Windows\SysWOW64\cryptuiwizard".CryptUIWizImport
+  CryptUIWizImportInternal="C:\Windows\SysWOW64\cryptuiwizard".CryptUIWizImportInternal
+  DllMain="C:\Windows\SysWOW64\cryptuiwizard".DllMain
+  GetFunctionTable="C:\Windows\SysWOW64\cryptuiwizard".GetFunctionTable

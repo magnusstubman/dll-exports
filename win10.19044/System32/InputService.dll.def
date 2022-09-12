@@ -1,0 +1,7 @@
+EXPORTS
+  CreateInputMethodClient="C:\Windows\System32\InputService".CreateInputMethodClient
+  CreateKeyEventProcessor="C:\Windows\System32\InputService".CreateKeyEventProcessor
+  InitializeService="C:\Windows\System32\InputService".InitializeService
+  ServiceMain="C:\Windows\System32\InputService".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\InputService".SvchostPushServiceGlobals
+  UninitializeService="C:\Windows\System32\InputService".UninitializeService

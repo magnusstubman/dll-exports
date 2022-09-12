@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wksprtPS".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wksprtPS".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wksprtPS".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wksprtPS".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\wksprtPS".GetProxyDllInfo

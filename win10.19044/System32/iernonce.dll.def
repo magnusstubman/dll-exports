@@ -1,0 +1,3 @@
+EXPORTS
+  InitCallback="C:\Windows\System32\iernonce".InitCallback
+  RunOnceExProcess="C:\Windows\System32\iernonce".RunOnceExProcess

@@ -1,0 +1,9 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\acledit".DllMain
+  EditAuditInfo="C:\Windows\SysWOW64\acledit".EditAuditInfo
+  EditOwnerInfo="C:\Windows\SysWOW64\acledit".EditOwnerInfo
+  EditPermissionInfo="C:\Windows\SysWOW64\acledit".EditPermissionInfo
+  FMExtensionProcW="C:\Windows\SysWOW64\acledit".FMExtensionProcW
+  SedDiscretionaryAclEditor="C:\Windows\SysWOW64\acledit".SedDiscretionaryAclEditor
+  SedSystemAclEditor="C:\Windows\SysWOW64\acledit".SedSystemAclEditor
+  SedTakeOwnership="C:\Windows\SysWOW64\acledit".SedTakeOwnership

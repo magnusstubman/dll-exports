@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\CloudExperienceHostCommon".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\CloudExperienceHostCommon".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\CloudExperienceHostCommon".DllGetClassObject

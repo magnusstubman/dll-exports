@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\HoloSHExtensions".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\HoloSHExtensions".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\HoloSHExtensions".DllGetClassObject

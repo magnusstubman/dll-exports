@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\tscfgwmi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\tscfgwmi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\tscfgwmi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\tscfgwmi".DllUnregisterServer

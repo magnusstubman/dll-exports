@@ -1,0 +1,11 @@
+EXPORTS
+  CreateIndirectData="C:\Windows\SysWOW64\wshext".CreateIndirectData
+  DllCanUnloadNow="C:\Windows\SysWOW64\wshext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wshext".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wshext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wshext".DllUnregisterServer
+  GetSignedDataMsg="C:\Windows\SysWOW64\wshext".GetSignedDataMsg
+  IsFileSupportedName="C:\Windows\SysWOW64\wshext".IsFileSupportedName
+  PutSignedDataMsg="C:\Windows\SysWOW64\wshext".PutSignedDataMsg
+  RemoveSignedDataMsg="C:\Windows\SysWOW64\wshext".RemoveSignedDataMsg
+  VerifyIndirectData="C:\Windows\SysWOW64\wshext".VerifyIndirectData

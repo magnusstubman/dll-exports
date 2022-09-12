@@ -1,0 +1,4 @@
+EXPORTS
+  UmpoDisablePowerSettingOverrideUpdates="C:\Windows\System32\umpo-overrides".UmpoDisablePowerSettingOverrideUpdates
+  UmpoEnablePowerSettingOverrideUpdates="C:\Windows\System32\umpo-overrides".UmpoEnablePowerSettingOverrideUpdates
+  UmpoGetPowerSettingOverrides="C:\Windows\System32\umpo-overrides".UmpoGetPowerSettingOverrides

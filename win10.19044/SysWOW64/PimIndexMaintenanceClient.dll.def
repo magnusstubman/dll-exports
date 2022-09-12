@@ -1,0 +1,17 @@
+EXPORTS
+  CreateIndexedFilterClient="C:\Windows\SysWOW64\PimIndexMaintenanceClient".CreateIndexedFilterClient
+  CreatePOOMSortedAggregateDataSource="C:\Windows\SysWOW64\PimIndexMaintenanceClient".CreatePOOMSortedAggregateDataSource
+  GetDefaultContactsFilterSupplierSortOrder="C:\Windows\SysWOW64\PimIndexMaintenanceClient".GetDefaultContactsFilterSupplierSortOrder
+  PimIMClient_CacheAggregateCacheFileMapping="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIMClient_CacheAggregateCacheFileMapping
+  PimIMClient_Free="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIMClient_Free
+  PimIMClient_LoadAggregateCache="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIMClient_LoadAggregateCache
+  PimIMClient_RebuildAggregateCache="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIMClient_RebuildAggregateCache
+  PimIMClient_ResetInprocService="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIMClient_ResetInprocService
+  PimIMClient_Resume="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIMClient_Resume
+  PimIMClient_Suspend="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIMClient_Suspend
+  PimIMClient_UpdateItems="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIMClient_UpdateItems
+  PimIMClient_UpdateStores="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIMClient_UpdateStores
+  PimIM_RpcConnect="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIM_RpcConnect
+  PimIM_RpcDisconnect="C:\Windows\SysWOW64\PimIndexMaintenanceClient".PimIM_RpcDisconnect
+  WaitForCookie="C:\Windows\SysWOW64\PimIndexMaintenanceClient".WaitForCookie
+  WaitForCookieValueToSet="C:\Windows\SysWOW64\PimIndexMaintenanceClient".WaitForCookieValueToSet

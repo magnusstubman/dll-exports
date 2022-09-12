@@ -1,0 +1,9 @@
+EXPORTS
+  CloseFileRestoreContext="C:\Windows\System32\fmapi".CloseFileRestoreContext
+  CreateFileRestoreContext="C:\Windows\System32\fmapi".CreateFileRestoreContext
+  DetectBootSector="C:\Windows\System32\fmapi".DetectBootSector
+  DetectEncryptedVolume="C:\Windows\System32\fmapi".DetectEncryptedVolume
+  DetectEncryptedVolumeEx="C:\Windows\System32\fmapi".DetectEncryptedVolumeEx
+  RestoreFile="C:\Windows\System32\fmapi".RestoreFile
+  ScanRestorableFiles="C:\Windows\System32\fmapi".ScanRestorableFiles
+  SupplyDecryptionInfo="C:\Windows\System32\fmapi".SupplyDecryptionInfo

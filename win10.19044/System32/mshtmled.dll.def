@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mshtmled".DllCanUnloadNow
+  DllEnumClassObjects="C:\Windows\System32\mshtmled".DllEnumClassObjects
+  DllGetClassObject="C:\Windows\System32\mshtmled".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mshtmled".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mshtmled".DllUnregisterServer

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_Fonts".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_Fonts".DllGetClassObject
+  GetSetting="C:\Windows\System32\SettingsHandlers_Fonts".GetSetting

@@ -1,0 +1,8 @@
+EXPORTS
+  AwaitContactPickerResults="C:\Windows\SysWOW64\ContactActivation".AwaitContactPickerResults
+  ContactToVCardString="C:\Windows\SysWOW64\ContactActivation".ContactToVCardString
+  DeserializeContactFromString="C:\Windows\SysWOW64\ContactActivation".DeserializeContactFromString
+  SerializeContactToString="C:\Windows\SysWOW64\ContactActivation".SerializeContactToString
+  SerializeContactToVCard="C:\Windows\SysWOW64\ContactActivation".SerializeContactToVCard
+  ShowContactPickerAsync="C:\Windows\SysWOW64\ContactActivation".ShowContactPickerAsync
+  VCardStringToContact="C:\Windows\SysWOW64\ContactActivation".VCardStringToContact

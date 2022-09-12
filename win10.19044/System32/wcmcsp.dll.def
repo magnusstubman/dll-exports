@@ -1,0 +1,7 @@
+EXPORTS
+  EthernetCspDeInit="C:\Windows\System32\wcmcsp".EthernetCspDeInit
+  EthernetCspInit="C:\Windows\System32\wcmcsp".EthernetCspInit
+  WlanCspDeInit="C:\Windows\System32\wcmcsp".WlanCspDeInit
+  WlanCspInit="C:\Windows\System32\wcmcsp".WlanCspInit
+  WwanCspDeInit="C:\Windows\System32\wcmcsp".WwanCspDeInit
+  WwanCspInit="C:\Windows\System32\wcmcsp".WwanCspInit

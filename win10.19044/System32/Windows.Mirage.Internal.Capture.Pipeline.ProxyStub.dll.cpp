@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\Windows.Mirage.Internal.Capture.Pipeline.ProxyStub.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\Windows.Mirage.Internal.Capture.Pipeline.ProxyStub.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\Windows.Mirage.Internal.Capture.Pipeline.ProxyStub.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\Windows.Mirage.Internal.Capture.Pipeline.ProxyStub.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetProxyDllInfo=\"C:\\Windows\\System32\\Windows.Mirage.Internal.Capture.Pipeline.ProxyStub.GetProxyDllInfo\"")

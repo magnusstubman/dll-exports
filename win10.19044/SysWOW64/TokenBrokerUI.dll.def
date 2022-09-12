@@ -1,0 +1,3 @@
+EXPORTS
+  TokenBrokerGetEdgeSids="C:\Windows\SysWOW64\TokenBrokerUI".TokenBrokerGetEdgeSids
+  TokenBrokerGetPushCookieMonikers="C:\Windows\SysWOW64\TokenBrokerUI".TokenBrokerGetPushCookieMonikers

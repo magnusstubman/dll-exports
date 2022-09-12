@@ -1,0 +1,12 @@
+EXPORTS
+  DpxCheckJobExists="C:\Windows\System32\dpx".DpxCheckJobExists
+  DpxCheckJobExistsEx="C:\Windows\System32\dpx".DpxCheckJobExistsEx
+  DpxDeleteJob="C:\Windows\System32\dpx".DpxDeleteJob
+  DpxDeleteJobEx="C:\Windows\System32\dpx".DpxDeleteJobEx
+  DpxFreeMemory="C:\Windows\System32\dpx".DpxFreeMemory
+  DpxNewJob="C:\Windows\System32\dpx".DpxNewJob
+  DpxNewJobEx="C:\Windows\System32\dpx".DpxNewJobEx
+  DpxRestoreJob="C:\Windows\System32\dpx".DpxRestoreJob
+  DpxRestoreJobEx="C:\Windows\System32\dpx".DpxRestoreJobEx
+  DpxRestoreOrNewJob="C:\Windows\System32\dpx".DpxRestoreOrNewJob
+  DpxRestoreOrNewJobEx="C:\Windows\System32\dpx".DpxRestoreOrNewJobEx

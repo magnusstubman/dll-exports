@@ -1,0 +1,9 @@
+EXPORTS
+  AboutDialogProc="C:\Windows\SysWOW64\ir50_32original".AboutDialogProc
+  ConfigureDialogProc="C:\Windows\SysWOW64\ir50_32original".ConfigureDialogProc
+  DllCanUnloadNow="C:\Windows\SysWOW64\ir50_32original".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ir50_32original".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\ir50_32original".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\ir50_32original".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\ir50_32original".DllUnregisterServer
+  DriverProc="C:\Windows\SysWOW64\ir50_32original".DriverProc

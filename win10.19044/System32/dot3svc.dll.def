@@ -1,0 +1,5 @@
+EXPORTS
+  Dot3SvcMain="C:\Windows\System32\dot3svc".Dot3SvcMain
+  LanNotifyOnLogoff="C:\Windows\System32\dot3svc".LanNotifyOnLogoff
+  LanNotifyOnLogon="C:\Windows\System32\dot3svc".LanNotifyOnLogon
+  SvchostPushServiceGlobals="C:\Windows\System32\dot3svc".SvchostPushServiceGlobals

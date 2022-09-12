@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\scansetting".DllCanUnloadNow
+  DllMain="C:\Windows\SysWOW64\scansetting".DllMain
+  GetDefaultProfileScan="C:\Windows\SysWOW64\scansetting".GetDefaultProfileScan
+  GetImageDialog="C:\Windows\SysWOW64\scansetting".GetImageDialog
+  ProfilesDialog="C:\Windows\SysWOW64\scansetting".ProfilesDialog
+  ProgDlgTakeFgIfShowing="C:\Windows\SysWOW64\scansetting".ProgDlgTakeFgIfShowing

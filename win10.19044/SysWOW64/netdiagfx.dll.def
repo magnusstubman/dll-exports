@@ -1,0 +1,7 @@
+EXPORTS
+  HelperTraceEvent="C:\Windows\SysWOW64\netdiagfx".HelperTraceEvent
+  HelperTraceInitialize="C:\Windows\SysWOW64\netdiagfx".HelperTraceInitialize
+  HelperTraceUninitialize="C:\Windows\SysWOW64\netdiagfx".HelperTraceUninitialize
+  WdiDiagnosticModuleMain="C:\Windows\SysWOW64\netdiagfx".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\SysWOW64\netdiagfx".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\SysWOW64\netdiagfx".WdiHandleInstance

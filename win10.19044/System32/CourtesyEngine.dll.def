@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CourtesyEngine".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\CourtesyEngine".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\CourtesyEngine".DllGetClassObject

@@ -1,0 +1,7 @@
+EXPORTS
+  CloseLagPerfData="C:\Windows\SysWOW64\perfts".CloseLagPerfData
+  CloseTSObject="C:\Windows\SysWOW64\perfts".CloseTSObject
+  CollectLagPerfData="C:\Windows\SysWOW64\perfts".CollectLagPerfData
+  CollectTSObjectData="C:\Windows\SysWOW64\perfts".CollectTSObjectData
+  OpenLagPerfData="C:\Windows\SysWOW64\perfts".OpenLagPerfData
+  OpenTSObject="C:\Windows\SysWOW64\perfts".OpenTSObject

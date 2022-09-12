@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\jscript9diag".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\jscript9diag".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\jscript9diag".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\jscript9diag".DllUnregisterServer
+  FreeDumpStreams="C:\Windows\System32\jscript9diag".FreeDumpStreams
+  GetDumpStreams="C:\Windows\System32\jscript9diag".GetDumpStreams

@@ -1,0 +1,4 @@
+EXPORTS
+  CPlApplet="C:\Windows\SysWOW64\console".CPlApplet
+  DllCanUnloadNow="C:\Windows\SysWOW64\console".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\console".DllGetClassObject

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.ApplicationModel.Wallet".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.ApplicationModel.Wallet".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.ApplicationModel.Wallet".DllGetClassObject

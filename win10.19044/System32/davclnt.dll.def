@@ -1,0 +1,25 @@
+EXPORTS
+  DavCancelConnectionsToServer="C:\Windows\System32\davclnt".DavCancelConnectionsToServer
+  DavFreeUsedDiskSpace="C:\Windows\System32\davclnt".DavFreeUsedDiskSpace
+  DavGetDiskSpaceUsage="C:\Windows\System32\davclnt".DavGetDiskSpaceUsage
+  DavGetTheLockOwnerOfTheFile="C:\Windows\System32\davclnt".DavGetTheLockOwnerOfTheFile
+  DavInvalidateCache="C:\Windows\System32\davclnt".DavInvalidateCache
+  DavRegisterAuthCallback="C:\Windows\System32\davclnt".DavRegisterAuthCallback
+  DavSetCookieW="C:\Windows\System32\davclnt".DavSetCookieW
+  DavUnregisterAuthCallback="C:\Windows\System32\davclnt".DavUnregisterAuthCallback
+  DllCanUnloadNow="C:\Windows\System32\davclnt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\davclnt".DllGetClassObject
+  DllMain="C:\Windows\System32\davclnt".DllMain
+  NPAddConnection="C:\Windows\System32\davclnt".NPAddConnection
+  NPAddConnection3="C:\Windows\System32\davclnt".NPAddConnection3
+  NPCancelConnection="C:\Windows\System32\davclnt".NPCancelConnection
+  NPCloseEnum="C:\Windows\System32\davclnt".NPCloseEnum
+  NPEnumResource="C:\Windows\System32\davclnt".NPEnumResource
+  NPFormatNetworkName="C:\Windows\System32\davclnt".NPFormatNetworkName
+  NPGetCaps="C:\Windows\System32\davclnt".NPGetCaps
+  NPGetConnection="C:\Windows\System32\davclnt".NPGetConnection
+  NPGetResourceInformation="C:\Windows\System32\davclnt".NPGetResourceInformation
+  NPGetResourceParent="C:\Windows\System32\davclnt".NPGetResourceParent
+  NPGetUniversalName="C:\Windows\System32\davclnt".NPGetUniversalName
+  NPGetUser="C:\Windows\System32\davclnt".NPGetUser
+  NPOpenEnum="C:\Windows\System32\davclnt".NPOpenEnum

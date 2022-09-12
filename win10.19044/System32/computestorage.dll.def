@@ -1,0 +1,12 @@
+EXPORTS
+  HcsAttachLayerStorageFilter="C:\Windows\System32\computestorage".HcsAttachLayerStorageFilter
+  HcsDestroyLayer="C:\Windows\System32\computestorage".HcsDestroyLayer
+  HcsDetachLayerStorageFilter="C:\Windows\System32\computestorage".HcsDetachLayerStorageFilter
+  HcsExportLayer="C:\Windows\System32\computestorage".HcsExportLayer
+  HcsExportLegacyWritableLayer="C:\Windows\System32\computestorage".HcsExportLegacyWritableLayer
+  HcsFormatWritableLayerVhd="C:\Windows\System32\computestorage".HcsFormatWritableLayerVhd
+  HcsGetLayerVhdMountPath="C:\Windows\System32\computestorage".HcsGetLayerVhdMountPath
+  HcsImportLayer="C:\Windows\System32\computestorage".HcsImportLayer
+  HcsInitializeLegacyWritableLayer="C:\Windows\System32\computestorage".HcsInitializeLegacyWritableLayer
+  HcsInitializeWritableLayer="C:\Windows\System32\computestorage".HcsInitializeWritableLayer
+  HcsSetupBaseOSLayer="C:\Windows\System32\computestorage".HcsSetupBaseOSLayer

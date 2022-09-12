@@ -1,0 +1,15 @@
+EXPORTS
+  CountryRunOnce="C:\Windows\SysWOW64\modemui".CountryRunOnce
+  InvokeControlPanel="C:\Windows\SysWOW64\modemui".InvokeControlPanel
+  ModemCplDlgProc="C:\Windows\SysWOW64\modemui".ModemCplDlgProc
+  ModemPropPagesProvider="C:\Windows\SysWOW64\modemui".ModemPropPagesProvider
+  QueryModemForCountrySettings="C:\Windows\SysWOW64\modemui".QueryModemForCountrySettings
+  UnimodemDevConfigDialog="C:\Windows\SysWOW64\modemui".UnimodemDevConfigDialog
+  UnimodemGetDefaultCommConfig="C:\Windows\SysWOW64\modemui".UnimodemGetDefaultCommConfig
+  UnimodemGetExtendedCaps="C:\Windows\SysWOW64\modemui".UnimodemGetExtendedCaps
+  drvCommConfigDialogA="C:\Windows\SysWOW64\modemui".drvCommConfigDialogA
+  drvCommConfigDialogW="C:\Windows\SysWOW64\modemui".drvCommConfigDialogW
+  drvGetDefaultCommConfigA="C:\Windows\SysWOW64\modemui".drvGetDefaultCommConfigA
+  drvGetDefaultCommConfigW="C:\Windows\SysWOW64\modemui".drvGetDefaultCommConfigW
+  drvSetDefaultCommConfigA="C:\Windows\SysWOW64\modemui".drvSetDefaultCommConfigA
+  drvSetDefaultCommConfigW="C:\Windows\SysWOW64\modemui".drvSetDefaultCommConfigW

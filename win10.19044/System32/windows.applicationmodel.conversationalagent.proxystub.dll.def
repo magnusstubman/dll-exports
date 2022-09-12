@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\windows.applicationmodel.conversationalagent.proxystub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\windows.applicationmodel.conversationalagent.proxystub".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\windows.applicationmodel.conversationalagent.proxystub".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\windows.applicationmodel.conversationalagent.proxystub".DllUnregisterServer

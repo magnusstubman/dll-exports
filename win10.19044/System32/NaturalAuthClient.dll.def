@@ -1,0 +1,16 @@
+EXPORTS
+  CdfPluginRegisterDevice="C:\Windows\System32\NaturalAuthClient".CdfPluginRegisterDevice
+  CdfPluginUnregisterDevice="C:\Windows\System32\NaturalAuthClient".CdfPluginUnregisterDevice
+  CdfPluginUpdatePresenceState="C:\Windows\System32\NaturalAuthClient".CdfPluginUpdatePresenceState
+  NaDeviceUnlockStart="C:\Windows\System32\NaturalAuthClient".NaDeviceUnlockStart
+  NaDeviceUnlockStop="C:\Windows\System32\NaturalAuthClient".NaDeviceUnlockStop
+  NaDynamicLockForceEvaluate="C:\Windows\System32\NaturalAuthClient".NaDynamicLockForceEvaluate
+  NaDynamicLockShouldIgnoreDisplayRequestActivity="C:\Windows\System32\NaturalAuthClient".NaDynamicLockShouldIgnoreDisplayRequestActivity
+  NaDynamicLockShouldIgnoreUserActivity="C:\Windows\System32\NaturalAuthClient".NaDynamicLockShouldIgnoreUserActivity
+  NaDynamicLockShouldSkipGracePeriod="C:\Windows\System32\NaturalAuthClient".NaDynamicLockShouldSkipGracePeriod
+  NaDynamicLockStart="C:\Windows\System32\NaturalAuthClient".NaDynamicLockStart
+  NaDynamicLockStop="C:\Windows\System32\NaturalAuthClient".NaDynamicLockStop
+  NaRuleQuery="C:\Windows\System32\NaturalAuthClient".NaRuleQuery
+  NaRuleRegister="C:\Windows\System32\NaturalAuthClient".NaRuleRegister
+  NaRuleUnregister="C:\Windows\System32\NaturalAuthClient".NaRuleUnregister
+  NaRuleValidate="C:\Windows\System32\NaturalAuthClient".NaRuleValidate

@@ -1,0 +1,16 @@
+EXPORTS
+  NsiConnectToServer="C:\Windows\SysWOW64\winnsi".NsiConnectToServer
+  NsiDisconnectFromServer="C:\Windows\SysWOW64\winnsi".NsiDisconnectFromServer
+  NsiRpcDeregisterChangeNotification="C:\Windows\SysWOW64\winnsi".NsiRpcDeregisterChangeNotification
+  NsiRpcDeregisterChangeNotificationEx="C:\Windows\SysWOW64\winnsi".NsiRpcDeregisterChangeNotificationEx
+  NsiRpcEnumerateObjectsAllParameters="C:\Windows\SysWOW64\winnsi".NsiRpcEnumerateObjectsAllParameters
+  NsiRpcGetAllParameters="C:\Windows\SysWOW64\winnsi".NsiRpcGetAllParameters
+  NsiRpcGetAllParametersEx="C:\Windows\SysWOW64\winnsi".NsiRpcGetAllParametersEx
+  NsiRpcGetParameter="C:\Windows\SysWOW64\winnsi".NsiRpcGetParameter
+  NsiRpcGetParameterEx="C:\Windows\SysWOW64\winnsi".NsiRpcGetParameterEx
+  NsiRpcRegisterChangeNotification="C:\Windows\SysWOW64\winnsi".NsiRpcRegisterChangeNotification
+  NsiRpcRegisterChangeNotificationEx="C:\Windows\SysWOW64\winnsi".NsiRpcRegisterChangeNotificationEx
+  NsiRpcSetAllParameters="C:\Windows\SysWOW64\winnsi".NsiRpcSetAllParameters
+  NsiRpcSetAllParametersEx="C:\Windows\SysWOW64\winnsi".NsiRpcSetAllParametersEx
+  NsiRpcSetParameter="C:\Windows\SysWOW64\winnsi".NsiRpcSetParameter
+  NsiRpcSetParameterEx="C:\Windows\SysWOW64\winnsi".NsiRpcSetParameterEx

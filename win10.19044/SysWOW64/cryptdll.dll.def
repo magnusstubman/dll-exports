@@ -1,0 +1,21 @@
+EXPORTS
+  CDBuildIntegrityVect="C:\Windows\SysWOW64\cryptdll".CDBuildIntegrityVect
+  CDBuildVect="C:\Windows\SysWOW64\cryptdll".CDBuildVect
+  CDFindCommonCSystem="C:\Windows\SysWOW64\cryptdll".CDFindCommonCSystem
+  CDFindCommonCSystemWithKey="C:\Windows\SysWOW64\cryptdll".CDFindCommonCSystemWithKey
+  CDGenerateRandomBits="C:\Windows\SysWOW64\cryptdll".CDGenerateRandomBits
+  CDGetIntegrityVect="C:\Windows\SysWOW64\cryptdll".CDGetIntegrityVect
+  CDLocateCSystem="C:\Windows\SysWOW64\cryptdll".CDLocateCSystem
+  CDLocateCheckSum="C:\Windows\SysWOW64\cryptdll".CDLocateCheckSum
+  CDLocateRng="C:\Windows\SysWOW64\cryptdll".CDLocateRng
+  CDRegisterCSystem="C:\Windows\SysWOW64\cryptdll".CDRegisterCSystem
+  CDRegisterCheckSum="C:\Windows\SysWOW64\cryptdll".CDRegisterCheckSum
+  CDRegisterRng="C:\Windows\SysWOW64\cryptdll".CDRegisterRng
+  HMACwithSHA="C:\Windows\SysWOW64\cryptdll".HMACwithSHA
+  KRBFXCF2="C:\Windows\SysWOW64\cryptdll".KRBFXCF2
+  MD5Final="C:\Windows\SysWOW64\cryptdll".MD5Final
+  MD5Init="C:\Windows\SysWOW64\cryptdll".MD5Init
+  MD5Update="C:\Windows\SysWOW64\cryptdll".MD5Update
+  PBKDF2="C:\Windows\SysWOW64\cryptdll".PBKDF2
+  aesCTSDecryptMsg="C:\Windows\SysWOW64\cryptdll".aesCTSDecryptMsg
+  aesCTSEncryptMsg="C:\Windows\SysWOW64\cryptdll".aesCTSEncryptMsg

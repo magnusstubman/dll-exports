@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fdWSD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fdWSD".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\fdWSD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fdWSD".DllUnregisterServer
+  FdphostSessionChange="C:\Windows\System32\fdWSD".FdphostSessionChange
+  FdphostSetComContext="C:\Windows\System32\fdWSD".FdphostSetComContext
+  FdphostSetSharedService="C:\Windows\System32\fdWSD".FdphostSetSharedService

@@ -1,0 +1,6 @@
+EXPORTS
+  PcaPatchSdbTask="C:\Windows\System32\pcasvc".PcaPatchSdbTask
+  QueryEncapsulationSettings="C:\Windows\System32\pcasvc".QueryEncapsulationSettings
+  QueryEncapsulationSettingsTC="C:\Windows\System32\pcasvc".QueryEncapsulationSettingsTC
+  ServiceMain="C:\Windows\System32\pcasvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\pcasvc".SvchostPushServiceGlobals

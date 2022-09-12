@@ -1,0 +1,23 @@
+EXPORTS
+  Dhcpv6AcquireParameters="C:\Windows\System32\dhcpcsvc6".Dhcpv6AcquireParameters
+  Dhcpv6CApiCleanup="C:\Windows\System32\dhcpcsvc6".Dhcpv6CApiCleanup
+  Dhcpv6CApiInitialize="C:\Windows\System32\dhcpcsvc6".Dhcpv6CApiInitialize
+  Dhcpv6CancelOperation="C:\Windows\System32\dhcpcsvc6".Dhcpv6CancelOperation
+  Dhcpv6EnableDhcp="C:\Windows\System32\dhcpcsvc6".Dhcpv6EnableDhcp
+  Dhcpv6EnableTracing="C:\Windows\System32\dhcpcsvc6".Dhcpv6EnableTracing
+  Dhcpv6FreeLeaseInfo="C:\Windows\System32\dhcpcsvc6".Dhcpv6FreeLeaseInfo
+  Dhcpv6FreeLeaseInfoArray="C:\Windows\System32\dhcpcsvc6".Dhcpv6FreeLeaseInfoArray
+  Dhcpv6GetTraceArray="C:\Windows\System32\dhcpcsvc6".Dhcpv6GetTraceArray
+  Dhcpv6GetUserClasses="C:\Windows\System32\dhcpcsvc6".Dhcpv6GetUserClasses
+  Dhcpv6IsEnabled="C:\Windows\System32\dhcpcsvc6".Dhcpv6IsEnabled
+  Dhcpv6QueryLeaseInfo="C:\Windows\System32\dhcpcsvc6".Dhcpv6QueryLeaseInfo
+  Dhcpv6QueryLeaseInfoArray="C:\Windows\System32\dhcpcsvc6".Dhcpv6QueryLeaseInfoArray
+  Dhcpv6ReleaseParameters="C:\Windows\System32\dhcpcsvc6".Dhcpv6ReleaseParameters
+  Dhcpv6ReleasePrefix="C:\Windows\System32\dhcpcsvc6".Dhcpv6ReleasePrefix
+  Dhcpv6ReleasePrefixEx="C:\Windows\System32\dhcpcsvc6".Dhcpv6ReleasePrefixEx
+  Dhcpv6RenewPrefix="C:\Windows\System32\dhcpcsvc6".Dhcpv6RenewPrefix
+  Dhcpv6RenewPrefixEx="C:\Windows\System32\dhcpcsvc6".Dhcpv6RenewPrefixEx
+  Dhcpv6RequestParams="C:\Windows\System32\dhcpcsvc6".Dhcpv6RequestParams
+  Dhcpv6RequestPrefix="C:\Windows\System32\dhcpcsvc6".Dhcpv6RequestPrefix
+  Dhcpv6RequestPrefixEx="C:\Windows\System32\dhcpcsvc6".Dhcpv6RequestPrefixEx
+  Dhcpv6SetUserClass="C:\Windows\System32\dhcpcsvc6".Dhcpv6SetUserClass

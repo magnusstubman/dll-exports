@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\themecpl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\themecpl".DllGetClassObject
+  OpenThemeActionW="C:\Windows\SysWOW64\themecpl".OpenThemeActionW

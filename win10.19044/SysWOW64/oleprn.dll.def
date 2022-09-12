@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\oleprn".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\oleprn".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\oleprn".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\oleprn".DllUnregisterServer

@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mfnetcore".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mfnetcore".DllGetClassObject
+  IsLicensedComponentAC3_ENC="C:\Windows\System32\mfnetcore".IsLicensedComponentAC3_ENC
+  IsLicensedComponentDOLBY="C:\Windows\System32\mfnetcore".IsLicensedComponentDOLBY
+  IsLicensedComponentMPEG2="C:\Windows\System32\mfnetcore".IsLicensedComponentMPEG2
+  IsLicensedComponentMPEG2_ENC="C:\Windows\System32\mfnetcore".IsLicensedComponentMPEG2_ENC
+  MFCreateByteCacheFile="C:\Windows\System32\mfnetcore".MFCreateByteCacheFile
+  MFCreateCredentialCache="C:\Windows\System32\mfnetcore".MFCreateCredentialCache
+  MFCreateFileBlockMap="C:\Windows\System32\mfnetcore".MFCreateFileBlockMap
+  MFCreatePartialSeekableByteStream="C:\Windows\System32\mfnetcore".MFCreatePartialSeekableByteStream
+  MFCreateProxyLocator="C:\Windows\System32\mfnetcore".MFCreateProxyLocator
+  MFGetSupportedDLNAProfileInfo="C:\Windows\System32\mfnetcore".MFGetSupportedDLNAProfileInfo

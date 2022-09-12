@@ -1,0 +1,3 @@
+EXPORTS
+  NgcServiceMain="C:\Windows\System32\ngcsvc".NgcServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\ngcsvc".SvchostPushServiceGlobals

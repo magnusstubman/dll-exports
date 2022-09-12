@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SystemSettings.UserAccountsHandlers".DllCanUnloadNow
+  GetSetting="C:\Windows\System32\SystemSettings.UserAccountsHandlers".GetSetting

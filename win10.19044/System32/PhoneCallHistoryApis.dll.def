@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PhoneCallHistoryApis".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\PhoneCallHistoryApis".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\PhoneCallHistoryApis".DllGetClassObject

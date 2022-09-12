@@ -1,0 +1,3 @@
+EXPORTS
+  MiniDumpReadDumpStream="C:\Windows\SysWOW64\dbgcore".MiniDumpReadDumpStream
+  MiniDumpWriteDump="C:\Windows\SysWOW64\dbgcore".MiniDumpWriteDump

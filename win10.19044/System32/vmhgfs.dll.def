@@ -1,0 +1,17 @@
+EXPORTS
+  HgfsNP_RegisterRemote="C:\Windows\System32\vmhgfs".HgfsNP_RegisterRemote
+  HgfsNP_UnregisterRemote="C:\Windows\System32\vmhgfs".HgfsNP_UnregisterRemote
+  NPAddConnection="C:\Windows\System32\vmhgfs".NPAddConnection
+  NPAddConnection3="C:\Windows\System32\vmhgfs".NPAddConnection3
+  NPCancelConnection="C:\Windows\System32\vmhgfs".NPCancelConnection
+  NPCloseEnum="C:\Windows\System32\vmhgfs".NPCloseEnum
+  NPEnumResource="C:\Windows\System32\vmhgfs".NPEnumResource
+  NPFormatNetworkName="C:\Windows\System32\vmhgfs".NPFormatNetworkName
+  NPGetCaps="C:\Windows\System32\vmhgfs".NPGetCaps
+  NPGetConnection="C:\Windows\System32\vmhgfs".NPGetConnection
+  NPGetConnection3="C:\Windows\System32\vmhgfs".NPGetConnection3
+  NPGetConnectionPerformance="C:\Windows\System32\vmhgfs".NPGetConnectionPerformance
+  NPGetResourceInformation="C:\Windows\System32\vmhgfs".NPGetResourceInformation
+  NPGetResourceParent="C:\Windows\System32\vmhgfs".NPGetResourceParent
+  NPGetUniversalName="C:\Windows\System32\vmhgfs".NPGetUniversalName
+  NPOpenEnum="C:\Windows\System32\vmhgfs".NPOpenEnum

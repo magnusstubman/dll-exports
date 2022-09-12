@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\fdprint".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\fdprint".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\fdprint".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\fdprint".DllUnregisterServer
+  InvokeTaskW="C:\Windows\SysWOW64\fdprint".InvokeTaskW

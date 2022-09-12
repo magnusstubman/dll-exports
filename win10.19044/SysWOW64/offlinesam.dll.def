@@ -1,0 +1,26 @@
+EXPORTS
+  SamOfflineAddMemberToAlias="C:\Windows\SysWOW64\offlinesam".SamOfflineAddMemberToAlias
+  SamOfflineCloseHandle="C:\Windows\SysWOW64\offlinesam".SamOfflineCloseHandle
+  SamOfflineConnect="C:\Windows\SysWOW64\offlinesam".SamOfflineConnect
+  SamOfflineConnectExternal="C:\Windows\SysWOW64\offlinesam".SamOfflineConnectExternal
+  SamOfflineConnectForInstaller="C:\Windows\SysWOW64\offlinesam".SamOfflineConnectForInstaller
+  SamOfflineCreateAliasInDomain="C:\Windows\SysWOW64\offlinesam".SamOfflineCreateAliasInDomain
+  SamOfflineCreateUserInDomain="C:\Windows\SysWOW64\offlinesam".SamOfflineCreateUserInDomain
+  SamOfflineDeleteAlias="C:\Windows\SysWOW64\offlinesam".SamOfflineDeleteAlias
+  SamOfflineDeleteUser="C:\Windows\SysWOW64\offlinesam".SamOfflineDeleteUser
+  SamOfflineEnumerateAliasesInDomain="C:\Windows\SysWOW64\offlinesam".SamOfflineEnumerateAliasesInDomain
+  SamOfflineEnumerateDomainsInSamServer="C:\Windows\SysWOW64\offlinesam".SamOfflineEnumerateDomainsInSamServer
+  SamOfflineEnumerateUsersInDomain2="C:\Windows\SysWOW64\offlinesam".SamOfflineEnumerateUsersInDomain2
+  SamOfflineFreeMemory="C:\Windows\SysWOW64\offlinesam".SamOfflineFreeMemory
+  SamOfflineGetMembersInAlias="C:\Windows\SysWOW64\offlinesam".SamOfflineGetMembersInAlias
+  SamOfflineLookupDomainInSamServer="C:\Windows\SysWOW64\offlinesam".SamOfflineLookupDomainInSamServer
+  SamOfflineLookupNamesInDomain="C:\Windows\SysWOW64\offlinesam".SamOfflineLookupNamesInDomain
+  SamOfflineOpenAlias="C:\Windows\SysWOW64\offlinesam".SamOfflineOpenAlias
+  SamOfflineOpenDomain="C:\Windows\SysWOW64\offlinesam".SamOfflineOpenDomain
+  SamOfflineOpenUser="C:\Windows\SysWOW64\offlinesam".SamOfflineOpenUser
+  SamOfflineQueryInformationAlias="C:\Windows\SysWOW64\offlinesam".SamOfflineQueryInformationAlias
+  SamOfflineQueryInformationUser="C:\Windows\SysWOW64\offlinesam".SamOfflineQueryInformationUser
+  SamOfflineRemoveMemberFromAlias="C:\Windows\SysWOW64\offlinesam".SamOfflineRemoveMemberFromAlias
+  SamOfflineRidToSid="C:\Windows\SysWOW64\offlinesam".SamOfflineRidToSid
+  SamOfflineSetInformationAlias="C:\Windows\SysWOW64\offlinesam".SamOfflineSetInformationAlias
+  SamOfflineSetInformationUser="C:\Windows\SysWOW64\offlinesam".SamOfflineSetInformationUser

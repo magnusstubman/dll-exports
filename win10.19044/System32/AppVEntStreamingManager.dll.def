@@ -1,0 +1,5 @@
+EXPORTS
+  Deinitialize="C:\Windows\System32\AppVEntStreamingManager".Deinitialize
+  GetComponent="C:\Windows\System32\AppVEntStreamingManager".GetComponent
+  Initialize="C:\Windows\System32\AppVEntStreamingManager".Initialize
+  InitializeISV="C:\Windows\System32\AppVEntStreamingManager".InitializeISV

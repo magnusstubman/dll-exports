@@ -1,0 +1,3 @@
+EXPORTS
+  SVCServiceMain="C:\Windows\System32\PeerDistSvc".SVCServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\PeerDistSvc".SvchostPushServiceGlobals

@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\updatecsp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\updatecsp".DllGetClassObject

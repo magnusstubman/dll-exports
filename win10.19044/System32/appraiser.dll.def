@@ -1,0 +1,14 @@
+EXPORTS
+  ContainerSetupFunction="C:\Windows\System32\appraiser".ContainerSetupFunction
+  ContainerSetupWrapper="C:\Windows\System32\appraiser".ContainerSetupWrapper
+  DoScheduledTelemetryRun="C:\Windows\System32\appraiser".DoScheduledTelemetryRun
+  DoScheduledTelemetryRunTC="C:\Windows\System32\appraiser".DoScheduledTelemetryRunTC
+  GetCtacProvider="C:\Windows\System32\appraiser".GetCtacProvider
+  GetProvider="C:\Windows\System32\appraiser".GetProvider
+  GetTargetVersionList="C:\Windows\System32\appraiser".GetTargetVersionList
+  RunTest="C:\Windows\System32\appraiser".RunTest
+  RunXml="C:\Windows\System32\appraiser".RunXml
+  Sgd="C:\Windows\System32\appraiser".Sgd
+  UpdateAvStatus="C:\Windows\System32\appraiser".UpdateAvStatus
+  UpdateCacheCompatStatuses="C:\Windows\System32\appraiser".UpdateCacheCompatStatuses
+  UpdateExperienceIndicators="C:\Windows\System32\appraiser".UpdateExperienceIndicators

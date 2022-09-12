@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\NaturalAuth".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\NaturalAuth".SvchostPushServiceGlobals

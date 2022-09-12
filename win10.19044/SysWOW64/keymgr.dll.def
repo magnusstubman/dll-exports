@@ -1,0 +1,11 @@
+EXPORTS
+  CPlApplet="C:\Windows\SysWOW64\keymgr".CPlApplet
+  DllCanUnloadNow="C:\Windows\SysWOW64\keymgr".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\keymgr".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\keymgr".DllMain
+  KRShowKeyMgr="C:\Windows\SysWOW64\keymgr".KRShowKeyMgr
+  PRShowRestoreFromMsginaW="C:\Windows\SysWOW64\keymgr".PRShowRestoreFromMsginaW
+  PRShowRestoreWizardExW="C:\Windows\SysWOW64\keymgr".PRShowRestoreWizardExW
+  PRShowRestoreWizardW="C:\Windows\SysWOW64\keymgr".PRShowRestoreWizardW
+  PRShowSaveFromMsginaW="C:\Windows\SysWOW64\keymgr".PRShowSaveFromMsginaW
+  PRShowSaveWizardExW="C:\Windows\SysWOW64\keymgr".PRShowSaveWizardExW

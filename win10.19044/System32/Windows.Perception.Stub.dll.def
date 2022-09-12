@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Perception.Stub".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Perception.Stub".DllGetActivationFactory
+  DllGetActivationFactoryPerceptionStub="C:\Windows\System32\Windows.Perception.Stub".DllGetActivationFactoryPerceptionStub
+  DllGetClassObject="C:\Windows\System32\Windows.Perception.Stub".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.Perception.Stub".GetProxyDllInfo

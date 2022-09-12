@@ -1,0 +1,20 @@
+EXPORTS
+  WerUICreate="C:\Windows\SysWOW64\werui".WerUICreate
+  WerUIDelete="C:\Windows\SysWOW64\werui".WerUIDelete
+  WerUIGetUserSelection="C:\Windows\SysWOW64\werui".WerUIGetUserSelection
+  WerUIPromptForSecondLevel="C:\Windows\SysWOW64\werui".WerUIPromptForSecondLevel
+  WerUIPromptUser="C:\Windows\SysWOW64\werui".WerUIPromptUser
+  WerUIReportSilentProcessExit="C:\Windows\SysWOW64\werui".WerUIReportSilentProcessExit
+  WerUIShowUpsell="C:\Windows\SysWOW64\werui".WerUIShowUpsell
+  WerUIStart="C:\Windows\SysWOW64\werui".WerUIStart
+  WerUITerminate="C:\Windows\SysWOW64\werui".WerUITerminate
+  WerUIUpdateStateProgress="C:\Windows\SysWOW64\werui".WerUIUpdateStateProgress
+  WerUIUpdateUIForState="C:\Windows\SysWOW64\werui".WerUIUpdateUIForState
+  WerUIWaitForUserAction="C:\Windows\SysWOW64\werui".WerUIWaitForUserAction
+  WerUIpCheckWindow="C:\Windows\SysWOW64\werui".WerUIpCheckWindow
+  WerUIpDefSubclassProc="C:\Windows\SysWOW64\werui".WerUIpDefSubclassProc
+  WerUIpHeadlessOrImersive="C:\Windows\SysWOW64\werui".WerUIpHeadlessOrImersive
+  WerUIpRemoveWindowSubclass="C:\Windows\SysWOW64\werui".WerUIpRemoveWindowSubclass
+  WerUIpSetWindowSubclass="C:\Windows\SysWOW64\werui".WerUIpSetWindowSubclass
+  WerUIpTaskDialogIndirect="C:\Windows\SysWOW64\werui".WerUIpTaskDialogIndirect
+  WerUIpUIHandleWERWindowMsg="C:\Windows\SysWOW64\werui".WerUIpUIHandleWERWindowMsg

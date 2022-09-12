@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Globalization.Fontgroups".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Globalization.Fontgroups".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Globalization.Fontgroups".DllGetClassObject
+  GetPreferredFont="C:\Windows\System32\Windows.Globalization.Fontgroups".GetPreferredFont

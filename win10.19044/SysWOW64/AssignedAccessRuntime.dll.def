@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AssignedAccessRuntime".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\AssignedAccessRuntime".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\AssignedAccessRuntime".DllGetClassObject

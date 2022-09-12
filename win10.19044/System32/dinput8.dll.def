@@ -1,0 +1,7 @@
+EXPORTS
+  DirectInput8Create="C:\Windows\System32\dinput8".DirectInput8Create
+  DllCanUnloadNow="C:\Windows\System32\dinput8".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dinput8".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dinput8".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dinput8".DllUnregisterServer
+  GetdfDIJoystick="C:\Windows\System32\dinput8".GetdfDIJoystick

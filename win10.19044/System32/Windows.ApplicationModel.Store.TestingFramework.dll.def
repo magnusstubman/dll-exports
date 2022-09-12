@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.ApplicationModel.Store.TestingFramework".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.ApplicationModel.Store.TestingFramework".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.ApplicationModel.Store.TestingFramework".DllGetClassObject

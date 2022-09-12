@@ -1,0 +1,10 @@
+EXPORTS
+  PktmonAddFilter="C:\Windows\System32\PktMonApi".PktmonAddFilter
+  PktmonGetComponentList="C:\Windows\System32\PktMonApi".PktmonGetComponentList
+  PktmonGetFilterList="C:\Windows\System32\PktMonApi".PktmonGetFilterList
+  PktmonGetStatus="C:\Windows\System32\PktMonApi".PktmonGetStatus
+  PktmonRemoveAllFilters="C:\Windows\System32\PktMonApi".PktmonRemoveAllFilters
+  PktmonResetCounters="C:\Windows\System32\PktMonApi".PktmonResetCounters
+  PktmonStart="C:\Windows\System32\PktMonApi".PktmonStart
+  PktmonStop="C:\Windows\System32\PktMonApi".PktmonStop
+  PktmonUnload="C:\Windows\System32\PktMonApi".PktmonUnload

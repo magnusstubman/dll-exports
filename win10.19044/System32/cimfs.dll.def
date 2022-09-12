@@ -1,0 +1,12 @@
+EXPORTS
+  CimCloseImage="C:\Windows\System32\cimfs".CimCloseImage
+  CimCloseStream="C:\Windows\System32\cimfs".CimCloseStream
+  CimCommitImage="C:\Windows\System32\cimfs".CimCommitImage
+  CimCreateAlternateStream="C:\Windows\System32\cimfs".CimCreateAlternateStream
+  CimCreateFile="C:\Windows\System32\cimfs".CimCreateFile
+  CimCreateHardLink="C:\Windows\System32\cimfs".CimCreateHardLink
+  CimCreateImage="C:\Windows\System32\cimfs".CimCreateImage
+  CimDeletePath="C:\Windows\System32\cimfs".CimDeletePath
+  CimDismountImage="C:\Windows\System32\cimfs".CimDismountImage
+  CimMountImage="C:\Windows\System32\cimfs".CimMountImage
+  CimWriteStream="C:\Windows\System32\cimfs".CimWriteStream

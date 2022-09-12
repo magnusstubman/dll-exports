@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:drvCommConfigDialogA=\"C:\\Windows\\System32\\serialui.drvCommConfigDialogA\"")
+#pragma comment(linker, "/export:drvCommConfigDialogW=\"C:\\Windows\\System32\\serialui.drvCommConfigDialogW\"")
+#pragma comment(linker, "/export:drvGetDefaultCommConfigA=\"C:\\Windows\\System32\\serialui.drvGetDefaultCommConfigA\"")
+#pragma comment(linker, "/export:drvGetDefaultCommConfigW=\"C:\\Windows\\System32\\serialui.drvGetDefaultCommConfigW\"")
+#pragma comment(linker, "/export:drvSetDefaultCommConfigA=\"C:\\Windows\\System32\\serialui.drvSetDefaultCommConfigA\"")
+#pragma comment(linker, "/export:drvSetDefaultCommConfigW=\"C:\\Windows\\System32\\serialui.drvSetDefaultCommConfigW\"")

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Graphics.Display.BrightnessOverride".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Graphics.Display.BrightnessOverride".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Graphics.Display.BrightnessOverride".DllGetClassObject

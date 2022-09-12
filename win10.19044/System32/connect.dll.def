@@ -1,0 +1,16 @@
+EXPORTS
+  AddConnectionOptionListEntries="C:\Windows\System32\connect".AddConnectionOptionListEntries
+  CreateVPNConnection="C:\Windows\System32\connect".CreateVPNConnection
+  DllCanUnloadNow="C:\Windows\System32\connect".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\connect".DllGetClassObject
+  GetInternetConnected="C:\Windows\System32\connect".GetInternetConnected
+  GetNetworkConnected="C:\Windows\System32\connect".GetNetworkConnected
+  GetVPNConnected="C:\Windows\System32\connect".GetVPNConnected
+  HrIsInternetConnected="C:\Windows\System32\connect".HrIsInternetConnected
+  HrIsInternetConnectedGUID="C:\Windows\System32\connect".HrIsInternetConnectedGUID
+  IsInternetConnected="C:\Windows\System32\connect".IsInternetConnected
+  IsInternetConnectedGUID="C:\Windows\System32\connect".IsInternetConnectedGUID
+  IsUniqueConnectionName="C:\Windows\System32\connect".IsUniqueConnectionName
+  RegisterPageWithPage="C:\Windows\System32\connect".RegisterPageWithPage
+  UnregisterPage="C:\Windows\System32\connect".UnregisterPage
+  UnregisterPagesLink="C:\Windows\System32\connect".UnregisterPagesLink

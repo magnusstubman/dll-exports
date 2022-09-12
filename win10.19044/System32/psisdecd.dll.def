@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\psisdecd".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\psisdecd".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\psisdecd".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\psisdecd".DllUnregisterServer

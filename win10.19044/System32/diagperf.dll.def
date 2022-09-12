@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\diagperf".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\diagperf".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\diagperf".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\diagperf".DllUnregisterServer
+  WdiDiagnosticModuleMain="C:\Windows\System32\diagperf".WdiDiagnosticModuleMain
+  WdiGetDiagnosticModuleInterfaceVersion="C:\Windows\System32\diagperf".WdiGetDiagnosticModuleInterfaceVersion
+  WdiHandleInstance="C:\Windows\System32\diagperf".WdiHandleInstance

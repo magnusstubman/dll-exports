@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PeopleBand".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\PeopleBand".DllGetClassObject

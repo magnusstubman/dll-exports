@@ -1,0 +1,11 @@
+EXPORTS
+  LpkDrawTextEx="C:\Windows\System32\lpk".LpkDrawTextEx
+  LpkEditControl="C:\Windows\System32\lpk".LpkEditControl
+  LpkExtTextOut="C:\Windows\System32\lpk".LpkExtTextOut
+  LpkGetCharacterPlacement="C:\Windows\System32\lpk".LpkGetCharacterPlacement
+  LpkGetTextExtentExPoint="C:\Windows\System32\lpk".LpkGetTextExtentExPoint
+  LpkInitialize="C:\Windows\System32\lpk".LpkInitialize
+  LpkPSMTextOut="C:\Windows\System32\lpk".LpkPSMTextOut
+  LpkTabbedTextOut="C:\Windows\System32\lpk".LpkTabbedTextOut
+  LpkUseGDIWidthCache="C:\Windows\System32\lpk".LpkUseGDIWidthCache
+  ftsWordBreak="C:\Windows\System32\lpk".ftsWordBreak

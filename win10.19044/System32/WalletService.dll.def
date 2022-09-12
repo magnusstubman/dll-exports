@@ -1,0 +1,4 @@
+EXPORTS
+  DefaultDisplayNameCallback="C:\Windows\System32\WalletService".DefaultDisplayNameCallback
+  ServiceMain="C:\Windows\System32\WalletService".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\WalletService".SvchostPushServiceGlobals

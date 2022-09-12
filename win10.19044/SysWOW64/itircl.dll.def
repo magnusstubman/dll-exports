@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\itircl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\itircl".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\itircl".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\itircl".DllUnregisterServer

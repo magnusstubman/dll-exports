@@ -1,0 +1,4 @@
+EXPORTS
+  SubServiceScmNotification="C:\Windows\System32\httpprxm".SubServiceScmNotification
+  SubServiceStart="C:\Windows\System32\httpprxm".SubServiceStart
+  SubServiceStop="C:\Windows\System32\httpprxm".SubServiceStop

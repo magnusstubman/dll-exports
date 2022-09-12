@@ -1,0 +1,16 @@
+EXPORTS
+  ApplyDeltaA="C:\Windows\SysWOW64\msdelta".ApplyDeltaA
+  ApplyDeltaB="C:\Windows\SysWOW64\msdelta".ApplyDeltaB
+  ApplyDeltaProvidedB="C:\Windows\SysWOW64\msdelta".ApplyDeltaProvidedB
+  ApplyDeltaW="C:\Windows\SysWOW64\msdelta".ApplyDeltaW
+  CreateDeltaA="C:\Windows\SysWOW64\msdelta".CreateDeltaA
+  CreateDeltaB="C:\Windows\SysWOW64\msdelta".CreateDeltaB
+  CreateDeltaW="C:\Windows\SysWOW64\msdelta".CreateDeltaW
+  DeltaFree="C:\Windows\SysWOW64\msdelta".DeltaFree
+  DeltaNormalizeProvidedB="C:\Windows\SysWOW64\msdelta".DeltaNormalizeProvidedB
+  GetDeltaInfoA="C:\Windows\SysWOW64\msdelta".GetDeltaInfoA
+  GetDeltaInfoB="C:\Windows\SysWOW64\msdelta".GetDeltaInfoB
+  GetDeltaInfoW="C:\Windows\SysWOW64\msdelta".GetDeltaInfoW
+  GetDeltaSignatureA="C:\Windows\SysWOW64\msdelta".GetDeltaSignatureA
+  GetDeltaSignatureB="C:\Windows\SysWOW64\msdelta".GetDeltaSignatureB
+  GetDeltaSignatureW="C:\Windows\SysWOW64\msdelta".GetDeltaSignatureW

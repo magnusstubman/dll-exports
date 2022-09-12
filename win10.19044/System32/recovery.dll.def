@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\recovery".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\recovery".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\recovery".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\recovery".DllUnregisterServer

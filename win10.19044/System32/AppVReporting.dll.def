@@ -1,0 +1,4 @@
+EXPORTS
+  Deinitialize="C:\Windows\System32\AppVReporting".Deinitialize
+  GetComponent="C:\Windows\System32\AppVReporting".GetComponent
+  Initialize="C:\Windows\System32\AppVReporting".Initialize

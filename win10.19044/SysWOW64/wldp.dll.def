@@ -1,0 +1,22 @@
+EXPORTS
+  WldpAddDeveloperCertificateForDynamicCodeTrust="C:\Windows\SysWOW64\wldp".WldpAddDeveloperCertificateForDynamicCodeTrust
+  WldpCheckDeviceEncryptionNotStarted="C:\Windows\SysWOW64\wldp".WldpCheckDeviceEncryptionNotStarted
+  WldpCheckRetailConfiguration="C:\Windows\SysWOW64\wldp".WldpCheckRetailConfiguration
+  WldpCheckSecurityWatermarkState="C:\Windows\SysWOW64\wldp".WldpCheckSecurityWatermarkState
+  WldpCheckWcosDeviceEncryptionSecure="C:\Windows\SysWOW64\wldp".WldpCheckWcosDeviceEncryptionSecure
+  WldpDisableDeveloperMode="C:\Windows\SysWOW64\wldp".WldpDisableDeveloperMode
+  WldpEnableDeveloperMode="C:\Windows\SysWOW64\wldp".WldpEnableDeveloperMode
+  WldpGetLockdownPolicy="C:\Windows\SysWOW64\wldp".WldpGetLockdownPolicy
+  WldpIsAllowedEntryPoint="C:\Windows\SysWOW64\wldp".WldpIsAllowedEntryPoint
+  WldpIsAppApprovedByPolicy="C:\Windows\SysWOW64\wldp".WldpIsAppApprovedByPolicy
+  WldpIsClassInApprovedList="C:\Windows\SysWOW64\wldp".WldpIsClassInApprovedList
+  WldpIsDebugAllowed="C:\Windows\SysWOW64\wldp".WldpIsDebugAllowed
+  WldpIsDynamicCodePolicyEnabled="C:\Windows\SysWOW64\wldp".WldpIsDynamicCodePolicyEnabled
+  WldpQueryDynamicCodeTrust="C:\Windows\SysWOW64\wldp".WldpQueryDynamicCodeTrust
+  WldpQuerySecurityPolicy="C:\Windows\SysWOW64\wldp".WldpQuerySecurityPolicy
+  WldpQueryWindowsLockdownMode="C:\Windows\SysWOW64\wldp".WldpQueryWindowsLockdownMode
+  WldpQueryWindowsLockdownRestriction="C:\Windows\SysWOW64\wldp".WldpQueryWindowsLockdownRestriction
+  WldpResetSecurityWatermarkState="C:\Windows\SysWOW64\wldp".WldpResetSecurityWatermarkState
+  WldpSetDynamicCodeTrust="C:\Windows\SysWOW64\wldp".WldpSetDynamicCodeTrust
+  WldpSetDynamicCodeTrust2="C:\Windows\SysWOW64\wldp".WldpSetDynamicCodeTrust2
+  WldpSetWindowsLockdownRestriction="C:\Windows\SysWOW64\wldp".WldpSetWindowsLockdownRestriction

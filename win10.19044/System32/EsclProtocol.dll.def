@@ -1,0 +1,10 @@
+EXPORTS
+  CancelScanJob="C:\Windows\System32\EsclProtocol".CancelScanJob
+  CloseScanner="C:\Windows\System32\EsclProtocol".CloseScanner
+  FreeScannerCapabilities="C:\Windows\System32\EsclProtocol".FreeScannerCapabilities
+  GetScanJobState="C:\Windows\System32\EsclProtocol".GetScanJobState
+  GetScannerCapabilities="C:\Windows\System32\EsclProtocol".GetScannerCapabilities
+  GetScannerStatus="C:\Windows\System32\EsclProtocol".GetScannerStatus
+  OpenScanner="C:\Windows\System32\EsclProtocol".OpenScanner
+  OpenUsbScanner="C:\Windows\System32\EsclProtocol".OpenUsbScanner
+  StartScanJob="C:\Windows\System32\EsclProtocol".StartScanJob

@@ -1,0 +1,11 @@
+EXPORTS
+  AppRepComputeImageHash="C:\Windows\System32\apprepapi".AppRepComputeImageHash
+  AppRepComputeImageHashWithOffset="C:\Windows\System32\apprepapi".AppRepComputeImageHashWithOffset
+  AppRepComputeSignatureInfo="C:\Windows\System32\apprepapi".AppRepComputeSignatureInfo
+  AppRepFreeAttributeLib="C:\Windows\System32\apprepapi".AppRepFreeAttributeLib
+  AppRepInitializeAttributeLib="C:\Windows\System32\apprepapi".AppRepInitializeAttributeLib
+  AppRepParameterCleanup="C:\Windows\System32\apprepapi".AppRepParameterCleanup
+  AppRepPartialTelemetryCleanup="C:\Windows\System32\apprepapi".AppRepPartialTelemetryCleanup
+  RepGetFileInformation="C:\Windows\System32\apprepapi".RepGetFileInformation
+  RepInformUserAction="C:\Windows\System32\apprepapi".RepInformUserAction
+  ReputationInfoCleanup="C:\Windows\System32\apprepapi".ReputationInfoCleanup

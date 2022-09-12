@@ -1,0 +1,4 @@
+EXPORTS
+  SubServiceScmNotification="C:\Windows\System32\adhsvc".SubServiceScmNotification
+  SubServiceStart="C:\Windows\System32\adhsvc".SubServiceStart
+  SubServiceStop="C:\Windows\System32\adhsvc".SubServiceStop

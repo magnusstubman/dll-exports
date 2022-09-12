@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\FlightSettings".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\FlightSettings".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\FlightSettings".DllGetClassObject
+  ServiceMain="C:\Windows\System32\FlightSettings".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\FlightSettings".SvchostPushServiceGlobals

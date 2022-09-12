@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MitigationClient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\MitigationClient".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\MitigationClient".DllGetClassObject
+  ServiceMain="C:\Windows\System32\MitigationClient".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\MitigationClient".SvchostPushServiceGlobals

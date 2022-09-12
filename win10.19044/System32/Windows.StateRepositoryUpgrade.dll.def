@@ -1,0 +1,2 @@
+EXPORTS
+  StateRepository_Migrate="C:\Windows\System32\Windows.StateRepositoryUpgrade".StateRepository_Migrate

@@ -1,0 +1,3 @@
+EXPORTS
+  SvcEntry_Seclogon="C:\Windows\System32\seclogon".SvcEntry_Seclogon
+  SvchostPushServiceGlobals="C:\Windows\System32\seclogon".SvchostPushServiceGlobals

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WSDScanProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WSDScanProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WSDScanProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WSDScanProxy".DllUnregisterServer

@@ -1,0 +1,21 @@
+EXPORTS
+  WFDSConMgrCloseSessionContext="C:\Windows\System32\WFDSConMgr".WFDSConMgrCloseSessionContext
+  WFDSConMgrConfigureFirewallForInfraCast="C:\Windows\System32\WFDSConMgr".WFDSConMgrConfigureFirewallForInfraCast
+  WFDSConMgrConnect="C:\Windows\System32\WFDSConMgr".WFDSConMgrConnect
+  WFDSConMgrConnectTransport="C:\Windows\System32\WFDSConMgr".WFDSConMgrConnectTransport
+  WFDSConMgrDisconnect="C:\Windows\System32\WFDSConMgr".WFDSConMgrDisconnect
+  WFDSConMgrDisconnectTransport="C:\Windows\System32\WFDSConMgr".WFDSConMgrDisconnectTransport
+  WFDSConMgrFreeMemory="C:\Windows\System32\WFDSConMgr".WFDSConMgrFreeMemory
+  WFDSConMgrGetOpenSessionList="C:\Windows\System32\WFDSConMgr".WFDSConMgrGetOpenSessionList
+  WFDSConMgrGetTransportBitmaskFromMultistring="C:\Windows\System32\WFDSConMgr".WFDSConMgrGetTransportBitmaskFromMultistring
+  WFDSConMgrIntCompleteInfracastConnection="C:\Windows\System32\WFDSConMgr".WFDSConMgrIntCompleteInfracastConnection
+  WFDSConMgrIntGetInfracastBackchannelParams="C:\Windows\System32\WFDSConMgr".WFDSConMgrIntGetInfracastBackchannelParams
+  WFDSConMgrNewDiscoveredEntryOverwritesOld="C:\Windows\System32\WFDSConMgr".WFDSConMgrNewDiscoveredEntryOverwritesOld
+  WFDSConMgrOpenSessionContext="C:\Windows\System32\WFDSConMgr".WFDSConMgrOpenSessionContext
+  WFDSConMgrOpenSessionContextForMacAddress="C:\Windows\System32\WFDSConMgr".WFDSConMgrOpenSessionContextForMacAddress
+  WFDSConMgrOpenSessionContextForNotification="C:\Windows\System32\WFDSConMgr".WFDSConMgrOpenSessionContextForNotification
+  WFDSConMgrQueryCorrelationId="C:\Windows\System32\WFDSConMgr".WFDSConMgrQueryCorrelationId
+  WFDSConMgrQueryStatus="C:\Windows\System32\WFDSConMgr".WFDSConMgrQueryStatus
+  WFDSConMgrReadCeremonyData="C:\Windows\System32\WFDSConMgr".WFDSConMgrReadCeremonyData
+  WFDSConMgrSetAllowRemoteInput="C:\Windows\System32\WFDSConMgr".WFDSConMgrSetAllowRemoteInput
+  WFDSConMgrWriteCeremonyData="C:\Windows\System32\WFDSConMgr".WFDSConMgrWriteCeremonyData

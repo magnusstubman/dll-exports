@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WudfSMCClassExt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WudfSMCClassExt".DllGetClassObject
+  Microsoft_WDF_UMDF_Version="C:\Windows\System32\WudfSMCClassExt".Microsoft_WDF_UMDF_Version

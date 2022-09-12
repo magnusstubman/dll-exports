@@ -1,0 +1,6 @@
+EXPORTS
+  DoAction="C:\Windows\SysWOW64\elshyph".DoAction
+  FreePropertyBag="C:\Windows\SysWOW64\elshyph".FreePropertyBag
+  FreeService="C:\Windows\SysWOW64\elshyph".FreeService
+  InitService="C:\Windows\SysWOW64\elshyph".InitService
+  RecognizeText="C:\Windows\SysWOW64\elshyph".RecognizeText

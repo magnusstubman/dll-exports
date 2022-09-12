@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\winsockhc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\winsockhc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\winsockhc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\winsockhc".DllUnregisterServer

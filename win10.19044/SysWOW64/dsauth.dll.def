@@ -1,0 +1,25 @@
+EXPORTS
+  DhcpAddServerDS="C:\Windows\SysWOW64\dsauth".DhcpAddServerDS
+  DhcpDeleteServerDS="C:\Windows\SysWOW64\dsauth".DhcpDeleteServerDS
+  DhcpDsAddServer="C:\Windows\SysWOW64\dsauth".DhcpDsAddServer
+  DhcpDsCleanupDS="C:\Windows\SysWOW64\dsauth".DhcpDsCleanupDS
+  DhcpDsDelServer="C:\Windows\SysWOW64\dsauth".DhcpDsDelServer
+  DhcpDsEnumServers="C:\Windows\SysWOW64\dsauth".DhcpDsEnumServers
+  DhcpDsGetAttribs="C:\Windows\SysWOW64\dsauth".DhcpDsGetAttribs
+  DhcpDsGetLists="C:\Windows\SysWOW64\dsauth".DhcpDsGetLists
+  DhcpDsGetRoot="C:\Windows\SysWOW64\dsauth".DhcpDsGetRoot
+  DhcpDsInitDS="C:\Windows\SysWOW64\dsauth".DhcpDsInitDS
+  DhcpDsSetLists="C:\Windows\SysWOW64\dsauth".DhcpDsSetLists
+  DhcpDsValidateService="C:\Windows\SysWOW64\dsauth".DhcpDsValidateService
+  DhcpEnumServersDS="C:\Windows\SysWOW64\dsauth".DhcpEnumServersDS
+  StoreBeginSearch="C:\Windows\SysWOW64\dsauth".StoreBeginSearch
+  StoreCleanupHandle="C:\Windows\SysWOW64\dsauth".StoreCleanupHandle
+  StoreCollectAttributes="C:\Windows\SysWOW64\dsauth".StoreCollectAttributes
+  StoreCreateObjectVA="C:\Windows\SysWOW64\dsauth".StoreCreateObjectVA
+  StoreDeleteObject="C:\Windows\SysWOW64\dsauth".StoreDeleteObject
+  StoreEndSearch="C:\Windows\SysWOW64\dsauth".StoreEndSearch
+  StoreGetHandle="C:\Windows\SysWOW64\dsauth".StoreGetHandle
+  StoreInitHandle="C:\Windows\SysWOW64\dsauth".StoreInitHandle
+  StoreSearchGetNext="C:\Windows\SysWOW64\dsauth".StoreSearchGetNext
+  StoreSetSearchOneLevel="C:\Windows\SysWOW64\dsauth".StoreSetSearchOneLevel
+  StoreSetSearchSubTree="C:\Windows\SysWOW64\dsauth".StoreSetSearchSubTree

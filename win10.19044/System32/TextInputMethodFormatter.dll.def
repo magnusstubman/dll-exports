@@ -1,0 +1,22 @@
+EXPORTS
+  ??0TextInputMethodFormatter@@QEAA@XZ="C:\Windows\System32\TextInputMethodFormatter".??0TextInputMethodFormatter@@QEAA@XZ
+  ??1TextInputMethodFormatter@@QEAA@XZ="C:\Windows\System32\TextInputMethodFormatter".??1TextInputMethodFormatter@@QEAA@XZ
+  ?ConnectToHost@TextInputMethodFormatter@@IEAAJXZ="C:\Windows\System32\TextInputMethodFormatter".?ConnectToHost@TextInputMethodFormatter@@IEAAJXZ
+  ?DataReceived@TextInputMethodFormatter@@UEAAJIAEAV?$vector@DV?$allocator@D@std@@@std@@@Z="C:\Windows\System32\TextInputMethodFormatter".?DataReceived@TextInputMethodFormatter@@UEAAJIAEAV?$vector@DV?$allocator@D@std@@@std@@@Z
+  ?GetCIVMSender@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteCoreInputViewManager@@@Z="C:\Windows\System32\TextInputMethodFormatter".?GetCIVMSender@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteCoreInputViewManager@@@Z
+  ?GetCIVSender@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteCoreInputView@@@Z="C:\Windows\System32\TextInputMethodFormatter".?GetCIVSender@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteCoreInputView@@@Z
+  ?GetIsHost@TextInputMethodFormatter@@UEAA_NXZ="C:\Windows\System32\TextInputMethodFormatter".?GetIsHost@TextInputMethodFormatter@@UEAA_NXZ
+  ?GetTICImpl@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteTextInputClient@@@Z="C:\Windows\System32\TextInputMethodFormatter".?GetTICImpl@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteTextInputClient@@@Z
+  ?GetTISImpl@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteTextInputServer@@@Z="C:\Windows\System32\TextInputMethodFormatter".?GetTISImpl@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteTextInputServer@@@Z
+  ?GetTVIImpl@TextInputMethodFormatter@@UEAAJPEAPEAUITextVirtualizationInternal@@@Z="C:\Windows\System32\TextInputMethodFormatter".?GetTVIImpl@TextInputMethodFormatter@@UEAAJPEAPEAUITextVirtualizationInternal@@@Z
+  ?GetTVKRImpl@TextInputMethodFormatter@@UEAAJPEAPEAUITextVirtualizationKeyRouting@@@Z="C:\Windows\System32\TextInputMethodFormatter".?GetTVKRImpl@TextInputMethodFormatter@@UEAAJPEAPEAUITextVirtualizationKeyRouting@@@Z
+  ?GetVirtTIS@TextInputMethodFormatter@@QEAAJPEAPEAUIRemoteTextInputServer@@@Z="C:\Windows\System32\TextInputMethodFormatter".?GetVirtTIS@TextInputMethodFormatter@@QEAAJPEAPEAUIRemoteTextInputServer@@@Z
+  ?Initialize@TextInputMethodFormatter@@QEAAJPEAUIMessagePort@@W4VirtualizationEnvironment@@PEAUIVirtualizedTextDataSender@@U_GUID@@@Z="C:\Windows\System32\TextInputMethodFormatter".?Initialize@TextInputMethodFormatter@@QEAAJPEAUIMessagePort@@W4VirtualizationEnvironment@@PEAUIVirtualizedTextDataSender@@U_GUID@@@Z
+  ?Initialize@TextInputMethodFormatter@@UEAAJPEAUIMessagePort@@@Z="C:\Windows\System32\TextInputMethodFormatter".?Initialize@TextInputMethodFormatter@@UEAAJPEAUIMessagePort@@@Z
+  ?ProcessQueue@TextInputMethodFormatter@@QEAAJXZ="C:\Windows\System32\TextInputMethodFormatter".?ProcessQueue@TextInputMethodFormatter@@QEAAJXZ
+  ?SetCIVMTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteCoreInputViewManager@@@Z="C:\Windows\System32\TextInputMethodFormatter".?SetCIVMTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteCoreInputViewManager@@@Z
+  ?SetCIVTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteCoreInputView@@PEAVVirtCoreInputViewForwarder@@@Z="C:\Windows\System32\TextInputMethodFormatter".?SetCIVTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteCoreInputView@@PEAVVirtCoreInputViewForwarder@@@Z
+  ?SetTICTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteTextInputClient@@PEAVVirtTextInputClient@@@Z="C:\Windows\System32\TextInputMethodFormatter".?SetTICTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteTextInputClient@@PEAVVirtTextInputClient@@@Z
+  ?SetTISTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteTextInputServer@@@Z="C:\Windows\System32\TextInputMethodFormatter".?SetTISTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteTextInputServer@@@Z
+  ?SetTVKRTarget@TextInputMethodFormatter@@UEAAJPEAUITextVirtualizationKeyRouting@@@Z="C:\Windows\System32\TextInputMethodFormatter".?SetTVKRTarget@TextInputMethodFormatter@@UEAAJPEAUITextVirtualizationKeyRouting@@@Z
+  ?Uninitialize@TextInputMethodFormatter@@UEAAJXZ="C:\Windows\System32\TextInputMethodFormatter".?Uninitialize@TextInputMethodFormatter@@UEAAJXZ

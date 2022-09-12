@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RASMM".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\RASMM".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\RASMM".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\RASMM".DllUnregisterServer

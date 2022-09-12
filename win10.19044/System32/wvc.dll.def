@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wvc".DllGetClassObject
+  DllMain="C:\Windows\System32\wvc".DllMain
+  DllRegisterServer="C:\Windows\System32\wvc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wvc".DllUnregisterServer

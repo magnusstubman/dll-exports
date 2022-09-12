@@ -1,0 +1,4 @@
+EXPORTS
+  DpElGetNextEvent="C:\Windows\System32\fhevents".DpElGetNextEvent
+  DpElReleaseObjects="C:\Windows\System32\fhevents".DpElReleaseObjects
+  DpElScanEvents="C:\Windows\System32\fhevents".DpElScanEvents

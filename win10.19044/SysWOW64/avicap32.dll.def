@@ -1,0 +1,7 @@
+EXPORTS
+  AppCleanup="C:\Windows\SysWOW64\avicap32".AppCleanup
+  capCreateCaptureWindowA="C:\Windows\SysWOW64\avicap32".capCreateCaptureWindowA
+  capCreateCaptureWindowW="C:\Windows\SysWOW64\avicap32".capCreateCaptureWindowW
+  capGetDriverDescriptionA="C:\Windows\SysWOW64\avicap32".capGetDriverDescriptionA
+  capGetDriverDescriptionW="C:\Windows\SysWOW64\avicap32".capGetDriverDescriptionW
+  videoThunk32="C:\Windows\SysWOW64\avicap32".videoThunk32

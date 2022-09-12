@@ -1,0 +1,15 @@
+EXPORTS
+  CheckSonyMSWorker="C:\Windows\System32\fsutilext".CheckSonyMSWorker
+  DeviceInstIsRemovableWorker="C:\Windows\System32\fsutilext".DeviceInstIsRemovableWorker
+  FindFirstVolumeMountPointWStub="C:\Windows\System32\fsutilext".FindFirstVolumeMountPointWStub
+  FindNextVolumeMountPointWStub="C:\Windows\System32\fsutilext".FindNextVolumeMountPointWStub
+  FindVolumeMountPointCloseStub="C:\Windows\System32\fsutilext".FindVolumeMountPointCloseStub
+  GetDeviceIDDiskFromDeviceIDVolumeWorker="C:\Windows\System32\fsutilext".GetDeviceIDDiskFromDeviceIDVolumeWorker
+  GetDeviceInstanceWorker="C:\Windows\System32\fsutilext".GetDeviceInstanceWorker
+  GetRemovableDeviceInstRecursWorker="C:\Windows\System32\fsutilext".GetRemovableDeviceInstRecursWorker
+  GetWidgetWorker="C:\Windows\System32\fsutilext".GetWidgetWorker
+  InvalidateFveWorker="C:\Windows\System32\fsutilext".InvalidateFveWorker
+  SendWithSenseParseWorker="C:\Windows\System32\fsutilext".SendWithSenseParseWorker
+  SetThreadUILanguageStub="C:\Windows\System32\fsutilext".SetThreadUILanguageStub
+  SystemParametersInfoWStub="C:\Windows\System32\fsutilext".SystemParametersInfoWStub
+  WaitForUnitAndReportProgressWorker="C:\Windows\System32\fsutilext".WaitForUnitAndReportProgressWorker

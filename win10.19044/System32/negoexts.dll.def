@@ -1,0 +1,3 @@
+EXPORTS
+  SpLsaModeInitialize="C:\Windows\System32\negoexts".SpLsaModeInitialize
+  SpUserModeInitialize="C:\Windows\System32\negoexts".SpUserModeInitialize

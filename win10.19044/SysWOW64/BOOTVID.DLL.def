@@ -1,0 +1,13 @@
+EXPORTS
+  VidBitBlt="C:\Windows\SysWOW64\BOOTVID".VidBitBlt
+  VidBitBltEx="C:\Windows\SysWOW64\BOOTVID".VidBitBltEx
+  VidBufferToScreenBlt="C:\Windows\SysWOW64\BOOTVID".VidBufferToScreenBlt
+  VidCleanUp="C:\Windows\SysWOW64\BOOTVID".VidCleanUp
+  VidDisplayString="C:\Windows\SysWOW64\BOOTVID".VidDisplayString
+  VidDisplayStringXY="C:\Windows\SysWOW64\BOOTVID".VidDisplayStringXY
+  VidInitialize="C:\Windows\SysWOW64\BOOTVID".VidInitialize
+  VidResetDisplay="C:\Windows\SysWOW64\BOOTVID".VidResetDisplay
+  VidScreenToBufferBlt="C:\Windows\SysWOW64\BOOTVID".VidScreenToBufferBlt
+  VidSetScrollRegion="C:\Windows\SysWOW64\BOOTVID".VidSetScrollRegion
+  VidSetTextColor="C:\Windows\SysWOW64\BOOTVID".VidSetTextColor
+  VidSolidColorFill="C:\Windows\SysWOW64\BOOTVID".VidSolidColorFill

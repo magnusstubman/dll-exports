@@ -1,0 +1,7 @@
+EXPORTS
+  AddDemoAppLicense="C:\Windows\System32\oemlicense".AddDemoAppLicense
+  HrAddAppxLicense="C:\Windows\System32\oemlicense".HrAddAppxLicense
+  HrInstallClipLicense="C:\Windows\System32\oemlicense".HrInstallClipLicense
+  HrNotifyPhoneLicenseReady="C:\Windows\System32\oemlicense".HrNotifyPhoneLicenseReady
+  HrRemoveAppxLicense="C:\Windows\System32\oemlicense".HrRemoveAppxLicense
+  RemoveDemoAppLicense="C:\Windows\System32\oemlicense".RemoveDemoAppLicense

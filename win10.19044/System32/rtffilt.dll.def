@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\rtffilt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\rtffilt".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\rtffilt".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\rtffilt".DllUnregisterServer

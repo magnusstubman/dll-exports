@@ -1,0 +1,17 @@
+EXPORTS
+  CATraps="C:\Windows\System32\DscCore".CATraps
+  CUTraps="C:\Windows\System32\DscCore".CUTraps
+  CreateAuthenticationCertificateWrapper="C:\Windows\System32\DscCore".CreateAuthenticationCertificateWrapper
+  DllCanUnloadNow="C:\Windows\System32\DscCore".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DscCore".DllGetClassObject
+  DllMain="C:\Windows\System32\DscCore".DllMain
+  DllRegisterServer="C:\Windows\System32\DscCore".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\DscCore".DllUnregisterServer
+  GetProviderClassID="C:\Windows\System32\DscCore".GetProviderClassID
+  LCMTraps="C:\Windows\System32\DscCore".LCMTraps
+  MI_Main="C:\Windows\System32\DscCore".MI_Main
+  NITS_PRESENCE_STUB="C:\Windows\System32\DscCore".NITS_PRESENCE_STUB
+  NITS_STUB="C:\Windows\System32\DscCore".NITS_STUB
+  SysPrep_Cleanup="C:\Windows\System32\DscCore".SysPrep_Cleanup
+  ValidateCertificateExpirationWrapper="C:\Windows\System32\DscCore".ValidateCertificateExpirationWrapper
+  ValidatorTraps="C:\Windows\System32\DscCore".ValidatorTraps

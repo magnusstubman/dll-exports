@@ -1,0 +1,20 @@
+EXPORTS
+  CryptXmlAddObject="C:\Windows\System32\cryptxml".CryptXmlAddObject
+  CryptXmlClose="C:\Windows\System32\cryptxml".CryptXmlClose
+  CryptXmlCreateReference="C:\Windows\System32\cryptxml".CryptXmlCreateReference
+  CryptXmlDigestReference="C:\Windows\System32\cryptxml".CryptXmlDigestReference
+  CryptXmlEncode="C:\Windows\System32\cryptxml".CryptXmlEncode
+  CryptXmlEnumAlgorithmInfo="C:\Windows\System32\cryptxml".CryptXmlEnumAlgorithmInfo
+  CryptXmlFindAlgorithmInfo="C:\Windows\System32\cryptxml".CryptXmlFindAlgorithmInfo
+  CryptXmlGetAlgorithmInfo="C:\Windows\System32\cryptxml".CryptXmlGetAlgorithmInfo
+  CryptXmlGetDocContext="C:\Windows\System32\cryptxml".CryptXmlGetDocContext
+  CryptXmlGetReference="C:\Windows\System32\cryptxml".CryptXmlGetReference
+  CryptXmlGetSignature="C:\Windows\System32\cryptxml".CryptXmlGetSignature
+  CryptXmlGetStatus="C:\Windows\System32\cryptxml".CryptXmlGetStatus
+  CryptXmlGetTransforms="C:\Windows\System32\cryptxml".CryptXmlGetTransforms
+  CryptXmlImportPublicKey="C:\Windows\System32\cryptxml".CryptXmlImportPublicKey
+  CryptXmlOpenToDecode="C:\Windows\System32\cryptxml".CryptXmlOpenToDecode
+  CryptXmlOpenToEncode="C:\Windows\System32\cryptxml".CryptXmlOpenToEncode
+  CryptXmlSetHMACSecret="C:\Windows\System32\cryptxml".CryptXmlSetHMACSecret
+  CryptXmlSign="C:\Windows\System32\cryptxml".CryptXmlSign
+  CryptXmlVerifySignature="C:\Windows\System32\cryptxml".CryptXmlVerifySignature

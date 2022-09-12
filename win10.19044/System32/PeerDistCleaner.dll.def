@@ -1,0 +1,4 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\System32\PeerDistCleaner".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\PeerDistCleaner".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\PeerDistCleaner".DllUnregisterServer

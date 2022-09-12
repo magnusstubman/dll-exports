@@ -1,0 +1,22 @@
+EXPORTS
+  DllMain="C:\Windows\System32\dot3msm".DllMain
+  Dot3MsmConnect="C:\Windows\System32\dot3msm".Dot3MsmConnect
+  Dot3MsmCreateDefaultProfile="C:\Windows\System32\dot3msm".Dot3MsmCreateDefaultProfile
+  Dot3MsmDeInit="C:\Windows\System32\dot3msm".Dot3MsmDeInit
+  Dot3MsmDeInitAdapter="C:\Windows\System32\dot3msm".Dot3MsmDeInitAdapter
+  Dot3MsmDisconnect="C:\Windows\System32\dot3msm".Dot3MsmDisconnect
+  Dot3MsmFreeMemory="C:\Windows\System32\dot3msm".Dot3MsmFreeMemory
+  Dot3MsmFreeProfile="C:\Windows\System32\dot3msm".Dot3MsmFreeProfile
+  Dot3MsmIndicateSessionChange="C:\Windows\System32\dot3msm".Dot3MsmIndicateSessionChange
+  Dot3MsmInit="C:\Windows\System32\dot3msm".Dot3MsmInit
+  Dot3MsmInitAdapter="C:\Windows\System32\dot3msm".Dot3MsmInitAdapter
+  Dot3MsmOnMediaStateChange="C:\Windows\System32\dot3msm".Dot3MsmOnMediaStateChange
+  Dot3MsmQueryMediaState="C:\Windows\System32\dot3msm".Dot3MsmQueryMediaState
+  Dot3MsmQueryPendingUIRequest="C:\Windows\System32\dot3msm".Dot3MsmQueryPendingUIRequest
+  Dot3MsmQueryState="C:\Windows\System32\dot3msm".Dot3MsmQueryState
+  Dot3MsmReAuthenticate="C:\Windows\System32\dot3msm".Dot3MsmReAuthenticate
+  Dot3MsmSetRuntimeState="C:\Windows\System32\dot3msm".Dot3MsmSetRuntimeState
+  Dot3MsmUIResponse="C:\Windows\System32\dot3msm".Dot3MsmUIResponse
+  Dot3MsmValidateProfile="C:\Windows\System32\dot3msm".Dot3MsmValidateProfile
+  Dot3ReasonCodeMsmToString="C:\Windows\System32\dot3msm".Dot3ReasonCodeMsmToString
+  Dot3SetPortAuthenticationState="C:\Windows\System32\dot3msm".Dot3SetPortAuthenticationState

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DispBroker.Desktop".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\DispBroker.Desktop".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\DispBroker.Desktop".DllGetClassObject
+  ServiceMain="C:\Windows\System32\DispBroker.Desktop".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\DispBroker.Desktop".SvchostPushServiceGlobals

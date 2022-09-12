@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MFCaptureEngine".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MFCaptureEngine".DllGetClassObject
+  MFCreateCaptureEngine="C:\Windows\System32\MFCaptureEngine".MFCreateCaptureEngine

@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\RemoveDeviceContextHandler".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\RemoveDeviceContextHandler".DllGetClassObject

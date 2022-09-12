@@ -1,0 +1,11 @@
+EXPORTS
+  ConnectionScheduleDialog="C:\Windows\SysWOW64\loghours".ConnectionScheduleDialog
+  ConnectionScheduleDialogEx="C:\Windows\SysWOW64\loghours".ConnectionScheduleDialogEx
+  DialinHoursDialog="C:\Windows\SysWOW64\loghours".DialinHoursDialog
+  DialinHoursDialogEx="C:\Windows\SysWOW64\loghours".DialinHoursDialogEx
+  DirSyncScheduleDialog="C:\Windows\SysWOW64\loghours".DirSyncScheduleDialog
+  DirSyncScheduleDialogEx="C:\Windows\SysWOW64\loghours".DirSyncScheduleDialogEx
+  LogonScheduleDialog="C:\Windows\SysWOW64\loghours".LogonScheduleDialog
+  LogonScheduleDialogEx="C:\Windows\SysWOW64\loghours".LogonScheduleDialogEx
+  ReplicationScheduleDialog="C:\Windows\SysWOW64\loghours".ReplicationScheduleDialog
+  ReplicationScheduleDialogEx="C:\Windows\SysWOW64\loghours".ReplicationScheduleDialogEx

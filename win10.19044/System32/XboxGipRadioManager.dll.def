@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\XboxGipRadioManager".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\XboxGipRadioManager".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\XboxGipRadioManager".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\XboxGipRadioManager".DllUnregisterServer

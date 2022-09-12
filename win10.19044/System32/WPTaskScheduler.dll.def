@@ -1,0 +1,3 @@
+EXPORTS
+  WptsInitialize="C:\Windows\System32\WPTaskScheduler".WptsInitialize
+  WptsTerminate="C:\Windows\System32\WPTaskScheduler".WptsTerminate

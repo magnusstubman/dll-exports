@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Management.Service".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Management.Service".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Management.Service".DllGetClassObject
+  ServiceMain="C:\Windows\System32\Windows.Management.Service".ServiceMain

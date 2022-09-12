@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\vbscript".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\vbscript".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\vbscript".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\vbscript".DllUnregisterServer

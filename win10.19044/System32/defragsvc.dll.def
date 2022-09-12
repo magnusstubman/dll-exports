@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\defragsvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\defragsvc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\defragsvc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\defragsvc".DllUnregisterServer
+  ServiceMain="C:\Windows\System32\defragsvc".ServiceMain

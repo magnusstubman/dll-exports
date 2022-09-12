@@ -1,0 +1,11 @@
+EXPORTS
+  UirGetScreenComment="C:\Windows\SysWOW64\uireng".UirGetScreenComment
+  UirInitializeEngine="C:\Windows\SysWOW64\uireng".UirInitializeEngine
+  UirIsRecordingActive="C:\Windows\SysWOW64\uireng".UirIsRecordingActive
+  UirOutCreateOutputFile="C:\Windows\SysWOW64\uireng".UirOutCreateOutputFile
+  UirPauseRecordingSession="C:\Windows\SysWOW64\uireng".UirPauseRecordingSession
+  UirResumeRecordingSession="C:\Windows\SysWOW64\uireng".UirResumeRecordingSession
+  UirStartRecordingSession="C:\Windows\SysWOW64\uireng".UirStartRecordingSession
+  UirStopRecordingSession="C:\Windows\SysWOW64\uireng".UirStopRecordingSession
+  UirUninitializeEngine="C:\Windows\SysWOW64\uireng".UirUninitializeEngine
+  UirUpdateRecordingSession="C:\Windows\SysWOW64\uireng".UirUpdateRecordingSession

@@ -1,0 +1,3 @@
+EXPORTS
+  SkuFreeBuffer="C:\Windows\SysWOW64\winsku".SkuFreeBuffer
+  SkuGetEditionEulaFilePath="C:\Windows\SysWOW64\winsku".SkuGetEditionEulaFilePath

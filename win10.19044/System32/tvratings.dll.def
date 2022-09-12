@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\tvratings".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\tvratings".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\tvratings".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\tvratings".DllUnregisterServer

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\UiaManager".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\UiaManager".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\SysWOW64\UiaManager".GetProxyDllInfo
+  UiaInitCrossMachineConnection="C:\Windows\SysWOW64\UiaManager".UiaInitCrossMachineConnection
+  UiaInitCrossMachineConnectionW="C:\Windows\SysWOW64\UiaManager".UiaInitCrossMachineConnectionW

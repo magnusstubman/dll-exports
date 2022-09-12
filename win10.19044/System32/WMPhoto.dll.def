@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WMPhoto".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WMPhoto".DllGetClassObject
+  DllMain="C:\Windows\System32\WMPhoto".DllMain
+  DllRegisterServer="C:\Windows\System32\WMPhoto".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WMPhoto".DllUnregisterServer

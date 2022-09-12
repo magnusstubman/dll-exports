@@ -1,0 +1,2 @@
+EXPORTS
+  DllGetVersion="C:\Windows\System32\browseui".DllGetVersion

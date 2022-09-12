@@ -1,0 +1,3 @@
+EXPORTS
+  CardAcquireContext="C:\Windows\System32\msclmd".CardAcquireContext
+  CardAcquireContextInternal="C:\Windows\System32\msclmd".CardAcquireContextInternal

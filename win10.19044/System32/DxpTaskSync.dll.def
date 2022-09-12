@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DxpTaskSync".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DxpTaskSync".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\DxpTaskSync".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\DxpTaskSync".DllUnregisterServer

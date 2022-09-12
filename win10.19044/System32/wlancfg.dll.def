@@ -1,0 +1,3 @@
+EXPORTS
+  GetResourceString="C:\Windows\System32\wlancfg".GetResourceString
+  InitHelperDll="C:\Windows\System32\wlancfg".InitHelperDll

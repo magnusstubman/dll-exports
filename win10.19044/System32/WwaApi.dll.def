@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WwaApi".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\WwaApi".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\WwaApi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WwaApi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WwaApi".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\WwaApi".GetProxyDllInfo

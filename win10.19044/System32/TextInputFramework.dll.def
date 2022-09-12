@@ -1,0 +1,18 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\TextInputFramework".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\TextInputFramework".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\TextInputFramework".DllGetClassObject
+  InputFocusChanged="C:\Windows\System32\TextInputFramework".InputFocusChanged
+  NavigateFocusInfoCreate="C:\Windows\System32\TextInputFramework".NavigateFocusInfoCreate
+  TextInputClientCreate="C:\Windows\System32\TextInputFramework".TextInputClientCreate
+  TextInputClientCreate2="C:\Windows\System32\TextInputFramework".TextInputClientCreate2
+  TextInputHostCreate="C:\Windows\System32\TextInputFramework".TextInputHostCreate
+  TextInputHostCreate2="C:\Windows\System32\TextInputFramework".TextInputHostCreate2
+  TextInputHostCreateEx="C:\Windows\System32\TextInputFramework".TextInputHostCreateEx
+  TextInputHostGetCurrent="C:\Windows\System32\TextInputFramework".TextInputHostGetCurrent
+  TextInputHostSiteCreate="C:\Windows\System32\TextInputFramework".TextInputHostSiteCreate
+  TextInputServerCreate="C:\Windows\System32\TextInputFramework".TextInputServerCreate
+  TsfOneCreate="C:\Windows\System32\TextInputFramework".TsfOneCreate
+  tsfGetAsyncKeyState="C:\Windows\System32\TextInputFramework".tsfGetAsyncKeyState
+  tsfGetKeyState="C:\Windows\System32\TextInputFramework".tsfGetKeyState
+  tsfGetKeyboardState="C:\Windows\System32\TextInputFramework".tsfGetKeyboardState

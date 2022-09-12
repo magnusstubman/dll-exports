@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dmloader".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dmloader".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dmloader".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dmloader".DllUnregisterServer

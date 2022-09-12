@@ -1,0 +1,6 @@
+EXPORTS
+  KbdLayerDescriptor="C:\Windows\System32\KBDKOR".KbdLayerDescriptor
+  KbdLayerMultiDescriptor="C:\Windows\System32\KBDKOR".KbdLayerMultiDescriptor
+  KbdLayerRealDllFile="C:\Windows\System32\KBDKOR".KbdLayerRealDllFile
+  KbdLayerRealDllFileNT4="C:\Windows\System32\KBDKOR".KbdLayerRealDllFileNT4
+  KbdNlsLayerDescriptor="C:\Windows\System32\KBDKOR".KbdNlsLayerDescriptor

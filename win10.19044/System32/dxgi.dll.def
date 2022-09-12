@@ -1,0 +1,20 @@
+EXPORTS
+  ApplyCompatResolutionQuirking="C:\Windows\System32\dxgi".ApplyCompatResolutionQuirking
+  CompatString="C:\Windows\System32\dxgi".CompatString
+  CompatValue="C:\Windows\System32\dxgi".CompatValue
+  CreateDXGIFactory="C:\Windows\System32\dxgi".CreateDXGIFactory
+  CreateDXGIFactory1="C:\Windows\System32\dxgi".CreateDXGIFactory1
+  CreateDXGIFactory2="C:\Windows\System32\dxgi".CreateDXGIFactory2
+  DXGID3D10CreateDevice="C:\Windows\System32\dxgi".DXGID3D10CreateDevice
+  DXGID3D10CreateLayeredDevice="C:\Windows\System32\dxgi".DXGID3D10CreateLayeredDevice
+  DXGID3D10GetLayeredDeviceSize="C:\Windows\System32\dxgi".DXGID3D10GetLayeredDeviceSize
+  DXGID3D10RegisterLayers="C:\Windows\System32\dxgi".DXGID3D10RegisterLayers
+  DXGIDeclareAdapterRemovalSupport="C:\Windows\System32\dxgi".DXGIDeclareAdapterRemovalSupport
+  DXGIDumpJournal="C:\Windows\System32\dxgi".DXGIDumpJournal
+  DXGIGetDebugInterface1="C:\Windows\System32\dxgi".DXGIGetDebugInterface1
+  DXGIReportAdapterConfiguration="C:\Windows\System32\dxgi".DXGIReportAdapterConfiguration
+  PIXBeginCapture="C:\Windows\System32\dxgi".PIXBeginCapture
+  PIXEndCapture="C:\Windows\System32\dxgi".PIXEndCapture
+  PIXGetCaptureState="C:\Windows\System32\dxgi".PIXGetCaptureState
+  SetAppCompatStringPointer="C:\Windows\System32\dxgi".SetAppCompatStringPointer
+  UpdateHMDEmulationStatus="C:\Windows\System32\dxgi".UpdateHMDEmulationStatus

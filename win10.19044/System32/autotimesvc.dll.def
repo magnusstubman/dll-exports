@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\autotimesvc".DllCanUnloadNow
+  ServiceMain="C:\Windows\System32\autotimesvc".ServiceMain
+  SvchostPushServiceGlobalsEx="C:\Windows\System32\autotimesvc".SvchostPushServiceGlobalsEx

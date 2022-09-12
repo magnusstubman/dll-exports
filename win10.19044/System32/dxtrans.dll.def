@@ -1,0 +1,12 @@
+EXPORTS
+  ?DXConstOverArray@@YAXPEAVDXPMSAMPLE@@AEBV1@K@Z="C:\Windows\System32\dxtrans".?DXConstOverArray@@YAXPEAVDXPMSAMPLE@@AEBV1@K@Z
+  ?DXConstUnderArray@@YAXPEAVDXPMSAMPLE@@AEBV1@K@Z="C:\Windows\System32\dxtrans".?DXConstUnderArray@@YAXPEAVDXPMSAMPLE@@AEBV1@K@Z
+  ?DXDitherArray@@YAXPEBUDXDITHERDESC@@@Z="C:\Windows\System32\dxtrans".?DXDitherArray@@YAXPEBUDXDITHERDESC@@@Z
+  ?DXLinearInterpolateArray@@YAXPEBVDXBASESAMPLE@@PEAUDXLIMAPINFO@@PEAV1@K@Z="C:\Windows\System32\dxtrans".?DXLinearInterpolateArray@@YAXPEBVDXBASESAMPLE@@PEAUDXLIMAPINFO@@PEAV1@K@Z
+  ?DXOverArray@@YAXPEAVDXPMSAMPLE@@PEBV1@K@Z="C:\Windows\System32\dxtrans".?DXOverArray@@YAXPEAVDXPMSAMPLE@@PEBV1@K@Z
+  ?DXOverArrayMMX@@YAXPEAVDXPMSAMPLE@@PEBV1@K@Z="C:\Windows\System32\dxtrans".?DXOverArrayMMX@@YAXPEAVDXPMSAMPLE@@PEBV1@K@Z
+  DllCanUnloadNow="C:\Windows\System32\dxtrans".DllCanUnloadNow
+  DllEnumClassObjects="C:\Windows\System32\dxtrans".DllEnumClassObjects
+  DllGetClassObject="C:\Windows\System32\dxtrans".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dxtrans".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dxtrans".DllUnregisterServer

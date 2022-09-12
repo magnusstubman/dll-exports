@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\windows.internal.shellcommon.shareexperience".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\windows.internal.shellcommon.shareexperience".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\windows.internal.shellcommon.shareexperience".DllGetClassObject

@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mfnetcore".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mfnetcore".DllGetClassObject
+  IsLicensedComponentAC3_ENC="C:\Windows\SysWOW64\mfnetcore".IsLicensedComponentAC3_ENC
+  IsLicensedComponentDOLBY="C:\Windows\SysWOW64\mfnetcore".IsLicensedComponentDOLBY
+  IsLicensedComponentMPEG2="C:\Windows\SysWOW64\mfnetcore".IsLicensedComponentMPEG2
+  IsLicensedComponentMPEG2_ENC="C:\Windows\SysWOW64\mfnetcore".IsLicensedComponentMPEG2_ENC
+  MFCreateByteCacheFile="C:\Windows\SysWOW64\mfnetcore".MFCreateByteCacheFile
+  MFCreateCredentialCache="C:\Windows\SysWOW64\mfnetcore".MFCreateCredentialCache
+  MFCreateFileBlockMap="C:\Windows\SysWOW64\mfnetcore".MFCreateFileBlockMap
+  MFCreatePartialSeekableByteStream="C:\Windows\SysWOW64\mfnetcore".MFCreatePartialSeekableByteStream
+  MFCreateProxyLocator="C:\Windows\SysWOW64\mfnetcore".MFCreateProxyLocator
+  MFGetSupportedDLNAProfileInfo="C:\Windows\SysWOW64\mfnetcore".MFGetSupportedDLNAProfileInfo

@@ -1,0 +1,9 @@
+EXPORTS
+  CryptsvcDllCtrl="C:\Windows\System32\crypttpmeksvc".CryptsvcDllCtrl
+  EKCliAuthorityKeyGetInfo="C:\Windows\System32\crypttpmeksvc".EKCliAuthorityKeyGetInfo
+  EKCliTpmEndorsementKeyDecryptSCEPChallenge="C:\Windows\System32\crypttpmeksvc".EKCliTpmEndorsementKeyDecryptSCEPChallenge
+  EKCliTpmEndorsementKeyGetInfo="C:\Windows\System32\crypttpmeksvc".EKCliTpmEndorsementKeyGetInfo
+  EKCliTpmGetManufacturerInfo="C:\Windows\System32\crypttpmeksvc".EKCliTpmGetManufacturerInfo
+  FreeCMCResponse="C:\Windows\System32\crypttpmeksvc".FreeCMCResponse
+  IsCmcResponseForAttestation="C:\Windows\System32\crypttpmeksvc".IsCmcResponseForAttestation
+  ParseCMCResponse="C:\Windows\System32\crypttpmeksvc".ParseCMCResponse

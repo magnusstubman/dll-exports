@@ -1,0 +1,8 @@
+EXPORTS
+  DirectInputCreateA="C:\Windows\System32\dinput".DirectInputCreateA
+  DirectInputCreateEx="C:\Windows\System32\dinput".DirectInputCreateEx
+  DirectInputCreateW="C:\Windows\System32\dinput".DirectInputCreateW
+  DllCanUnloadNow="C:\Windows\System32\dinput".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dinput".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dinput".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dinput".DllUnregisterServer

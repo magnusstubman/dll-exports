@@ -1,0 +1,4 @@
+EXPORTS
+  DriverProc="C:\Windows\System32\serwvdrv".DriverProc
+  widMessage="C:\Windows\System32\serwvdrv".widMessage
+  wodMessage="C:\Windows\System32\serwvdrv".wodMessage

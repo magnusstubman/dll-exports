@@ -1,0 +1,5 @@
+EXPORTS
+  DebugConnect="C:\Windows\SysWOW64\dbgeng".DebugConnect
+  DebugConnectWide="C:\Windows\SysWOW64\dbgeng".DebugConnectWide
+  DebugCreate="C:\Windows\SysWOW64\dbgeng".DebugCreate
+  DebugCreateEx="C:\Windows\SysWOW64\dbgeng".DebugCreateEx

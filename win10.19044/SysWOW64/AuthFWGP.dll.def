@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AuthFWGP".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\AuthFWGP".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\AuthFWGP".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\AuthFWGP".DllUnregisterServer

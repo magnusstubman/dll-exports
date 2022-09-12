@@ -1,0 +1,10 @@
+EXPORTS
+  AddDeviceWasChosen="C:\Windows\SysWOW64\wiashext".AddDeviceWasChosen
+  AddDeviceWasChosenA="C:\Windows\SysWOW64\wiashext".AddDeviceWasChosenA
+  AddDeviceWasChosenW="C:\Windows\SysWOW64\wiashext".AddDeviceWasChosenW
+  DllCanUnloadNow="C:\Windows\SysWOW64\wiashext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wiashext".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wiashext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wiashext".DllUnregisterServer
+  DoDeleteAllItems="C:\Windows\SysWOW64\wiashext".DoDeleteAllItems
+  MakeFullPidlForDevice="C:\Windows\SysWOW64\wiashext".MakeFullPidlForDevice

@@ -1,0 +1,5 @@
+EXPORTS
+  DllInstall="C:\Windows\SysWOW64\PCPKsp".DllInstall
+  DllMain="C:\Windows\SysWOW64\PCPKsp".DllMain
+  DllUnregisterServer="C:\Windows\SysWOW64\PCPKsp".DllUnregisterServer
+  GetKeyStorageInterface="C:\Windows\SysWOW64\PCPKsp".GetKeyStorageInterface

@@ -1,0 +1,8 @@
+EXPORTS
+  EapProvPlugGetInfo="C:\Windows\System32\eapprovp".EapProvPlugGetInfo
+  EapProvPluginDeinitialize="C:\Windows\System32\eapprovp".EapProvPluginDeinitialize
+  EapProvPluginInitialize="C:\Windows\System32\eapprovp".EapProvPluginInitialize
+  EapProvPluginTestForAuthenticatingWlanInterfaces="C:\Windows\System32\eapprovp".EapProvPluginTestForAuthenticatingWlanInterfaces
+  EapProvPluginWlanCloseHandle="C:\Windows\System32\eapprovp".EapProvPluginWlanCloseHandle
+  EapProvPluginWlanOpenHandle="C:\Windows\System32\eapprovp".EapProvPluginWlanOpenHandle
+  EapProvPluginWlanRegisterNotification="C:\Windows\System32\eapprovp".EapProvPluginWlanRegisterNotification

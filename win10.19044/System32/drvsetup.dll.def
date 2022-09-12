@@ -1,0 +1,6 @@
+EXPORTS
+  DrvSetupInstallDriver="C:\Windows\System32\drvsetup".DrvSetupInstallDriver
+  DrvSetupInstallWuDriver="C:\Windows\System32\drvsetup".DrvSetupInstallWuDriver
+  DrvSetupUninstallDriver="C:\Windows\System32\drvsetup".DrvSetupUninstallDriver
+  DrvSetupUninstallWuDrivers="C:\Windows\System32\drvsetup".DrvSetupUninstallWuDrivers
+  pDrvSetupUninstallDriver="C:\Windows\System32\drvsetup".pDrvSetupUninstallDriver

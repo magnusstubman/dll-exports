@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\msaatext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\msaatext".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\msaatext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msaatext".DllUnregisterServer

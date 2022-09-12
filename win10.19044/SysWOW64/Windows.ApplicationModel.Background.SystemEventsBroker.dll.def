@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.ApplicationModel.Background.SystemEventsBroker".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Windows.ApplicationModel.Background.SystemEventsBroker".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.ApplicationModel.Background.SystemEventsBroker".DllGetClassObject

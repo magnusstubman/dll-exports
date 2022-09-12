@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\FrameServerClient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\FrameServerClient".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\FrameServerClient".DllGetClassObject

@@ -1,0 +1,5 @@
+EXPORTS
+  Deinitialize="C:\Windows\System32\AppVEntVirtualization".Deinitialize
+  GetComponent="C:\Windows\System32\AppVEntVirtualization".GetComponent
+  Initialize="C:\Windows\System32\AppVEntVirtualization".Initialize
+  InitializeISV="C:\Windows\System32\AppVEntVirtualization".InitializeISV

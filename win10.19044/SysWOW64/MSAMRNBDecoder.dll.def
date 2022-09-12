@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MSAMRNBDecoder".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MSAMRNBDecoder".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\MSAMRNBDecoder".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\MSAMRNBDecoder".DllUnregisterServer

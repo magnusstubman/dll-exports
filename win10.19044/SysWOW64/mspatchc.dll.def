@@ -1,0 +1,15 @@
+EXPORTS
+  CreatePatchFileA="C:\Windows\SysWOW64\mspatchc".CreatePatchFileA
+  CreatePatchFileByHandles="C:\Windows\SysWOW64\mspatchc".CreatePatchFileByHandles
+  CreatePatchFileByHandlesEx="C:\Windows\SysWOW64\mspatchc".CreatePatchFileByHandlesEx
+  CreatePatchFileExA="C:\Windows\SysWOW64\mspatchc".CreatePatchFileExA
+  CreatePatchFileExW="C:\Windows\SysWOW64\mspatchc".CreatePatchFileExW
+  CreatePatchFileW="C:\Windows\SysWOW64\mspatchc".CreatePatchFileW
+  ExtractPatchHeaderToFileA="C:\Windows\SysWOW64\mspatchc".ExtractPatchHeaderToFileA
+  ExtractPatchHeaderToFileByHandles="C:\Windows\SysWOW64\mspatchc".ExtractPatchHeaderToFileByHandles
+  ExtractPatchHeaderToFileW="C:\Windows\SysWOW64\mspatchc".ExtractPatchHeaderToFileW
+  GetFilePatchSignatureA="C:\Windows\SysWOW64\mspatchc".GetFilePatchSignatureA
+  GetFilePatchSignatureByBuffer="C:\Windows\SysWOW64\mspatchc".GetFilePatchSignatureByBuffer
+  GetFilePatchSignatureByHandle="C:\Windows\SysWOW64\mspatchc".GetFilePatchSignatureByHandle
+  GetFilePatchSignatureW="C:\Windows\SysWOW64\mspatchc".GetFilePatchSignatureW
+  NormalizeFileForPatchSignature="C:\Windows\SysWOW64\mspatchc".NormalizeFileForPatchSignature

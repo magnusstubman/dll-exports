@@ -1,0 +1,10 @@
+EXPORTS
+  DSCopyFromSharedFile="C:\Windows\System32\dsclient".DSCopyFromSharedFile
+  DSCreateSharedFileToken="C:\Windows\System32\dsclient".DSCreateSharedFileToken
+  DSDelegateSharingToken="C:\Windows\System32\dsclient".DSDelegateSharingToken
+  DSFreeString="C:\Windows\System32\dsclient".DSFreeString
+  DSGetSharedFileName="C:\Windows\System32\dsclient".DSGetSharedFileName
+  DSGetSharingTokenInformation="C:\Windows\System32\dsclient".DSGetSharingTokenInformation
+  DSOpenSharedFile="C:\Windows\System32\dsclient".DSOpenSharedFile
+  DSRemoveExpiredTokens="C:\Windows\System32\dsclient".DSRemoveExpiredTokens
+  DSRemoveSharingToken="C:\Windows\System32\dsclient".DSRemoveSharingToken

@@ -1,0 +1,5 @@
+EXPORTS
+  NetScheduleJobAdd="C:\Windows\System32\schedcli".NetScheduleJobAdd
+  NetScheduleJobDel="C:\Windows\System32\schedcli".NetScheduleJobDel
+  NetScheduleJobEnum="C:\Windows\System32\schedcli".NetScheduleJobEnum
+  NetScheduleJobGetInfo="C:\Windows\System32\schedcli".NetScheduleJobGetInfo

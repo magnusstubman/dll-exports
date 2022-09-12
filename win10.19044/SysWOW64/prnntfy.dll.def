@@ -1,0 +1,8 @@
+EXPORTS
+  AsyncUILoaderEntryW="C:\Windows\SysWOW64\prnntfy".AsyncUILoaderEntryW
+  DllCanUnloadNow="C:\Windows\SysWOW64\prnntfy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\prnntfy".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\prnntfy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\prnntfy".DllUnregisterServer
+  PrintNotifyTray_Exit="C:\Windows\SysWOW64\prnntfy".PrintNotifyTray_Exit
+  PrintNotifyTray_Init="C:\Windows\SysWOW64\prnntfy".PrintNotifyTray_Init

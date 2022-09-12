@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dmintf".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dmintf".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\dmintf".GetProxyDllInfo

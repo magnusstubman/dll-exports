@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wiaaut".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wiaaut".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wiaaut".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wiaaut".DllUnregisterServer

@@ -1,0 +1,6 @@
+EXPORTS
+  IdnToAscii="C:\Windows\System32\normaliz".IdnToAscii
+  IdnToNameprepUnicode="C:\Windows\System32\normaliz".IdnToNameprepUnicode
+  IdnToUnicode="C:\Windows\System32\normaliz".IdnToUnicode
+  IsNormalizedString="C:\Windows\System32\normaliz".IsNormalizedString
+  NormalizeString="C:\Windows\System32\normaliz".NormalizeString

@@ -1,0 +1,4 @@
+EXPORTS
+  DirectXFileCreate="C:\Windows\SysWOW64\d3dxof".DirectXFileCreate
+  DllCanUnloadNow="C:\Windows\SysWOW64\d3dxof".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\d3dxof".DllGetClassObject

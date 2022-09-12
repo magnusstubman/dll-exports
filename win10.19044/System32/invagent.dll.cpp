@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\invagent.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\invagent.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\invagent.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\invagent.DllUnregisterServer\"")
+#pragma comment(linker, "/export:GetDetailedAppInventoryReport=\"C:\\Windows\\System32\\invagent.GetDetailedAppInventoryReport\"")
+#pragma comment(linker, "/export:GetFileSigningInfoTC=\"C:\\Windows\\System32\\invagent.GetFileSigningInfoTC\"")
+#pragma comment(linker, "/export:RunUpdate=\"C:\\Windows\\System32\\invagent.RunUpdate\"")
+#pragma comment(linker, "/export:RunUpdateTC=\"C:\\Windows\\System32\\invagent.RunUpdateTC\"")

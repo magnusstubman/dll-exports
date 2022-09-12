@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WiFiConfigSP".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WiFiConfigSP".DllGetClassObject
+  DllMain="C:\Windows\System32\WiFiConfigSP".DllMain

@@ -1,0 +1,4 @@
+EXPORTS
+  CreateXpsToPCLmConverter="C:\Windows\System32\XpsToPclmConverter".CreateXpsToPCLmConverter
+  DllCanUnloadNow="C:\Windows\System32\XpsToPclmConverter".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\XpsToPclmConverter".DllGetClassObject

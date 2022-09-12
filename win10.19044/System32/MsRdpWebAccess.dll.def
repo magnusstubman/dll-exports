@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MsRdpWebAccess".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MsRdpWebAccess".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MsRdpWebAccess".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MsRdpWebAccess".DllUnregisterServer

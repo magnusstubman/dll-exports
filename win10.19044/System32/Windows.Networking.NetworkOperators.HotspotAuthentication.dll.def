@@ -1,0 +1,6 @@
+EXPORTS
+  CleanupHotspotProfiles="C:\Windows\System32\Windows.Networking.NetworkOperators.HotspotAuthentication".CleanupHotspotProfiles
+  DllCanUnloadNow="C:\Windows\System32\Windows.Networking.NetworkOperators.HotspotAuthentication".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Networking.NetworkOperators.HotspotAuthentication".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Networking.NetworkOperators.HotspotAuthentication".DllGetClassObject
+  RegisterHotspotProfile="C:\Windows\System32\Windows.Networking.NetworkOperators.HotspotAuthentication".RegisterHotspotProfile

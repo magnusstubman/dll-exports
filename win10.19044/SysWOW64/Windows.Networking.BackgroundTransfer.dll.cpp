@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\Windows.Networking.BackgroundTransfer.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\Windows.Networking.BackgroundTransfer.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\Windows.Networking.BackgroundTransfer.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\SysWOW64\\Windows.Networking.BackgroundTransfer.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\Windows.Networking.BackgroundTransfer.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\Windows.Networking.BackgroundTransfer.DllUnregisterServer\"")

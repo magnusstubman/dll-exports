@@ -1,0 +1,22 @@
+EXPORTS
+  NetSetupClose="C:\Windows\SysWOW64\NetSetupApi".NetSetupClose
+  NetSetupCloseObjectQuery="C:\Windows\SysWOW64\NetSetupApi".NetSetupCloseObjectQuery
+  NetSetupCommit="C:\Windows\SysWOW64\NetSetupApi".NetSetupCommit
+  NetSetupCreateObject="C:\Windows\SysWOW64\NetSetupApi".NetSetupCreateObject
+  NetSetupCreateObjectQuery="C:\Windows\SysWOW64\NetSetupApi".NetSetupCreateObjectQuery
+  NetSetupDeleteObject="C:\Windows\SysWOW64\NetSetupApi".NetSetupDeleteObject
+  NetSetupFreeObjectProperties="C:\Windows\SysWOW64\NetSetupApi".NetSetupFreeObjectProperties
+  NetSetupFreeObjects="C:\Windows\SysWOW64\NetSetupApi".NetSetupFreeObjects
+  NetSetupFreeSerializedFilter="C:\Windows\SysWOW64\NetSetupApi".NetSetupFreeSerializedFilter
+  NetSetupGetObjectProperties="C:\Windows\SysWOW64\NetSetupApi".NetSetupGetObjectProperties
+  NetSetupGetObjectPropertyKeys="C:\Windows\SysWOW64\NetSetupApi".NetSetupGetObjectPropertyKeys
+  NetSetupGetObjects="C:\Windows\SysWOW64\NetSetupApi".NetSetupGetObjects
+  NetSetupInitialize="C:\Windows\SysWOW64\NetSetupApi".NetSetupInitialize
+  NetSetupOpenAdvancedPropertyKey="C:\Windows\SysWOW64\NetSetupApi".NetSetupOpenAdvancedPropertyKey
+  NetSetupRollback="C:\Windows\SysWOW64\NetSetupApi".NetSetupRollback
+  NetSetupSerializeFilter="C:\Windows\SysWOW64\NetSetupApi".NetSetupSerializeFilter
+  NetSetupSetObjectProperties="C:\Windows\SysWOW64\NetSetupApi".NetSetupSetObjectProperties
+  NetSetupSynchronizeDevices="C:\Windows\SysWOW64\NetSetupApi".NetSetupSynchronizeDevices
+  NetSetupValidateTransaction="C:\Windows\SysWOW64\NetSetupApi".NetSetupValidateTransaction
+  OnMachineUILanguageInit="C:\Windows\SysWOW64\NetSetupApi".OnMachineUILanguageInit
+  OnMachineUILanguageSwitch="C:\Windows\SysWOW64\NetSetupApi".OnMachineUILanguageSwitch

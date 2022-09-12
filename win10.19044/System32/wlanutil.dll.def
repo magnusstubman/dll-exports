@@ -1,0 +1,8 @@
+EXPORTS
+  WlanIsActiveConsoleUser="C:\Windows\System32\wlanutil".WlanIsActiveConsoleUser
+  WlanSignalValueToBar="C:\Windows\System32\wlanutil".WlanSignalValueToBar
+  WlanSignalValueToBarEx="C:\Windows\System32\wlanutil".WlanSignalValueToBarEx
+  WlanSsidToDisplayName="C:\Windows\System32\wlanutil".WlanSsidToDisplayName
+  WlanStringToSsid="C:\Windows\System32\wlanutil".WlanStringToSsid
+  WlanStringToUtf8Ssid="C:\Windows\System32\wlanutil".WlanStringToUtf8Ssid
+  WlanUtf8SsidToDisplayName="C:\Windows\System32\wlanutil".WlanUtf8SsidToDisplayName

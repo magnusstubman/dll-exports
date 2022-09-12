@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\EhStorShell".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\EhStorShell".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\EhStorShell".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\EhStorShell".DllUnregisterServer

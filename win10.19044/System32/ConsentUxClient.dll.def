@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ConsentUxClient".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ConsentUxClient".DllGetActivationFactory
+  ServiceMain="C:\Windows\System32\ConsentUxClient".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\ConsentUxClient".SvchostPushServiceGlobals

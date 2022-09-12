@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Web.Http".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Web.Http".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Web.Http".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.Web.Http".DllMain
+  DllRegisterServer="C:\Windows\System32\Windows.Web.Http".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Windows.Web.Http".DllUnregisterServer

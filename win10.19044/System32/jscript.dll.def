@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\jscript".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\jscript".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\jscript".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\jscript".DllUnregisterServer

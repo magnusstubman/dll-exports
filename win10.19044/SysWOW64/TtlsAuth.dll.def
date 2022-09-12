@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\TtlsAuth".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\TtlsAuth".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\TtlsAuth".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\TtlsAuth".DllUnregisterServer
+  EapPeerFreeErrorMemory="C:\Windows\SysWOW64\TtlsAuth".EapPeerFreeErrorMemory
+  EapPeerFreeMemory="C:\Windows\SysWOW64\TtlsAuth".EapPeerFreeMemory
+  EapPeerGetInfo="C:\Windows\SysWOW64\TtlsAuth".EapPeerGetInfo

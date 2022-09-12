@@ -1,0 +1,12 @@
+EXPORTS
+  SclAcquireRequiredPrivileges="C:\Windows\System32\setupcl".SclAcquireRequiredPrivileges
+  SclClearPendedRequest="C:\Windows\System32\setupcl".SclClearPendedRequest
+  SclExecutePendedRequests="C:\Windows\System32\setupcl".SclExecutePendedRequests
+  SclExecuteRequest="C:\Windows\System32\setupcl".SclExecuteRequest
+  SclFreeRequest="C:\Windows\System32\setupcl".SclFreeRequest
+  SclGetPendedRequest="C:\Windows\System32\setupcl".SclGetPendedRequest
+  SclLoadStringResource="C:\Windows\System32\setupcl".SclLoadStringResource
+  SclPendRequest="C:\Windows\System32\setupcl".SclPendRequest
+  SclPendedRequestExists="C:\Windows\System32\setupcl".SclPendedRequestExists
+  SclPreCompilePendedRequests="C:\Windows\System32\setupcl".SclPreCompilePendedRequests
+  SclReleasePrivileges="C:\Windows\System32\setupcl".SclReleasePrivileges

@@ -1,0 +1,4 @@
+EXPORTS
+  CertAutoEnrollment="C:\Windows\SysWOW64\pautoenr".CertAutoEnrollment
+  CertAutoRemove="C:\Windows\SysWOW64\pautoenr".CertAutoRemove
+  DimsProvEntry="C:\Windows\SysWOW64\pautoenr".DimsProvEntry

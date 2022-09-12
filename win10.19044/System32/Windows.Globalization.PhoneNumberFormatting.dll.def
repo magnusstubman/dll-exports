@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Globalization.PhoneNumberFormatting".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Globalization.PhoneNumberFormatting".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Globalization.PhoneNumberFormatting".DllGetClassObject
+  DllMain="C:\Windows\System32\Windows.Globalization.PhoneNumberFormatting".DllMain

@@ -1,0 +1,8 @@
+EXPORTS
+  GetCensusPropertyAlloc="C:\Windows\System32\dcntel".GetCensusPropertyAlloc
+  GetCensusRegistryLocation="C:\Windows\System32\dcntel".GetCensusRegistryLocation
+  RunSystemContextCensus="C:\Windows\System32\dcntel".RunSystemContextCensus
+  RunUserContextCensus="C:\Windows\System32\dcntel".RunUserContextCensus
+  SetCustomTrigger="C:\Windows\System32\dcntel".SetCustomTrigger
+  SetCustomTriggerEx="C:\Windows\System32\dcntel".SetCustomTriggerEx
+  SysprepCleanupEnableCustomTrigger="C:\Windows\System32\dcntel".SysprepCleanupEnableCustomTrigger

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ShareHost".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\ShareHost".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\ShareHost".DllGetClassObject
+  ResolveConnectedSharePlatformToken="C:\Windows\System32\ShareHost".ResolveConnectedSharePlatformToken

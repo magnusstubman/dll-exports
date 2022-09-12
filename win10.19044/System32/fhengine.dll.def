@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fhengine".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fhengine".DllGetClassObject
+  DllInstall="C:\Windows\System32\fhengine".DllInstall
+  DllRegisterServer="C:\Windows\System32\fhengine".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fhengine".DllUnregisterServer

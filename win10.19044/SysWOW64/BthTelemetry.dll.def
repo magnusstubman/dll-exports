@@ -1,0 +1,8 @@
+EXPORTS
+  BthCollectFingerprintInfo="C:\Windows\SysWOW64\BthTelemetry".BthCollectFingerprintInfo
+  BthProcessEventDataDword="C:\Windows\SysWOW64\BthTelemetry".BthProcessEventDataDword
+  BthProcessEventOccurrence="C:\Windows\SysWOW64\BthTelemetry".BthProcessEventOccurrence
+  BthProcessEventOccurrenceBthaddr="C:\Windows\SysWOW64\BthTelemetry".BthProcessEventOccurrenceBthaddr
+  BthProcessEventOccurrenceResult="C:\Windows\SysWOW64\BthTelemetry".BthProcessEventOccurrenceResult
+  BthProcessEventOccurrenceResultBthaddr="C:\Windows\SysWOW64\BthTelemetry".BthProcessEventOccurrenceResultBthaddr
+  BthProcessRpalEventOccurrence="C:\Windows\SysWOW64\BthTelemetry".BthProcessRpalEventOccurrence

@@ -1,0 +1,11 @@
+EXPORTS
+  CreateCatalog="C:\Windows\System32\fhshl".CreateCatalog
+  CreateSearchBindCtx="C:\Windows\System32\fhshl".CreateSearchBindCtx
+  CreateVirtualItem="C:\Windows\System32\fhshl".CreateVirtualItem
+  DllCanUnloadNow="C:\Windows\System32\fhshl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fhshl".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\fhshl".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\fhshl".DllUnregisterServer
+  FreeCatalog="C:\Windows\System32\fhshl".FreeCatalog
+  GetBackupPathFromPidl="C:\Windows\System32\fhshl".GetBackupPathFromPidl
+  ParsePIDL="C:\Windows\System32\fhshl".ParsePIDL

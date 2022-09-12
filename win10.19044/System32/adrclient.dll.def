@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\adrclient".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\adrclient".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\adrclient".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\adrclient".DllUnregisterServer

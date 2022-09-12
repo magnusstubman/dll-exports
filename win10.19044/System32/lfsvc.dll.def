@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\lfsvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\lfsvc".DllGetClassObject
+  ServiceMain="C:\Windows\System32\lfsvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\lfsvc".SvchostPushServiceGlobals

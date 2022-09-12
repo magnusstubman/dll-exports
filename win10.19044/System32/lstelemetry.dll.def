@@ -1,0 +1,9 @@
+EXPORTS
+  GetLicensingTelemetryCommonData="C:\Windows\System32\lstelemetry".GetLicensingTelemetryCommonData
+  InitRDLSTelemetryCommonData="C:\Windows\System32\lstelemetry".InitRDLSTelemetryCommonData
+  LogRDLSSettingsTelemetryData="C:\Windows\System32\lstelemetry".LogRDLSSettingsTelemetryData
+  LogTSLSTelemetryEvent="C:\Windows\System32\lstelemetry".LogTSLSTelemetryEvent
+  LogTSLSTelemetryRDSEvent="C:\Windows\System32\lstelemetry".LogTSLSTelemetryRDSEvent
+  RegisterAndEnableLicensingTelemetry="C:\Windows\System32\lstelemetry".RegisterAndEnableLicensingTelemetry
+  UnregisterLicensingTelemetry="C:\Windows\System32\lstelemetry".UnregisterLicensingTelemetry
+  UpdateRDLSTelemetryCommonData="C:\Windows\System32\lstelemetry".UpdateRDLSTelemetryCommonData

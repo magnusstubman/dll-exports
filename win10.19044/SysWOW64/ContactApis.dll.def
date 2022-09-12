@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ContactApis".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\ContactApis".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\ContactApis".DllGetClassObject

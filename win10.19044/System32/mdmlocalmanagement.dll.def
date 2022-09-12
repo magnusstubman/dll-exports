@@ -1,0 +1,4 @@
+EXPORTS
+  ApplyLocalManagementSyncML="C:\Windows\System32\mdmlocalmanagement".ApplyLocalManagementSyncML
+  RegisterDeviceWithLocalManagement="C:\Windows\System32\mdmlocalmanagement".RegisterDeviceWithLocalManagement
+  UnregisterDeviceWithLocalManagement="C:\Windows\System32\mdmlocalmanagement".UnregisterDeviceWithLocalManagement

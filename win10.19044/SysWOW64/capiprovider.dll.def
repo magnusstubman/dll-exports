@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\capiprovider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\capiprovider".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\capiprovider".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\capiprovider".DllUnregisterServer

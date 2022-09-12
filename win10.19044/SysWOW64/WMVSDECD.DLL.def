@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\SysWOW64\WMVSDECD".CreateInstance
+  DllCanUnloadNow="C:\Windows\SysWOW64\WMVSDECD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\WMVSDECD".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\WMVSDECD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\WMVSDECD".DllUnregisterServer

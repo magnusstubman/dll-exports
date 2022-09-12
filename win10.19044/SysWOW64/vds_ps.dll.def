@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\vds_ps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\vds_ps".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\vds_ps".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\vds_ps".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\vds_ps".GetProxyDllInfo

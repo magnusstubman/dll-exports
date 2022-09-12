@@ -1,0 +1,3 @@
+EXPORTS
+  DllMain="C:\Windows\System32\umpoext".DllMain
+  ExtensionInit="C:\Windows\System32\umpoext".ExtensionInit

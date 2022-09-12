@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\dmloader".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dmloader".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\dmloader".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\dmloader".DllUnregisterServer

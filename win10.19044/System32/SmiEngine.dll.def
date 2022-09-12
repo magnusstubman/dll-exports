@@ -1,0 +1,14 @@
+EXPORTS
+  ConstructHiveLocation="C:\Windows\System32\SmiEngine".ConstructHiveLocation
+  ConstructRegLocation="C:\Windows\System32\SmiEngine".ConstructRegLocation
+  CreateLalInstance="C:\Windows\System32\SmiEngine".CreateLalInstance
+  CreateSettingsEnginePriv="C:\Windows\System32\SmiEngine".CreateSettingsEnginePriv
+  CreateWcmEngineCore="C:\Windows\System32\SmiEngine".CreateWcmEngineCore
+  DeleteCompilerObject="C:\Windows\System32\SmiEngine".DeleteCompilerObject
+  DllCanUnloadNow="C:\Windows\System32\SmiEngine".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SmiEngine".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\SmiEngine".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\SmiEngine".DllUnregisterServer
+  GetCompilerObject="C:\Windows\System32\SmiEngine".GetCompilerObject
+  GetItemFromCoreObject="C:\Windows\System32\SmiEngine".GetItemFromCoreObject
+  SetLalCreator="C:\Windows\System32\SmiEngine".SetLalCreator

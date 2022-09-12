@@ -1,0 +1,3 @@
+EXPORTS
+  DllMain="C:\Windows\System32\PeerDistHttpTrans".DllMain
+  PeerDistTransportStartup="C:\Windows\System32\PeerDistHttpTrans".PeerDistTransportStartup

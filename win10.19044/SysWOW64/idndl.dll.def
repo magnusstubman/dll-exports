@@ -1,0 +1,4 @@
+EXPORTS
+  DownlevelGetLocaleScripts="C:\Windows\SysWOW64\idndl".DownlevelGetLocaleScripts
+  DownlevelGetStringScripts="C:\Windows\SysWOW64\idndl".DownlevelGetStringScripts
+  DownlevelVerifyScripts="C:\Windows\SysWOW64\idndl".DownlevelVerifyScripts

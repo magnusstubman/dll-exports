@@ -1,0 +1,5 @@
+EXPORTS
+  CmLockSvcDeinit="C:\Windows\System32\configmanager2".CmLockSvcDeinit
+  CmLockSvcInit="C:\Windows\System32\configmanager2".CmLockSvcInit
+  DllCanUnloadNow="C:\Windows\System32\configmanager2".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\configmanager2".DllGetClassObject

@@ -1,0 +1,5 @@
+EXPORTS
+  DiskCleanupEnd="C:\Windows\System32\utcutil".DiskCleanupEnd
+  DiskCleanupStart="C:\Windows\System32\utcutil".DiskCleanupStart
+  GetCommonAttributes="C:\Windows\System32\utcutil".GetCommonAttributes
+  GetPropertyAlloc="C:\Windows\System32\utcutil".GetPropertyAlloc

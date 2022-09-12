@@ -1,0 +1,12 @@
+EXPORTS
+  ComDBClaimNextFreePort="C:\Windows\System32\msports".ComDBClaimNextFreePort
+  ComDBClaimPort="C:\Windows\System32\msports".ComDBClaimPort
+  ComDBClose="C:\Windows\System32\msports".ComDBClose
+  ComDBGetCurrentPortUsage="C:\Windows\System32\msports".ComDBGetCurrentPortUsage
+  ComDBOpen="C:\Windows\System32\msports".ComDBOpen
+  ComDBReleasePort="C:\Windows\System32\msports".ComDBReleasePort
+  ComDBResizeDatabase="C:\Windows\System32\msports".ComDBResizeDatabase
+  ParallelPortPropPageProvider="C:\Windows\System32\msports".ParallelPortPropPageProvider
+  PortsClassInstaller="C:\Windows\System32\msports".PortsClassInstaller
+  SerialDisplayAdvancedSettings="C:\Windows\System32\msports".SerialDisplayAdvancedSettings
+  SerialPortPropPageProvider="C:\Windows\System32\msports".SerialPortPropPageProvider

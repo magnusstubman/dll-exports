@@ -1,0 +1,16 @@
+EXPORTS
+  FveCertCanCertificateBeAdded="C:\Windows\SysWOW64\fvecerts".FveCertCanCertificateBeAdded
+  FveCertCreateCertInfo="C:\Windows\SysWOW64\fvecerts".FveCertCreateCertInfo
+  FveCertCreateSelfSignedCertificate="C:\Windows\SysWOW64\fvecerts".FveCertCreateSelfSignedCertificate
+  FveCertFilterForValidCertificates="C:\Windows\SysWOW64\fvecerts".FveCertFilterForValidCertificates
+  FveCertFindValidCertificates="C:\Windows\SysWOW64\fvecerts".FveCertFindValidCertificates
+  FveCertFreeCertInfo="C:\Windows\SysWOW64\fvecerts".FveCertFreeCertInfo
+  FveCertGetCertContextFromCert="C:\Windows\SysWOW64\fvecerts".FveCertGetCertContextFromCert
+  FveCertGetCertContextFromPfx="C:\Windows\SysWOW64\fvecerts".FveCertGetCertContextFromPfx
+  FveCertGetCertHashFromCertContext="C:\Windows\SysWOW64\fvecerts".FveCertGetCertHashFromCertContext
+  FveCertGetPrivateKeyHandle="C:\Windows\SysWOW64\fvecerts".FveCertGetPrivateKeyHandle
+  FveCertGetPublicKeyHandle="C:\Windows\SysWOW64\fvecerts".FveCertGetPublicKeyHandle
+  FveCertIsAlternateCert="C:\Windows\SysWOW64\fvecerts".FveCertIsAlternateCert
+  FveCertIsValidCertInfo="C:\Windows\SysWOW64\fvecerts".FveCertIsValidCertInfo
+  FveCertSignData="C:\Windows\SysWOW64\fvecerts".FveCertSignData
+  FveCertWritePfxFromCertContext="C:\Windows\SysWOW64\fvecerts".FveCertWritePfxFromCertContext

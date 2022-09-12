@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\VIDRESZR".CreateInstance
+  DllCanUnloadNow="C:\Windows\System32\VIDRESZR".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\VIDRESZR".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\VIDRESZR".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\VIDRESZR".DllUnregisterServer

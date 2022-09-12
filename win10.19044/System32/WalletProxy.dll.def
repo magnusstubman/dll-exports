@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WalletProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WalletProxy".DllGetClassObject

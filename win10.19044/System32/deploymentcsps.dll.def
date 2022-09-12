@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\deploymentcsps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\deploymentcsps".DllGetClassObject

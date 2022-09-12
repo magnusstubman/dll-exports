@@ -1,0 +1,18 @@
+EXPORTS
+  EcClose="C:\Windows\SysWOW64\wecapi".EcClose
+  EcDeleteSubscription="C:\Windows\SysWOW64\wecapi".EcDeleteSubscription
+  EcEnumNextSubscription="C:\Windows\SysWOW64\wecapi".EcEnumNextSubscription
+  EcGetObjectArrayProperty="C:\Windows\SysWOW64\wecapi".EcGetObjectArrayProperty
+  EcGetObjectArraySize="C:\Windows\SysWOW64\wecapi".EcGetObjectArraySize
+  EcGetSubscriptionProperty="C:\Windows\SysWOW64\wecapi".EcGetSubscriptionProperty
+  EcGetSubscriptionRunTimeStatus="C:\Windows\SysWOW64\wecapi".EcGetSubscriptionRunTimeStatus
+  EcInsertObjectArrayElement="C:\Windows\SysWOW64\wecapi".EcInsertObjectArrayElement
+  EcIsConfigRequired="C:\Windows\SysWOW64\wecapi".EcIsConfigRequired
+  EcOpenSubscription="C:\Windows\SysWOW64\wecapi".EcOpenSubscription
+  EcOpenSubscriptionEnum="C:\Windows\SysWOW64\wecapi".EcOpenSubscriptionEnum
+  EcQuickConfig="C:\Windows\SysWOW64\wecapi".EcQuickConfig
+  EcRemoveObjectArrayElement="C:\Windows\SysWOW64\wecapi".EcRemoveObjectArrayElement
+  EcRetrySubscription="C:\Windows\SysWOW64\wecapi".EcRetrySubscription
+  EcSaveSubscription="C:\Windows\SysWOW64\wecapi".EcSaveSubscription
+  EcSetObjectArrayProperty="C:\Windows\SysWOW64\wecapi".EcSetObjectArrayProperty
+  EcSetSubscriptionProperty="C:\Windows\SysWOW64\wecapi".EcSetSubscriptionProperty

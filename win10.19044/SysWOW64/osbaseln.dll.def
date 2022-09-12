@@ -1,0 +1,15 @@
+EXPORTS
+  CloseOsBaseline="C:\Windows\SysWOW64\osbaseln".CloseOsBaseline
+  EnumOsBaselineComponentsA="C:\Windows\SysWOW64\osbaseln".EnumOsBaselineComponentsA
+  EnumOsBaselineComponentsW="C:\Windows\SysWOW64\osbaseln".EnumOsBaselineComponentsW
+  EnumOsOutOfDateComponentsA="C:\Windows\SysWOW64\osbaseln".EnumOsOutOfDateComponentsA
+  EnumOsOutOfDateComponentsW="C:\Windows\SysWOW64\osbaseln".EnumOsOutOfDateComponentsW
+  GetOsBaselineComponentInfoA="C:\Windows\SysWOW64\osbaseln".GetOsBaselineComponentInfoA
+  GetOsBaselineComponentInfoW="C:\Windows\SysWOW64\osbaseln".GetOsBaselineComponentInfoW
+  GetOsInstalledComponentInfoA="C:\Windows\SysWOW64\osbaseln".GetOsInstalledComponentInfoA
+  GetOsInstalledComponentInfoW="C:\Windows\SysWOW64\osbaseln".GetOsInstalledComponentInfoW
+  GetOsLatestBaselineServicePack="C:\Windows\SysWOW64\osbaseln".GetOsLatestBaselineServicePack
+  OpenOsBaseline="C:\Windows\SysWOW64\osbaseln".OpenOsBaseline
+  pGetOsBaselineCurrentVersion="C:\Windows\SysWOW64\osbaseln".pGetOsBaselineCurrentVersion
+  pGetOsCurrentBaselineServicePack="C:\Windows\SysWOW64\osbaseln".pGetOsCurrentBaselineServicePack
+  pOpenOsBaselineByVersion="C:\Windows\SysWOW64\osbaseln".pOpenOsBaselineByVersion

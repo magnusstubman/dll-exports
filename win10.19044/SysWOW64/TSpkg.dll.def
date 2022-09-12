@@ -1,0 +1,3 @@
+EXPORTS
+  SpLsaModeInitialize="C:\Windows\SysWOW64\TSpkg".SpLsaModeInitialize
+  SpUserModeInitialize="C:\Windows\SysWOW64\TSpkg".SpUserModeInitialize

@@ -1,0 +1,5 @@
+EXPORTS
+  CatDbOfflineRebuildDatabasesRundll32W="C:\Windows\System32\cryptcatsvc".CatDbOfflineRebuildDatabasesRundll32W
+  CatDbOfflineRebuildDatabasesW="C:\Windows\System32\cryptcatsvc".CatDbOfflineRebuildDatabasesW
+  CryptCATAdminCatalogDatabase="C:\Windows\System32\cryptcatsvc".CryptCATAdminCatalogDatabase
+  CryptsvcDllCtrl="C:\Windows\System32\cryptcatsvc".CryptsvcDllCtrl

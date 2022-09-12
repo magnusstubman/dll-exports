@@ -1,0 +1,4 @@
+EXPORTS
+  FreeCommandLineOptions="C:\Windows\System32\dmcommandlineutils".FreeCommandLineOptions
+  ProcessCommandLine="C:\Windows\System32\dmcommandlineutils".ProcessCommandLine
+  ProcessCommandLineOption="C:\Windows\System32\dmcommandlineutils".ProcessCommandLineOption

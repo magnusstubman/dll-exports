@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wsecedit".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wsecedit".DllGetClassObject
+  InvokeCAPEACLEditor="C:\Windows\SysWOW64\wsecedit".InvokeCAPEACLEditor
+  TranslateAceMasksAndCondition="C:\Windows\SysWOW64\wsecedit".TranslateAceMasksAndCondition

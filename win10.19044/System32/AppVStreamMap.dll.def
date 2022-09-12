@@ -1,0 +1,3 @@
+EXPORTS
+  CreateStreamMapFromFile="C:\Windows\System32\AppVStreamMap".CreateStreamMapFromFile
+  CreateStreamMapFromStream="C:\Windows\System32\AppVStreamMap".CreateStreamMapFromStream

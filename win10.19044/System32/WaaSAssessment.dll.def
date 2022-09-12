@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WaaSAssessment".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WaaSAssessment".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WaaSAssessment".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WaaSAssessment".DllUnregisterServer

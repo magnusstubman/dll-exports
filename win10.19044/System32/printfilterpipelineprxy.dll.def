@@ -1,0 +1,11 @@
+EXPORTS
+  ClosePrintProcessor="C:\Windows\System32\printfilterpipelineprxy".ClosePrintProcessor
+  ControlPrintProcessor="C:\Windows\System32\printfilterpipelineprxy".ControlPrintProcessor
+  DllCanUnloadNow="C:\Windows\System32\printfilterpipelineprxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\printfilterpipelineprxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\printfilterpipelineprxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\printfilterpipelineprxy".DllUnregisterServer
+  EnumPrintProcessorDatatypesW="C:\Windows\System32\printfilterpipelineprxy".EnumPrintProcessorDatatypesW
+  GetPrintProcessorCapabilities="C:\Windows\System32\printfilterpipelineprxy".GetPrintProcessorCapabilities
+  OpenPrintProcessor="C:\Windows\System32\printfilterpipelineprxy".OpenPrintProcessor
+  PrintDocumentOnPrintProcessor="C:\Windows\System32\printfilterpipelineprxy".PrintDocumentOnPrintProcessor

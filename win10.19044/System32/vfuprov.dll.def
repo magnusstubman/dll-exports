@@ -1,0 +1,3 @@
+EXPORTS
+  SruInitializeProvider="C:\Windows\System32\vfuprov".SruInitializeProvider
+  SruUninitializeProvider="C:\Windows\System32\vfuprov".SruUninitializeProvider

@@ -1,0 +1,9 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\eapphost".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\eapphost".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\eapphost".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\eapphost".DllUnregisterServer
+  InitializeEapHost="C:\Windows\System32\eapphost".InitializeEapHost
+  OnSessionChange="C:\Windows\System32\eapphost".OnSessionChange
+  StopServiceOnLowPower="C:\Windows\System32\eapphost".StopServiceOnLowPower
+  UninitializeEapHost="C:\Windows\System32\eapphost".UninitializeEapHost

@@ -1,0 +1,3 @@
+EXPORTS
+  DiscpLoadGPSettings="C:\Windows\SysWOW64\iscsied".DiscpLoadGPSettings
+  DllMain="C:\Windows\SysWOW64\iscsied".DllMain

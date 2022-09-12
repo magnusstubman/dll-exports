@@ -1,0 +1,6 @@
+EXPORTS
+  AlphaBlend="C:\Windows\System32\msimg32".AlphaBlend
+  DllInitialize="C:\Windows\System32\msimg32".DllInitialize
+  GradientFill="C:\Windows\System32\msimg32".GradientFill
+  TransparentBlt="C:\Windows\System32\msimg32".TransparentBlt
+  vSetDdrawflag="C:\Windows\System32\msimg32".vSetDdrawflag

@@ -1,0 +1,5 @@
+EXPORTS
+  DisplaySaveSettingsEx="C:\Windows\SysWOW64\Display".DisplaySaveSettingsEx
+  DllCanUnloadNow="C:\Windows\SysWOW64\Display".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\Display".DllGetClassObject
+  ShowAdapterSettings="C:\Windows\SysWOW64\Display".ShowAdapterSettings

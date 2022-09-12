@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\EditionUpgradeManagerObj".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\EditionUpgradeManagerObj".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\EditionUpgradeManagerObj".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\EditionUpgradeManagerObj".DllUnregisterServer

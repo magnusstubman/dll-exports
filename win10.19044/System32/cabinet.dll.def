@@ -1,0 +1,27 @@
+EXPORTS
+  CloseCompressor="C:\Windows\System32\cabinet".CloseCompressor
+  CloseDecompressor="C:\Windows\System32\cabinet".CloseDecompressor
+  Compress="C:\Windows\System32\cabinet".Compress
+  CreateCompressor="C:\Windows\System32\cabinet".CreateCompressor
+  CreateDecompressor="C:\Windows\System32\cabinet".CreateDecompressor
+  Decompress="C:\Windows\System32\cabinet".Decompress
+  DeleteExtractedFiles="C:\Windows\System32\cabinet".DeleteExtractedFiles
+  DllGetVersion="C:\Windows\System32\cabinet".DllGetVersion
+  Extract="C:\Windows\System32\cabinet".Extract
+  FCIAddFile="C:\Windows\System32\cabinet".FCIAddFile
+  FCICreate="C:\Windows\System32\cabinet".FCICreate
+  FCIDestroy="C:\Windows\System32\cabinet".FCIDestroy
+  FCIFlushCabinet="C:\Windows\System32\cabinet".FCIFlushCabinet
+  FCIFlushFolder="C:\Windows\System32\cabinet".FCIFlushFolder
+  FDICopy="C:\Windows\System32\cabinet".FDICopy
+  FDICreate="C:\Windows\System32\cabinet".FDICreate
+  FDIDestroy="C:\Windows\System32\cabinet".FDIDestroy
+  FDIIsCabinet="C:\Windows\System32\cabinet".FDIIsCabinet
+  FDITruncateCabinet="C:\Windows\System32\cabinet".FDITruncateCabinet
+  GetDllVersion="C:\Windows\System32\cabinet".GetDllVersion
+  QueryCompressorInformation="C:\Windows\System32\cabinet".QueryCompressorInformation
+  QueryDecompressorInformation="C:\Windows\System32\cabinet".QueryDecompressorInformation
+  ResetCompressor="C:\Windows\System32\cabinet".ResetCompressor
+  ResetDecompressor="C:\Windows\System32\cabinet".ResetDecompressor
+  SetCompressorInformation="C:\Windows\System32\cabinet".SetCompressorInformation
+  SetDecompressorInformation="C:\Windows\System32\cabinet".SetDecompressorInformation

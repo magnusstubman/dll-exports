@@ -1,0 +1,6 @@
+EXPORTS
+  BthEvtBrCreateBroker="C:\Windows\System32\Windows.Internal.Bluetooth".BthEvtBrCreateBroker
+  BthEvtBrDeleteBroker="C:\Windows\System32\Windows.Internal.Bluetooth".BthEvtBrDeleteBroker
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.Bluetooth".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Internal.Bluetooth".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.Bluetooth".DllGetClassObject

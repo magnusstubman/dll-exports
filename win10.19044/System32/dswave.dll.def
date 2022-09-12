@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dswave".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dswave".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dswave".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dswave".DllUnregisterServer

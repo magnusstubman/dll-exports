@@ -1,0 +1,5 @@
+EXPORTS
+  ClosePerformanceData="C:\Windows\SysWOW64\netfxperf".ClosePerformanceData
+  CollectPerformanceData="C:\Windows\SysWOW64\netfxperf".CollectPerformanceData
+  OpenPerformanceData="C:\Windows\SysWOW64\netfxperf".OpenPerformanceData
+  TraceServiceStart="C:\Windows\SysWOW64\netfxperf".TraceServiceStart

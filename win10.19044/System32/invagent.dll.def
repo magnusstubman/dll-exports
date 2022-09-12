@@ -1,0 +1,9 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\invagent".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\invagent".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\invagent".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\invagent".DllUnregisterServer
+  GetDetailedAppInventoryReport="C:\Windows\System32\invagent".GetDetailedAppInventoryReport
+  GetFileSigningInfoTC="C:\Windows\System32\invagent".GetFileSigningInfoTC
+  RunUpdate="C:\Windows\System32\invagent".RunUpdate
+  RunUpdateTC="C:\Windows\System32\invagent".RunUpdateTC

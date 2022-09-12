@@ -1,0 +1,5 @@
+EXPORTS
+  CreatePackageBuilder="C:\Windows\System32\provpackageapidll".CreatePackageBuilder
+  CreatePackageSecurity="C:\Windows\System32\provpackageapidll".CreatePackageSecurity
+  OpenProvisioningPackage="C:\Windows\System32\provpackageapidll".OpenProvisioningPackage
+  OpenProvisioningPackageForRead="C:\Windows\System32\provpackageapidll".OpenProvisioningPackageForRead

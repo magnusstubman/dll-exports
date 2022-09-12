@@ -1,0 +1,18 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\vaultcli".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\vaultcli".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\vaultcli".DllGetClassObject
+  VaultAddItem="C:\Windows\SysWOW64\vaultcli".VaultAddItem
+  VaultCloseVault="C:\Windows\SysWOW64\vaultcli".VaultCloseVault
+  VaultCreateItemType="C:\Windows\SysWOW64\vaultcli".VaultCreateItemType
+  VaultDeleteItemType="C:\Windows\SysWOW64\vaultcli".VaultDeleteItemType
+  VaultEnumerateItemTypes="C:\Windows\SysWOW64\vaultcli".VaultEnumerateItemTypes
+  VaultEnumerateItems="C:\Windows\SysWOW64\vaultcli".VaultEnumerateItems
+  VaultEnumerateVaults="C:\Windows\SysWOW64\vaultcli".VaultEnumerateVaults
+  VaultFindItems="C:\Windows\SysWOW64\vaultcli".VaultFindItems
+  VaultFree="C:\Windows\SysWOW64\vaultcli".VaultFree
+  VaultGetInformation="C:\Windows\SysWOW64\vaultcli".VaultGetInformation
+  VaultGetItem="C:\Windows\SysWOW64\vaultcli".VaultGetItem
+  VaultGetItemType="C:\Windows\SysWOW64\vaultcli".VaultGetItemType
+  VaultOpenVault="C:\Windows\SysWOW64\vaultcli".VaultOpenVault
+  VaultRemoveItem="C:\Windows\SysWOW64\vaultcli".VaultRemoveItem

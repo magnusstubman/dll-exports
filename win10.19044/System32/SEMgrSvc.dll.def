@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SEMgrSvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SEMgrSvc".DllGetClassObject
+  LaunchModernNfcEventSession="C:\Windows\System32\SEMgrSvc".LaunchModernNfcEventSession
+  ServiceMain="C:\Windows\System32\SEMgrSvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\SEMgrSvc".SvchostPushServiceGlobals

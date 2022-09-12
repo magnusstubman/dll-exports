@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\PresentationHostProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\PresentationHostProxy".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\PresentationHostProxy".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\PresentationHostProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\PresentationHostProxy".DllUnregisterServer

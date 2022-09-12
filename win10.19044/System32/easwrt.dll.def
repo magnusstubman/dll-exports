@@ -1,0 +1,10 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\easwrt".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\easwrt".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\easwrt".DllGetClassObject
+  EasClientSecurityPolicyApply="C:\Windows\System32\easwrt".EasClientSecurityPolicyApply
+  EasClientSecurityPolicyCheckCompliance="C:\Windows\System32\easwrt".EasClientSecurityPolicyCheckCompliance
+  EasGetClientDeviceInformation="C:\Windows\System32\easwrt".EasGetClientDeviceInformation
+  EasRegisterEncryptionProvider="C:\Windows\System32\easwrt".EasRegisterEncryptionProvider
+  EasShowConsentDialog="C:\Windows\System32\easwrt".EasShowConsentDialog
+  EasUnRegisterEncryptionProvider="C:\Windows\System32\easwrt".EasUnRegisterEncryptionProvider

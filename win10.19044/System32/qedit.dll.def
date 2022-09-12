@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\qedit".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\qedit".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\qedit".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\qedit".DllUnregisterServer

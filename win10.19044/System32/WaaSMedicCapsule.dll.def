@@ -1,0 +1,12 @@
+EXPORTS
+  DllMain="C:\Windows\System32\WaaSMedicCapsule".DllMain
+  EnumeratePlugins="C:\Windows\System32\WaaSMedicCapsule".EnumeratePlugins
+  GetPluginDefaultSettings="C:\Windows\System32\WaaSMedicCapsule".GetPluginDefaultSettings
+  GetSettingsName="C:\Windows\System32\WaaSMedicCapsule".GetSettingsName
+  Plugin_DetectCondition="C:\Windows\System32\WaaSMedicCapsule".Plugin_DetectCondition
+  Plugin_Init="C:\Windows\System32\WaaSMedicCapsule".Plugin_Init
+  Plugin_IsActionApplicable2="C:\Windows\System32\WaaSMedicCapsule".Plugin_IsActionApplicable2
+  Plugin_IsEnabled="C:\Windows\System32\WaaSMedicCapsule".Plugin_IsEnabled
+  Plugin_IsInteractiveOnly="C:\Windows\System32\WaaSMedicCapsule".Plugin_IsInteractiveOnly
+  Plugin_PerformAction="C:\Windows\System32\WaaSMedicCapsule".Plugin_PerformAction
+  Plugin_Uninit="C:\Windows\System32\WaaSMedicCapsule".Plugin_Uninit

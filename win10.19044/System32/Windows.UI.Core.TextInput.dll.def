@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.Core.TextInput".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.Core.TextInput".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.Core.TextInput".DllGetClassObject

@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DscTimer".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DscTimer".DllGetClassObject
+  DllMain="C:\Windows\System32\DscTimer".DllMain
+  DllRegisterServer="C:\Windows\System32\DscTimer".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\DscTimer".DllUnregisterServer
+  GetProviderClassID="C:\Windows\System32\DscTimer".GetProviderClassID
+  MI_Main="C:\Windows\System32\DscTimer".MI_Main

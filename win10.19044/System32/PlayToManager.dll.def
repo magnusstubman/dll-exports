@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PlayToManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\PlayToManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\PlayToManager".DllGetClassObject

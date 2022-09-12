@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DevicePairingExperienceMEM".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\DevicePairingExperienceMEM".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\DevicePairingExperienceMEM".DllGetClassObject

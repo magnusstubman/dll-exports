@@ -1,0 +1,8 @@
+EXPORTS
+  AwaitContactPickerResults="C:\Windows\System32\ContactActivation".AwaitContactPickerResults
+  ContactToVCardString="C:\Windows\System32\ContactActivation".ContactToVCardString
+  DeserializeContactFromString="C:\Windows\System32\ContactActivation".DeserializeContactFromString
+  SerializeContactToString="C:\Windows\System32\ContactActivation".SerializeContactToString
+  SerializeContactToVCard="C:\Windows\System32\ContactActivation".SerializeContactToVCard
+  ShowContactPickerAsync="C:\Windows\System32\ContactActivation".ShowContactPickerAsync
+  VCardStringToContact="C:\Windows\System32\ContactActivation".VCardStringToContact

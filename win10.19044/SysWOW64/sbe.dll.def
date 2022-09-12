@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\sbe".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\sbe".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\sbe".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\sbe".DllUnregisterServer

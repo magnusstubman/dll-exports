@@ -1,0 +1,5 @@
+EXPORTS
+  GenerateGroupPolicy="C:\Windows\System32\auditcse".GenerateGroupPolicy
+  GenerateGroupPolicyCap="C:\Windows\System32\auditcse".GenerateGroupPolicyCap
+  ProcessGroupPolicyEx="C:\Windows\System32\auditcse".ProcessGroupPolicyEx
+  ProcessGroupPolicyExCap="C:\Windows\System32\auditcse".ProcessGroupPolicyExCap

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mscandui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mscandui".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\mscandui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\mscandui".DllUnregisterServer

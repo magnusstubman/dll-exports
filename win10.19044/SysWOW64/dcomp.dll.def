@@ -1,0 +1,13 @@
+EXPORTS
+  DCompositionAttachMouseDragToHwnd="C:\Windows\SysWOW64\dcomp".DCompositionAttachMouseDragToHwnd
+  DCompositionAttachMouseWheelToHwnd="C:\Windows\SysWOW64\dcomp".DCompositionAttachMouseWheelToHwnd
+  DCompositionCreateDevice="C:\Windows\SysWOW64\dcomp".DCompositionCreateDevice
+  DCompositionCreateDevice2="C:\Windows\SysWOW64\dcomp".DCompositionCreateDevice2
+  DCompositionCreateDevice3="C:\Windows\SysWOW64\dcomp".DCompositionCreateDevice3
+  DCompositionCreateSurfaceHandle="C:\Windows\SysWOW64\dcomp".DCompositionCreateSurfaceHandle
+  DllCanUnloadNow="C:\Windows\SysWOW64\dcomp".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\dcomp".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\dcomp".DllGetClassObject
+  DwmEnableMMCSS="C:\Windows\SysWOW64\dcomp".DwmEnableMMCSS
+  DwmFlush="C:\Windows\SysWOW64\dcomp".DwmFlush
+  DwmpEnableDDASupport="C:\Windows\SysWOW64\dcomp".DwmpEnableDDASupport

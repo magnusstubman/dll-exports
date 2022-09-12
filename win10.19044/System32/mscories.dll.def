@@ -1,0 +1,3 @@
+EXPORTS
+  Install="C:\Windows\System32\mscories".Install
+  Uninstall="C:\Windows\System32\mscories".Uninstall

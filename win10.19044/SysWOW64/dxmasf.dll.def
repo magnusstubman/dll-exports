@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\dxmasf".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\dxmasf".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\dxmasf".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\dxmasf".DllUnregisterServer

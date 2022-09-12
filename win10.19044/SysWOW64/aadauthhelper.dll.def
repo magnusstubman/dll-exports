@@ -1,0 +1,11 @@
+EXPORTS
+  CloseFidoAuthenticationSession="C:\Windows\SysWOW64\aadauthhelper".CloseFidoAuthenticationSession
+  CreateAuthBuffer="C:\Windows\SysWOW64\aadauthhelper".CreateAuthBuffer
+  CreateResourceAccountAuthBuffer="C:\Windows\SysWOW64\aadauthhelper".CreateResourceAccountAuthBuffer
+  CreateTokenAuthBuffer="C:\Windows\SysWOW64\aadauthhelper".CreateTokenAuthBuffer
+  CreateTokenAuthBufferEx="C:\Windows\SysWOW64\aadauthhelper".CreateTokenAuthBufferEx
+  GetFidoAuthenticationSessionStatus="C:\Windows\SysWOW64\aadauthhelper".GetFidoAuthenticationSessionStatus
+  GetSerializedAuthBuffer="C:\Windows\SysWOW64\aadauthhelper".GetSerializedAuthBuffer
+  StartChangingFidoPin="C:\Windows\SysWOW64\aadauthhelper".StartChangingFidoPin
+  StartFidoAuthenticationSession="C:\Windows\SysWOW64\aadauthhelper".StartFidoAuthenticationSession
+  StartSigningFidoClientData="C:\Windows\SysWOW64\aadauthhelper".StartSigningFidoClientData

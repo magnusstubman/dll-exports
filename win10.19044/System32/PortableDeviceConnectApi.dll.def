@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PortableDeviceConnectApi".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\PortableDeviceConnectApi".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\PortableDeviceConnectApi".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\PortableDeviceConnectApi".DllUnregisterServer

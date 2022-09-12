@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\cca".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\cca".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\cca".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\cca".DllUnregisterServer

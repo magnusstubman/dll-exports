@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MSWB7".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MSWB7".DllGetClassObject

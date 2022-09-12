@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.Feedback.Analog".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Internal.Feedback.Analog".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.Feedback.Analog".DllGetClassObject

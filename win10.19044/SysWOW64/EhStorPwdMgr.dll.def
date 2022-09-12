@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\EhStorPwdMgr".DllMain
+  EnhancedStoragePasswordConfig="C:\Windows\SysWOW64\EhStorPwdMgr".EnhancedStoragePasswordConfig
+  EnhancedStoragePasswordInitDisk="C:\Windows\SysWOW64\EhStorPwdMgr".EnhancedStoragePasswordInitDisk

@@ -1,0 +1,5 @@
+EXPORTS
+  DownlevelGetParentLocaleLCID="C:\Windows\SysWOW64\Nlsdl".DownlevelGetParentLocaleLCID
+  DownlevelGetParentLocaleName="C:\Windows\SysWOW64\Nlsdl".DownlevelGetParentLocaleName
+  DownlevelLCIDToLocaleName="C:\Windows\SysWOW64\Nlsdl".DownlevelLCIDToLocaleName
+  DownlevelLocaleNameToLCID="C:\Windows\SysWOW64\Nlsdl".DownlevelLocaleNameToLCID

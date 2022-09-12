@@ -1,0 +1,5 @@
+EXPORTS
+  AtlThunk_AllocateData="C:\Windows\System32\atlthunk".AtlThunk_AllocateData
+  AtlThunk_DataToCode="C:\Windows\System32\atlthunk".AtlThunk_DataToCode
+  AtlThunk_FreeData="C:\Windows\System32\atlthunk".AtlThunk_FreeData
+  AtlThunk_InitData="C:\Windows\System32\atlthunk".AtlThunk_InitData

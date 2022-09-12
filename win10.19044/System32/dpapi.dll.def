@@ -1,0 +1,8 @@
+EXPORTS
+  CryptProtectDataNoUI="C:\Windows\System32\dpapi".CryptProtectDataNoUI
+  CryptProtectMemory="C:\Windows\System32\dpapi".CryptProtectMemory
+  CryptResetMachineCredentials="C:\Windows\System32\dpapi".CryptResetMachineCredentials
+  CryptUnprotectDataNoUI="C:\Windows\System32\dpapi".CryptUnprotectDataNoUI
+  CryptUnprotectMemory="C:\Windows\System32\dpapi".CryptUnprotectMemory
+  CryptUpdateProtectedState="C:\Windows\System32\dpapi".CryptUpdateProtectedState
+  iCryptIdentifyProtection="C:\Windows\System32\dpapi".iCryptIdentifyProtection

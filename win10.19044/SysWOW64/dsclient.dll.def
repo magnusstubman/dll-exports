@@ -1,0 +1,10 @@
+EXPORTS
+  DSCopyFromSharedFile="C:\Windows\SysWOW64\dsclient".DSCopyFromSharedFile
+  DSCreateSharedFileToken="C:\Windows\SysWOW64\dsclient".DSCreateSharedFileToken
+  DSDelegateSharingToken="C:\Windows\SysWOW64\dsclient".DSDelegateSharingToken
+  DSFreeString="C:\Windows\SysWOW64\dsclient".DSFreeString
+  DSGetSharedFileName="C:\Windows\SysWOW64\dsclient".DSGetSharedFileName
+  DSGetSharingTokenInformation="C:\Windows\SysWOW64\dsclient".DSGetSharingTokenInformation
+  DSOpenSharedFile="C:\Windows\SysWOW64\dsclient".DSOpenSharedFile
+  DSRemoveExpiredTokens="C:\Windows\SysWOW64\dsclient".DSRemoveExpiredTokens
+  DSRemoveSharingToken="C:\Windows\SysWOW64\dsclient".DSRemoveSharingToken

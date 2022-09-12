@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\UpdateDeploymentProvider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\UpdateDeploymentProvider".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\UpdateDeploymentProvider".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\UpdateDeploymentProvider".DllUnregisterServer

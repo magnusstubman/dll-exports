@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DataExchange".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\DataExchange".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\DataExchange".DllGetClassObject

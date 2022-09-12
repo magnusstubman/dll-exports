@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_Language".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_Language".DllGetClassObject
+  GetSettingForUser="C:\Windows\System32\SettingsHandlers_Language".GetSettingForUser

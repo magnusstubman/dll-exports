@@ -1,0 +1,8 @@
+EXPORTS
+  WpbcCleanup="C:\Windows\System32\wpbcreds".WpbcCleanup
+  WpbcCreateRemoveTestCredentials="C:\Windows\System32\wpbcreds".WpbcCreateRemoveTestCredentials
+  WpbcCreateTestPin="C:\Windows\System32\wpbcreds".WpbcCreateTestPin
+  WpbcExportCredentials="C:\Windows\System32\wpbcreds".WpbcExportCredentials
+  WpbcGetPinInfo="C:\Windows\System32\wpbcreds".WpbcGetPinInfo
+  WpbcInitialize="C:\Windows\System32\wpbcreds".WpbcInitialize
+  WpbcVerifyUser="C:\Windows\System32\wpbcreds".WpbcVerifyUser

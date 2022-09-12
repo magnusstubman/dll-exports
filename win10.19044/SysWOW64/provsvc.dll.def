@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\provsvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\provsvc".DllGetClassObject
+  ProviderServiceMain="C:\Windows\SysWOW64\provsvc".ProviderServiceMain

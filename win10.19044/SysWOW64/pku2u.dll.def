@@ -1,0 +1,4 @@
+EXPORTS
+  DllMain="C:\Windows\SysWOW64\pku2u".DllMain
+  SpLsaModeInitialize="C:\Windows\SysWOW64\pku2u".SpLsaModeInitialize
+  SpUserModeInitialize="C:\Windows\SysWOW64\pku2u".SpUserModeInitialize

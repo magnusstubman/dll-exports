@@ -1,0 +1,3 @@
+EXPORTS
+  CreateNetIDPropertyPage="C:\Windows\SysWOW64\netid".CreateNetIDPropertyPage
+  ShowDcNotFoundErrorDialog="C:\Windows\SysWOW64\netid".ShowDcNotFoundErrorDialog

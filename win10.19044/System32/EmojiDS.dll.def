@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\EmojiDS".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\EmojiDS".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\EmojiDS".DllGetClassObject

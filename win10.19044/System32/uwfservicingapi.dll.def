@@ -1,0 +1,8 @@
+EXPORTS
+  GetServicingModeState="C:\Windows\System32\uwfservicingapi".GetServicingModeState
+  SetServicingModeState="C:\Windows\System32\uwfservicingapi".SetServicingModeState
+  UwfServicingCleanup="C:\Windows\System32\uwfservicingapi".UwfServicingCleanup
+  UwfServicingInitialize="C:\Windows\System32\uwfservicingapi".UwfServicingInitialize
+  UwfServicingWinUpdateApply="C:\Windows\System32\uwfservicingapi".UwfServicingWinUpdateApply
+  UwfServicingWinupdateCleanup="C:\Windows\System32\uwfservicingapi".UwfServicingWinupdateCleanup
+  UwfServicingWinupdateInitialize="C:\Windows\System32\uwfservicingapi".UwfServicingWinupdateInitialize

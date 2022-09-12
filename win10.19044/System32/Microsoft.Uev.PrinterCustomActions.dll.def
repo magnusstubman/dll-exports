@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Microsoft.Uev.PrinterCustomActions".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Microsoft.Uev.PrinterCustomActions".DllGetClassObject
+  DllInstall="C:\Windows\System32\Microsoft.Uev.PrinterCustomActions".DllInstall
+  DllRegisterServer="C:\Windows\System32\Microsoft.Uev.PrinterCustomActions".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Microsoft.Uev.PrinterCustomActions".DllUnregisterServer

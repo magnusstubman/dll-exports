@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wwanmm".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wwanmm".DllGetClassObject
+  StartDiagnosticsW="C:\Windows\System32\wwanmm".StartDiagnosticsW

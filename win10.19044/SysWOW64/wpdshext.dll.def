@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wpdshext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wpdshext".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wpdshext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wpdshext".DllUnregisterServer
+  _CDefFolderMenu_MergeMenu@16="C:\Windows\SysWOW64\wpdshext"._CDefFolderMenu_MergeMenu@16

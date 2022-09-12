@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mfmp4srcsnk".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mfmp4srcsnk".DllGetClassObject

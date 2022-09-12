@@ -1,0 +1,4 @@
+EXPORTS
+  CreateInProcPhoneService="C:\Windows\System32\PhoneService".CreateInProcPhoneService
+  ServiceMain="C:\Windows\System32\PhoneService".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\PhoneService".SvchostPushServiceGlobals

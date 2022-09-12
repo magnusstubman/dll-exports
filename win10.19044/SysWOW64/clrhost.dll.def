@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\clrhost".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\clrhost".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\clrhost".DllGetClassObject

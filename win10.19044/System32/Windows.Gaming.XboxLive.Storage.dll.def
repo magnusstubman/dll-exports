@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Gaming.XboxLive.Storage".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Gaming.XboxLive.Storage".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Gaming.XboxLive.Storage".DllGetClassObject

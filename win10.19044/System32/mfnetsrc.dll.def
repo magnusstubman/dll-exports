@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\mfnetsrc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\mfnetsrc".DllGetClassObject
+  MFCreateByteCacheFile="C:\Windows\System32\mfnetsrc".MFCreateByteCacheFile
+  MFCreateCacheManager="C:\Windows\System32\mfnetsrc".MFCreateCacheManager
+  MFCreateFileBlockMap="C:\Windows\System32\mfnetsrc".MFCreateFileBlockMap

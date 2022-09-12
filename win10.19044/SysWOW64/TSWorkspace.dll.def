@@ -1,0 +1,16 @@
+EXPORTS
+  CreateClaimsAuthResponseHeader="C:\Windows\SysWOW64\TSWorkspace".CreateClaimsAuthResponseHeader
+  DllCanUnloadNow="C:\Windows\SysWOW64\TSWorkspace".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\TSWorkspace".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\TSWorkspace".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\TSWorkspace".DllUnregisterServer
+  RADCProcessGroupPolicyEx="C:\Windows\SysWOW64\TSWorkspace".RADCProcessGroupPolicyEx
+  RADCUISupportCreateDiscoveryStrategy="C:\Windows\SysWOW64\TSWorkspace".RADCUISupportCreateDiscoveryStrategy
+  RADCUISupportCreateSubscriptionClient="C:\Windows\SysWOW64\TSWorkspace".RADCUISupportCreateSubscriptionClient
+  TaskUpdateWorkspaces="C:\Windows\SysWOW64\TSWorkspace".TaskUpdateWorkspaces
+  TaskUpdateWorkspaces2="C:\Windows\SysWOW64\TSWorkspace".TaskUpdateWorkspaces2
+  TaskUpdateWorkspacesIfNeeded="C:\Windows\SysWOW64\TSWorkspace".TaskUpdateWorkspacesIfNeeded
+  TryParseClaimsAuthnHeader="C:\Windows\SysWOW64\TSWorkspace".TryParseClaimsAuthnHeader
+  WorkspaceSilentSetupW="C:\Windows\SysWOW64\TSWorkspace".WorkspaceSilentSetupW
+  WorkspaceStatusNotify="C:\Windows\SysWOW64\TSWorkspace".WorkspaceStatusNotify
+  WorkspaceStatusNotify2="C:\Windows\SysWOW64\TSWorkspace".WorkspaceStatusNotify2

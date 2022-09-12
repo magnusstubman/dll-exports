@@ -1,0 +1,21 @@
+EXPORTS
+  BuildOtlCache="C:\Windows\SysWOW64\TextShaping".BuildOtlCache
+  FreeOtlResources="C:\Windows\SysWOW64\TextShaping".FreeOtlResources
+  GetOtlFeatureDefs="C:\Windows\SysWOW64\TextShaping".GetOtlFeatureDefs
+  GetOtlGlyphAlternates="C:\Windows\SysWOW64\TextShaping".GetOtlGlyphAlternates
+  GetOtlLangSysList="C:\Windows\SysWOW64\TextShaping".GetOtlLangSysList
+  GetOtlScriptList="C:\Windows\SysWOW64\TextShaping".GetOtlScriptList
+  GetOtlVersion="C:\Windows\SysWOW64\TextShaping".GetOtlVersion
+  OtlAssertFailed="C:\Windows\SysWOW64\TextShaping".OtlAssertFailed
+  RepositionOtlSingleGlyph="C:\Windows\SysWOW64\TextShaping".RepositionOtlSingleGlyph
+  ShapingCreateFontCacheData="C:\Windows\SysWOW64\TextShaping".ShapingCreateFontCacheData
+  ShapingDrawGlyphs="C:\Windows\SysWOW64\TextShaping".ShapingDrawGlyphs
+  ShapingGetBreakingProperties="C:\Windows\SysWOW64\TextShaping".ShapingGetBreakingProperties
+  ShapingGetCombiningOptions="C:\Windows\SysWOW64\TextShaping".ShapingGetCombiningOptions
+  ShapingGetGlyphPositions="C:\Windows\SysWOW64\TextShaping".ShapingGetGlyphPositions
+  ShapingGetGlyphs="C:\Windows\SysWOW64\TextShaping".ShapingGetGlyphs
+  ShapingLoadScriptEngine="C:\Windows\SysWOW64\TextShaping".ShapingLoadScriptEngine
+  ShapingSetAssertFunction="C:\Windows\SysWOW64\TextShaping".ShapingSetAssertFunction
+  ShapingSetInvariantAssertFunction="C:\Windows\SysWOW64\TextShaping".ShapingSetInvariantAssertFunction
+  SubstituteOtlSingleGlyph="C:\Windows\SysWOW64\TextShaping".SubstituteOtlSingleGlyph
+  ValidateLogClust="C:\Windows\SysWOW64\TextShaping".ValidateLogClust

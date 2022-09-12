@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\BWContextHandler".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\BWContextHandler".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\BWContextHandler".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\BWContextHandler".DllUnregisterServer

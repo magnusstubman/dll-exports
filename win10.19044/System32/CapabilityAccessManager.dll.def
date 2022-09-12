@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CapabilityAccessManager".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\CapabilityAccessManager".DllGetClassObject
+  ServiceMain="C:\Windows\System32\CapabilityAccessManager".ServiceMain

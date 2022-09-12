@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_PCDisplay".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_PCDisplay".DllGetClassObject
+  GetSetting="C:\Windows\System32\SettingsHandlers_PCDisplay".GetSetting
+  NotifyDisplayHandler="C:\Windows\System32\SettingsHandlers_PCDisplay".NotifyDisplayHandler

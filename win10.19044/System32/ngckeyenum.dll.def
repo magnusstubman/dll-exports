@@ -1,0 +1,12 @@
+EXPORTS
+  NgcCredProvEnumLogonKeys="C:\Windows\System32\ngckeyenum".NgcCredProvEnumLogonKeys
+  NgcCredProvFreeBuffer="C:\Windows\System32\ngckeyenum".NgcCredProvFreeBuffer
+  NgcCredProvInvalidateLogonKeysCache="C:\Windows\System32\ngckeyenum".NgcCredProvInvalidateLogonKeysCache
+  NgcSerializeConvenienceCredential="C:\Windows\System32\ngckeyenum".NgcSerializeConvenienceCredential
+  NgcSerializeConveniencePasswordChangeCredential="C:\Windows\System32\ngckeyenum".NgcSerializeConveniencePasswordChangeCredential
+  NgcSerializeKeyCredential="C:\Windows\System32\ngckeyenum".NgcSerializeKeyCredential
+  NgcSerializeKeyPasswordChangeCredential="C:\Windows\System32\ngckeyenum".NgcSerializeKeyPasswordChangeCredential
+  NgcSerializeKeySspiCredential="C:\Windows\System32\ngckeyenum".NgcSerializeKeySspiCredential
+  NgcSerializeMsaPasswordCredential="C:\Windows\System32\ngckeyenum".NgcSerializeMsaPasswordCredential
+  NgcSerializePasswordCredential="C:\Windows\System32\ngckeyenum".NgcSerializePasswordCredential
+  NgcSerializeSmartCardCredential="C:\Windows\System32\ngckeyenum".NgcSerializeSmartCardCredential

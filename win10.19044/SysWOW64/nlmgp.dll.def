@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\nlmgp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\nlmgp".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\nlmgp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\nlmgp".DllUnregisterServer

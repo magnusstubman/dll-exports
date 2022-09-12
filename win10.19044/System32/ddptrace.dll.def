@@ -1,0 +1,15 @@
+EXPORTS
+  SrmGetTracingContextPerThread="C:\Windows\System32\ddptrace".SrmGetTracingContextPerThread
+  SrmGetTracingModuleInfo="C:\Windows\System32\ddptrace".SrmGetTracingModuleInfo
+  SrmGetTracingSequenceNumber="C:\Windows\System32\ddptrace".SrmGetTracingSequenceNumber
+  SrmIsDebugFlagSet="C:\Windows\System32\ddptrace".SrmIsDebugFlagSet
+  SrmIsKernelDebuggerAttached="C:\Windows\System32\ddptrace".SrmIsKernelDebuggerAttached
+  SrmIsTracingEnabled="C:\Windows\System32\ddptrace".SrmIsTracingEnabled
+  SrmIsTracingEnabledOnFunction="C:\Windows\System32\ddptrace".SrmIsTracingEnabledOnFunction
+  SrmIsTracingEnabledOnModule="C:\Windows\System32\ddptrace".SrmIsTracingEnabledOnModule
+  SrmIsTracingEnabledPerThread="C:\Windows\System32\ddptrace".SrmIsTracingEnabledPerThread
+  SrmSetTracingContextPerThread="C:\Windows\System32\ddptrace".SrmSetTracingContextPerThread
+  SrmTraceBinary="C:\Windows\System32\ddptrace".SrmTraceBinary
+  SrmTraceInitialize="C:\Windows\System32\ddptrace".SrmTraceInitialize
+  SrmTraceMessage="C:\Windows\System32\ddptrace".SrmTraceMessage
+  SrmTraceUninitialize="C:\Windows\System32\ddptrace".SrmTraceUninitialize

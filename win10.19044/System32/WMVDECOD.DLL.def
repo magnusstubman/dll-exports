@@ -1,0 +1,7 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\WMVDECOD".CreateInstance
+  DllCanUnloadNow="C:\Windows\System32\WMVDECOD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WMVDECOD".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WMVDECOD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WMVDECOD".DllUnregisterServer
+  GetVC1DecoderFunctionTable="C:\Windows\System32\WMVDECOD".GetVC1DecoderFunctionTable

@@ -1,0 +1,7 @@
+EXPORTS
+  WSDCHNGRChallengeDeviceClass="C:\Windows\SysWOW64\wsdchngr".WSDCHNGRChallengeDeviceClass
+  WSDCHNGRInitialize="C:\Windows\SysWOW64\wsdchngr".WSDCHNGRInitialize
+  WSDCHNGRRegisterDeviceToChallenge="C:\Windows\SysWOW64\wsdchngr".WSDCHNGRRegisterDeviceToChallenge
+  WSDCHNGRRegisterDeviceToChallengeByGlobalId="C:\Windows\SysWOW64\wsdchngr".WSDCHNGRRegisterDeviceToChallengeByGlobalId
+  WSDCHNGRRemoveDevice="C:\Windows\SysWOW64\wsdchngr".WSDCHNGRRemoveDevice
+  WSDCHNGRShutdown="C:\Windows\SysWOW64\wsdchngr".WSDCHNGRShutdown

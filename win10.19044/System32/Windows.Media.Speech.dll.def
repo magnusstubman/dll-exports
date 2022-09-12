@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.Speech".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Media.Speech".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Media.Speech".DllGetClassObject

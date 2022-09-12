@@ -1,0 +1,13 @@
+EXPORTS
+  DCompositionAttachMouseDragToHwnd="C:\Windows\System32\dcomp".DCompositionAttachMouseDragToHwnd
+  DCompositionAttachMouseWheelToHwnd="C:\Windows\System32\dcomp".DCompositionAttachMouseWheelToHwnd
+  DCompositionCreateDevice="C:\Windows\System32\dcomp".DCompositionCreateDevice
+  DCompositionCreateDevice2="C:\Windows\System32\dcomp".DCompositionCreateDevice2
+  DCompositionCreateDevice3="C:\Windows\System32\dcomp".DCompositionCreateDevice3
+  DCompositionCreateSurfaceHandle="C:\Windows\System32\dcomp".DCompositionCreateSurfaceHandle
+  DllCanUnloadNow="C:\Windows\System32\dcomp".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\dcomp".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\dcomp".DllGetClassObject
+  DwmEnableMMCSS="C:\Windows\System32\dcomp".DwmEnableMMCSS
+  DwmFlush="C:\Windows\System32\dcomp".DwmFlush
+  DwmpEnableDDASupport="C:\Windows\System32\dcomp".DwmpEnableDDASupport

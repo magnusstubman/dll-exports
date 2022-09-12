@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\mshtmled.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllEnumClassObjects=\"C:\\Windows\\System32\\mshtmled.DllEnumClassObjects\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\mshtmled.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\mshtmled.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\mshtmled.DllUnregisterServer\"")

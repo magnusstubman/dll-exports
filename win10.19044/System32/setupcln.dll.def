@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\setupcln".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\setupcln".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\setupcln".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\setupcln".DllUnregisterServer

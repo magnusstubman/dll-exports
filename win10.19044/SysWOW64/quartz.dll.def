@@ -1,0 +1,9 @@
+EXPORTS
+  AMGetErrorTextA="C:\Windows\SysWOW64\quartz".AMGetErrorTextA
+  AMGetErrorTextW="C:\Windows\SysWOW64\quartz".AMGetErrorTextW
+  AmpFactorToDB="C:\Windows\SysWOW64\quartz".AmpFactorToDB
+  DBToAmpFactor="C:\Windows\SysWOW64\quartz".DBToAmpFactor
+  DllCanUnloadNow="C:\Windows\SysWOW64\quartz".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\quartz".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\quartz".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\quartz".DllUnregisterServer

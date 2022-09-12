@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\rasauto".ServiceMain
+  SetAddressDisabledEx="C:\Windows\System32\rasauto".SetAddressDisabledEx

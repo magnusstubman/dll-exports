@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Groupinghc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Groupinghc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\Groupinghc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\Groupinghc".DllUnregisterServer

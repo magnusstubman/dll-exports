@@ -1,0 +1,4 @@
+EXPORTS
+  CreateDataUsageHelper="C:\Windows\System32\datusage".CreateDataUsageHelper
+  SetRealTimeUsage="C:\Windows\System32\datusage".SetRealTimeUsage
+  SetUsageHistory="C:\Windows\System32\datusage".SetUsageHistory

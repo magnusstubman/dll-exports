@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SettingsHandlers_AnalogShell".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SettingsHandlers_AnalogShell".DllGetClassObject
+  GetSetting="C:\Windows\System32\SettingsHandlers_AnalogShell".GetSetting

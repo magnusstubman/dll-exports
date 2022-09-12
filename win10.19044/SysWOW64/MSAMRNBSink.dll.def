@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MSAMRNBSink".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MSAMRNBSink".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\MSAMRNBSink".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\MSAMRNBSink".DllUnregisterServer

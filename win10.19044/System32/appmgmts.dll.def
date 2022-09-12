@@ -1,0 +1,20 @@
+EXPORTS
+  CsCreateClassStore="C:\Windows\System32\appmgmts".CsCreateClassStore
+  CsEnumApps="C:\Windows\System32\appmgmts".CsEnumApps
+  CsGetAppCategories="C:\Windows\System32\appmgmts".CsGetAppCategories
+  CsGetClassAccess="C:\Windows\System32\appmgmts".CsGetClassAccess
+  CsGetClassStore="C:\Windows\System32\appmgmts".CsGetClassStore
+  CsGetClassStorePath="C:\Windows\System32\appmgmts".CsGetClassStorePath
+  CsRegisterAppCategory="C:\Windows\System32\appmgmts".CsRegisterAppCategory
+  CsServerGetClassStore="C:\Windows\System32\appmgmts".CsServerGetClassStore
+  CsSetOptions="C:\Windows\System32\appmgmts".CsSetOptions
+  CsUnregisterAppCategory="C:\Windows\System32\appmgmts".CsUnregisterAppCategory
+  DllCanUnloadNow="C:\Windows\System32\appmgmts".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\appmgmts".DllGetClassObject
+  GenerateGroupPolicy="C:\Windows\System32\appmgmts".GenerateGroupPolicy
+  IID_IClassAdmin="C:\Windows\System32\appmgmts".IID_IClassAdmin
+  ProcessGroupPolicyObjectsEx="C:\Windows\System32\appmgmts".ProcessGroupPolicyObjectsEx
+  ReleaseAppCategoryInfoList="C:\Windows\System32\appmgmts".ReleaseAppCategoryInfoList
+  ReleasePackageDetail="C:\Windows\System32\appmgmts".ReleasePackageDetail
+  ReleasePackageInfo="C:\Windows\System32\appmgmts".ReleasePackageInfo
+  ServiceMain="C:\Windows\System32\appmgmts".ServiceMain

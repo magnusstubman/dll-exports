@@ -1,0 +1,4 @@
+EXPORTS
+  GetPrivateDDITable="C:\Windows\SysWOW64\d3d9on12".GetPrivateDDITable
+  OpenAdapter="C:\Windows\SysWOW64\d3d9on12".OpenAdapter
+  SetAppCompatData="C:\Windows\SysWOW64\d3d9on12".SetAppCompatData

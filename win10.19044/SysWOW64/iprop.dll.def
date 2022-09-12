@@ -1,0 +1,9 @@
+EXPORTS
+  FmtIdToPropStgName="C:\Windows\SysWOW64\iprop".FmtIdToPropStgName
+  FreePropVariantArray="C:\Windows\SysWOW64\iprop".FreePropVariantArray
+  PropStgNameToFmtId="C:\Windows\SysWOW64\iprop".PropStgNameToFmtId
+  PropVariantClear="C:\Windows\SysWOW64\iprop".PropVariantClear
+  PropVariantCopy="C:\Windows\SysWOW64\iprop".PropVariantCopy
+  StgCreatePropSetStg="C:\Windows\SysWOW64\iprop".StgCreatePropSetStg
+  StgCreatePropStg="C:\Windows\SysWOW64\iprop".StgCreatePropStg
+  StgOpenPropStg="C:\Windows\SysWOW64\iprop".StgOpenPropStg

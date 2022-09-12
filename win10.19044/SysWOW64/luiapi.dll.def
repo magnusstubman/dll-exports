@@ -1,0 +1,24 @@
+EXPORTS
+  LuiAddProfile="C:\Windows\SysWOW64\luiapi".LuiAddProfile
+  LuiCancelOperation="C:\Windows\SysWOW64\luiapi".LuiCancelOperation
+  LuiCloseHandle="C:\Windows\SysWOW64\luiapi".LuiCloseHandle
+  LuiDeleteProfile="C:\Windows\SysWOW64\luiapi".LuiDeleteProfile
+  LuiDisableProfile="C:\Windows\SysWOW64\luiapi".LuiDisableProfile
+  LuiDiscoverProfiles="C:\Windows\SysWOW64\luiapi".LuiDiscoverProfiles
+  LuiEnableProfile="C:\Windows\SysWOW64\luiapi".LuiEnableProfile
+  LuiInstallProfile="C:\Windows\SysWOW64\luiapi".LuiInstallProfile
+  LuiOpenHandle="C:\Windows\SysWOW64\luiapi".LuiOpenHandle
+  LuiProcessActivationCode="C:\Windows\SysWOW64\luiapi".LuiProcessActivationCode
+  LuiRegisterForAllEnterpriseProfileNotifications="C:\Windows\SysWOW64\luiapi".LuiRegisterForAllEnterpriseProfileNotifications
+  LuiRegisterForAllProfileNotifications="C:\Windows\SysWOW64\luiapi".LuiRegisterForAllProfileNotifications
+  LuiRegisterForEnterpriseEsimNotifications="C:\Windows\SysWOW64\luiapi".LuiRegisterForEnterpriseEsimNotifications
+  LuiRegisterForEsimNotifications="C:\Windows\SysWOW64\luiapi".LuiRegisterForEsimNotifications
+  LuiRegisterForLpaNotifications="C:\Windows\SysWOW64\luiapi".LuiRegisterForLpaNotifications
+  LuiReleaseProvisioningProfile="C:\Windows\SysWOW64\luiapi".LuiReleaseProvisioningProfile
+  LuiRequestProvisioningProfile="C:\Windows\SysWOW64\luiapi".LuiRequestProvisioningProfile
+  LuiSetDefaultSmdpAddress="C:\Windows\SysWOW64\luiapi".LuiSetDefaultSmdpAddress
+  LuiSetEsimPolicy="C:\Windows\SysWOW64\luiapi".LuiSetEsimPolicy
+  LuiSetProfileNickname="C:\Windows\SysWOW64\luiapi".LuiSetProfileNickname
+  LuiSetUserAuthenticationMode="C:\Windows\SysWOW64\luiapi".LuiSetUserAuthenticationMode
+  LuiVerifyClientToken="C:\Windows\SysWOW64\luiapi".LuiVerifyClientToken
+  LuiWipeEsim="C:\Windows\SysWOW64\luiapi".LuiWipeEsim

@@ -1,0 +1,17 @@
+EXPORTS
+  Base64StrToSafeArray="C:\Windows\System32\dmoleaututils".Base64StrToSafeArray
+  ByteArrayToSafeArray="C:\Windows\System32\dmoleaututils".ByteArrayToSafeArray
+  MultiStringToSafeArray="C:\Windows\System32\dmoleaututils".MultiStringToSafeArray
+  ReadBSTRFromStream="C:\Windows\System32\dmoleaututils".ReadBSTRFromStream
+  ReadBSTRFromStreamEx="C:\Windows\System32\dmoleaututils".ReadBSTRFromStreamEx
+  ReadStringFromStream="C:\Windows\System32\dmoleaututils".ReadStringFromStream
+  ReadVariantFromStream="C:\Windows\System32\dmoleaututils".ReadVariantFromStream
+  ReadVariantFromStreamEx="C:\Windows\System32\dmoleaututils".ReadVariantFromStreamEx
+  SafeArrayToBase64Str="C:\Windows\System32\dmoleaututils".SafeArrayToBase64Str
+  SafeArrayToByteArray="C:\Windows\System32\dmoleaututils".SafeArrayToByteArray
+  SafeArrayToMultiString="C:\Windows\System32\dmoleaututils".SafeArrayToMultiString
+  WriteBSTRToStream="C:\Windows\System32\dmoleaututils".WriteBSTRToStream
+  WriteBSTRToStreamEx="C:\Windows\System32\dmoleaututils".WriteBSTRToStreamEx
+  WriteStringToStream="C:\Windows\System32\dmoleaututils".WriteStringToStream
+  WriteVariantToStream="C:\Windows\System32\dmoleaututils".WriteVariantToStream
+  WriteVariantToStreamEx="C:\Windows\System32\dmoleaututils".WriteVariantToStreamEx

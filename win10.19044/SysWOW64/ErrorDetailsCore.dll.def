@@ -1,0 +1,4 @@
+EXPORTS
+  FreeErrorDetails="C:\Windows\SysWOW64\ErrorDetailsCore".FreeErrorDetails
+  GetErrorDetails="C:\Windows\SysWOW64\ErrorDetailsCore".GetErrorDetails
+  GetErrorDetailsWithContext="C:\Windows\SysWOW64\ErrorDetailsCore".GetErrorDetailsWithContext

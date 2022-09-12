@@ -1,0 +1,15 @@
+EXPORTS
+  AddUserToObjectW="C:\Windows\SysWOW64\efsadu".AddUserToObjectW
+  BackCurrentEfsCert="C:\Windows\SysWOW64\efsadu".BackCurrentEfsCert
+  EfsDetail="C:\Windows\SysWOW64\efsadu".EfsDetail
+  EfsUIUtilCheckScardStatus="C:\Windows\SysWOW64\efsadu".EfsUIUtilCheckScardStatus
+  EfsUIUtilCreateSelfSignedCertificate="C:\Windows\SysWOW64\efsadu".EfsUIUtilCreateSelfSignedCertificate
+  EfsUIUtilEncryptMyDocuments="C:\Windows\SysWOW64\efsadu".EfsUIUtilEncryptMyDocuments
+  EfsUIUtilEnrollEfsCertificate="C:\Windows\SysWOW64\efsadu".EfsUIUtilEnrollEfsCertificate
+  EfsUIUtilEnrollEfsCertificateEx="C:\Windows\SysWOW64\efsadu".EfsUIUtilEnrollEfsCertificateEx
+  EfsUIUtilInstallDra="C:\Windows\SysWOW64\efsadu".EfsUIUtilInstallDra
+  EfsUIUtilKeyBackup="C:\Windows\SysWOW64\efsadu".EfsUIUtilKeyBackup
+  EfsUIUtilPromptForPin="C:\Windows\SysWOW64\efsadu".EfsUIUtilPromptForPin
+  EfsUIUtilPromptForPinDialog="C:\Windows\SysWOW64\efsadu".EfsUIUtilPromptForPinDialog
+  EfsUIUtilSelectCard="C:\Windows\SysWOW64\efsadu".EfsUIUtilSelectCard
+  EfsUIUtilShowBalloonAndWait="C:\Windows\SysWOW64\efsadu".EfsUIUtilShowBalloonAndWait

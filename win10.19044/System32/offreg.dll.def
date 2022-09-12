@@ -1,0 +1,23 @@
+EXPORTS
+  ORCloseHive="C:\Windows\System32\offreg".ORCloseHive
+  ORCloseKey="C:\Windows\System32\offreg".ORCloseKey
+  ORCreateHive="C:\Windows\System32\offreg".ORCreateHive
+  ORCreateKey="C:\Windows\System32\offreg".ORCreateKey
+  ORDeleteKey="C:\Windows\System32\offreg".ORDeleteKey
+  ORDeleteValue="C:\Windows\System32\offreg".ORDeleteValue
+  OREnumKey="C:\Windows\System32\offreg".OREnumKey
+  OREnumValue="C:\Windows\System32\offreg".OREnumValue
+  ORGetKeySecurity="C:\Windows\System32\offreg".ORGetKeySecurity
+  ORGetValue="C:\Windows\System32\offreg".ORGetValue
+  ORGetVersion="C:\Windows\System32\offreg".ORGetVersion
+  ORGetVirtualFlags="C:\Windows\System32\offreg".ORGetVirtualFlags
+  ORMergeHives="C:\Windows\System32\offreg".ORMergeHives
+  OROpenHive="C:\Windows\System32\offreg".OROpenHive
+  OROpenHiveByHandle="C:\Windows\System32\offreg".OROpenHiveByHandle
+  OROpenKey="C:\Windows\System32\offreg".OROpenKey
+  ORQueryInfoKey="C:\Windows\System32\offreg".ORQueryInfoKey
+  ORRenameKey="C:\Windows\System32\offreg".ORRenameKey
+  ORSaveHive="C:\Windows\System32\offreg".ORSaveHive
+  ORSetKeySecurity="C:\Windows\System32\offreg".ORSetKeySecurity
+  ORSetValue="C:\Windows\System32\offreg".ORSetValue
+  ORSetVirtualFlags="C:\Windows\System32\offreg".ORSetVirtualFlags

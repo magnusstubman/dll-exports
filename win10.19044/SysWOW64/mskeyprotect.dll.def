@@ -1,0 +1,4 @@
+EXPORTS
+  GetKeyProtectionInterface="C:\Windows\SysWOW64\mskeyprotect".GetKeyProtectionInterface
+  KeyFileProtectSessionTicket="C:\Windows\SysWOW64\mskeyprotect".KeyFileProtectSessionTicket
+  KeyFileUnprotectSessionTicket="C:\Windows\SysWOW64\mskeyprotect".KeyFileUnprotectSessionTicket

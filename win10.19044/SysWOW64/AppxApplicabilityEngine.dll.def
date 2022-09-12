@@ -1,0 +1,12 @@
+EXPORTS
+  AddDirectXFeatureLevelToContext="C:\Windows\SysWOW64\AppxApplicabilityEngine".AddDirectXFeatureLevelToContext
+  AddUserLanguagesToContext="C:\Windows\SysWOW64\AppxApplicabilityEngine".AddUserLanguagesToContext
+  CreateApplicabilityContext="C:\Windows\SysWOW64\AppxApplicabilityEngine".CreateApplicabilityContext
+  CreateApplicabilityContextFromString="C:\Windows\SysWOW64\AppxApplicabilityEngine".CreateApplicabilityContextFromString
+  FreeApplicabilityContext="C:\Windows\SysWOW64\AppxApplicabilityEngine".FreeApplicabilityContext
+  FreeApplicablePackages="C:\Windows\SysWOW64\AppxApplicabilityEngine".FreeApplicablePackages
+  GetApplicabilityContext="C:\Windows\SysWOW64\AppxApplicabilityEngine".GetApplicabilityContext
+  GetApplicablePackages="C:\Windows\SysWOW64\AppxApplicabilityEngine".GetApplicablePackages
+  GetApplicablePackagesForUser="C:\Windows\SysWOW64\AppxApplicabilityEngine".GetApplicablePackagesForUser
+  GetApplicablePackagesForUserWithAppChosenResources="C:\Windows\SysWOW64\AppxApplicabilityEngine".GetApplicablePackagesForUserWithAppChosenResources
+  GetApplicablePackagesWithAppChosenResources="C:\Windows\SysWOW64\AppxApplicabilityEngine".GetApplicablePackagesWithAppChosenResources

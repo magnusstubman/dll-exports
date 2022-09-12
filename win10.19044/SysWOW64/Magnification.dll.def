@@ -1,0 +1,22 @@
+EXPORTS
+  MagGetColorEffect="C:\Windows\SysWOW64\Magnification".MagGetColorEffect
+  MagGetFullscreenColorEffect="C:\Windows\SysWOW64\Magnification".MagGetFullscreenColorEffect
+  MagGetFullscreenTransform="C:\Windows\SysWOW64\Magnification".MagGetFullscreenTransform
+  MagGetImageScalingCallback="C:\Windows\SysWOW64\Magnification".MagGetImageScalingCallback
+  MagGetInputTransform="C:\Windows\SysWOW64\Magnification".MagGetInputTransform
+  MagGetWindowFilterList="C:\Windows\SysWOW64\Magnification".MagGetWindowFilterList
+  MagGetWindowSource="C:\Windows\SysWOW64\Magnification".MagGetWindowSource
+  MagGetWindowTransform="C:\Windows\SysWOW64\Magnification".MagGetWindowTransform
+  MagInitialize="C:\Windows\SysWOW64\Magnification".MagInitialize
+  MagSetColorEffect="C:\Windows\SysWOW64\Magnification".MagSetColorEffect
+  MagSetFullscreenColorEffect="C:\Windows\SysWOW64\Magnification".MagSetFullscreenColorEffect
+  MagSetFullscreenTransform="C:\Windows\SysWOW64\Magnification".MagSetFullscreenTransform
+  MagSetFullscreenUseBitmapSmoothing="C:\Windows\SysWOW64\Magnification".MagSetFullscreenUseBitmapSmoothing
+  MagSetImageScalingCallback="C:\Windows\SysWOW64\Magnification".MagSetImageScalingCallback
+  MagSetInputTransform="C:\Windows\SysWOW64\Magnification".MagSetInputTransform
+  MagSetLensUseBitmapSmoothing="C:\Windows\SysWOW64\Magnification".MagSetLensUseBitmapSmoothing
+  MagSetWindowFilterList="C:\Windows\SysWOW64\Magnification".MagSetWindowFilterList
+  MagSetWindowSource="C:\Windows\SysWOW64\Magnification".MagSetWindowSource
+  MagSetWindowTransform="C:\Windows\SysWOW64\Magnification".MagSetWindowTransform
+  MagShowSystemCursor="C:\Windows\SysWOW64\Magnification".MagShowSystemCursor
+  MagUninitialize="C:\Windows\SysWOW64\Magnification".MagUninitialize

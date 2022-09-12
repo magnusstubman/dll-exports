@@ -1,0 +1,11 @@
+EXPORTS
+  DuplicateCertificate="C:\Windows\SysWOW64\RpcRtRemote".DuplicateCertificate
+  FreeCertificate="C:\Windows\SysWOW64\RpcRtRemote".FreeCertificate
+  GeneratePrincipalName="C:\Windows\SysWOW64\RpcRtRemote".GeneratePrincipalName
+  I_RpcExtInitializeExtensionPoint="C:\Windows\SysWOW64\RpcRtRemote".I_RpcExtInitializeExtensionPoint
+  IndicatePortInUse="C:\Windows\SysWOW64\RpcRtRemote".IndicatePortInUse
+  IsMarshaledCredential="C:\Windows\SysWOW64\RpcRtRemote".IsMarshaledCredential
+  MatchPrincipalName="C:\Windows\SysWOW64\RpcRtRemote".MatchPrincipalName
+  ProcessAndProvisionCertificate="C:\Windows\SysWOW64\RpcRtRemote".ProcessAndProvisionCertificate
+  ResetIndicatedPortsInUse="C:\Windows\SysWOW64\RpcRtRemote".ResetIndicatedPortsInUse
+  ValidatePrincipalName="C:\Windows\SysWOW64\RpcRtRemote".ValidatePrincipalName

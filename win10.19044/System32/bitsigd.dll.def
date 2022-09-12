@@ -1,0 +1,3 @@
+EXPORTS
+  InitializeEx="C:\Windows\System32\bitsigd".InitializeEx
+  UninitializeEx="C:\Windows\System32\bitsigd".UninitializeEx

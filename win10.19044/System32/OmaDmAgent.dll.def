@@ -1,0 +1,3 @@
+EXPORTS
+  OmaDmRunPostSessionWork="C:\Windows\System32\OmaDmAgent".OmaDmRunPostSessionWork
+  ResourceManagerUninstallWmiApp="C:\Windows\System32\OmaDmAgent".ResourceManagerUninstallWmiApp

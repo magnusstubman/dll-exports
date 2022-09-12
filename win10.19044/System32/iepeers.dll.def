@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\iepeers".DllCanUnloadNow
+  DllEnumClassObjects="C:\Windows\System32\iepeers".DllEnumClassObjects
+  DllGetClassObject="C:\Windows\System32\iepeers".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\iepeers".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\iepeers".DllUnregisterServer

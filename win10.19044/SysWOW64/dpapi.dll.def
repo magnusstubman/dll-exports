@@ -1,0 +1,8 @@
+EXPORTS
+  CryptProtectDataNoUI="C:\Windows\SysWOW64\dpapi".CryptProtectDataNoUI
+  CryptProtectMemory="C:\Windows\SysWOW64\dpapi".CryptProtectMemory
+  CryptResetMachineCredentials="C:\Windows\SysWOW64\dpapi".CryptResetMachineCredentials
+  CryptUnprotectDataNoUI="C:\Windows\SysWOW64\dpapi".CryptUnprotectDataNoUI
+  CryptUnprotectMemory="C:\Windows\SysWOW64\dpapi".CryptUnprotectMemory
+  CryptUpdateProtectedState="C:\Windows\SysWOW64\dpapi".CryptUpdateProtectedState
+  iCryptIdentifyProtection="C:\Windows\SysWOW64\dpapi".iCryptIdentifyProtection

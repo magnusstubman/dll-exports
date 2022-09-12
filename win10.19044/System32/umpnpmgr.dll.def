@@ -1,0 +1,4 @@
+EXPORTS
+  PlugPlayServiceMain="C:\Windows\System32\umpnpmgr".PlugPlayServiceMain
+  ServiceMain="C:\Windows\System32\umpnpmgr".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\umpnpmgr".SvchostPushServiceGlobals

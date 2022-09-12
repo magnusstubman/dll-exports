@@ -1,0 +1,8 @@
+EXPORTS
+  CreateAudioReverb="C:\Windows\SysWOW64\XAudio2_8".CreateAudioReverb
+  CreateAudioVolumeMeter="C:\Windows\SysWOW64\XAudio2_8".CreateAudioVolumeMeter
+  CreateFX="C:\Windows\SysWOW64\XAudio2_8".CreateFX
+  X3DAudioCalculate="C:\Windows\SysWOW64\XAudio2_8".X3DAudioCalculate
+  X3DAudioInitialize="C:\Windows\SysWOW64\XAudio2_8".X3DAudioInitialize
+  XAudio2Create="C:\Windows\SysWOW64\XAudio2_8".XAudio2Create
+  XAudio2CreateWithVersionInfo="C:\Windows\SysWOW64\XAudio2_8".XAudio2CreateWithVersionInfo

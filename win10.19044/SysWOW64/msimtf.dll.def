@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\msimtf".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\msimtf".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\msimtf".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\msimtf".DllUnregisterServer
+  MsimtfIsGuidMapEnable="C:\Windows\SysWOW64\msimtf".MsimtfIsGuidMapEnable
+  MsimtfIsWindowFiltered="C:\Windows\SysWOW64\msimtf".MsimtfIsWindowFiltered

@@ -1,0 +1,3 @@
+EXPORTS
+  SpLsaModeInitialize="C:\Windows\System32\cloudAP".SpLsaModeInitialize
+  SpUserModeInitialize="C:\Windows\System32\cloudAP".SpUserModeInitialize

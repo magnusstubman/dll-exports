@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WSDPrintProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WSDPrintProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WSDPrintProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WSDPrintProxy".DllUnregisterServer

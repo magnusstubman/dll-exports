@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\comcat".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\comcat".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\comcat".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\comcat".DllUnregisterServer

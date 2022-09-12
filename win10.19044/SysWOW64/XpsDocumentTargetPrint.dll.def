@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\XpsDocumentTargetPrint".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\XpsDocumentTargetPrint".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\XpsDocumentTargetPrint".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\XpsDocumentTargetPrint".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\XpsDocumentTargetPrint".DllUnregisterServer

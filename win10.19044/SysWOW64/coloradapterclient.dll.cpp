@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:ModernColorGetGDILutFromHDC=\"C:\\Windows\\SysWOW64\\coloradapterclient.ModernColorGetGDILutFromHDC\"")
+#pragma comment(linker, "/export:ModernColorSetGDILut=\"C:\\Windows\\SysWOW64\\coloradapterclient.ModernColorSetGDILut\"")
+#pragma comment(linker, "/export:ModernColorSetGDILutFromHDC=\"C:\\Windows\\SysWOW64\\coloradapterclient.ModernColorSetGDILutFromHDC\"")
+#pragma comment(linker, "/export:ModernColorSetLut=\"C:\\Windows\\SysWOW64\\coloradapterclient.ModernColorSetLut\"")
+#pragma comment(linker, "/export:ModernColorSetMatrix=\"C:\\Windows\\SysWOW64\\coloradapterclient.ModernColorSetMatrix\"")
+#pragma comment(linker, "/export:ModernColorSetMatrixFromHDC=\"C:\\Windows\\SysWOW64\\coloradapterclient.ModernColorSetMatrixFromHDC\"")

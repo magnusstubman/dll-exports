@@ -1,0 +1,9 @@
+EXPORTS
+  DtcGetTransactionManager="C:\Windows\System32\xolehlp".DtcGetTransactionManager
+  DtcGetTransactionManagerC="C:\Windows\System32\xolehlp".DtcGetTransactionManagerC
+  DtcGetTransactionManagerEx="C:\Windows\System32\xolehlp".DtcGetTransactionManagerEx
+  DtcGetTransactionManagerExA="C:\Windows\System32\xolehlp".DtcGetTransactionManagerExA
+  DtcGetTransactionManagerExW="C:\Windows\System32\xolehlp".DtcGetTransactionManagerExW
+  FreezeLocalTransactionManagers="C:\Windows\System32\xolehlp".FreezeLocalTransactionManagers
+  GetDtcLocaleResourceHandle="C:\Windows\System32\xolehlp".GetDtcLocaleResourceHandle
+  ThawLocalTransactionManagers="C:\Windows\System32\xolehlp".ThawLocalTransactionManagers

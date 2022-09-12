@@ -1,0 +1,22 @@
+EXPORTS
+  CreateCoreWebViewComponentAndUninitializedCoreWebViewComponentCallbackForWebInstance="C:\Windows\SysWOW64\EdgeManager".CreateCoreWebViewComponentAndUninitializedCoreWebViewComponentCallbackForWebInstance
+  CreateCoreWebViewControl="C:\Windows\SysWOW64\EdgeManager".CreateCoreWebViewControl
+  CreateCoreWebViewHostProcess="C:\Windows\SysWOW64\EdgeManager".CreateCoreWebViewHostProcess
+  CreateCoreWebViewOOP="C:\Windows\SysWOW64\EdgeManager".CreateCoreWebViewOOP
+  CreateEdgeIsoSession="C:\Windows\SysWOW64\EdgeManager".CreateEdgeIsoSession
+  CreateWebRuntimeDebugTargetClient="C:\Windows\SysWOW64\EdgeManager".CreateWebRuntimeDebugTargetClient
+  CreateWebRuntimeDebugTargetManager="C:\Windows\SysWOW64\EdgeManager".CreateWebRuntimeDebugTargetManager
+  CreateWebRuntimeDiagnosticsTarget="C:\Windows\SysWOW64\EdgeManager".CreateWebRuntimeDiagnosticsTarget
+  CreateWebViewControlAcceleratorKeyPressedEventArgs="C:\Windows\SysWOW64\EdgeManager".CreateWebViewControlAcceleratorKeyPressedEventArgs
+  CreateWebViewControlAndInitializeCoreWebViewComponentCallback="C:\Windows\SysWOW64\EdgeManager".CreateWebViewControlAndInitializeCoreWebViewComponentCallback
+  CreateWebViewControlMoveFocusRequestedEventArgs="C:\Windows\SysWOW64\EdgeManager".CreateWebViewControlMoveFocusRequestedEventArgs
+  DllCanUnloadNow="C:\Windows\SysWOW64\EdgeManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\EdgeManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\EdgeManager".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\EdgeManager".DllInstall
+  DllRegisterServer="C:\Windows\SysWOW64\EdgeManager".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\EdgeManager".DllUnregisterServer
+  EnsureServiceWorkerEnvironmentForWebView="C:\Windows\SysWOW64\EdgeManager".EnsureServiceWorkerEnvironmentForWebView
+  EnsureWebDriverForWebViewHost="C:\Windows\SysWOW64\EdgeManager".EnsureWebDriverForWebViewHost
+  GetProxyDllInfo="C:\Windows\SysWOW64\EdgeManager".GetProxyDllInfo
+  GetWebDriverHostInstance="C:\Windows\SysWOW64\EdgeManager".GetWebDriverHostInstance

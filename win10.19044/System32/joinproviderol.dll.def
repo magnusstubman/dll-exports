@@ -1,0 +1,4 @@
+EXPORTS
+  NetpJoinProvider2OLInitialize="C:\Windows\System32\joinproviderol".NetpJoinProvider2OLInitialize
+  NetpJoinProvider3OLInitialize="C:\Windows\System32\joinproviderol".NetpJoinProvider3OLInitialize
+  NetpJoinProviderOLInitialize="C:\Windows\System32\joinproviderol".NetpJoinProviderOLInitialize

@@ -1,0 +1,5 @@
+EXPORTS
+  Deinitialize="C:\Windows\System32\AppVStreamingUX".Deinitialize
+  GetComponent="C:\Windows\System32\AppVStreamingUX".GetComponent
+  Initialize="C:\Windows\System32\AppVStreamingUX".Initialize
+  InitializeISV="C:\Windows\System32\AppVStreamingUX".InitializeISV

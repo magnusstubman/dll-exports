@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\KnobsCore".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\KnobsCore".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\KnobsCore".DllGetClassObject

@@ -1,0 +1,10 @@
+EXPORTS
+  BfAttachFilter="C:\Windows\System32\bindfltapi".BfAttachFilter
+  BfGenerateBatchedConfig="C:\Windows\System32\bindfltapi".BfGenerateBatchedConfig
+  BfGetMappings="C:\Windows\System32\bindfltapi".BfGetMappings
+  BfRemoveMapping="C:\Windows\System32\bindfltapi".BfRemoveMapping
+  BfRemoveMappingEx="C:\Windows\System32\bindfltapi".BfRemoveMappingEx
+  BfSetupFilter="C:\Windows\System32\bindfltapi".BfSetupFilter
+  BfSetupFilterBatched="C:\Windows\System32\bindfltapi".BfSetupFilterBatched
+  BfSetupFilterEx="C:\Windows\System32\bindfltapi".BfSetupFilterEx
+  BfTrackWritesFromSilo="C:\Windows\System32\bindfltapi".BfTrackWritesFromSilo

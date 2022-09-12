@@ -1,0 +1,12 @@
+EXPORTS
+  DoBroadcastSystemMessageWorker="C:\Windows\SysWOW64\mprext".DoBroadcastSystemMessageWorker
+  DoCommandLinePromptWorker="C:\Windows\SysWOW64\mprext".DoCommandLinePromptWorker
+  DoPasswordDialogWorker="C:\Windows\SysWOW64\mprext".DoPasswordDialogWorker
+  DoProfileErrorDialogWorker="C:\Windows\SysWOW64\mprext".DoProfileErrorDialogWorker
+  ShowReconnectDialogEndWorker="C:\Windows\SysWOW64\mprext".ShowReconnectDialogEndWorker
+  ShowReconnectDialogUIWorker="C:\Windows\SysWOW64\mprext".ShowReconnectDialogUIWorker
+  ShowReconnectDialogWorker="C:\Windows\SysWOW64\mprext".ShowReconnectDialogWorker
+  WNetConnectionDialog1WWorker="C:\Windows\SysWOW64\mprext".WNetConnectionDialog1WWorker
+  WNetConnectionDialogWorker="C:\Windows\SysWOW64\mprext".WNetConnectionDialogWorker
+  WNetDisconnectDialog1WWorker="C:\Windows\SysWOW64\mprext".WNetDisconnectDialog1WWorker
+  WNetDisconnectDialogWorker="C:\Windows\SysWOW64\mprext".WNetDisconnectDialogWorker

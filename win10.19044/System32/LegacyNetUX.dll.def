@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LegacyNetUX".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\LegacyNetUX".DllGetClassObject
+  RunIHVPages="C:\Windows\System32\LegacyNetUX".RunIHVPages

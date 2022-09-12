@@ -1,0 +1,5 @@
+EXPORTS
+  ApplyProviderSettings="C:\Windows\System32\Win32AppSettingsProvider".ApplyProviderSettings
+  GatherProviderSettings="C:\Windows\System32\Win32AppSettingsProvider".GatherProviderSettings
+  RegisterChangeNotifications="C:\Windows\System32\Win32AppSettingsProvider".RegisterChangeNotifications
+  UnregisterChangeNotifications="C:\Windows\System32\Win32AppSettingsProvider".UnregisterChangeNotifications

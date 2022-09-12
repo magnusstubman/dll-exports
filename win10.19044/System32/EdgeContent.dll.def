@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\EdgeContent".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\EdgeContent".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\EdgeContent".DllGetClassObject
+  IEGetWriteableFolderPath="C:\Windows\System32\EdgeContent".IEGetWriteableFolderPath
+  IEIsInPrivateBrowsing="C:\Windows\System32\EdgeContent".IEIsInPrivateBrowsing
+  IEIsProtectedModeProcess="C:\Windows\System32\EdgeContent".IEIsProtectedModeProcess
+  IERefreshElevationPolicy="C:\Windows\System32\EdgeContent".IERefreshElevationPolicy

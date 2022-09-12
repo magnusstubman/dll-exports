@@ -1,0 +1,9 @@
+EXPORTS
+  StreamingDeviceClassInstaller="C:\Windows\System32\streamci".StreamingDeviceClassInstaller
+  StreamingDeviceRemove="C:\Windows\System32\streamci".StreamingDeviceRemove
+  StreamingDeviceRemoveA="C:\Windows\System32\streamci".StreamingDeviceRemoveA
+  StreamingDeviceRemoveW="C:\Windows\System32\streamci".StreamingDeviceRemoveW
+  StreamingDeviceSetup="C:\Windows\System32\streamci".StreamingDeviceSetup
+  StreamingDeviceSetupA="C:\Windows\System32\streamci".StreamingDeviceSetupA
+  StreamingDeviceSetupW="C:\Windows\System32\streamci".StreamingDeviceSetupW
+  SwEnumCoInstaller="C:\Windows\System32\streamci".SwEnumCoInstaller

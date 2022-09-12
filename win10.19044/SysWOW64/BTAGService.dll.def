@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\BTAGService".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\BTAGService".DllGetClassObject
+  ServiceMain="C:\Windows\SysWOW64\BTAGService".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\SysWOW64\BTAGService".SvchostPushServiceGlobals

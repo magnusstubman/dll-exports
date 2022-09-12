@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SndVolSSO".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SndVolSSO".DllGetClassObject
+  DllMain="C:\Windows\System32\SndVolSSO".DllMain

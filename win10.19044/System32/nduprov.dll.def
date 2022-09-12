@@ -1,0 +1,9 @@
+EXPORTS
+  CommitStatsHelperCollectContainerData="C:\Windows\System32\nduprov".CommitStatsHelperCollectContainerData
+  CommitStatsHelperDedupHostData="C:\Windows\System32\nduprov".CommitStatsHelperDedupHostData
+  DedupDoubleCountedData="C:\Windows\System32\nduprov".DedupDoubleCountedData
+  NduProvPopulateStatsFromRecord="C:\Windows\System32\nduprov".NduProvPopulateStatsFromRecord
+  OverflowCheckOnBytesFromContainers="C:\Windows\System32\nduprov".OverflowCheckOnBytesFromContainers
+  PopulateUserName="C:\Windows\System32\nduprov".PopulateUserName
+  SruInitializeProvider="C:\Windows\System32\nduprov".SruInitializeProvider
+  SruUninitializeProvider="C:\Windows\System32\nduprov".SruUninitializeProvider

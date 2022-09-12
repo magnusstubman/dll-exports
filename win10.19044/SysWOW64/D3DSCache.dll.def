@@ -1,0 +1,10 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\D3DSCache".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\D3DSCache".DllGetClassObject
+  ShaderCache_AddValue="C:\Windows\SysWOW64\D3DSCache".ShaderCache_AddValue
+  ShaderCache_Create="C:\Windows\SysWOW64\D3DSCache".ShaderCache_Create
+  ShaderCache_Destroy="C:\Windows\SysWOW64\D3DSCache".ShaderCache_Destroy
+  ShaderCache_FindValue="C:\Windows\SysWOW64\D3DSCache".ShaderCache_FindValue
+  ShaderCache_Flush="C:\Windows\SysWOW64\D3DSCache".ShaderCache_Flush
+  ShaderCache_FreeValue="C:\Windows\SysWOW64\D3DSCache".ShaderCache_FreeValue
+  ShaderCache_GetDesc="C:\Windows\SysWOW64\D3DSCache".ShaderCache_GetDesc

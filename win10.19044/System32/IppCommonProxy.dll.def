@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\IppCommonProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\IppCommonProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\IppCommonProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\IppCommonProxy".DllUnregisterServer

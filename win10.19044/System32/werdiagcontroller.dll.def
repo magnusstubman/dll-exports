@@ -1,0 +1,4 @@
+EXPORTS
+  QueryOriginalBucket="C:\Windows\System32\werdiagcontroller".QueryOriginalBucket
+  StartAppRecorder="C:\Windows\System32\werdiagcontroller".StartAppRecorder
+  StartFDR="C:\Windows\System32\werdiagcontroller".StartFDR

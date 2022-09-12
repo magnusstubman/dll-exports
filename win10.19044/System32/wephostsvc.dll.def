@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\wephostsvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\wephostsvc".SvchostPushServiceGlobals

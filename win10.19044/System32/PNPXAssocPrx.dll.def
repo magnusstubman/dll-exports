@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\PNPXAssocPrx".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\PNPXAssocPrx".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\PNPXAssocPrx".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\PNPXAssocPrx".DllUnregisterServer

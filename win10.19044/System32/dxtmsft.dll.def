@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dxtmsft".DllCanUnloadNow
+  DllEnumClassObjects="C:\Windows\System32\dxtmsft".DllEnumClassObjects
+  DllGetClassObject="C:\Windows\System32\dxtmsft".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dxtmsft".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dxtmsft".DllUnregisterServer

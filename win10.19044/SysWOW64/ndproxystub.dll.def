@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\ndproxystub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ndproxystub".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\ndproxystub".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\ndproxystub".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\ndproxystub".GetProxyDllInfo

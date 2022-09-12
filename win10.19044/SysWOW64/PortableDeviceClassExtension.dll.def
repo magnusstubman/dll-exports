@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\PortableDeviceClassExtension".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\PortableDeviceClassExtension".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\PortableDeviceClassExtension".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\PortableDeviceClassExtension".DllUnregisterServer
+  Microsoft_WDF_UMDF_Version="C:\Windows\SysWOW64\PortableDeviceClassExtension".Microsoft_WDF_UMDF_Version

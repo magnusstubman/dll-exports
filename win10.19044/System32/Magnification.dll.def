@@ -1,0 +1,22 @@
+EXPORTS
+  MagGetColorEffect="C:\Windows\System32\Magnification".MagGetColorEffect
+  MagGetFullscreenColorEffect="C:\Windows\System32\Magnification".MagGetFullscreenColorEffect
+  MagGetFullscreenTransform="C:\Windows\System32\Magnification".MagGetFullscreenTransform
+  MagGetImageScalingCallback="C:\Windows\System32\Magnification".MagGetImageScalingCallback
+  MagGetInputTransform="C:\Windows\System32\Magnification".MagGetInputTransform
+  MagGetWindowFilterList="C:\Windows\System32\Magnification".MagGetWindowFilterList
+  MagGetWindowSource="C:\Windows\System32\Magnification".MagGetWindowSource
+  MagGetWindowTransform="C:\Windows\System32\Magnification".MagGetWindowTransform
+  MagInitialize="C:\Windows\System32\Magnification".MagInitialize
+  MagSetColorEffect="C:\Windows\System32\Magnification".MagSetColorEffect
+  MagSetFullscreenColorEffect="C:\Windows\System32\Magnification".MagSetFullscreenColorEffect
+  MagSetFullscreenTransform="C:\Windows\System32\Magnification".MagSetFullscreenTransform
+  MagSetFullscreenUseBitmapSmoothing="C:\Windows\System32\Magnification".MagSetFullscreenUseBitmapSmoothing
+  MagSetImageScalingCallback="C:\Windows\System32\Magnification".MagSetImageScalingCallback
+  MagSetInputTransform="C:\Windows\System32\Magnification".MagSetInputTransform
+  MagSetLensUseBitmapSmoothing="C:\Windows\System32\Magnification".MagSetLensUseBitmapSmoothing
+  MagSetWindowFilterList="C:\Windows\System32\Magnification".MagSetWindowFilterList
+  MagSetWindowSource="C:\Windows\System32\Magnification".MagSetWindowSource
+  MagSetWindowTransform="C:\Windows\System32\Magnification".MagSetWindowTransform
+  MagShowSystemCursor="C:\Windows\System32\Magnification".MagShowSystemCursor
+  MagUninitialize="C:\Windows\System32\Magnification".MagUninitialize

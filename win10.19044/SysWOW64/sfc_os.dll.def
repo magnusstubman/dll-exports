@@ -1,0 +1,19 @@
+EXPORTS
+  BeginFileMapEnumeration="C:\Windows\SysWOW64\sfc_os".BeginFileMapEnumeration
+  CloseFileMapEnumeration="C:\Windows\SysWOW64\sfc_os".CloseFileMapEnumeration
+  GetNextFileMapContent="C:\Windows\SysWOW64\sfc_os".GetNextFileMapContent
+  SRSetRestorePointA="C:\Windows\SysWOW64\sfc_os".SRSetRestorePointA
+  SRSetRestorePointW="C:\Windows\SysWOW64\sfc_os".SRSetRestorePointW
+  SfcClose="C:\Windows\SysWOW64\sfc_os".SfcClose
+  SfcConnectToServer="C:\Windows\SysWOW64\sfc_os".SfcConnectToServer
+  SfcFileException="C:\Windows\SysWOW64\sfc_os".SfcFileException
+  SfcGetNextProtectedFile="C:\Windows\SysWOW64\sfc_os".SfcGetNextProtectedFile
+  SfcInitProt="C:\Windows\SysWOW64\sfc_os".SfcInitProt
+  SfcInitiateScan="C:\Windows\SysWOW64\sfc_os".SfcInitiateScan
+  SfcInstallProtectedFiles="C:\Windows\SysWOW64\sfc_os".SfcInstallProtectedFiles
+  SfcIsFileProtected="C:\Windows\SysWOW64\sfc_os".SfcIsFileProtected
+  SfcIsKeyProtected="C:\Windows\SysWOW64\sfc_os".SfcIsKeyProtected
+  SfcTerminateWatcherThread="C:\Windows\SysWOW64\sfc_os".SfcTerminateWatcherThread
+  SfpDeleteCatalog="C:\Windows\SysWOW64\sfc_os".SfpDeleteCatalog
+  SfpInstallCatalog="C:\Windows\SysWOW64\sfc_os".SfpInstallCatalog
+  SfpVerifyFile="C:\Windows\SysWOW64\sfc_os".SfpVerifyFile

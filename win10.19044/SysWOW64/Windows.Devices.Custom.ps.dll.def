@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Windows.Devices.Custom.ps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\Windows.Devices.Custom.ps".DllGetClassObject

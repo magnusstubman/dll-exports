@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\DisplayManager".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\DisplayManager".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\DisplayManager".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\SysWOW64\DisplayManager".GetProxyDllInfo

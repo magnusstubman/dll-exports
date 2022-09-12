@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\Geocommon".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\Geocommon".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\Geocommon".DllGetClassObject

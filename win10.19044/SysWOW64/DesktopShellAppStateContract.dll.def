@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\DesktopShellAppStateContract".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\DesktopShellAppStateContract".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\DesktopShellAppStateContract".DllGetClassObject

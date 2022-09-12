@@ -1,0 +1,3 @@
+EXPORTS
+  InitializePrintMonitor2="C:\Windows\System32\AppMon".InitializePrintMonitor2
+  SetRPCClientPid="C:\Windows\System32\AppMon".SetRPCClientPid

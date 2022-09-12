@@ -1,0 +1,9 @@
+EXPORTS
+  BrowseForGPO="C:\Windows\System32\gpedit".BrowseForGPO
+  CreateGPOLink="C:\Windows\System32\gpedit".CreateGPOLink
+  DeleteAllGPOLinks="C:\Windows\System32\gpedit".DeleteAllGPOLinks
+  DeleteGPOLink="C:\Windows\System32\gpedit".DeleteGPOLink
+  DllCanUnloadNow="C:\Windows\System32\gpedit".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\gpedit".DllGetClassObject
+  ExportRSoPData="C:\Windows\System32\gpedit".ExportRSoPData
+  ImportRSoPData="C:\Windows\System32\gpedit".ImportRSoPData

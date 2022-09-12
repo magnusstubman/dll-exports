@@ -1,0 +1,3 @@
+EXPORTS
+  DllMain="C:\Windows\System32\Windows.WARP.JITService".DllMain
+  ServiceMain="C:\Windows\System32\Windows.WARP.JITService".ServiceMain

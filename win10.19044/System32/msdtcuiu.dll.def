@@ -1,0 +1,8 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\System32\msdtcuiu".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\msdtcuiu".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msdtcuiu".DllUnregisterServer
+  DtcPerfClose="C:\Windows\System32\msdtcuiu".DtcPerfClose
+  DtcPerfCollect="C:\Windows\System32\msdtcuiu".DtcPerfCollect
+  DtcPerfOpen="C:\Windows\System32\msdtcuiu".DtcPerfOpen
+  PerfDllRegisterServer="C:\Windows\System32\msdtcuiu".PerfDllRegisterServer

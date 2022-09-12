@@ -1,0 +1,8 @@
+EXPORTS
+  ServiceMain="C:\Windows\SysWOW64\Windows.StateRepository".ServiceMain
+  StateRepository_DataAccessLayer_DatabaseCache_Add="C:\Windows\SysWOW64\Windows.StateRepository".StateRepository_DataAccessLayer_DatabaseCache_Add
+  StateRepository_DataAccessLayer_DatabaseCache_Get="C:\Windows\SysWOW64\Windows.StateRepository".StateRepository_DataAccessLayer_DatabaseCache_Get
+  StateRepository_Initialize="C:\Windows\SysWOW64\Windows.StateRepository".StateRepository_Initialize
+  StateRepository_Service_UpdateStatus="C:\Windows\SysWOW64\Windows.StateRepository".StateRepository_Service_UpdateStatus
+  StateRepository_Shutdown="C:\Windows\SysWOW64\Windows.StateRepository".StateRepository_Shutdown
+  SvchostPushServiceGlobals="C:\Windows\SysWOW64\Windows.StateRepository".SvchostPushServiceGlobals

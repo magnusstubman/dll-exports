@@ -1,0 +1,9 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\System32\icsvc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\icsvc".DllUnregisterServer
+  GuestInterfaceServiceMain="C:\Windows\System32\icsvc".GuestInterfaceServiceMain
+  HeartbeatServiceMain="C:\Windows\System32\icsvc".HeartbeatServiceMain
+  KvpexchangeServiceMain="C:\Windows\System32\icsvc".KvpexchangeServiceMain
+  ShutdownServiceMain="C:\Windows\System32\icsvc".ShutdownServiceMain
+  TimesyncServiceMain="C:\Windows\System32\icsvc".TimesyncServiceMain
+  VMSessionServiceMain="C:\Windows\System32\icsvc".VMSessionServiceMain

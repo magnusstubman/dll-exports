@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Data.Activities".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Data.Activities".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Data.Activities".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.Data.Activities".GetProxyDllInfo
+  GetSetting="C:\Windows\System32\Windows.Data.Activities".GetSetting

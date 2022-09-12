@@ -1,0 +1,7 @@
+EXPORTS
+  BootstrapReleaseUnusedResources="C:\Windows\System32\Windows.Media.Protection.PlayReady".BootstrapReleaseUnusedResources
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.Protection.PlayReady".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Media.Protection.PlayReady".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Media.Protection.PlayReady".DllGetClassObject
+  MSPRMFDllCanUnloadNow="C:\Windows\System32\Windows.Media.Protection.PlayReady".MSPRMFDllCanUnloadNow
+  MSPRMFGetClassObject="C:\Windows\System32\Windows.Media.Protection.PlayReady".MSPRMFGetClassObject

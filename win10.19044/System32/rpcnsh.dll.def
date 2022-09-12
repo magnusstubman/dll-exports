@@ -1,0 +1,2 @@
+EXPORTS
+  InitHelperDll="C:\Windows\System32\rpcnsh".InitHelperDll

@@ -1,0 +1,8 @@
+EXPORTS
+  GetLoggedOnUserCount="C:\Windows\SysWOW64\wininitext".GetLoggedOnUserCount
+  LaunchUmfdHostWithVirtualAccountWorker="C:\Windows\SysWOW64\wininitext".LaunchUmfdHostWithVirtualAccountWorker
+  PrimaryTerminalAndHookWorker="C:\Windows\SysWOW64\wininitext".PrimaryTerminalAndHookWorker
+  StartLoadingFontsWorker="C:\Windows\SysWOW64\wininitext".StartLoadingFontsWorker
+  UIStartupWorker="C:\Windows\SysWOW64\wininitext".UIStartupWorker
+  WaitForWinstationShutdown="C:\Windows\SysWOW64\wininitext".WaitForWinstationShutdown
+  WinStationSystemShutdownStartedWorker="C:\Windows\SysWOW64\wininitext".WinStationSystemShutdownStartedWorker

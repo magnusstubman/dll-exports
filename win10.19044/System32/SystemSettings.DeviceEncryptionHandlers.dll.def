@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SystemSettings.DeviceEncryptionHandlers".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SystemSettings.DeviceEncryptionHandlers".DllGetClassObject
+  GetActualDeviceEncryptionUIState="C:\Windows\System32\SystemSettings.DeviceEncryptionHandlers".GetActualDeviceEncryptionUIState
+  GetSetting="C:\Windows\System32\SystemSettings.DeviceEncryptionHandlers".GetSetting

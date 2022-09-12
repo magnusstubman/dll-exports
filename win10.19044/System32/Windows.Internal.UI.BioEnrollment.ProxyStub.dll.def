@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.UI.BioEnrollment.ProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.UI.BioEnrollment.ProxyStub".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.Internal.UI.BioEnrollment.ProxyStub".GetProxyDllInfo

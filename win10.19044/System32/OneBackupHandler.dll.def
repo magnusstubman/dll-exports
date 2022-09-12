@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\OneBackupHandler".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\OneBackupHandler".DllGetActivationFactory
+  GetSetting="C:\Windows\System32\OneBackupHandler".GetSetting

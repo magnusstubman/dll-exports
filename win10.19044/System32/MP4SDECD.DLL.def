@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\MP4SDECD".CreateInstance
+  DllCanUnloadNow="C:\Windows\System32\MP4SDECD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MP4SDECD".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MP4SDECD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MP4SDECD".DllUnregisterServer

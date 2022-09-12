@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wlandlg".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\wlandlg".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\wlandlg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\wlandlg".DllUnregisterServer

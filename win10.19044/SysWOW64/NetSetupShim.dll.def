@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\NetSetupShim".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\NetSetupShim".DllGetClassObject
+  NetSetupCreateBindingMap="C:\Windows\SysWOW64\NetSetupShim".NetSetupCreateBindingMap
+  NetSetupExportDatabase="C:\Windows\SysWOW64\NetSetupShim".NetSetupExportDatabase
+  NetSetupResetBindings="C:\Windows\SysWOW64\NetSetupShim".NetSetupResetBindings
+  NetSetupShimExecuteInfSection="C:\Windows\SysWOW64\NetSetupShim".NetSetupShimExecuteInfSection

@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.Playback.BackgroundMediaPlayer".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Media.Playback.BackgroundMediaPlayer".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Media.Playback.BackgroundMediaPlayer".DllGetClassObject

@@ -1,0 +1,15 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\hnetcfg".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\hnetcfg".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\hnetcfg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\hnetcfg".DllUnregisterServer
+  HNetDeleteRasConnection="C:\Windows\SysWOW64\hnetcfg".HNetDeleteRasConnection
+  HNetFreeSharingServicesPage="C:\Windows\SysWOW64\hnetcfg".HNetFreeSharingServicesPage
+  HNetGetFirewallSettingsPage="C:\Windows\SysWOW64\hnetcfg".HNetGetFirewallSettingsPage
+  HNetGetSharingServicesPage="C:\Windows\SysWOW64\hnetcfg".HNetGetSharingServicesPage
+  HNetSharedAccessSettingsDlg="C:\Windows\SysWOW64\hnetcfg".HNetSharedAccessSettingsDlg
+  HNetSharingAndFirewallSettingsDlg="C:\Windows\SysWOW64\hnetcfg".HNetSharingAndFirewallSettingsDlg
+  RegisterClassObjects="C:\Windows\SysWOW64\hnetcfg".RegisterClassObjects
+  ReleaseSingletons="C:\Windows\SysWOW64\hnetcfg".ReleaseSingletons
+  RevokeClassObjects="C:\Windows\SysWOW64\hnetcfg".RevokeClassObjects
+  WinBomConfigureWindowsFirewall="C:\Windows\SysWOW64\hnetcfg".WinBomConfigureWindowsFirewall

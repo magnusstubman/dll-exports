@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\comrepl".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\comrepl".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\comrepl".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\comrepl".DllUnregisterServer

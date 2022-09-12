@@ -1,0 +1,12 @@
+EXPORTS
+  AppIDConstructAppxAttributes="C:\Windows\SysWOW64\appidapi".AppIDConstructAppxAttributes
+  AppIDDecodeAttributeString="C:\Windows\SysWOW64\appidapi".AppIDDecodeAttributeString
+  AppIDEncodeAttributeString="C:\Windows\SysWOW64\appidapi".AppIDEncodeAttributeString
+  AppIDFreeAttributeString="C:\Windows\SysWOW64\appidapi".AppIDFreeAttributeString
+  AppIDGetAppxFileAttributes="C:\Windows\SysWOW64\appidapi".AppIDGetAppxFileAttributes
+  AppIDGetFileAttributes="C:\Windows\SysWOW64\appidapi".AppIDGetFileAttributes
+  AppIDGetMsiVersionInfo="C:\Windows\SysWOW64\appidapi".AppIDGetMsiVersionInfo
+  AppIDReleaseAppxFileAttributes="C:\Windows\SysWOW64\appidapi".AppIDReleaseAppxFileAttributes
+  AppIDReleaseFileAttributes="C:\Windows\SysWOW64\appidapi".AppIDReleaseFileAttributes
+  CompareToSystemCIPolicy="C:\Windows\SysWOW64\appidapi".CompareToSystemCIPolicy
+  UpdateSystemCIPolicy="C:\Windows\SysWOW64\appidapi".UpdateSystemCIPolicy

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\frprov".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\frprov".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\frprov".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\frprov".DllUnregisterServer

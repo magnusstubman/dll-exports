@@ -1,0 +1,9 @@
+EXPORTS
+  CvCloseDataSource="C:\Windows\System32\chartv".CvCloseDataSource
+  CvCreateDataSource="C:\Windows\System32\chartv".CvCreateDataSource
+  CvGetData="C:\Windows\System32\chartv".CvGetData
+  CvGetDataSourceName="C:\Windows\System32\chartv".CvGetDataSourceName
+  CvInitialize="C:\Windows\System32\chartv".CvInitialize
+  CvSetData="C:\Windows\System32\chartv".CvSetData
+  CvSetDataSourceName="C:\Windows\System32\chartv".CvSetDataSourceName
+  CvUninitialize="C:\Windows\System32\chartv".CvUninitialize

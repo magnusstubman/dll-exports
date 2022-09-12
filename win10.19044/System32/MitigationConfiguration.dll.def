@@ -1,0 +1,9 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MitigationConfiguration".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MitigationConfiguration".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MitigationConfiguration".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MitigationConfiguration".DllUnregisterServer
+  ExportMitigation="C:\Windows\System32\MitigationConfiguration".ExportMitigation
+  ImportMitigation="C:\Windows\System32\MitigationConfiguration".ImportMitigation
+  ValidateXML="C:\Windows\System32\MitigationConfiguration".ValidateXML
+  ValidateXMLFromManaged="C:\Windows\System32\MitigationConfiguration".ValidateXMLFromManaged

@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\ntlanui2".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ntlanui2".DllGetClassObject

@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DavSyncProvider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DavSyncProvider".DllGetClassObject
+  ForceCalDavCollectionsListRefreshDuringNextSync="C:\Windows\System32\DavSyncProvider".ForceCalDavCollectionsListRefreshDuringNextSync
+  HandleWebDavMeetingResponseForAppointment="C:\Windows\System32\DavSyncProvider".HandleWebDavMeetingResponseForAppointment
+  HandleWebDavMeetingResponseForMeetingNotification="C:\Windows\System32\DavSyncProvider".HandleWebDavMeetingResponseForMeetingNotification
+  UpdateCalDavTrackingSchema="C:\Windows\System32\DavSyncProvider".UpdateCalDavTrackingSchema
+  UpdateGMailContactSyncPartner="C:\Windows\System32\DavSyncProvider".UpdateGMailContactSyncPartner

@@ -1,0 +1,26 @@
+EXPORTS
+  Chkdsk="C:\Windows\System32\fmifs".Chkdsk
+  ChkdskEx="C:\Windows\System32\fmifs".ChkdskEx
+  ComputeFmMediaType="C:\Windows\System32\fmifs".ComputeFmMediaType
+  DiskCopy="C:\Windows\System32\fmifs".DiskCopy
+  EnableVolumeCompression="C:\Windows\System32\fmifs".EnableVolumeCompression
+  EnableVolumeIntegrity="C:\Windows\System32\fmifs".EnableVolumeIntegrity
+  Extend="C:\Windows\System32\fmifs".Extend
+  Format="C:\Windows\System32\fmifs".Format
+  FormatEx="C:\Windows\System32\fmifs".FormatEx
+  FormatEx2="C:\Windows\System32\fmifs".FormatEx2
+  FreeCorruptionInfo="C:\Windows\System32\fmifs".FreeCorruptionInfo
+  GetCorruptionInfoClose="C:\Windows\System32\fmifs".GetCorruptionInfoClose
+  GetDefaultFileSystem="C:\Windows\System32\fmifs".GetDefaultFileSystem
+  GetFirstCorruptionInfo="C:\Windows\System32\fmifs".GetFirstCorruptionInfo
+  GetNextCorruptionInfo="C:\Windows\System32\fmifs".GetNextCorruptionInfo
+  QueryAvailableFileSystemFormat="C:\Windows\System32\fmifs".QueryAvailableFileSystemFormat
+  QueryCorruptionState="C:\Windows\System32\fmifs".QueryCorruptionState
+  QueryCorruptionStateByHandle="C:\Windows\System32\fmifs".QueryCorruptionStateByHandle
+  QueryDeviceInformation="C:\Windows\System32\fmifs".QueryDeviceInformation
+  QueryDeviceInformationByHandle="C:\Windows\System32\fmifs".QueryDeviceInformationByHandle
+  QueryFileSystemName="C:\Windows\System32\fmifs".QueryFileSystemName
+  QueryIsDiskCheckScheduledForNextBoot="C:\Windows\System32\fmifs".QueryIsDiskCheckScheduledForNextBoot
+  QueryLatestFileSystemVersion="C:\Windows\System32\fmifs".QueryLatestFileSystemVersion
+  QuerySupportedMedia="C:\Windows\System32\fmifs".QuerySupportedMedia
+  SetLabel="C:\Windows\System32\fmifs".SetLabel

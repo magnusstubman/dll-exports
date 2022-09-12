@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MsSpellCheckingFacility".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\MsSpellCheckingFacility".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\MsSpellCheckingFacility".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\MsSpellCheckingFacility".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\MsSpellCheckingFacility".DllUnregisterServer
+  SpellerCheck="C:\Windows\SysWOW64\MsSpellCheckingFacility".SpellerCheck
+  SpellerCloseLex="C:\Windows\SysWOW64\MsSpellCheckingFacility".SpellerCloseLex
+  SpellerGetOptions="C:\Windows\SysWOW64\MsSpellCheckingFacility".SpellerGetOptions
+  SpellerInit="C:\Windows\SysWOW64\MsSpellCheckingFacility".SpellerInit
+  SpellerOpenLex="C:\Windows\SysWOW64\MsSpellCheckingFacility".SpellerOpenLex
+  SpellerSetOptions="C:\Windows\SysWOW64\MsSpellCheckingFacility".SpellerSetOptions
+  SpellerTerminate="C:\Windows\SysWOW64\MsSpellCheckingFacility".SpellerTerminate

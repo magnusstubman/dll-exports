@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MsSpellCheckingFacility".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\MsSpellCheckingFacility".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\MsSpellCheckingFacility".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MsSpellCheckingFacility".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MsSpellCheckingFacility".DllUnregisterServer
+  SpellerCheck="C:\Windows\System32\MsSpellCheckingFacility".SpellerCheck
+  SpellerCloseLex="C:\Windows\System32\MsSpellCheckingFacility".SpellerCloseLex
+  SpellerGetOptions="C:\Windows\System32\MsSpellCheckingFacility".SpellerGetOptions
+  SpellerInit="C:\Windows\System32\MsSpellCheckingFacility".SpellerInit
+  SpellerOpenLex="C:\Windows\System32\MsSpellCheckingFacility".SpellerOpenLex
+  SpellerSetOptions="C:\Windows\System32\MsSpellCheckingFacility".SpellerSetOptions
+  SpellerTerminate="C:\Windows\System32\MsSpellCheckingFacility".SpellerTerminate

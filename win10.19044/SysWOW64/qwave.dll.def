@@ -1,0 +1,15 @@
+EXPORTS
+  QDLHPathDiagnostics="C:\Windows\SysWOW64\qwave".QDLHPathDiagnostics
+  QDLHStartDiagnosingPath="C:\Windows\SysWOW64\qwave".QDLHStartDiagnosingPath
+  QOSAddSocketToFlow="C:\Windows\SysWOW64\qwave".QOSAddSocketToFlow
+  QOSCancel="C:\Windows\SysWOW64\qwave".QOSCancel
+  QOSCloseHandle="C:\Windows\SysWOW64\qwave".QOSCloseHandle
+  QOSCreateHandle="C:\Windows\SysWOW64\qwave".QOSCreateHandle
+  QOSEnumerateFlows="C:\Windows\SysWOW64\qwave".QOSEnumerateFlows
+  QOSNotifyFlow="C:\Windows\SysWOW64\qwave".QOSNotifyFlow
+  QOSQueryFlow="C:\Windows\SysWOW64\qwave".QOSQueryFlow
+  QOSRemoveSocketFromFlow="C:\Windows\SysWOW64\qwave".QOSRemoveSocketFromFlow
+  QOSSetFlow="C:\Windows\SysWOW64\qwave".QOSSetFlow
+  QOSStartTrackingClient="C:\Windows\SysWOW64\qwave".QOSStartTrackingClient
+  QOSStopTrackingClient="C:\Windows\SysWOW64\qwave".QOSStopTrackingClient
+  ServiceMain="C:\Windows\SysWOW64\qwave".ServiceMain

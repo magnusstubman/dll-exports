@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\fdWCN".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\fdWCN".DllGetClassObject

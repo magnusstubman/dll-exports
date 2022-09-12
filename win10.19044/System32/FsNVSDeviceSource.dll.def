@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\FsNVSDeviceSource".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\FsNVSDeviceSource".DllGetClassObject
+  DllMain="C:\Windows\System32\FsNVSDeviceSource".DllMain

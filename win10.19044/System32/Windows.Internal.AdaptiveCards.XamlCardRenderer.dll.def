@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Internal.AdaptiveCards.XamlCardRenderer".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Internal.AdaptiveCards.XamlCardRenderer".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Internal.AdaptiveCards.XamlCardRenderer".DllGetClassObject

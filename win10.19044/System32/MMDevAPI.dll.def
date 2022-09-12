@@ -1,0 +1,6 @@
+EXPORTS
+  ActivateAudioInterfaceAsync="C:\Windows\System32\MMDevAPI".ActivateAudioInterfaceAsync
+  DllCanUnloadNow="C:\Windows\System32\MMDevAPI".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MMDevAPI".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MMDevAPI".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MMDevAPI".DllUnregisterServer

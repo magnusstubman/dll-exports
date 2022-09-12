@@ -1,0 +1,18 @@
+EXPORTS
+  IpNatHlpFree="C:\Windows\System32\IpNatHlpClient".IpNatHlpFree
+  IpNatHlpGetConnectedDevices="C:\Windows\System32\IpNatHlpClient".IpNatHlpGetConnectedDevices
+  IpNatHlpStartDhcpServer="C:\Windows\System32\IpNatHlpClient".IpNatHlpStartDhcpServer
+  IpNatHlpStartSharing="C:\Windows\System32\IpNatHlpClient".IpNatHlpStartSharing
+  IpNatHlpStopDhcpServer="C:\Windows\System32\IpNatHlpClient".IpNatHlpStopDhcpServer
+  IpNatHlpStopSharing="C:\Windows\System32\IpNatHlpClient".IpNatHlpStopSharing
+  IpNatHlpUpdateSharingSettingsFromStorage="C:\Windows\System32\IpNatHlpClient".IpNatHlpUpdateSharingSettingsFromStorage
+  V2IpNatHlpCreateStaticMapping="C:\Windows\System32\IpNatHlpClient".V2IpNatHlpCreateStaticMapping
+  V2IpNatHlpDeleteStaticMapping="C:\Windows\System32\IpNatHlpClient".V2IpNatHlpDeleteStaticMapping
+  V2IpNatHlpEnumDhcpState="C:\Windows\System32\IpNatHlpClient".V2IpNatHlpEnumDhcpState
+  V2IpNatHlpEnumDnsState="C:\Windows\System32\IpNatHlpClient".V2IpNatHlpEnumDnsState
+  V2IpNatHlpStartDhcpServer="C:\Windows\System32\IpNatHlpClient".V2IpNatHlpStartDhcpServer
+  V2IpNatHlpStartDnsServer="C:\Windows\System32\IpNatHlpClient".V2IpNatHlpStartDnsServer
+  V2IpNatHlpStartSharingInternalPrefix="C:\Windows\System32\IpNatHlpClient".V2IpNatHlpStartSharingInternalPrefix
+  V2IpNatHlpStopDhcpServer="C:\Windows\System32\IpNatHlpClient".V2IpNatHlpStopDhcpServer
+  V2IpNatHlpStopDnsServer="C:\Windows\System32\IpNatHlpClient".V2IpNatHlpStopDnsServer
+  V2IpNatHlpStopSharingInternalPrefix="C:\Windows\System32\IpNatHlpClient".V2IpNatHlpStopSharingInternalPrefix

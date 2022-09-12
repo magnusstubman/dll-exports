@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Devices.LowLevel".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Devices.LowLevel".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Devices.LowLevel".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.Devices.LowLevel".GetProxyDllInfo

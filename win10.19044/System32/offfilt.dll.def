@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\offfilt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\offfilt".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\offfilt".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\offfilt".DllUnregisterServer

@@ -1,0 +1,22 @@
+EXPORTS
+  AiEvaluatePlugin="C:\Windows\SysWOW64\srpapi".AiEvaluatePlugin
+  AppIDDecodeAttributeString="C:\Windows\SysWOW64\srpapi".AppIDDecodeAttributeString
+  AppIDEncodeAttributeString="C:\Windows\SysWOW64\srpapi".AppIDEncodeAttributeString
+  AppIDFreeAttributeString="C:\Windows\SysWOW64\srpapi".AppIDFreeAttributeString
+  SrpCloseThreadNetworkContext="C:\Windows\SysWOW64\srpapi".SrpCloseThreadNetworkContext
+  SrpCloseTrackInstall="C:\Windows\SysWOW64\srpapi".SrpCloseTrackInstall
+  SrpCreateThreadNetworkContext="C:\Windows\SysWOW64\srpapi".SrpCreateThreadNetworkContext
+  SrpDisablePermissiveModeFileEncryption="C:\Windows\SysWOW64\srpapi".SrpDisablePermissiveModeFileEncryption
+  SrpDoesPolicyAllowAppExecution="C:\Windows\SysWOW64\srpapi".SrpDoesPolicyAllowAppExecution
+  SrpEnablePermissiveModeFileEncryption="C:\Windows\SysWOW64\srpapi".SrpEnablePermissiveModeFileEncryption
+  SrpGetAllowedEnterprises="C:\Windows\SysWOW64\srpapi".SrpGetAllowedEnterprises
+  SrpGetAppxFqbnFromPackageFullName="C:\Windows\SysWOW64\srpapi".SrpGetAppxFqbnFromPackageFullName
+  SrpGetEnterpriseIds="C:\Windows\SysWOW64\srpapi".SrpGetEnterpriseIds
+  SrpGetEnterprisePolicy="C:\Windows\SysWOW64\srpapi".SrpGetEnterprisePolicy
+  SrpInheritEnterpriseContext="C:\Windows\SysWOW64\srpapi".SrpInheritEnterpriseContext
+  SrpInheritOriginClaim="C:\Windows\SysWOW64\srpapi".SrpInheritOriginClaim
+  SrpIsAllowed="C:\Windows\SysWOW64\srpapi".SrpIsAllowed
+  SrpIsTokenService="C:\Windows\SysWOW64\srpapi".SrpIsTokenService
+  SrpOpenTrackInstall="C:\Windows\SysWOW64\srpapi".SrpOpenTrackInstall
+  SrpRestoreEnterpriseContext="C:\Windows\SysWOW64\srpapi".SrpRestoreEnterpriseContext
+  SrpSetTokenEnterpriseId="C:\Windows\SysWOW64\srpapi".SrpSetTokenEnterpriseId

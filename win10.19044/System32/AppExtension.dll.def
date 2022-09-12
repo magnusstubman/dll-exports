@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\AppExtension".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\AppExtension".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\AppExtension".DllGetClassObject

@@ -1,0 +1,12 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\scrobj".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\scrobj".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\scrobj".DllInstall
+  DllRegisterServer="C:\Windows\SysWOW64\scrobj".DllRegisterServer
+  DllRegisterServerEx="C:\Windows\SysWOW64\scrobj".DllRegisterServerEx
+  DllRegisterServerExA="C:\Windows\SysWOW64\scrobj".DllRegisterServerExA
+  DllRegisterServerExW="C:\Windows\SysWOW64\scrobj".DllRegisterServerExW
+  DllUnregisterServer="C:\Windows\SysWOW64\scrobj".DllUnregisterServer
+  DllUnregisterServerEx="C:\Windows\SysWOW64\scrobj".DllUnregisterServerEx
+  GenerateTypeLib="C:\Windows\SysWOW64\scrobj".GenerateTypeLib
+  GenerateTypeLibW="C:\Windows\SysWOW64\scrobj".GenerateTypeLibW

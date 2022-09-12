@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\sxshared".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\sxshared".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\sxshared".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\sxshared".DllUnregisterServer
+  GetLastFailureAsHRESULT="C:\Windows\SysWOW64\sxshared".GetLastFailureAsHRESULT
+  HRESULTFromNTSTATUS="C:\Windows\SysWOW64\sxshared".HRESULTFromNTSTATUS
+  SxTracerDebuggerBreak="C:\Windows\SysWOW64\sxshared".SxTracerDebuggerBreak
+  SxTracerGetThreadContextDebug="C:\Windows\SysWOW64\sxshared".SxTracerGetThreadContextDebug
+  SxTracerGetThreadContextRetail="C:\Windows\SysWOW64\sxshared".SxTracerGetThreadContextRetail
+  SxTracerShouldTrackFailure="C:\Windows\SysWOW64\sxshared".SxTracerShouldTrackFailure
+  Win32FromHRESULT="C:\Windows\SysWOW64\sxshared".Win32FromHRESULT
+  Win32FromNTSTATUS="C:\Windows\SysWOW64\sxshared".Win32FromNTSTATUS

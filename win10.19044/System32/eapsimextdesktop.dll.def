@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\eapsimextdesktop".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\eapsimextdesktop".DllGetClassObject
+  EapSimExtCallRunWizard="C:\Windows\System32\eapsimextdesktop".EapSimExtCallRunWizard
+  EapSimExtGetIdentityPageGuid="C:\Windows\System32\eapsimextdesktop".EapSimExtGetIdentityPageGuid
+  EapSimExtInvokeUIAndGetConfig="C:\Windows\System32\eapsimextdesktop".EapSimExtInvokeUIAndGetConfig

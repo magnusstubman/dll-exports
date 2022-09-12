@@ -1,0 +1,4 @@
+EXPORTS
+  DestroyAppXHelper="C:\Windows\System32\RDSAppXHelper".DestroyAppXHelper
+  GetInstanceOfAppXPackageManager="C:\Windows\System32\RDSAppXHelper".GetInstanceOfAppXPackageManager
+  InitializeAppXHelper="C:\Windows\System32\RDSAppXHelper".InitializeAppXHelper

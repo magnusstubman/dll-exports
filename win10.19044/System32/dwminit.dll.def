@@ -1,0 +1,6 @@
+EXPORTS
+  DwmpCreateSessionProcess="C:\Windows\System32\dwminit".DwmpCreateSessionProcess
+  DwmpIsInitialSessionInteractive="C:\Windows\System32\dwminit".DwmpIsInitialSessionInteractive
+  DwmpNotifyUserLogoff="C:\Windows\System32\dwminit".DwmpNotifyUserLogoff
+  DwmpNotifyUserLogon="C:\Windows\System32\dwminit".DwmpNotifyUserLogon
+  DwmpTerminateSessionProcess="C:\Windows\System32\dwminit".DwmpTerminateSessionProcess

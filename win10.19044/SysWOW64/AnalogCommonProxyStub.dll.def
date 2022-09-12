@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\AnalogCommonProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\AnalogCommonProxyStub".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\SysWOW64\AnalogCommonProxyStub".GetProxyDllInfo

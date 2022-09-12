@@ -1,0 +1,11 @@
+EXPORTS
+  DllMain="C:\Windows\System32\FXST30".DllMain
+  FaxDevAbortOperation="C:\Windows\System32\FXST30".FaxDevAbortOperation
+  FaxDevEndJob="C:\Windows\System32\FXST30".FaxDevEndJob
+  FaxDevInitialize="C:\Windows\System32\FXST30".FaxDevInitialize
+  FaxDevReceive="C:\Windows\System32\FXST30".FaxDevReceive
+  FaxDevReportStatus="C:\Windows\System32\FXST30".FaxDevReportStatus
+  FaxDevSend="C:\Windows\System32\FXST30".FaxDevSend
+  FaxDevShutdown="C:\Windows\System32\FXST30".FaxDevShutdown
+  FaxDevStartJob="C:\Windows\System32\FXST30".FaxDevStartJob
+  FaxExtInitializeConfig="C:\Windows\System32\FXST30".FaxExtInitializeConfig

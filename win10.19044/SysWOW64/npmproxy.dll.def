@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\npmproxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\npmproxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\npmproxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\npmproxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\npmproxy".GetProxyDllInfo

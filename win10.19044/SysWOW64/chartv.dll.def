@@ -1,0 +1,9 @@
+EXPORTS
+  CvCloseDataSource="C:\Windows\SysWOW64\chartv".CvCloseDataSource
+  CvCreateDataSource="C:\Windows\SysWOW64\chartv".CvCreateDataSource
+  CvGetData="C:\Windows\SysWOW64\chartv".CvGetData
+  CvGetDataSourceName="C:\Windows\SysWOW64\chartv".CvGetDataSourceName
+  CvInitialize="C:\Windows\SysWOW64\chartv".CvInitialize
+  CvSetData="C:\Windows\SysWOW64\chartv".CvSetData
+  CvSetDataSourceName="C:\Windows\SysWOW64\chartv".CvSetDataSourceName
+  CvUninitialize="C:\Windows\SysWOW64\chartv".CvUninitialize

@@ -1,0 +1,9 @@
+EXPORTS
+  CreateSecurityPage="C:\Windows\System32\aclui".CreateSecurityPage
+  EditConditionalAceClaims="C:\Windows\System32\aclui".EditConditionalAceClaims
+  EditResourceCondition="C:\Windows\System32\aclui".EditResourceCondition
+  EditSecurity="C:\Windows\System32\aclui".EditSecurity
+  EditSecurityAdvanced="C:\Windows\System32\aclui".EditSecurityAdvanced
+  GetLocalizedStringForCondition="C:\Windows\System32\aclui".GetLocalizedStringForCondition
+  GetTlsIndexForClaimDictionary="C:\Windows\System32\aclui".GetTlsIndexForClaimDictionary
+  IID_ISecurityInformation="C:\Windows\System32\aclui".IID_ISecurityInformation

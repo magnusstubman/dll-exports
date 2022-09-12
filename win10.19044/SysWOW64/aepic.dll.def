@@ -1,0 +1,13 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\aepic".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\aepic".DllGetActivationFactory
+  GetAppInventoryCore="C:\Windows\SysWOW64\aepic".GetAppInventoryCore
+  GetPrivacyLevel="C:\Windows\SysWOW64\aepic".GetPrivacyLevel
+  PicAmiClose="C:\Windows\SysWOW64\aepic".PicAmiClose
+  PicAmiInitialize="C:\Windows\SysWOW64\aepic".PicAmiInitialize
+  PicFreeFileInfo="C:\Windows\SysWOW64\aepic".PicFreeFileInfo
+  PicRetrieveFileInfo="C:\Windows\SysWOW64\aepic".PicRetrieveFileInfo
+  PicRetrieveFileInfoAppx="C:\Windows\SysWOW64\aepic".PicRetrieveFileInfoAppx
+  PicRetrieveFileLastRunTime="C:\Windows\SysWOW64\aepic".PicRetrieveFileLastRunTime
+  PicUpdateFileLastRunTime="C:\Windows\SysWOW64\aepic".PicUpdateFileLastRunTime
+  UpdateSoftwareInventoryTC2="C:\Windows\SysWOW64\aepic".UpdateSoftwareInventoryTC2

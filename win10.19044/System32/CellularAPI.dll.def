@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\CellularAPI".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\CellularAPI".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\CellularAPI".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\CellularAPI".DllUnregisterServer

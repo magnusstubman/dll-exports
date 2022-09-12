@@ -1,0 +1,5 @@
+EXPORTS
+  KeyCredentialManagerFreeInformation="C:\Windows\System32\KeyCredMgr".KeyCredentialManagerFreeInformation
+  KeyCredentialManagerGetInformation="C:\Windows\System32\KeyCredMgr".KeyCredentialManagerGetInformation
+  KeyCredentialManagerGetOperationErrorStates="C:\Windows\System32\KeyCredMgr".KeyCredentialManagerGetOperationErrorStates
+  KeyCredentialManagerShowUIOperation="C:\Windows\System32\KeyCredMgr".KeyCredentialManagerShowUIOperation

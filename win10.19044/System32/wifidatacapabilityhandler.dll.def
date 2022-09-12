@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\wifidatacapabilityhandler".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\wifidatacapabilityhandler".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\wifidatacapabilityhandler".DllGetClassObject
+  DllMain="C:\Windows\System32\wifidatacapabilityhandler".DllMain

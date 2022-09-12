@@ -1,0 +1,17 @@
+EXPORTS
+  AgGlLoad="C:\Windows\System32\sysmain".AgGlLoad
+  AgPdLoad="C:\Windows\System32\sysmain".AgPdLoad
+  AgTwLoad="C:\Windows\System32\sysmain".AgTwLoad
+  CloseReadyBoostPerfData="C:\Windows\System32\sysmain".CloseReadyBoostPerfData
+  CollectReadyBoostPerfData="C:\Windows\System32\sysmain".CollectReadyBoostPerfData
+  DllCanUnloadNow="C:\Windows\System32\sysmain".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\sysmain".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\sysmain".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\sysmain".DllUnregisterServer
+  GetProviderClassID="C:\Windows\System32\sysmain".GetProviderClassID
+  MI_Main="C:\Windows\System32\sysmain".MI_Main
+  OpenReadyBoostPerfData="C:\Windows\System32\sysmain".OpenReadyBoostPerfData
+  PfSvSysprepCleanup="C:\Windows\System32\sysmain".PfSvSysprepCleanup
+  PfSvUnattendCallback="C:\Windows\System32\sysmain".PfSvUnattendCallback
+  PfSvWsSwapAssessmentTask="C:\Windows\System32\sysmain".PfSvWsSwapAssessmentTask
+  SysMtServiceMain="C:\Windows\System32\sysmain".SysMtServiceMain

@@ -1,0 +1,10 @@
+EXPORTS
+  CreateWndMgmt="C:\Windows\SysWOW64\AuthBrokerUI".CreateWndMgmt
+  DirectUIInitProc="C:\Windows\SysWOW64\AuthBrokerUI".DirectUIInitProc
+  DirectUIInitThread="C:\Windows\SysWOW64\AuthBrokerUI".DirectUIInitThread
+  DirectUIUnInitProc="C:\Windows\SysWOW64\AuthBrokerUI".DirectUIUnInitProc
+  DirectUIUnInitThread="C:\Windows\SysWOW64\AuthBrokerUI".DirectUIUnInitThread
+  FreeWndMgmt="C:\Windows\SysWOW64\AuthBrokerUI".FreeWndMgmt
+  WabCreateWebRuntimeCoreControl="C:\Windows\SysWOW64\AuthBrokerUI".WabCreateWebRuntimeCoreControl
+  WabCreateWebRuntimeCoreVisualViewport="C:\Windows\SysWOW64\AuthBrokerUI".WabCreateWebRuntimeCoreVisualViewport
+  WabImmDisableLegacyIME="C:\Windows\SysWOW64\AuthBrokerUI".WabImmDisableLegacyIME

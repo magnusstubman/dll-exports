@@ -1,0 +1,8 @@
+EXPORTS
+  DllGetClassObject="C:\Windows\System32\colbact".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\colbact".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\colbact".DllUnregisterServer
+  GetClassInfoForCurrentUser="C:\Windows\System32\colbact".GetClassInfoForCurrentUser
+  GetDefaultPartitionForCurrentUser="C:\Windows\System32\colbact".GetDefaultPartitionForCurrentUser
+  GetDefaultPartitionForSid="C:\Windows\System32\colbact".GetDefaultPartitionForSid
+  PartitionAccessCheck="C:\Windows\System32\colbact".PartitionAccessCheck

@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.Shell".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.UI.Shell".DllGetClassObject

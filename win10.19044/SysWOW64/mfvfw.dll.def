@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mfvfw".DllCanUnloadNow
+  DllMain="C:\Windows\SysWOW64\mfvfw".DllMain
+  GetVFWMFTransform="C:\Windows\SysWOW64\mfvfw".GetVFWMFTransform
+  IsVFWDecompressorAvailable="C:\Windows\SysWOW64\mfvfw".IsVFWDecompressorAvailable

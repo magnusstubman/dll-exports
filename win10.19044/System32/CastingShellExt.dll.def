@@ -1,0 +1,8 @@
+EXPORTS
+  CreateViewObjectForContentDirectoryFolder="C:\Windows\System32\CastingShellExt".CreateViewObjectForContentDirectoryFolder
+  CreateViewObjectForMediaServerFolder="C:\Windows\System32\CastingShellExt".CreateViewObjectForMediaServerFolder
+  DllMain="C:\Windows\System32\CastingShellExt".DllMain
+  GetContextMenuForContentDirectoryFolder="C:\Windows\System32\CastingShellExt".GetContextMenuForContentDirectoryFolder
+  GetContextMenuForMediaServerFolder="C:\Windows\System32\CastingShellExt".GetContextMenuForMediaServerFolder
+  GetExtractIconForContentDirectoryFolder="C:\Windows\System32\CastingShellExt".GetExtractIconForContentDirectoryFolder
+  GetExtractIconForMediaServerFolder="C:\Windows\System32\CastingShellExt".GetExtractIconForMediaServerFolder

@@ -1,0 +1,14 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\spp".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\spp".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\spp".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\spp".DllUnregisterServer
+  SppFreeBadWritersArray="C:\Windows\System32\spp".SppFreeBadWritersArray
+  SppFreeClientPropArray="C:\Windows\System32\spp".SppFreeClientPropArray
+  SppFreeExternalGroupPropArray="C:\Windows\System32\spp".SppFreeExternalGroupPropArray
+  SppFreeGroupPropArray="C:\Windows\System32\spp".SppFreeGroupPropArray
+  SppFreeMetadataProp="C:\Windows\System32\spp".SppFreeMetadataProp
+  SxTracerDebuggerBreak="C:\Windows\System32\spp".SxTracerDebuggerBreak
+  SxTracerGetThreadContextDebug="C:\Windows\System32\spp".SxTracerGetThreadContextDebug
+  SxTracerGetThreadContextRetail="C:\Windows\System32\spp".SxTracerGetThreadContextRetail
+  SxTracerShouldTrackFailure="C:\Windows\System32\spp".SxTracerShouldTrackFailure

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\cfmifs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\cfmifs".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\cfmifs".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\cfmifs".DllUnregisterServer

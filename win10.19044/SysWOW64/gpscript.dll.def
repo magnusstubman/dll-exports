@@ -1,0 +1,5 @@
+EXPORTS
+  GenerateScriptsGroupPolicy="C:\Windows\SysWOW64\gpscript".GenerateScriptsGroupPolicy
+  ProcessScriptsGroupPolicy="C:\Windows\SysWOW64\gpscript".ProcessScriptsGroupPolicy
+  ProcessScriptsGroupPolicyEx="C:\Windows\SysWOW64\gpscript".ProcessScriptsGroupPolicyEx
+  ScrRegGPOListToWbem="C:\Windows\SysWOW64\gpscript".ScrRegGPOListToWbem

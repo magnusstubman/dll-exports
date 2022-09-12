@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\msrdc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\msrdc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\msrdc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\msrdc".DllUnregisterServer

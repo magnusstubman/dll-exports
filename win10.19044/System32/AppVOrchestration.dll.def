@@ -1,0 +1,6 @@
+EXPORTS
+  Deinitialize="C:\Windows\System32\AppVOrchestration".Deinitialize
+  GetControllerComponent="C:\Windows\System32\AppVOrchestration".GetControllerComponent
+  GetControllerRequests="C:\Windows\System32\AppVOrchestration".GetControllerRequests
+  Initialize="C:\Windows\System32\AppVOrchestration".Initialize
+  InitializeISV="C:\Windows\System32\AppVOrchestration".InitializeISV

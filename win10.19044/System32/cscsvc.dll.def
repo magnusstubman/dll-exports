@@ -1,0 +1,3 @@
+EXPORTS
+  CscServiceMain="C:\Windows\System32\cscsvc".CscServiceMain
+  CscTestGetInterface="C:\Windows\System32\cscsvc".CscTestGetInterface

@@ -1,0 +1,23 @@
+EXPORTS
+  ClearPhishingFilterData="C:\Windows\System32\mshtml".ClearPhishingFilterData
+  ConvertAndEscapePostData="C:\Windows\System32\mshtml".ConvertAndEscapePostData
+  CreateCoreWebView="C:\Windows\System32\mshtml".CreateCoreWebView
+  CreateHTMLPropertyPage="C:\Windows\System32\mshtml".CreateHTMLPropertyPage
+  DllCanUnloadNow="C:\Windows\System32\mshtml".DllCanUnloadNow
+  DllEnumClassObjects="C:\Windows\System32\mshtml".DllEnumClassObjects
+  DllGetClassObject="C:\Windows\System32\mshtml".DllGetClassObject
+  GetColorValueFromString="C:\Windows\System32\mshtml".GetColorValueFromString
+  GetWebPlatformObject="C:\Windows\System32\mshtml".GetWebPlatformObject
+  IEIsXMLNSRegistered="C:\Windows\System32\mshtml".IEIsXMLNSRegistered
+  IERegisterXMLNS="C:\Windows\System32\mshtml".IERegisterXMLNS
+  InitializeLocalHtmlEngine="C:\Windows\System32\mshtml".InitializeLocalHtmlEngine
+  MatchExactGetIDsOfNames="C:\Windows\System32\mshtml".MatchExactGetIDsOfNames
+  PrintHTML="C:\Windows\System32\mshtml".PrintHTML
+  RunHTMLApplication="C:\Windows\System32\mshtml".RunHTMLApplication
+  ShowHTMLDialog="C:\Windows\System32\mshtml".ShowHTMLDialog
+  ShowHTMLDialogEx="C:\Windows\System32\mshtml".ShowHTMLDialogEx
+  ShowModalDialog="C:\Windows\System32\mshtml".ShowModalDialog
+  ShowModelessHTMLDialog="C:\Windows\System32\mshtml".ShowModelessHTMLDialog
+  TravelLogCreateInstance="C:\Windows\System32\mshtml".TravelLogCreateInstance
+  TravelLogStgCreateInstance="C:\Windows\System32\mshtml".TravelLogStgCreateInstance
+  UninitializeLocalHtmlEngine="C:\Windows\System32\mshtml".UninitializeLocalHtmlEngine

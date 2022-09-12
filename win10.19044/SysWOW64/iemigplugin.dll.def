@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\iemigplugin".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\iemigplugin".DllGetClassObject
+  DllInstall="C:\Windows\SysWOW64\iemigplugin".DllInstall
+  DllRegisterServer="C:\Windows\SysWOW64\iemigplugin".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\iemigplugin".DllUnregisterServer

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.UI.Xaml.InkControls".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.UI.Xaml.InkControls".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.UI.Xaml.InkControls".DllGetClassObject
+  GetDependencyLocatorStorage="C:\Windows\System32\Windows.UI.Xaml.InkControls".GetDependencyLocatorStorage
+  XamlTestHookFreeInkControlsResourceLibrary="C:\Windows\System32\Windows.UI.Xaml.InkControls".XamlTestHookFreeInkControlsResourceLibrary

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\tcpipcfg".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\tcpipcfg".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\tcpipcfg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\tcpipcfg".DllUnregisterServer

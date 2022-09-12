@@ -1,0 +1,10 @@
+EXPORTS
+  ?initialize@VSAFilter@@QAEJXZ="C:\Windows\SysWOW64\iasrad".?initialize@VSAFilter@@QAEJXZ
+  ?radiusFromIAS@VSAFilter@@QBEJPAUIAttributesRaw@@H@Z="C:\Windows\SysWOW64\iasrad".?radiusFromIAS@VSAFilter@@QBEJPAUIAttributesRaw@@H@Z
+  ?radiusToIAS@VSAFilter@@QBEJPAEKAAVIASAttributeVector@IASTL@@@Z="C:\Windows\SysWOW64\iasrad".?radiusToIAS@VSAFilter@@QBEJPAEKAAVIASAttributeVector@IASTL@@@Z
+  ?radiusToIAS@VSAFilter@@QBEJPAUIAttributesRaw@@@Z="C:\Windows\SysWOW64\iasrad".?radiusToIAS@VSAFilter@@QBEJPAUIAttributesRaw@@@Z
+  ?shutdown@VSAFilter@@QAEJXZ="C:\Windows\SysWOW64\iasrad".?shutdown@VSAFilter@@QAEJXZ
+  DllCanUnloadNow="C:\Windows\SysWOW64\iasrad".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\iasrad".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\iasrad".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\iasrad".DllUnregisterServer

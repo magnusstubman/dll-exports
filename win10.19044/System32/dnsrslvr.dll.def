@@ -1,0 +1,5 @@
+EXPORTS
+  LoadGPExtension="C:\Windows\System32\dnsrslvr".LoadGPExtension
+  Reg_DoRegisterAdapter="C:\Windows\System32\dnsrslvr".Reg_DoRegisterAdapter
+  ServiceMain="C:\Windows\System32\dnsrslvr".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\dnsrslvr".SvchostPushServiceGlobals

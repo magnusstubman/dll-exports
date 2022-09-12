@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\acppage".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\acppage".DllGetClassObject
+  GetExeFromLnk="C:\Windows\System32\acppage".GetExeFromLnk

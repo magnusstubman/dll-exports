@@ -1,0 +1,3 @@
+EXPORTS
+  VaultCDSEnumerateItems="C:\Windows\System32\VaultCDS".VaultCDSEnumerateItems
+  VaultCDSSaveItem="C:\Windows\System32\VaultCDS".VaultCDSSaveItem

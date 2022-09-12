@@ -1,0 +1,9 @@
+EXPORTS
+  WpxCreateConfig="C:\Windows\System32\wpx".WpxCreateConfig
+  WpxCreateWriteOpt="C:\Windows\System32\wpx".WpxCreateWriteOpt
+  WpxGetAnswerFileType="C:\Windows\System32\wpx".WpxGetAnswerFileType
+  WpxGetDeplSettings="C:\Windows\System32\wpx".WpxGetDeplSettings
+  WpxResetDeplSettings="C:\Windows\System32\wpx".WpxResetDeplSettings
+  WpxSetDeplSettings="C:\Windows\System32\wpx".WpxSetDeplSettings
+  WpxSetLogger="C:\Windows\System32\wpx".WpxSetLogger
+  WpxSetScratchDirectory="C:\Windows\System32\wpx".WpxSetScratchDirectory

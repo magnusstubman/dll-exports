@@ -1,0 +1,24 @@
+EXPORTS
+  NetAddAlternateComputerName="C:\Windows\SysWOW64\wkscli".NetAddAlternateComputerName
+  NetEnumerateComputerNames="C:\Windows\SysWOW64\wkscli".NetEnumerateComputerNames
+  NetGetJoinInformation="C:\Windows\SysWOW64\wkscli".NetGetJoinInformation
+  NetGetJoinableOUs="C:\Windows\SysWOW64\wkscli".NetGetJoinableOUs
+  NetJoinDomain="C:\Windows\SysWOW64\wkscli".NetJoinDomain
+  NetRemoveAlternateComputerName="C:\Windows\SysWOW64\wkscli".NetRemoveAlternateComputerName
+  NetRenameMachineInDomain="C:\Windows\SysWOW64\wkscli".NetRenameMachineInDomain
+  NetSetPrimaryComputerName="C:\Windows\SysWOW64\wkscli".NetSetPrimaryComputerName
+  NetUnjoinDomain="C:\Windows\SysWOW64\wkscli".NetUnjoinDomain
+  NetUseAdd="C:\Windows\SysWOW64\wkscli".NetUseAdd
+  NetUseDel="C:\Windows\SysWOW64\wkscli".NetUseDel
+  NetUseEnum="C:\Windows\SysWOW64\wkscli".NetUseEnum
+  NetUseGetInfo="C:\Windows\SysWOW64\wkscli".NetUseGetInfo
+  NetValidateName="C:\Windows\SysWOW64\wkscli".NetValidateName
+  NetWkstaGetInfo="C:\Windows\SysWOW64\wkscli".NetWkstaGetInfo
+  NetWkstaSetInfo="C:\Windows\SysWOW64\wkscli".NetWkstaSetInfo
+  NetWkstaStatisticsGet="C:\Windows\SysWOW64\wkscli".NetWkstaStatisticsGet
+  NetWkstaTransportAdd="C:\Windows\SysWOW64\wkscli".NetWkstaTransportAdd
+  NetWkstaTransportDel="C:\Windows\SysWOW64\wkscli".NetWkstaTransportDel
+  NetWkstaTransportEnum="C:\Windows\SysWOW64\wkscli".NetWkstaTransportEnum
+  NetWkstaUserEnum="C:\Windows\SysWOW64\wkscli".NetWkstaUserEnum
+  NetWkstaUserGetInfo="C:\Windows\SysWOW64\wkscli".NetWkstaUserGetInfo
+  NetWkstaUserSetInfo="C:\Windows\SysWOW64\wkscli".NetWkstaUserSetInfo

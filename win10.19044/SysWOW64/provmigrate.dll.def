@@ -1,0 +1,3 @@
+EXPORTS
+  ProvMigration="C:\Windows\SysWOW64\provmigrate".ProvMigration
+  RunPostPowerwashOperationsStatusPagePhase="C:\Windows\SysWOW64\provmigrate".RunPostPowerwashOperationsStatusPagePhase

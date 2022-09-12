@@ -1,0 +1,7 @@
+EXPORTS
+  CreateCardParser="C:\Windows\SysWOW64\VCardParser".CreateCardParser
+  CreateCardParserEx="C:\Windows\SysWOW64\VCardParser".CreateCardParserEx
+  CreateCardParserExA="C:\Windows\SysWOW64\VCardParser".CreateCardParserExA
+  CreateICalGen="C:\Windows\SysWOW64\VCardParser".CreateICalGen
+  CreateVCardGen="C:\Windows\SysWOW64\VCardParser".CreateVCardGen
+  EncodeQP="C:\Windows\SysWOW64\VCardParser".EncodeQP

@@ -1,0 +1,3 @@
+EXPORTS
+  NciGetConnectionName="C:\Windows\System32\nci".NciGetConnectionName
+  NciSetConnectionName="C:\Windows\System32\nci".NciSetConnectionName

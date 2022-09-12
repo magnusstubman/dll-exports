@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\SysWOW64\MP43DECD".CreateInstance
+  DllCanUnloadNow="C:\Windows\SysWOW64\MP43DECD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MP43DECD".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\MP43DECD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\MP43DECD".DllUnregisterServer

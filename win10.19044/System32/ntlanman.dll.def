@@ -1,0 +1,27 @@
+EXPORTS
+  DllMain="C:\Windows\System32\ntlanman".DllMain
+  I_SystemFocusDialog="C:\Windows\System32\ntlanman".I_SystemFocusDialog
+  NPAddConnection="C:\Windows\System32\ntlanman".NPAddConnection
+  NPAddConnection3="C:\Windows\System32\ntlanman".NPAddConnection3
+  NPAddConnection4="C:\Windows\System32\ntlanman".NPAddConnection4
+  NPCancelConnection="C:\Windows\System32\ntlanman".NPCancelConnection
+  NPCloseEnum="C:\Windows\System32\ntlanman".NPCloseEnum
+  NPEnumResource="C:\Windows\System32\ntlanman".NPEnumResource
+  NPFormatNetworkName="C:\Windows\System32\ntlanman".NPFormatNetworkName
+  NPGetCaps="C:\Windows\System32\ntlanman".NPGetCaps
+  NPGetConnection="C:\Windows\System32\ntlanman".NPGetConnection
+  NPGetConnection3="C:\Windows\System32\ntlanman".NPGetConnection3
+  NPGetConnectionPerformance="C:\Windows\System32\ntlanman".NPGetConnectionPerformance
+  NPGetPersistentUseOptionsForConnection="C:\Windows\System32\ntlanman".NPGetPersistentUseOptionsForConnection
+  NPGetPersistentUseOptionsForConnection2="C:\Windows\System32\ntlanman".NPGetPersistentUseOptionsForConnection2
+  NPGetReconnectFlags="C:\Windows\System32\ntlanman".NPGetReconnectFlags
+  NPGetResourceInformation="C:\Windows\System32\ntlanman".NPGetResourceInformation
+  NPGetResourceParent="C:\Windows\System32\ntlanman".NPGetResourceParent
+  NPGetUniversalName="C:\Windows\System32\ntlanman".NPGetUniversalName
+  NPGetUser="C:\Windows\System32\ntlanman".NPGetUser
+  NPOpenEnum="C:\Windows\System32\ntlanman".NPOpenEnum
+  QueryAppInstanceVersion="C:\Windows\System32\ntlanman".QueryAppInstanceVersion
+  RegisterAppInstance="C:\Windows\System32\ntlanman".RegisterAppInstance
+  RegisterAppInstanceVersion="C:\Windows\System32\ntlanman".RegisterAppInstanceVersion
+  ResetAllAppInstanceVersions="C:\Windows\System32\ntlanman".ResetAllAppInstanceVersions
+  SetAppInstanceCsvFlags="C:\Windows\System32\ntlanman".SetAppInstanceCsvFlags

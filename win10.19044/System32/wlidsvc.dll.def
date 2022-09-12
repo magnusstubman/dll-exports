@@ -1,0 +1,3 @@
+EXPORTS
+  ServiceMain="C:\Windows\System32\wlidsvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\wlidsvc".SvchostPushServiceGlobals

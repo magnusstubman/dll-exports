@@ -1,0 +1,19 @@
+EXPORTS
+  CloseDhcpPerformanceData="C:\Windows\SysWOW64\perfctrs".CloseDhcpPerformanceData
+  CloseIPXPerformanceData="C:\Windows\SysWOW64\perfctrs".CloseIPXPerformanceData
+  CloseNWNBPerformanceData="C:\Windows\SysWOW64\perfctrs".CloseNWNBPerformanceData
+  CloseNbfPerformanceData="C:\Windows\SysWOW64\perfctrs".CloseNbfPerformanceData
+  CloseSPXPerformanceData="C:\Windows\SysWOW64\perfctrs".CloseSPXPerformanceData
+  CloseTcpIpPerformanceData="C:\Windows\SysWOW64\perfctrs".CloseTcpIpPerformanceData
+  CollectDhcpPerformanceData="C:\Windows\SysWOW64\perfctrs".CollectDhcpPerformanceData
+  CollectIPXPerformanceData="C:\Windows\SysWOW64\perfctrs".CollectIPXPerformanceData
+  CollectNWNBPerformanceData="C:\Windows\SysWOW64\perfctrs".CollectNWNBPerformanceData
+  CollectNbfPerformanceData="C:\Windows\SysWOW64\perfctrs".CollectNbfPerformanceData
+  CollectSPXPerformanceData="C:\Windows\SysWOW64\perfctrs".CollectSPXPerformanceData
+  CollectTcpIpPerformanceData="C:\Windows\SysWOW64\perfctrs".CollectTcpIpPerformanceData
+  OpenDhcpPerformanceData="C:\Windows\SysWOW64\perfctrs".OpenDhcpPerformanceData
+  OpenIPXPerformanceData="C:\Windows\SysWOW64\perfctrs".OpenIPXPerformanceData
+  OpenNWNBPerformanceData="C:\Windows\SysWOW64\perfctrs".OpenNWNBPerformanceData
+  OpenNbfPerformanceData="C:\Windows\SysWOW64\perfctrs".OpenNbfPerformanceData
+  OpenSPXPerformanceData="C:\Windows\SysWOW64\perfctrs".OpenSPXPerformanceData
+  OpenTcpIpPerformanceData="C:\Windows\SysWOW64\perfctrs".OpenTcpIpPerformanceData

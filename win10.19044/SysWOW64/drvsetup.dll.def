@@ -1,0 +1,6 @@
+EXPORTS
+  DrvSetupInstallDriver="C:\Windows\SysWOW64\drvsetup".DrvSetupInstallDriver
+  DrvSetupInstallWuDriver="C:\Windows\SysWOW64\drvsetup".DrvSetupInstallWuDriver
+  DrvSetupUninstallDriver="C:\Windows\SysWOW64\drvsetup".DrvSetupUninstallDriver
+  DrvSetupUninstallWuDrivers="C:\Windows\SysWOW64\drvsetup".DrvSetupUninstallWuDrivers
+  pDrvSetupUninstallDriver="C:\Windows\SysWOW64\drvsetup".pDrvSetupUninstallDriver

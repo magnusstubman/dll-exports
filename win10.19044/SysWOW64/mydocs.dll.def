@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\mydocs".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\mydocs".DllGetClassObject
+  PerUserInit="C:\Windows\SysWOW64\mydocs".PerUserInit

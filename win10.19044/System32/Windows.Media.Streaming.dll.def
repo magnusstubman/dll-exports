@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.Streaming".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.Media.Streaming".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.Media.Streaming".DllGetClassObject

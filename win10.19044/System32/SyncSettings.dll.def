@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SyncSettings".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\SyncSettings".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\SyncSettings".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\SyncSettings".GetProxyDllInfo
+  GetSetting="C:\Windows\System32\SyncSettings".GetSetting

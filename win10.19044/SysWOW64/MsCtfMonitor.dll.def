@@ -1,0 +1,8 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MsCtfMonitor".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MsCtfMonitor".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\MsCtfMonitor".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\MsCtfMonitor".DllUnregisterServer
+  DoMsCtfMonitor="C:\Windows\SysWOW64\MsCtfMonitor".DoMsCtfMonitor
+  InitLocalMsCtfMonitor="C:\Windows\SysWOW64\MsCtfMonitor".InitLocalMsCtfMonitor
+  UninitLocalMsCtfMonitor="C:\Windows\SysWOW64\MsCtfMonitor".UninitLocalMsCtfMonitor

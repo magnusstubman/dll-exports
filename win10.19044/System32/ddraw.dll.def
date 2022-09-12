@@ -1,0 +1,23 @@
+EXPORTS
+  AcquireDDThreadLock="C:\Windows\System32\ddraw".AcquireDDThreadLock
+  CompleteCreateSysmemSurface="C:\Windows\System32\ddraw".CompleteCreateSysmemSurface
+  D3DParseUnknownCommand="C:\Windows\System32\ddraw".D3DParseUnknownCommand
+  DDGetAttachedSurfaceLcl="C:\Windows\System32\ddraw".DDGetAttachedSurfaceLcl
+  DDInternalLock="C:\Windows\System32\ddraw".DDInternalLock
+  DDInternalUnlock="C:\Windows\System32\ddraw".DDInternalUnlock
+  DSoundHelp="C:\Windows\System32\ddraw".DSoundHelp
+  DirectDrawCreate="C:\Windows\System32\ddraw".DirectDrawCreate
+  DirectDrawCreateClipper="C:\Windows\System32\ddraw".DirectDrawCreateClipper
+  DirectDrawCreateEx="C:\Windows\System32\ddraw".DirectDrawCreateEx
+  DirectDrawEnumerateA="C:\Windows\System32\ddraw".DirectDrawEnumerateA
+  DirectDrawEnumerateExA="C:\Windows\System32\ddraw".DirectDrawEnumerateExA
+  DirectDrawEnumerateExW="C:\Windows\System32\ddraw".DirectDrawEnumerateExW
+  DirectDrawEnumerateW="C:\Windows\System32\ddraw".DirectDrawEnumerateW
+  DllCanUnloadNow="C:\Windows\System32\ddraw".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\ddraw".DllGetClassObject
+  GetDDSurfaceLocal="C:\Windows\System32\ddraw".GetDDSurfaceLocal
+  GetOLEThunkData="C:\Windows\System32\ddraw".GetOLEThunkData
+  GetSurfaceFromDC="C:\Windows\System32\ddraw".GetSurfaceFromDC
+  RegisterSpecialCase="C:\Windows\System32\ddraw".RegisterSpecialCase
+  ReleaseDDThreadLock="C:\Windows\System32\ddraw".ReleaseDDThreadLock
+  SetAppCompatData="C:\Windows\System32\ddraw".SetAppCompatData

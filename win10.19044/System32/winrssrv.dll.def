@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\winrssrv".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\winrssrv".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\winrssrv".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\winrssrv".DllUnregisterServer

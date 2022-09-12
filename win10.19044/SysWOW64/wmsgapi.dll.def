@@ -1,0 +1,7 @@
+EXPORTS
+  WmsgBroadcastMessage="C:\Windows\SysWOW64\wmsgapi".WmsgBroadcastMessage
+  WmsgBroadcastNotifyMessage="C:\Windows\SysWOW64\wmsgapi".WmsgBroadcastNotifyMessage
+  WmsgPostMessage="C:\Windows\SysWOW64\wmsgapi".WmsgPostMessage
+  WmsgPostNotifyMessage="C:\Windows\SysWOW64\wmsgapi".WmsgPostNotifyMessage
+  WmsgSendMessage="C:\Windows\SysWOW64\wmsgapi".WmsgSendMessage
+  WmsgSendPSPMessage="C:\Windows\SysWOW64\wmsgapi".WmsgSendPSPMessage

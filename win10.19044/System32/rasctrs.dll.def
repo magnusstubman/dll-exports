@@ -1,0 +1,4 @@
+EXPORTS
+  CloseRasPerformanceData="C:\Windows\System32\rasctrs".CloseRasPerformanceData
+  CollectRasPerformanceData="C:\Windows\System32\rasctrs".CollectRasPerformanceData
+  OpenRasPerformanceData="C:\Windows\System32\rasctrs".OpenRasPerformanceData

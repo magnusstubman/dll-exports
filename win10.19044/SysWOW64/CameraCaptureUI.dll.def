@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\CameraCaptureUI".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\CameraCaptureUI".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\SysWOW64\CameraCaptureUI".DllGetClassObject

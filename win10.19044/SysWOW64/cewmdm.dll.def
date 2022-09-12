@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\cewmdm".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\cewmdm".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\cewmdm".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\cewmdm".DllUnregisterServer

@@ -1,0 +1,15 @@
+EXPORTS
+  TTCharToUnicode="C:\Windows\System32\t2embed".TTCharToUnicode
+  TTDeleteEmbeddedFont="C:\Windows\System32\t2embed".TTDeleteEmbeddedFont
+  TTEmbedFont="C:\Windows\System32\t2embed".TTEmbedFont
+  TTEmbedFontEx="C:\Windows\System32\t2embed".TTEmbedFontEx
+  TTEmbedFontFromFileA="C:\Windows\System32\t2embed".TTEmbedFontFromFileA
+  TTEnableEmbeddingForFacename="C:\Windows\System32\t2embed".TTEnableEmbeddingForFacename
+  TTGetEmbeddedFontInfo="C:\Windows\System32\t2embed".TTGetEmbeddedFontInfo
+  TTGetEmbeddingType="C:\Windows\System32\t2embed".TTGetEmbeddingType
+  TTGetNewFontName="C:\Windows\System32\t2embed".TTGetNewFontName
+  TTIsEmbeddingEnabled="C:\Windows\System32\t2embed".TTIsEmbeddingEnabled
+  TTIsEmbeddingEnabledForFacename="C:\Windows\System32\t2embed".TTIsEmbeddingEnabledForFacename
+  TTLoadEmbeddedFont="C:\Windows\System32\t2embed".TTLoadEmbeddedFont
+  TTRunValidationTests="C:\Windows\System32\t2embed".TTRunValidationTests
+  TTRunValidationTestsEx="C:\Windows\System32\t2embed".TTRunValidationTestsEx

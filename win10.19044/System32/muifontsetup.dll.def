@@ -1,0 +1,3 @@
+EXPORTS
+  OnMachineUILanguageInit="C:\Windows\System32\muifontsetup".OnMachineUILanguageInit
+  OnMachineUILanguageSwitch="C:\Windows\System32\muifontsetup".OnMachineUILanguageSwitch

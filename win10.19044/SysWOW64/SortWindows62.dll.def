@@ -1,0 +1,3 @@
+EXPORTS
+  SortCloseHandle="C:\Windows\SysWOW64\SortWindows62".SortCloseHandle
+  SortGetHandle="C:\Windows\SysWOW64\SortWindows62".SortGetHandle

@@ -1,0 +1,3 @@
+EXPORTS
+  CreateFilesystemMetadataFromFile="C:\Windows\System32\AppVFileSystemMetadata".CreateFilesystemMetadataFromFile
+  CreateFilesystemMetadataFromStream="C:\Windows\System32\AppVFileSystemMetadata".CreateFilesystemMetadataFromStream

@@ -1,0 +1,3 @@
+EXPORTS
+  KtmRmServiceMain="C:\Windows\System32\msdtckrm".KtmRmServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\msdtckrm".SvchostPushServiceGlobals

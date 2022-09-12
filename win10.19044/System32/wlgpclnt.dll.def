@@ -1,0 +1,5 @@
+EXPORTS
+  GenerateWLANPolicy="C:\Windows\System32\wlgpclnt".GenerateWLANPolicy
+  ProcessWLANPolicyEx="C:\Windows\System32\wlgpclnt".ProcessWLANPolicyEx
+  WLGPADeInit="C:\Windows\System32\wlgpclnt".WLGPADeInit
+  WLGPAInit="C:\Windows\System32\wlgpclnt".WLGPAInit

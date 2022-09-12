@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\EnterpriseAppMgmtSvc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\EnterpriseAppMgmtSvc".DllGetClassObject
+  ServiceMain="C:\Windows\System32\EnterpriseAppMgmtSvc".ServiceMain
+  SvchostPushServiceGlobals="C:\Windows\System32\EnterpriseAppMgmtSvc".SvchostPushServiceGlobals

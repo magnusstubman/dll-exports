@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\offfilt".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\offfilt".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\offfilt".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\offfilt".DllUnregisterServer

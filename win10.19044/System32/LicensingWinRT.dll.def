@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\LicensingWinRT".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\LicensingWinRT".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\LicensingWinRT".DllGetClassObject

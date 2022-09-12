@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\lsmproxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\lsmproxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\lsmproxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\lsmproxy".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\SysWOW64\lsmproxy".GetProxyDllInfo

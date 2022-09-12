@@ -1,0 +1,9 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\eapputil".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\SysWOW64\eapputil".DllGetActivationFactory
+  EapConvertHostToWireFormat16="C:\Windows\SysWOW64\eapputil".EapConvertHostToWireFormat16
+  EapConvertHostToWireFormat24="C:\Windows\SysWOW64\eapputil".EapConvertHostToWireFormat24
+  EapConvertHostToWireFormat32="C:\Windows\SysWOW64\eapputil".EapConvertHostToWireFormat32
+  EapConvertWireToHostFormat16="C:\Windows\SysWOW64\eapputil".EapConvertWireToHostFormat16
+  EapConvertWireToHostFormat24="C:\Windows\SysWOW64\eapputil".EapConvertWireToHostFormat24
+  EapConvertWireToHostFormat32="C:\Windows\SysWOW64\eapputil".EapConvertWireToHostFormat32

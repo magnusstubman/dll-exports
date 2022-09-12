@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.Media.Streaming.ps".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Windows.Media.Streaming.ps".DllGetClassObject

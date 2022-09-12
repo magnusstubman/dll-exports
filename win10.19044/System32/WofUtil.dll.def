@@ -1,0 +1,12 @@
+EXPORTS
+  WofEnumEntries="C:\Windows\System32\WofUtil".WofEnumEntries
+  WofFileEnumFiles="C:\Windows\System32\WofUtil".WofFileEnumFiles
+  WofGetDriverVersion="C:\Windows\System32\WofUtil".WofGetDriverVersion
+  WofIsExternalFile="C:\Windows\System32\WofUtil".WofIsExternalFile
+  WofSetFileDataLocation="C:\Windows\System32\WofUtil".WofSetFileDataLocation
+  WofShouldCompressBinaries="C:\Windows\System32\WofUtil".WofShouldCompressBinaries
+  WofWimAddEntry="C:\Windows\System32\WofUtil".WofWimAddEntry
+  WofWimEnumFiles="C:\Windows\System32\WofUtil".WofWimEnumFiles
+  WofWimRemoveEntry="C:\Windows\System32\WofUtil".WofWimRemoveEntry
+  WofWimSuspendEntry="C:\Windows\System32\WofUtil".WofWimSuspendEntry
+  WofWimUpdateEntry="C:\Windows\System32\WofUtil".WofWimUpdateEntry

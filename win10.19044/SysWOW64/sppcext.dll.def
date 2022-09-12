@@ -1,0 +1,22 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\sppcext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\sppcext".DllGetClassObject
+  SLAcquireGenuineTicket="C:\Windows\SysWOW64\sppcext".SLAcquireGenuineTicket
+  SLAcquireGenuineTicketForAppId="C:\Windows\SysWOW64\sppcext".SLAcquireGenuineTicketForAppId
+  SLActivateProduct="C:\Windows\SysWOW64\sppcext".SLActivateProduct
+  SLDepositTokenActivationResponse="C:\Windows\SysWOW64\sppcext".SLDepositTokenActivationResponse
+  SLFreeTokenActivationCertificates="C:\Windows\SysWOW64\sppcext".SLFreeTokenActivationCertificates
+  SLFreeTokenActivationGrants="C:\Windows\SysWOW64\sppcext".SLFreeTokenActivationGrants
+  SLGenerateTokenActivationChallenge="C:\Windows\SysWOW64\sppcext".SLGenerateTokenActivationChallenge
+  SLGetGenuineInformationEx="C:\Windows\SysWOW64\sppcext".SLGetGenuineInformationEx
+  SLGetPackageProductKey="C:\Windows\SysWOW64\sppcext".SLGetPackageProductKey
+  SLGetPackageProperties="C:\Windows\SysWOW64\sppcext".SLGetPackageProperties
+  SLGetPackageToken="C:\Windows\SysWOW64\sppcext".SLGetPackageToken
+  SLGetReferralInformation="C:\Windows\SysWOW64\sppcext".SLGetReferralInformation
+  SLGetServerStatus="C:\Windows\SysWOW64\sppcext".SLGetServerStatus
+  SLGetTokenActivationCertificates="C:\Windows\SysWOW64\sppcext".SLGetTokenActivationCertificates
+  SLGetTokenActivationGrants="C:\Windows\SysWOW64\sppcext".SLGetTokenActivationGrants
+  SLInitialize="C:\Windows\SysWOW64\sppcext".SLInitialize
+  SLInstallPackage="C:\Windows\SysWOW64\sppcext".SLInstallPackage
+  SLSignTokenActivationChallenge="C:\Windows\SysWOW64\sppcext".SLSignTokenActivationChallenge
+  SLUninstallPackage="C:\Windows\SysWOW64\sppcext".SLUninstallPackage

@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\dot3gpui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\dot3gpui".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\dot3gpui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dot3gpui".DllUnregisterServer

@@ -1,0 +1,4 @@
+EXPORTS
+  CloseOSObject="C:\Windows\System32\perfos".CloseOSObject
+  CollectOSObjectData="C:\Windows\System32\perfos".CollectOSObjectData
+  OpenOSObject="C:\Windows\System32\perfos".OpenOSObject

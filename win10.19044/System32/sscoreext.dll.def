@@ -1,0 +1,14 @@
+EXPORTS
+  SsCoreExtMiApplicationClose="C:\Windows\System32\sscoreext".SsCoreExtMiApplicationClose
+  SsCoreExtMiApplicationInitialize="C:\Windows\System32\sscoreext".SsCoreExtMiApplicationInitialize
+  SsCoreExtMiApplicationNewOperationOptions="C:\Windows\System32\sscoreext".SsCoreExtMiApplicationNewOperationOptions
+  SsCoreExtMiApplicationNewParameterSet="C:\Windows\System32\sscoreext".SsCoreExtMiApplicationNewParameterSet
+  SsCoreExtMiApplicationNewSession="C:\Windows\System32\sscoreext".SsCoreExtMiApplicationNewSession
+  SsCoreExtMiInstanceAddElement="C:\Windows\System32\sscoreext".SsCoreExtMiInstanceAddElement
+  SsCoreExtMiInstanceDelete="C:\Windows\System32\sscoreext".SsCoreExtMiInstanceDelete
+  SsCoreExtMiOperationClose="C:\Windows\System32\sscoreext".SsCoreExtMiOperationClose
+  SsCoreExtMiOperationGetInstance="C:\Windows\System32\sscoreext".SsCoreExtMiOperationGetInstance
+  SsCoreExtMiOperationOptionsDelete="C:\Windows\System32\sscoreext".SsCoreExtMiOperationOptionsDelete
+  SsCoreExtMiOperationOptionsSetResourceUriPrefix="C:\Windows\System32\sscoreext".SsCoreExtMiOperationOptionsSetResourceUriPrefix
+  SsCoreExtMiSessionClose="C:\Windows\System32\sscoreext".SsCoreExtMiSessionClose
+  SsCoreExtMiSessionInvoke="C:\Windows\System32\sscoreext".SsCoreExtMiSessionInvoke

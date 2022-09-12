@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\Windows.System.Profile.RetailInfo".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\Windows.System.Profile.RetailInfo".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\Windows.System.Profile.RetailInfo".DllGetClassObject
+  GetProxyDllInfo="C:\Windows\System32\Windows.System.Profile.RetailInfo".GetProxyDllInfo

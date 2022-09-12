@@ -1,0 +1,14 @@
+EXPORTS
+  DisableSR="C:\Windows\System32\srclient".DisableSR
+  DisableSRInternal="C:\Windows\System32\srclient".DisableSRInternal
+  EnableSR="C:\Windows\System32\srclient".EnableSR
+  EnableSREx="C:\Windows\System32\srclient".EnableSREx
+  EnableSRInternal="C:\Windows\System32\srclient".EnableSRInternal
+  SRNewSystemId="C:\Windows\System32\srclient".SRNewSystemId
+  SRRemoveRestorePoint="C:\Windows\System32\srclient".SRRemoveRestorePoint
+  SRSetRestorePointA="C:\Windows\System32\srclient".SRSetRestorePointA
+  SRSetRestorePointInternal="C:\Windows\System32\srclient".SRSetRestorePointInternal
+  SRSetRestorePointW="C:\Windows\System32\srclient".SRSetRestorePointW
+  SetSRStateAfterSetup="C:\Windows\System32\srclient".SetSRStateAfterSetup
+  SysprepCleanup="C:\Windows\System32\srclient".SysprepCleanup
+  SysprepGeneralize="C:\Windows\System32\srclient".SysprepGeneralize

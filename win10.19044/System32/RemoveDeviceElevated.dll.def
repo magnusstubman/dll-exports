@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RemoveDeviceElevated".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\RemoveDeviceElevated".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\RemoveDeviceElevated".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\RemoveDeviceElevated".DllUnregisterServer
+  GetProxyDllInfo="C:\Windows\System32\RemoveDeviceElevated".GetProxyDllInfo

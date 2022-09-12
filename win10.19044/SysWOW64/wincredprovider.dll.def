@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wincredprovider".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wincredprovider".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wincredprovider".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wincredprovider".DllUnregisterServer

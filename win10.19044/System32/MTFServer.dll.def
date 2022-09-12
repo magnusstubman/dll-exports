@@ -1,0 +1,10 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MTFServer".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MTFServer".DllGetClassObject
+  MTF_Close="C:\Windows\System32\MTFServer".MTF_Close
+  MTF_Deinit="C:\Windows\System32\MTFServer".MTF_Deinit
+  MTF_GetServer="C:\Windows\System32\MTFServer".MTF_GetServer
+  MTF_IOControl="C:\Windows\System32\MTFServer".MTF_IOControl
+  MTF_Init="C:\Windows\System32\MTFServer".MTF_Init
+  MTF_Open="C:\Windows\System32\MTFServer".MTF_Open
+  MTF_SetPrivateMode="C:\Windows\System32\MTFServer".MTF_SetPrivateMode

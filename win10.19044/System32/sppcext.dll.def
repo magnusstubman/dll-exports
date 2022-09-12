@@ -1,0 +1,22 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\sppcext".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\sppcext".DllGetClassObject
+  SLAcquireGenuineTicket="C:\Windows\System32\sppcext".SLAcquireGenuineTicket
+  SLAcquireGenuineTicketForAppId="C:\Windows\System32\sppcext".SLAcquireGenuineTicketForAppId
+  SLActivateProduct="C:\Windows\System32\sppcext".SLActivateProduct
+  SLDepositTokenActivationResponse="C:\Windows\System32\sppcext".SLDepositTokenActivationResponse
+  SLFreeTokenActivationCertificates="C:\Windows\System32\sppcext".SLFreeTokenActivationCertificates
+  SLFreeTokenActivationGrants="C:\Windows\System32\sppcext".SLFreeTokenActivationGrants
+  SLGenerateTokenActivationChallenge="C:\Windows\System32\sppcext".SLGenerateTokenActivationChallenge
+  SLGetGenuineInformationEx="C:\Windows\System32\sppcext".SLGetGenuineInformationEx
+  SLGetPackageProductKey="C:\Windows\System32\sppcext".SLGetPackageProductKey
+  SLGetPackageProperties="C:\Windows\System32\sppcext".SLGetPackageProperties
+  SLGetPackageToken="C:\Windows\System32\sppcext".SLGetPackageToken
+  SLGetReferralInformation="C:\Windows\System32\sppcext".SLGetReferralInformation
+  SLGetServerStatus="C:\Windows\System32\sppcext".SLGetServerStatus
+  SLGetTokenActivationCertificates="C:\Windows\System32\sppcext".SLGetTokenActivationCertificates
+  SLGetTokenActivationGrants="C:\Windows\System32\sppcext".SLGetTokenActivationGrants
+  SLInitialize="C:\Windows\System32\sppcext".SLInitialize
+  SLInstallPackage="C:\Windows\System32\sppcext".SLInstallPackage
+  SLSignTokenActivationChallenge="C:\Windows\System32\sppcext".SLSignTokenActivationChallenge
+  SLUninstallPackage="C:\Windows\System32\sppcext".SLUninstallPackage

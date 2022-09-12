@@ -1,0 +1,6 @@
+EXPORTS
+  KdInitialize="C:\Windows\System32\kdhvcom".KdInitialize
+  KdPower="C:\Windows\System32\kdhvcom".KdPower
+  KdReceivePacket="C:\Windows\System32\kdhvcom".KdReceivePacket
+  KdSendPacket="C:\Windows\System32\kdhvcom".KdSendPacket
+  KdSetHiberRange="C:\Windows\System32\kdhvcom".KdSetHiberRange

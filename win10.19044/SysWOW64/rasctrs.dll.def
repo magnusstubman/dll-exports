@@ -1,0 +1,4 @@
+EXPORTS
+  CloseRasPerformanceData="C:\Windows\SysWOW64\rasctrs".CloseRasPerformanceData
+  CollectRasPerformanceData="C:\Windows\SysWOW64\rasctrs".CollectRasPerformanceData
+  OpenRasPerformanceData="C:\Windows\SysWOW64\rasctrs".OpenRasPerformanceData

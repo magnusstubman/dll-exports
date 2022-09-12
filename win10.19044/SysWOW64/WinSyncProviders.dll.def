@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\WinSyncProviders".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\WinSyncProviders".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\WinSyncProviders".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\WinSyncProviders".DllUnregisterServer

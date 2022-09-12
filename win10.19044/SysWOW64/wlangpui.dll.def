@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wlangpui".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wlangpui".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\wlangpui".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wlangpui".DllUnregisterServer
+  GetAdPolicyAsXML="C:\Windows\SysWOW64\wlangpui".GetAdPolicyAsXML
+  GetWmiPolicyAsXML="C:\Windows\SysWOW64\wlangpui".GetWmiPolicyAsXML

@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\RdpRelayTransport".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\RdpRelayTransport".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\RdpRelayTransport".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\RdpRelayTransport".DllUnregisterServer
+  RDPAPI_CreateInstance="C:\Windows\System32\RdpRelayTransport".RDPAPI_CreateInstance

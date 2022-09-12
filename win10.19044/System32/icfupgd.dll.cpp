@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\icfupgd.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\icfupgd.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\icfupgd.DllMain\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\icfupgd.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\icfupgd.DllUnregisterServer\"")

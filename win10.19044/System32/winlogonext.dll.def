@@ -1,0 +1,6 @@
+EXPORTS
+  ConfigureUserArso="C:\Windows\System32\winlogonext".ConfigureUserArso
+  EnableDisableElevationForSessionWorker="C:\Windows\System32\winlogonext".EnableDisableElevationForSessionWorker
+  NotifyInteractiveSessionLogoff="C:\Windows\System32\winlogonext".NotifyInteractiveSessionLogoff
+  UpdateUserTokenSessionId="C:\Windows\System32\winlogonext".UpdateUserTokenSessionId
+  WinLogonExt="C:\Windows\System32\winlogonext".WinLogonExt

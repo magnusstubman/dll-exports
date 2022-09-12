@@ -1,0 +1,4 @@
+EXPORTS
+  ActionCenterRunDllW="C:\Windows\SysWOW64\ConnectedAccountState".ActionCenterRunDllW
+  DllCanUnloadNow="C:\Windows\SysWOW64\ConnectedAccountState".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\ConnectedAccountState".DllGetClassObject

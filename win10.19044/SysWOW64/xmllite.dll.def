@@ -1,0 +1,7 @@
+EXPORTS
+  CreateXmlReader="C:\Windows\SysWOW64\xmllite".CreateXmlReader
+  CreateXmlReaderInputWithEncodingCodePage="C:\Windows\SysWOW64\xmllite".CreateXmlReaderInputWithEncodingCodePage
+  CreateXmlReaderInputWithEncodingName="C:\Windows\SysWOW64\xmllite".CreateXmlReaderInputWithEncodingName
+  CreateXmlWriter="C:\Windows\SysWOW64\xmllite".CreateXmlWriter
+  CreateXmlWriterOutputWithEncodingCodePage="C:\Windows\SysWOW64\xmllite".CreateXmlWriterOutputWithEncodingCodePage
+  CreateXmlWriterOutputWithEncodingName="C:\Windows\SysWOW64\xmllite".CreateXmlWriterOutputWithEncodingName

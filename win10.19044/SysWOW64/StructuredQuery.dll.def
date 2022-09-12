@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\StructuredQuery".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\StructuredQuery".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\StructuredQuery".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\StructuredQuery".DllUnregisterServer

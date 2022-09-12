@@ -1,0 +1,3 @@
+EXPORTS
+  DllGetActivationFactory="C:\Windows\System32\WindowManagement".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\WindowManagement".DllGetClassObject

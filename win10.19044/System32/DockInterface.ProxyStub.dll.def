@@ -1,0 +1,3 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\DockInterface.ProxyStub".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\DockInterface.ProxyStub".DllGetClassObject

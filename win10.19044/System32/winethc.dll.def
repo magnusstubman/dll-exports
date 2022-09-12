@@ -1,0 +1,7 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\winethc".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\winethc".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\winethc".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\winethc".DllUnregisterServer
+  ForceProxyDetectionOnNextRun="C:\Windows\System32\winethc".ForceProxyDetectionOnNextRun
+  SetAutoDetectProxyFlagForUser="C:\Windows\System32\winethc".SetAutoDetectProxyFlagForUser

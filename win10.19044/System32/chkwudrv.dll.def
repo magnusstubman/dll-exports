@@ -1,0 +1,10 @@
+EXPORTS
+  CancelWUOperation="C:\Windows\System32\chkwudrv".CancelWUOperation
+  IsWUAvailable="C:\Windows\System32\chkwudrv".IsWUAvailable
+  OpenWUContext="C:\Windows\System32\chkwudrv".OpenWUContext
+  ReleaseWUContext="C:\Windows\System32\chkwudrv".ReleaseWUContext
+  RemoveWUDirectory="C:\Windows\System32\chkwudrv".RemoveWUDirectory
+  WUDownloadUpdatedFiles="C:\Windows\System32\chkwudrv".WUDownloadUpdatedFiles
+  WUExpandUpdateToPath="C:\Windows\System32\chkwudrv".WUExpandUpdateToPath
+  WUFindMatchingDriver="C:\Windows\System32\chkwudrv".WUFindMatchingDriver
+  WUInstallBestUpdate="C:\Windows\System32\chkwudrv".WUInstallBestUpdate

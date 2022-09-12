@@ -1,0 +1,9 @@
+EXPORTS
+  ??0MIFree@@QAE@PAX@Z="C:\Windows\SysWOW64\prvdmofcomp".??0MIFree@@QAE@PAX@Z
+  ??1MIFree@@QAE@XZ="C:\Windows\SysWOW64\prvdmofcomp".??1MIFree@@QAE@XZ
+  ??4MIServer@@QAEAAV0@$$QAV0@@Z="C:\Windows\SysWOW64\prvdmofcomp".??4MIServer@@QAEAAV0@$$QAV0@@Z
+  ??4MIServer@@QAEAAV0@ABV0@@Z="C:\Windows\SysWOW64\prvdmofcomp".??4MIServer@@QAEAAV0@ABV0@@Z
+  CompileSchemaToWMI="C:\Windows\SysWOW64\prvdmofcomp".CompileSchemaToWMI
+  CreateRegisterParameter="C:\Windows\SysWOW64\prvdmofcomp".CreateRegisterParameter
+  GetProviderSchema="C:\Windows\SysWOW64\prvdmofcomp".GetProviderSchema
+  GetProviderSchemaFile="C:\Windows\SysWOW64\prvdmofcomp".GetProviderSchemaFile

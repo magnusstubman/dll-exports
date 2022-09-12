@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\wlanpref".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\wlanpref".DllGetClassObject
+  DllMain="C:\Windows\SysWOW64\wlanpref".DllMain
+  DllRegisterServer="C:\Windows\SysWOW64\wlanpref".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\wlanpref".DllUnregisterServer

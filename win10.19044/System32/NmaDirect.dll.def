@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\NmaDirect".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\NmaDirect".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\NmaDirect".DllGetClassObject
+  NmaDirect_OverrideUserLocation="C:\Windows\System32\NmaDirect".NmaDirect_OverrideUserLocation
+  NmaDirect_StartGuidanceWithSimulatedRoute="C:\Windows\System32\NmaDirect".NmaDirect_StartGuidanceWithSimulatedRoute

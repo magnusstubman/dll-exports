@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\racpldlg".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\racpldlg".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\racpldlg".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\racpldlg".DllUnregisterServer
+  ShowPasswordDialog="C:\Windows\SysWOW64\racpldlg".ShowPasswordDialog

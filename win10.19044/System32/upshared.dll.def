@@ -1,0 +1,11 @@
+EXPORTS
+  ConvertJsonValueToVariant="C:\Windows\System32\upshared".ConvertJsonValueToVariant
+  CreateQueryStringBuilder="C:\Windows\System32\upshared".CreateQueryStringBuilder
+  ExpandCabFile="C:\Windows\System32\upshared".ExpandCabFile
+  LoadJsonFromFile="C:\Windows\System32\upshared".LoadJsonFromFile
+  MapExceptionToHResult="C:\Windows\System32\upshared".MapExceptionToHResult
+  ParseJson="C:\Windows\System32\upshared".ParseJson
+  SubmitRequestForData="C:\Windows\System32\upshared".SubmitRequestForData
+  SubmitRequestForSettings="C:\Windows\System32\upshared".SubmitRequestForSettings
+  ToBase64="C:\Windows\System32\upshared".ToBase64
+  VerifySelfSignedImageFile="C:\Windows\System32\upshared".VerifySelfSignedImageFile

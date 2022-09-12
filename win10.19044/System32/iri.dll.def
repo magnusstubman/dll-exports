@@ -1,0 +1,20 @@
+EXPORTS
+  IriAppendRelativeIri="C:\Windows\System32\iri".IriAppendRelativeIri
+  IriAppendSegment="C:\Windows\System32\iri".IriAppendSegment
+  IriClose="C:\Windows\System32\iri".IriClose
+  IriCompare="C:\Windows\System32\iri".IriCompare
+  IriCopy="C:\Windows\System32\iri".IriCopy
+  IriCreateFromString="C:\Windows\System32\iri".IriCreateFromString
+  IriFindLastCommonSegment="C:\Windows\System32\iri".IriFindLastCommonSegment
+  IriGetAsString="C:\Windows\System32\iri".IriGetAsString
+  IriGetAttributeFlags="C:\Windows\System32\iri".IriGetAttributeFlags
+  IriGetComponent="C:\Windows\System32\iri".IriGetComponent
+  IriGetRelative="C:\Windows\System32\iri".IriGetRelative
+  IriGetSegment="C:\Windows\System32\iri".IriGetSegment
+  IriGetSegmentCount="C:\Windows\System32\iri".IriGetSegmentCount
+  IriMakeConstantEx="C:\Windows\System32\iri".IriMakeConstantEx
+  IriMutableClose="C:\Windows\System32\iri".IriMutableClose
+  IriSetComponent="C:\Windows\System32\iri".IriSetComponent
+  IriSetMetadata="C:\Windows\System32\iri".IriSetMetadata
+  IriSplit="C:\Windows\System32\iri".IriSplit
+  IriSplitIntoMutableIris="C:\Windows\System32\iri".IriSplitIntoMutableIris

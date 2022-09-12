@@ -1,0 +1,27 @@
+EXPORTS
+  Dot3CancelPlap="C:\Windows\System32\dot3api".Dot3CancelPlap
+  Dot3CloseHandle="C:\Windows\System32\dot3api".Dot3CloseHandle
+  Dot3DeinitPlapParams="C:\Windows\System32\dot3api".Dot3DeinitPlapParams
+  Dot3DeleteProfile="C:\Windows\System32\dot3api".Dot3DeleteProfile
+  Dot3DoPlap="C:\Windows\System32\dot3api".Dot3DoPlap
+  Dot3EnumInterfaces="C:\Windows\System32\dot3api".Dot3EnumInterfaces
+  Dot3FreeMemory="C:\Windows\System32\dot3api".Dot3FreeMemory
+  Dot3GetCurrentProfile="C:\Windows\System32\dot3api".Dot3GetCurrentProfile
+  Dot3GetInterfaceState="C:\Windows\System32\dot3api".Dot3GetInterfaceState
+  Dot3GetProfile="C:\Windows\System32\dot3api".Dot3GetProfile
+  Dot3GetProfileEapUserDataInfo="C:\Windows\System32\dot3api".Dot3GetProfileEapUserDataInfo
+  Dot3InitPlapParams="C:\Windows\System32\dot3api".Dot3InitPlapParams
+  Dot3OpenHandle="C:\Windows\System32\dot3api".Dot3OpenHandle
+  Dot3QueryAutoConfigParameter="C:\Windows\System32\dot3api".Dot3QueryAutoConfigParameter
+  Dot3QueryPlapCredentials="C:\Windows\System32\dot3api".Dot3QueryPlapCredentials
+  Dot3QueryUIRequest="C:\Windows\System32\dot3api".Dot3QueryUIRequest
+  Dot3ReConnect="C:\Windows\System32\dot3api".Dot3ReConnect
+  Dot3ReasonCodeToString="C:\Windows\System32\dot3api".Dot3ReasonCodeToString
+  Dot3RegisterNotification="C:\Windows\System32\dot3api".Dot3RegisterNotification
+  Dot3SetAutoConfigParameter="C:\Windows\System32\dot3api".Dot3SetAutoConfigParameter
+  Dot3SetInterface="C:\Windows\System32\dot3api".Dot3SetInterface
+  Dot3SetProfile="C:\Windows\System32\dot3api".Dot3SetProfile
+  Dot3SetProfileEapUserData="C:\Windows\System32\dot3api".Dot3SetProfileEapUserData
+  Dot3SetProfileEapXmlUserData="C:\Windows\System32\dot3api".Dot3SetProfileEapXmlUserData
+  Dot3UIResponse="C:\Windows\System32\dot3api".Dot3UIResponse
+  QueryNetconStatus="C:\Windows\System32\dot3api".QueryNetconStatus

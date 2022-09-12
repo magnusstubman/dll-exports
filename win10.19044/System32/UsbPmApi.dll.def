@@ -1,0 +1,8 @@
+EXPORTS
+  UsbPm_AssignConnectorPowerLevel="C:\Windows\System32\UsbPmApi".UsbPm_AssignConnectorPowerLevel
+  UsbPm_Deregister="C:\Windows\System32\UsbPmApi".UsbPm_Deregister
+  UsbPm_Register="C:\Windows\System32\UsbPmApi".UsbPm_Register
+  UsbPm_RetrieveConnectorProperties="C:\Windows\System32\UsbPmApi".UsbPm_RetrieveConnectorProperties
+  UsbPm_RetrieveConnectorState="C:\Windows\System32\UsbPmApi".UsbPm_RetrieveConnectorState
+  UsbPm_RetrieveHubConnectorHandles="C:\Windows\System32\UsbPmApi".UsbPm_RetrieveHubConnectorHandles
+  UsbPm_RetrieveHubProperties="C:\Windows\System32\UsbPmApi".UsbPm_RetrieveHubProperties

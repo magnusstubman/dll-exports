@@ -1,0 +1,4 @@
+EXPORTS
+  NcdAutoSetup_Generalize="C:\Windows\System32\NcdAutoSetup".NcdAutoSetup_Generalize
+  SvchostMain="C:\Windows\System32\NcdAutoSetup".SvchostMain
+  SvchostPushServiceGlobals="C:\Windows\System32\NcdAutoSetup".SvchostPushServiceGlobals

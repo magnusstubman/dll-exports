@@ -1,0 +1,19 @@
+EXPORTS
+  CSCDeleteW="C:\Windows\SysWOW64\cscdll".CSCDeleteW
+  CSCDisconnectPath="C:\Windows\SysWOW64\cscdll".CSCDisconnectPath
+  CSCDoEnableDisable="C:\Windows\SysWOW64\cscdll".CSCDoEnableDisable
+  CSCEnumForStatsExW="C:\Windows\SysWOW64\cscdll".CSCEnumForStatsExW
+  CSCEnumForStatsW="C:\Windows\SysWOW64\cscdll".CSCEnumForStatsW
+  CSCFindClose="C:\Windows\SysWOW64\cscdll".CSCFindClose
+  CSCFindFirstFileForSidW="C:\Windows\SysWOW64\cscdll".CSCFindFirstFileForSidW
+  CSCFindFirstFileW="C:\Windows\SysWOW64\cscdll".CSCFindFirstFileW
+  CSCFindNextFileW="C:\Windows\SysWOW64\cscdll".CSCFindNextFileW
+  CSCIsCSCEnabled="C:\Windows\SysWOW64\cscdll".CSCIsCSCEnabled
+  CSCIsPathOffline="C:\Windows\SysWOW64\cscdll".CSCIsPathOffline
+  CSCIsServerOfflineW="C:\Windows\SysWOW64\cscdll".CSCIsServerOfflineW
+  CSCPinFileW="C:\Windows\SysWOW64\cscdll".CSCPinFileW
+  CSCQueryFileStatusW="C:\Windows\SysWOW64\cscdll".CSCQueryFileStatusW
+  CSCSetMaxSpace="C:\Windows\SysWOW64\cscdll".CSCSetMaxSpace
+  CSCTransitionPathOnline="C:\Windows\SysWOW64\cscdll".CSCTransitionPathOnline
+  CSCTransitionServerOnlineW="C:\Windows\SysWOW64\cscdll".CSCTransitionServerOnlineW
+  CSCUnpinFileW="C:\Windows\SysWOW64\cscdll".CSCUnpinFileW

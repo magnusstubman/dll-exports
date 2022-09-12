@@ -1,0 +1,3 @@
+EXPORTS
+  InitializeLsaExtension="C:\Windows\System32\dpapisrv".InitializeLsaExtension
+  QueryLsaInterface="C:\Windows\System32\dpapisrv".QueryLsaInterface

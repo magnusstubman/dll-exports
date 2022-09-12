@@ -1,0 +1,4 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MsftOemDllIgneous".DllCanUnloadNow
+  DllGetActivationFactory="C:\Windows\System32\MsftOemDllIgneous".DllGetActivationFactory
+  DllGetClassObject="C:\Windows\System32\MsftOemDllIgneous".DllGetClassObject

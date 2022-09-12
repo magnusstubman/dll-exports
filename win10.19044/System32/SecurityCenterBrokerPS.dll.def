@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\SecurityCenterBrokerPS".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\SecurityCenterBrokerPS".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\SecurityCenterBrokerPS".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\SecurityCenterBrokerPS".DllUnregisterServer

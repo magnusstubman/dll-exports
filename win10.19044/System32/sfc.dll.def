@@ -1,0 +1,8 @@
+EXPORTS
+  SRSetRestorePoint="C:\Windows\System32\sfc".SRSetRestorePoint
+  SRSetRestorePointA="C:\Windows\System32\sfc".SRSetRestorePointA
+  SRSetRestorePointW="C:\Windows\System32\sfc".SRSetRestorePointW
+  SfcGetNextProtectedFile="C:\Windows\System32\sfc".SfcGetNextProtectedFile
+  SfcIsFileProtected="C:\Windows\System32\sfc".SfcIsFileProtected
+  SfcIsKeyProtected="C:\Windows\System32\sfc".SfcIsKeyProtected
+  SfpVerifyFile="C:\Windows\System32\sfc".SfpVerifyFile

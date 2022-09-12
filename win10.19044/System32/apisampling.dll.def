@@ -1,0 +1,4 @@
+EXPORTS
+  APISamplingInitialize="C:\Windows\System32\apisampling".APISamplingInitialize
+  APISamplingSetValue="C:\Windows\System32\apisampling".APISamplingSetValue
+  APISamplingUninitialize="C:\Windows\System32\apisampling".APISamplingUninitialize

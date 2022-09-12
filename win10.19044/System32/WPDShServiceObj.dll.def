@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\WPDShServiceObj".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WPDShServiceObj".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WPDShServiceObj".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WPDShServiceObj".DllUnregisterServer

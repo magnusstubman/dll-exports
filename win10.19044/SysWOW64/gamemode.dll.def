@@ -1,0 +1,9 @@
+EXPORTS
+  GetExpandedResourceExclusiveCpuCount="C:\Windows\SysWOW64\gamemode".GetExpandedResourceExclusiveCpuCount
+  HasExpandedResources="C:\Windows\SysWOW64\gamemode".HasExpandedResources
+  MsixvcAddGameToGCS="C:\Windows\SysWOW64\gamemode".MsixvcAddGameToGCS
+  MsixvcAddPackageAsync="C:\Windows\SysWOW64\gamemode".MsixvcAddPackageAsync
+  MsixvcRemediateMutablePackagesForVolumeAsync="C:\Windows\SysWOW64\gamemode".MsixvcRemediateMutablePackagesForVolumeAsync
+  MsixvcUpdatePolicyString="C:\Windows\SysWOW64\gamemode".MsixvcUpdatePolicyString
+  MsixvcUpdatePolicyUInt64="C:\Windows\SysWOW64\gamemode".MsixvcUpdatePolicyUInt64
+  ReleaseExclusiveCpuSets="C:\Windows\SysWOW64\gamemode".ReleaseExclusiveCpuSets

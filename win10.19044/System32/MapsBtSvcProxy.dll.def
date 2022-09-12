@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MapsBtSvcProxy".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MapsBtSvcProxy".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MapsBtSvcProxy".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MapsBtSvcProxy".DllUnregisterServer

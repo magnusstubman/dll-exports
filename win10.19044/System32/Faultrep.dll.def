@@ -1,0 +1,17 @@
+EXPORTS
+  AddERExcludedApplicationA="C:\Windows\System32\Faultrep".AddERExcludedApplicationA
+  AddERExcludedApplicationW="C:\Windows\System32\Faultrep".AddERExcludedApplicationW
+  BasepReportFault="C:\Windows\System32\Faultrep".BasepReportFault
+  CancelHangReporting="C:\Windows\System32\Faultrep".CancelHangReporting
+  CheckForReadOnlyResourceFilter="C:\Windows\System32\Faultrep".CheckForReadOnlyResourceFilter
+  CheckPerUserCrossProcessThrottle="C:\Windows\System32\Faultrep".CheckPerUserCrossProcessThrottle
+  DllCanUnloadNow="C:\Windows\System32\Faultrep".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\Faultrep".DllGetClassObject
+  ReportCoreHang="C:\Windows\System32\Faultrep".ReportCoreHang
+  ReportFault="C:\Windows\System32\Faultrep".ReportFault
+  ReportHang="C:\Windows\System32\Faultrep".ReportHang
+  UpdatePerUserLastCrossProcessCollectionTime="C:\Windows\System32\Faultrep".UpdatePerUserLastCrossProcessCollectionTime
+  WerReportHang="C:\Windows\System32\Faultrep".WerReportHang
+  WerpGetDebugger="C:\Windows\System32\Faultrep".WerpGetDebugger
+  WerpInitiateCrashReporting="C:\Windows\System32\Faultrep".WerpInitiateCrashReporting
+  WerpLaunchAeDebug="C:\Windows\System32\Faultrep".WerpLaunchAeDebug

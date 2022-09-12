@@ -1,0 +1,6 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\System32\dggpext".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\dggpext".DllUnregisterServer
+  ProcessConfigCIPolicyGroupPolicy="C:\Windows\System32\dggpext".ProcessConfigCIPolicyGroupPolicy
+  ProcessVirtualizationBasedSecurityGroupPolicy="C:\Windows\System32\dggpext".ProcessVirtualizationBasedSecurityGroupPolicy
+  ProcessVirtualizationBasedSecurityMDMPolicy="C:\Windows\System32\dggpext".ProcessVirtualizationBasedSecurityMDMPolicy
