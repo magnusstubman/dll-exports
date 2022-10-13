@@ -72,7 +72,7 @@ Keep in mind that the DLLs listed in `HKLM\SYSTEM\CurrentControlSet\Control\Sess
 `exports.py` is a small util script for showing what exports a given DLL has:
 
 ```
-./exports.py version.dll 
+$ ./exports.py version.dll 
 binary: version.dll
 image base: 0x0000000180000000 (6442450944)
 architecture: 64-bit
