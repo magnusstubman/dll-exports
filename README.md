@@ -67,6 +67,39 @@ I havn't taken `KnownDLLs` into account.
 Keep in mind that the DLLs listed in `HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\KnownDLLs` *and any* DLL that they load is also considered to be a known DLL, thus the standard search order does not apply.
 
 
+#### `exports.py`
+
+`exports.py` is a small util script for showing what exports a given DLL has:
+
+```
+./exports.py version.dll 
+binary: version.dll
+image base: 0x0000000180000000 (6442450944)
+architecture: 64-bit
++----------------------------+--------------------------------+------------------+-----------+
+| name                       | address (imagebase + relative) | relative address | ordinal   |
++----------------------------+--------------------------------+------------------+-----------+
+| GetFileVersionInfoA        | 0x00000001800010f0             | 0x000010f0       | 1 (0x1)   |
+| GetFileVersionInfoByHandle | 0x0000000180002370             | 0x00002370       | 2 (0x2)   |
+| GetFileVersionInfoExA      | 0x0000000180001e90             | 0x00001e90       | 3 (0x3)   |
+| GetFileVersionInfoExW      | 0x0000000180001070             | 0x00001070       | 4 (0x4)   |
+| GetFileVersionInfoSizeA    | 0x0000000180001010             | 0x00001010       | 5 (0x5)   |
+| GetFileVersionInfoSizeExA  | 0x0000000180001eb0             | 0x00001eb0       | 6 (0x6)   |
+| GetFileVersionInfoSizeExW  | 0x0000000180001090             | 0x00001090       | 7 (0x7)   |
+| GetFileVersionInfoSizeW    | 0x00000001800010b0             | 0x000010b0       | 8 (0x8)   |
+| GetFileVersionInfoW        | 0x00000001800010d0             | 0x000010d0       | 9 (0x9)   |
+| VerFindFileA               | 0x0000000180001ed0             | 0x00001ed0       | 10 (0xa)  |
+| VerFindFileW               | 0x0000000180002560             | 0x00002560       | 11 (0xb)  |
+| VerInstallFileA            | 0x0000000180001ef0             | 0x00001ef0       | 12 (0xc)  |
+| VerInstallFileW            | 0x0000000180003320             | 0x00003320       | 13 (0xd)  |
+| VerLanguageNameA           | KERNEL32.VerLanguageNameA      | 0x00004e6c       | 14 (0xe)  |
+| VerLanguageNameW           | KERNEL32.VerLanguageNameW      | 0x00004e97       | 15 (0xf)  |
+| VerQueryValueA             | 0x0000000180001030             | 0x00001030       | 16 (0x10) |
+| VerQueryValueW             | 0x0000000180001050             | 0x00001050       | 17 (0x11) |
++----------------------------+--------------------------------+------------------+-----------+
+```
+
+
 #### References
 
 - https://silentbreaksecurity.com/adaptive-dll-hijacking/
