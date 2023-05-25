@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:LAPSExtAcceptDSRMPasswordModification=\"C:\\Windows\\System32\\laps.LAPSExtAcceptDSRMPasswordModification\"")
+#pragma comment(linker, "/export:LAPSExtAcceptPasswordModification=\"C:\\Windows\\System32\\laps.LAPSExtAcceptPasswordModification\"")
+#pragma comment(linker, "/export:LAPSExtInitialize=\"C:\\Windows\\System32\\laps.LAPSExtInitialize\"")
+#pragma comment(linker, "/export:LAPSExtNotifyLocalAccountAuthentication=\"C:\\Windows\\System32\\laps.LAPSExtNotifyLocalAccountAuthentication\"")
+#pragma comment(linker, "/export:LAPSExtUninitialize=\"C:\\Windows\\System32\\laps.LAPSExtUninitialize\"")

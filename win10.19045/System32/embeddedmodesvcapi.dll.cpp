@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:ActivatePackage=\"C:\\Windows\\System32\\embeddedmodesvcapi.ActivatePackage\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\embeddedmodesvcapi.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\embeddedmodesvcapi.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\embeddedmodesvcapi.DllGetClassObject\"")
+#pragma comment(linker, "/export:IsEmbeddedModeAllowed=\"C:\\Windows\\System32\\embeddedmodesvcapi.IsEmbeddedModeAllowed\"")

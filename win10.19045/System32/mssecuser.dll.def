@@ -1,0 +1,27 @@
+EXPORTS
+  SecClearKseRegistryOperations=C:\Windows\System32\mssecuser.SecClearKseRegistryOperations
+  SecClearRegistryOperations=C:\Windows\System32\mssecuser.SecClearRegistryOperations
+  SecCreateSessionFilter=C:\Windows\System32\mssecuser.SecCreateSessionFilter
+  SecDeleteSessionFilter=C:\Windows\System32\mssecuser.SecDeleteSessionFilter
+  SecGetCiInformation=C:\Windows\System32\mssecuser.SecGetCiInformation
+  SecGetDriverVersion=C:\Windows\System32\mssecuser.SecGetDriverVersion
+  SecGetFileHashes=C:\Windows\System32\mssecuser.SecGetFileHashes
+  SecGetProcessInfo=C:\Windows\System32\mssecuser.SecGetProcessInfo
+  SecGetUserLibVersion=C:\Windows\System32\mssecuser.SecGetUserLibVersion
+  SecIsKernelIntegrityEnabled=C:\Windows\System32\mssecuser.SecIsKernelIntegrityEnabled
+  SecRegisterConsumer=C:\Windows\System32\mssecuser.SecRegisterConsumer
+  SecRequestOplock=C:\Windows\System32\mssecuser.SecRequestOplock
+  SecSetCiInformation=C:\Windows\System32\mssecuser.SecSetCiInformation
+  SecSetConfiguration=C:\Windows\System32\mssecuser.SecSetConfiguration
+  SecSetDlpConfiguration=C:\Windows\System32\mssecuser.SecSetDlpConfiguration
+  SecSetFileMonitorOperations=C:\Windows\System32\mssecuser.SecSetFileMonitorOperations
+  SecSetKseConfiguration=C:\Windows\System32\mssecuser.SecSetKseConfiguration
+  SecSetKseFileMonitorOperations=C:\Windows\System32\mssecuser.SecSetKseFileMonitorOperations
+  SecSetKseRegistryOperations=C:\Windows\System32\mssecuser.SecSetKseRegistryOperations
+  SecSetLmfConfiguration=C:\Windows\System32\mssecuser.SecSetLmfConfiguration
+  SecSetProcessInfo=C:\Windows\System32\mssecuser.SecSetProcessInfo
+  SecSetRegistryOperations=C:\Windows\System32\mssecuser.SecSetRegistryOperations
+  SecUninitializeDriver=C:\Windows\System32\mssecuser.SecUninitializeDriver
+  SecUnregisterConsumer=C:\Windows\System32\mssecuser.SecUnregisterConsumer
+  SecWriteFileDlpEA=C:\Windows\System32\mssecuser.SecWriteFileDlpEA
+  SecWriteFileHashEA=C:\Windows\System32\mssecuser.SecWriteFileHashEA

@@ -1,0 +1,17 @@
+EXPORTS
+  WSHAddressToString="C:\Windows\SysWOW64\WSHTCPIP".WSHAddressToString
+  WSHEnumProtocols="C:\Windows\SysWOW64\WSHTCPIP".WSHEnumProtocols
+  WSHGetBroadcastSockaddr="C:\Windows\SysWOW64\WSHTCPIP".WSHGetBroadcastSockaddr
+  WSHGetProviderGuid="C:\Windows\SysWOW64\WSHTCPIP".WSHGetProviderGuid
+  WSHGetSockaddrType="C:\Windows\SysWOW64\WSHTCPIP".WSHGetSockaddrType
+  WSHGetSocketInformation="C:\Windows\SysWOW64\WSHTCPIP".WSHGetSocketInformation
+  WSHGetWSAProtocolInfo="C:\Windows\SysWOW64\WSHTCPIP".WSHGetWSAProtocolInfo
+  WSHGetWildcardSockaddr="C:\Windows\SysWOW64\WSHTCPIP".WSHGetWildcardSockaddr
+  WSHGetWinsockMapping="C:\Windows\SysWOW64\WSHTCPIP".WSHGetWinsockMapping
+  WSHIoctl="C:\Windows\SysWOW64\WSHTCPIP".WSHIoctl
+  WSHJoinLeaf="C:\Windows\SysWOW64\WSHTCPIP".WSHJoinLeaf
+  WSHNotify="C:\Windows\SysWOW64\WSHTCPIP".WSHNotify
+  WSHOpenSocket="C:\Windows\SysWOW64\WSHTCPIP".WSHOpenSocket
+  WSHOpenSocket2="C:\Windows\SysWOW64\WSHTCPIP".WSHOpenSocket2
+  WSHSetSocketInformation="C:\Windows\SysWOW64\WSHTCPIP".WSHSetSocketInformation
+  WSHStringToAddress="C:\Windows\SysWOW64\WSHTCPIP".WSHStringToAddress

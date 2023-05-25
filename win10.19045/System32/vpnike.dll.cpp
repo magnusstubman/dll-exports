@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:InitializeProtocolEngine=\"C:\\Windows\\System32\\vpnike.InitializeProtocolEngine\"")
+#pragma comment(linker, "/export:InitializeServerProtocolEngine=\"C:\\Windows\\System32\\vpnike.InitializeServerProtocolEngine\"")
+#pragma comment(linker, "/export:SendMessageToProtocolEngine=\"C:\\Windows\\System32\\vpnike.SendMessageToProtocolEngine\"")
+#pragma comment(linker, "/export:UninitializeProtocolEngine=\"C:\\Windows\\System32\\vpnike.UninitializeProtocolEngine\"")
+#pragma comment(linker, "/export:UninitializeServerProtocolEngine=\"C:\\Windows\\System32\\vpnike.UninitializeServerProtocolEngine\"")
+#pragma comment(linker, "/export:VpnIkeRoamToBestCostInterface=\"C:\\Windows\\System32\\vpnike.VpnIkeRoamToBestCostInterface\"")

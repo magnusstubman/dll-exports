@@ -1,0 +1,6 @@
+EXPORTS
+  DllCanUnloadNow=C:\Windows\System32\mstscax.DllCanUnloadNow
+  DllGetClassObject=C:\Windows\System32\mstscax.DllGetClassObject
+  DllGetTscCtlVer=C:\Windows\System32\mstscax.DllGetTscCtlVer
+  DllRegisterServer=C:\Windows\System32\mstscax.DllRegisterServer
+  DllUnregisterServer=C:\Windows\System32\mstscax.DllUnregisterServer

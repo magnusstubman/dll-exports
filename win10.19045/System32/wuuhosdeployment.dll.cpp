@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\wuuhosdeployment.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\wuuhosdeployment.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllMain=\"C:\\Windows\\System32\\wuuhosdeployment.DllMain\"")
+#pragma comment(linker, "/export:WUCreateExpressionEvaluator=\"C:\\Windows\\System32\\wuuhosdeployment.WUCreateExpressionEvaluator\"")
+#pragma comment(linker, "/export:WUCreateUpdateHandler=\"C:\\Windows\\System32\\wuuhosdeployment.WUCreateUpdateHandler\"")

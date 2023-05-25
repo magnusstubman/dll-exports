@@ -1,0 +1,4 @@
+EXPORTS
+  DllRegisterServer="C:\Windows\System32\VMWSU".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\VMWSU".DllUnregisterServer
+  SpLsaModeInitialize="C:\Windows\System32\VMWSU".SpLsaModeInitialize

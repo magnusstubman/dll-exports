@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\WpcWebFilter.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\WpcWebFilter.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\WpcWebFilter.DllGetClassObject\"")
+#pragma comment(linker, "/export:WpcWebFilterCreate=\"C:\\Windows\\System32\\WpcWebFilter.WpcWebFilterCreate\"")
+#pragma comment(linker, "/export:WpcWebFilterDestroy=\"C:\\Windows\\System32\\WpcWebFilter.WpcWebFilterDestroy\"")
+#pragma comment(linker, "/export:WpcWebFilterGet=\"C:\\Windows\\System32\\WpcWebFilter.WpcWebFilterGet\"")

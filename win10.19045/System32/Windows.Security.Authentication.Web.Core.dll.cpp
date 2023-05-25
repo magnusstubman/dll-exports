@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\Windows.Security.Authentication.Web.Core.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\Windows.Security.Authentication.Web.Core.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\Windows.Security.Authentication.Web.Core.DllGetClassObject\"")
+#pragma comment(linker, "/export:FreeIdentityProviderCookies=\"C:\\Windows\\System32\\Windows.Security.Authentication.Web.Core.FreeIdentityProviderCookies\"")
+#pragma comment(linker, "/export:GetIdentityProviderCookies=\"C:\\Windows\\System32\\Windows.Security.Authentication.Web.Core.GetIdentityProviderCookies\"")

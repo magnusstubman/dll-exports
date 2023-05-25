@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:CommitStatsHelperCollectContainerData=\"C:\\Windows\\System32\\nduprov.CommitStatsHelperCollectContainerData\"")
+#pragma comment(linker, "/export:CommitStatsHelperDedupHostData=\"C:\\Windows\\System32\\nduprov.CommitStatsHelperDedupHostData\"")
+#pragma comment(linker, "/export:DedupDoubleCountedData=\"C:\\Windows\\System32\\nduprov.DedupDoubleCountedData\"")
+#pragma comment(linker, "/export:NduProvPopulateStatsFromRecord=\"C:\\Windows\\System32\\nduprov.NduProvPopulateStatsFromRecord\"")
+#pragma comment(linker, "/export:OverflowCheckOnBytesFromContainers=\"C:\\Windows\\System32\\nduprov.OverflowCheckOnBytesFromContainers\"")
+#pragma comment(linker, "/export:PopulateUserName=\"C:\\Windows\\System32\\nduprov.PopulateUserName\"")
+#pragma comment(linker, "/export:SruInitializeProvider=\"C:\\Windows\\System32\\nduprov.SruInitializeProvider\"")
+#pragma comment(linker, "/export:SruUninitializeProvider=\"C:\\Windows\\System32\\nduprov.SruUninitializeProvider\"")

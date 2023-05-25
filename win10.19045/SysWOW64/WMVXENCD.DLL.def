@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\SysWOW64\WMVXENCD".CreateInstance
+  DllCanUnloadNow="C:\Windows\SysWOW64\WMVXENCD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\WMVXENCD".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\WMVXENCD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\WMVXENCD".DllUnregisterServer

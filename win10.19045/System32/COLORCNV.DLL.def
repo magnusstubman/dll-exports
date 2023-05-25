@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance=C:\Windows\System32\COLORCNV.CreateInstance
+  DllCanUnloadNow=C:\Windows\System32\COLORCNV.DllCanUnloadNow
+  DllGetClassObject=C:\Windows\System32\COLORCNV.DllGetClassObject
+  DllRegisterServer=C:\Windows\System32\COLORCNV.DllRegisterServer
+  DllUnregisterServer=C:\Windows\System32\COLORCNV.DllUnregisterServer

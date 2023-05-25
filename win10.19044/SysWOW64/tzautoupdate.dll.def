@@ -1,5 +1,5 @@
 EXPORTS
-  AttemptToUpdateTimeZone="C:\Windows\SysWOW64\tzautoupdate".AttemptToUpdateTimeZone
-  AttemptToUpdateTimeZoneAndEnableChangeDetection="C:\Windows\SysWOW64\tzautoupdate".AttemptToUpdateTimeZoneAndEnableChangeDetection
-  ServiceMain="C:\Windows\SysWOW64\tzautoupdate".ServiceMain
-  SvchostPushServiceGlobals="C:\Windows\SysWOW64\tzautoupdate".SvchostPushServiceGlobals
+  AttemptToUpdateTimeZone=C:\Windows\SysWOW64\tzautoupdate.AttemptToUpdateTimeZone
+  AttemptToUpdateTimeZoneAndEnableChangeDetection=C:\Windows\SysWOW64\tzautoupdate.AttemptToUpdateTimeZoneAndEnableChangeDetection
+  ServiceMain=C:\Windows\SysWOW64\tzautoupdate.ServiceMain
+  SvchostPushServiceGlobals=C:\Windows\SysWOW64\tzautoupdate.SvchostPushServiceGlobals

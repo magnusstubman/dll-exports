@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:DeleteTaskNotification=\"C:\\Windows\\System32\\taskcomp.DeleteTaskNotification\"")
+#pragma comment(linker, "/export:InitializeAdapter=\"C:\\Windows\\System32\\taskcomp.InitializeAdapter\"")
+#pragma comment(linker, "/export:IsRegistering=\"C:\\Windows\\System32\\taskcomp.IsRegistering\"")
+#pragma comment(linker, "/export:RegisterTaskNotification=\"C:\\Windows\\System32\\taskcomp.RegisterTaskNotification\"")
+#pragma comment(linker, "/export:SetSdNotification=\"C:\\Windows\\System32\\taskcomp.SetSdNotification\"")
+#pragma comment(linker, "/export:ShutdownAdapter=\"C:\\Windows\\System32\\taskcomp.ShutdownAdapter\"")
+#pragma comment(linker, "/export:UpdateJobStatus=\"C:\\Windows\\System32\\taskcomp.UpdateJobStatus\"")

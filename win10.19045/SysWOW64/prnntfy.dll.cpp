@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:AsyncUILoaderEntryW=\"C:\\Windows\\SysWOW64\\prnntfy.AsyncUILoaderEntryW\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\prnntfy.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\prnntfy.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\prnntfy.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\prnntfy.DllUnregisterServer\"")
+#pragma comment(linker, "/export:PrintNotifyTray_Exit=\"C:\\Windows\\SysWOW64\\prnntfy.PrintNotifyTray_Exit\"")
+#pragma comment(linker, "/export:PrintNotifyTray_Init=\"C:\\Windows\\SysWOW64\\prnntfy.PrintNotifyTray_Init\"")

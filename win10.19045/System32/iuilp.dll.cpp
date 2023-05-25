@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:CloseLayoutPolicyCheckerInstance=\"C:\\Windows\\System32\\iuilp.CloseLayoutPolicyCheckerInstance\"")
+#pragma comment(linker, "/export:GetAllDefaultApps=\"C:\\Windows\\System32\\iuilp.GetAllDefaultApps\"")
+#pragma comment(linker, "/export:GetDefaultAppsList=\"C:\\Windows\\System32\\iuilp.GetDefaultAppsList\"")
+#pragma comment(linker, "/export:GetLayoutPolicy=\"C:\\Windows\\System32\\iuilp.GetLayoutPolicy\"")
+#pragma comment(linker, "/export:GetLayoutPolicyCheckerInstance=\"C:\\Windows\\System32\\iuilp.GetLayoutPolicyCheckerInstance\"")

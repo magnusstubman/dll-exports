@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\SysWOW64\MSMPEG2ENC".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\MSMPEG2ENC".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\MSMPEG2ENC".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\MSMPEG2ENC".DllUnregisterServer

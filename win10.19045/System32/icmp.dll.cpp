@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:IcmpCloseHandle=\"C:\\Windows\\System32\\icmp.IcmpCloseHandle\"")
+#pragma comment(linker, "/export:IcmpCreateFile=\"C:\\Windows\\System32\\icmp.IcmpCreateFile\"")
+#pragma comment(linker, "/export:IcmpParseReplies=\"C:\\Windows\\System32\\icmp.IcmpParseReplies\"")
+#pragma comment(linker, "/export:IcmpSendEcho=\"C:\\Windows\\System32\\icmp.IcmpSendEcho\"")
+#pragma comment(linker, "/export:IcmpSendEcho2=\"C:\\Windows\\System32\\icmp.IcmpSendEcho2\"")
+#pragma comment(linker, "/export:do_echo_rep=\"C:\\Windows\\System32\\icmp.do_echo_rep\"")
+#pragma comment(linker, "/export:do_echo_req=\"C:\\Windows\\System32\\icmp.do_echo_req\"")
+#pragma comment(linker, "/export:register_icmp=\"C:\\Windows\\System32\\icmp.register_icmp\"")

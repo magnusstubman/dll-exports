@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\RESAMPLEDMO".CreateInstance
+  DllCanUnloadNow="C:\Windows\System32\RESAMPLEDMO".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\RESAMPLEDMO".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\RESAMPLEDMO".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\RESAMPLEDMO".DllUnregisterServer

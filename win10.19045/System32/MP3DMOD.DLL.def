@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\MP3DMOD".CreateInstance
+  DllCanUnloadNow="C:\Windows\System32\MP3DMOD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MP3DMOD".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MP3DMOD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MP3DMOD".DllUnregisterServer

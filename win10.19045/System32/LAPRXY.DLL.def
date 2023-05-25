@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow=C:\Windows\System32\LAPRXY.DllCanUnloadNow
+  DllGetClassObject=C:\Windows\System32\LAPRXY.DllGetClassObject
+  DllRegisterServer=C:\Windows\System32\LAPRXY.DllRegisterServer
+  DllUnregisterServer=C:\Windows\System32\LAPRXY.DllUnregisterServer

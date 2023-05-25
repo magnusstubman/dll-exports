@@ -1,10 +1,10 @@
 EXPORTS
-  CredentialUpdateFree="C:\Windows\System32\wdigest".CredentialUpdateFree
-  CredentialUpdateNotify="C:\Windows\System32\wdigest".CredentialUpdateNotify
-  CredentialUpdateRegister="C:\Windows\System32\wdigest".CredentialUpdateRegister
-  SpInitialize="C:\Windows\System32\wdigest".SpInitialize
-  SpInstanceInit="C:\Windows\System32\wdigest".SpInstanceInit
-  SpLsaModeInitialize="C:\Windows\System32\wdigest".SpLsaModeInitialize
-  SpUserModeInitialize="C:\Windows\System32\wdigest".SpUserModeInitialize
-  SsiCredentialsUpdateFree="C:\Windows\System32\wdigest".SsiCredentialsUpdateFree
-  SsiCredentialsUpdateNotify="C:\Windows\System32\wdigest".SsiCredentialsUpdateNotify
+  CredentialUpdateFree=C:\Windows\System32\wdigest.CredentialUpdateFree
+  CredentialUpdateNotify=C:\Windows\System32\wdigest.CredentialUpdateNotify
+  CredentialUpdateRegister=C:\Windows\System32\wdigest.CredentialUpdateRegister
+  SpInitialize=C:\Windows\System32\wdigest.SpInitialize
+  SpInstanceInit=C:\Windows\System32\wdigest.SpInstanceInit
+  SpLsaModeInitialize=C:\Windows\System32\wdigest.SpLsaModeInitialize
+  SpUserModeInitialize=C:\Windows\System32\wdigest.SpUserModeInitialize
+  SsiCredentialsUpdateFree=C:\Windows\System32\wdigest.SsiCredentialsUpdateFree
+  SsiCredentialsUpdateNotify=C:\Windows\System32\wdigest.SsiCredentialsUpdateNotify

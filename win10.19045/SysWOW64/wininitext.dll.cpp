@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:GetLoggedOnUserCount=\"C:\\Windows\\SysWOW64\\wininitext.GetLoggedOnUserCount\"")
+#pragma comment(linker, "/export:LaunchUmfdHostWithVirtualAccountWorker=\"C:\\Windows\\SysWOW64\\wininitext.LaunchUmfdHostWithVirtualAccountWorker\"")
+#pragma comment(linker, "/export:PrimaryTerminalAndHookWorker=\"C:\\Windows\\SysWOW64\\wininitext.PrimaryTerminalAndHookWorker\"")
+#pragma comment(linker, "/export:StartLoadingFontsWorker=\"C:\\Windows\\SysWOW64\\wininitext.StartLoadingFontsWorker\"")
+#pragma comment(linker, "/export:UIStartupWorker=\"C:\\Windows\\SysWOW64\\wininitext.UIStartupWorker\"")
+#pragma comment(linker, "/export:WaitForWinstationShutdown=\"C:\\Windows\\SysWOW64\\wininitext.WaitForWinstationShutdown\"")
+#pragma comment(linker, "/export:WinStationSystemShutdownStartedWorker=\"C:\\Windows\\SysWOW64\\wininitext.WinStationSystemShutdownStartedWorker\"")

@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:SppPluginCanUnloadNow=\"C:\\Windows\\System32\\sppobjs.SppPluginCanUnloadNow\"")
+#pragma comment(linker, "/export:SppPluginCreateInstance=\"C:\\Windows\\System32\\sppobjs.SppPluginCreateInstance\"")
+#pragma comment(linker, "/export:SppPluginInitialize=\"C:\\Windows\\System32\\sppobjs.SppPluginInitialize\"")
+#pragma comment(linker, "/export:SppPluginShutdown=\"C:\\Windows\\System32\\sppobjs.SppPluginShutdown\"")
+#pragma comment(linker, "/export:SppPluginVersion=\"C:\\Windows\\System32\\sppobjs.SppPluginVersion\"")

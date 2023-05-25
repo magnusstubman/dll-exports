@@ -1,12 +1,12 @@
 EXPORTS
-  DllCanUnloadNow="C:\Windows\SysWOW64\mstscax".DllCanUnloadNow
-  DllCancelAuthentication="C:\Windows\SysWOW64\mstscax".DllCancelAuthentication
-  DllDeleteSavedCreds="C:\Windows\SysWOW64\mstscax".DllDeleteSavedCreds
-  DllGetClaimsToken="C:\Windows\SysWOW64\mstscax".DllGetClaimsToken
-  DllGetClassObject="C:\Windows\SysWOW64\mstscax".DllGetClassObject
-  DllGetTscCtlVer="C:\Windows\SysWOW64\mstscax".DllGetTscCtlVer
-  DllLogoffClaimsToken="C:\Windows\SysWOW64\mstscax".DllLogoffClaimsToken
-  DllRegisterServer="C:\Windows\SysWOW64\mstscax".DllRegisterServer
-  DllSetAuthProperties="C:\Windows\SysWOW64\mstscax".DllSetAuthProperties
-  DllSetClaimsToken="C:\Windows\SysWOW64\mstscax".DllSetClaimsToken
-  DllUnregisterServer="C:\Windows\SysWOW64\mstscax".DllUnregisterServer
+  DllCanUnloadNow=C:\Windows\SysWOW64\mstscax.DllCanUnloadNow
+  DllCancelAuthentication=C:\Windows\SysWOW64\mstscax.DllCancelAuthentication
+  DllDeleteSavedCreds=C:\Windows\SysWOW64\mstscax.DllDeleteSavedCreds
+  DllGetClaimsToken=C:\Windows\SysWOW64\mstscax.DllGetClaimsToken
+  DllGetClassObject=C:\Windows\SysWOW64\mstscax.DllGetClassObject
+  DllGetTscCtlVer=C:\Windows\SysWOW64\mstscax.DllGetTscCtlVer
+  DllLogoffClaimsToken=C:\Windows\SysWOW64\mstscax.DllLogoffClaimsToken
+  DllRegisterServer=C:\Windows\SysWOW64\mstscax.DllRegisterServer
+  DllSetAuthProperties=C:\Windows\SysWOW64\mstscax.DllSetAuthProperties
+  DllSetClaimsToken=C:\Windows\SysWOW64\mstscax.DllSetClaimsToken
+  DllUnregisterServer=C:\Windows\SysWOW64\mstscax.DllUnregisterServer

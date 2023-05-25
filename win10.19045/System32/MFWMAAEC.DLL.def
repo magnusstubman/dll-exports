@@ -1,0 +1,5 @@
+EXPORTS
+  DllCanUnloadNow="C:\Windows\System32\MFWMAAEC".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\MFWMAAEC".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\MFWMAAEC".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\MFWMAAEC".DllUnregisterServer

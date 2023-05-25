@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:BamCreateSettingsClientLib=\"C:\\Windows\\System32\\BamSettingsClient.BamCreateSettingsClientLib\"")
+#pragma comment(linker, "/export:BamDestroySettingsClientLib=\"C:\\Windows\\System32\\BamSettingsClient.BamDestroySettingsClientLib\"")
+#pragma comment(linker, "/export:BamFreeQueriedApplications=\"C:\\Windows\\System32\\BamSettingsClient.BamFreeQueriedApplications\"")
+#pragma comment(linker, "/export:BamQueryKnownApplications=\"C:\\Windows\\System32\\BamSettingsClient.BamQueryKnownApplications\"")
+#pragma comment(linker, "/export:BamSetUserManagementState=\"C:\\Windows\\System32\\BamSettingsClient.BamSetUserManagementState\"")

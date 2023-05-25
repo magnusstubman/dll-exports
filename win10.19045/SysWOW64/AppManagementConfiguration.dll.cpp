@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\AppManagementConfiguration.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\SysWOW64\\AppManagementConfiguration.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\AppManagementConfiguration.DllGetClassObject\"")
+#pragma comment(linker, "/export:ProcessAppVPolicy=\"C:\\Windows\\SysWOW64\\AppManagementConfiguration.ProcessAppVPolicy\"")
+#pragma comment(linker, "/export:ProcessUevPolicy=\"C:\\Windows\\SysWOW64\\AppManagementConfiguration.ProcessUevPolicy\"")

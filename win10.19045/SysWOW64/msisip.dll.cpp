@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\msisip.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\msisip.DllUnregisterServer\"")
+#pragma comment(linker, "/export:MsiSIPCreateIndirectData=\"C:\\Windows\\SysWOW64\\msisip.MsiSIPCreateIndirectData\"")
+#pragma comment(linker, "/export:MsiSIPGetSignedDataMsg=\"C:\\Windows\\SysWOW64\\msisip.MsiSIPGetSignedDataMsg\"")
+#pragma comment(linker, "/export:MsiSIPIsMyTypeOfFile=\"C:\\Windows\\SysWOW64\\msisip.MsiSIPIsMyTypeOfFile\"")
+#pragma comment(linker, "/export:MsiSIPPutSignedDataMsg=\"C:\\Windows\\SysWOW64\\msisip.MsiSIPPutSignedDataMsg\"")
+#pragma comment(linker, "/export:MsiSIPRemoveSignedDataMsg=\"C:\\Windows\\SysWOW64\\msisip.MsiSIPRemoveSignedDataMsg\"")
+#pragma comment(linker, "/export:MsiSIPVerifyIndirectData=\"C:\\Windows\\SysWOW64\\msisip.MsiSIPVerifyIndirectData\"")

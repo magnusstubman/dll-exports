@@ -1,0 +1,10 @@
+EXPORTS
+  DMOrchestratorConfig=C:\Windows\System32\declaredconfiguration.DMOrchestratorConfig
+  DMOrchestratorDelete=C:\Windows\System32\declaredconfiguration.DMOrchestratorDelete
+  DMOrchestratorGetStatus=C:\Windows\System32\declaredconfiguration.DMOrchestratorGetStatus
+  DMOrchestratorProcessPreviouslyRanDocs=C:\Windows\System32\declaredconfiguration.DMOrchestratorProcessPreviouslyRanDocs
+  DMOrchestratorRefresh=C:\Windows\System32\declaredconfiguration.DMOrchestratorRefresh
+  DMOrchestratorSvcDeinit=C:\Windows\System32\declaredconfiguration.DMOrchestratorSvcDeinit
+  DMOrchestratorSvcInit=C:\Windows\System32\declaredconfiguration.DMOrchestratorSvcInit
+  DMOrchestratorUpdate=C:\Windows\System32\declaredconfiguration.DMOrchestratorUpdate
+  DMOrchestratorUpdateDocStatus=C:\Windows\System32\declaredconfiguration.DMOrchestratorUpdateDocStatus

@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:ProxyHelperGetProxyEventInformation=\"C:\\Windows\\System32\\httpprxp.ProxyHelperGetProxyEventInformation\"")
+#pragma comment(linker, "/export:ProxyHelperProviderConnectToServer=\"C:\\Windows\\System32\\httpprxp.ProxyHelperProviderConnectToServer\"")
+#pragma comment(linker, "/export:ProxyHelperProviderDisconnectFromServer=\"C:\\Windows\\System32\\httpprxp.ProxyHelperProviderDisconnectFromServer\"")
+#pragma comment(linker, "/export:ProxyHelperProviderFreeMemory=\"C:\\Windows\\System32\\httpprxp.ProxyHelperProviderFreeMemory\"")
+#pragma comment(linker, "/export:ProxyHelperProviderRegisterForEventNotification=\"C:\\Windows\\System32\\httpprxp.ProxyHelperProviderRegisterForEventNotification\"")
+#pragma comment(linker, "/export:ProxyHelperProviderSetProxyConfiguration=\"C:\\Windows\\System32\\httpprxp.ProxyHelperProviderSetProxyConfiguration\"")
+#pragma comment(linker, "/export:ProxyHelperProviderSetProxyCredentials=\"C:\\Windows\\System32\\httpprxp.ProxyHelperProviderSetProxyCredentials\"")
+#pragma comment(linker, "/export:ProxyHelperProviderUnregisterEventNotification=\"C:\\Windows\\System32\\httpprxp.ProxyHelperProviderUnregisterEventNotification\"")

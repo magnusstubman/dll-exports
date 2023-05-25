@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:RdrSysprepSpecialize=\"C:\\Windows\\SysWOW64\\radardt.RdrSysprepSpecialize\"")
+#pragma comment(linker, "/export:RdrSysprepSpecializeOffline=\"C:\\Windows\\SysWOW64\\radardt.RdrSysprepSpecializeOffline\"")
+#pragma comment(linker, "/export:WdiDiagnosticModuleMain=\"C:\\Windows\\SysWOW64\\radardt.WdiDiagnosticModuleMain\"")
+#pragma comment(linker, "/export:WdiGetDiagnosticModuleInterfaceVersion=\"C:\\Windows\\SysWOW64\\radardt.WdiGetDiagnosticModuleInterfaceVersion\"")
+#pragma comment(linker, "/export:WdiHandleInstance=\"C:\\Windows\\SysWOW64\\radardt.WdiHandleInstance\"")

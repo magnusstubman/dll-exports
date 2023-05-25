@@ -1,0 +1,2 @@
+#pragma comment(linker, "/export:Sysprep_Clean_WMP=\"C:\\Windows\\System32\\spwmp.Sysprep_Clean_WMP\"")
+#pragma comment(linker, "/export:Sysprep_Generalize_WMP=\"C:\\Windows\\System32\\spwmp.Sysprep_Generalize_WMP\"")

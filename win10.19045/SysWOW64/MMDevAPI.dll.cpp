@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:ActivateAudioInterfaceAsync=\"C:\\Windows\\SysWOW64\\MMDevAPI.ActivateAudioInterfaceAsync\"")
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\MMDevAPI.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\MMDevAPI.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\SysWOW64\\MMDevAPI.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\SysWOW64\\MMDevAPI.DllUnregisterServer\"")

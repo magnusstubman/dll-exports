@@ -1,0 +1,8 @@
+EXPORTS
+  AttemptToUpdateTimeZone=C:\Windows\System32\tzautoupdate.AttemptToUpdateTimeZone
+  AttemptToUpdateTimeZoneAndEnableChangeDetection=C:\Windows\System32\tzautoupdate.AttemptToUpdateTimeZoneAndEnableChangeDetection
+  DllCanUnloadNow=C:\Windows\System32\tzautoupdate.DllCanUnloadNow
+  DllGetActivationFactory=C:\Windows\System32\tzautoupdate.DllGetActivationFactory
+  DllGetClassObject=C:\Windows\System32\tzautoupdate.DllGetClassObject
+  ServiceMain=C:\Windows\System32\tzautoupdate.ServiceMain
+  SvchostPushServiceGlobals=C:\Windows\System32\tzautoupdate.SvchostPushServiceGlobals

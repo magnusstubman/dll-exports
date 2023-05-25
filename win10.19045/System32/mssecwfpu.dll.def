@@ -1,0 +1,4 @@
+EXPORTS
+  SecWfpAllowDriverUnload=C:\Windows\System32\mssecwfpu.SecWfpAllowDriverUnload
+  SecWfpClose=C:\Windows\System32\mssecwfpu.SecWfpClose
+  SecWfpOpen=C:\Windows\System32\mssecwfpu.SecWfpOpen

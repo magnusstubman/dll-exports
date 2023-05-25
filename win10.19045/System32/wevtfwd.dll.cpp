@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:WSManPluginShutdown=\"C:\\Windows\\System32\\wevtfwd.WSManPluginShutdown\"")
+#pragma comment(linker, "/export:WSManPluginStartup=\"C:\\Windows\\System32\\wevtfwd.WSManPluginStartup\"")
+#pragma comment(linker, "/export:WSManProvPullEvents=\"C:\\Windows\\System32\\wevtfwd.WSManProvPullEvents\"")
+#pragma comment(linker, "/export:WSManProvSubscribe=\"C:\\Windows\\System32\\wevtfwd.WSManProvSubscribe\"")
+#pragma comment(linker, "/export:WSManProvUnsubscribe=\"C:\\Windows\\System32\\wevtfwd.WSManProvUnsubscribe\"")

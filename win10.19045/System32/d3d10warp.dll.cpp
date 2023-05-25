@@ -1,0 +1,8 @@
+#pragma comment(linker, "/export:D3D11RefGetLastCreation=\"C:\\Windows\\System32\\d3d10warp.D3D11RefGetLastCreation\"")
+#pragma comment(linker, "/export:D3DLayerGetInterface=\"C:\\Windows\\System32\\d3d10warp.D3DLayerGetInterface\"")
+#pragma comment(linker, "/export:OpenAdapter=\"C:\\Windows\\System32\\d3d10warp.OpenAdapter\"")
+#pragma comment(linker, "/export:OpenAdapter10_2=\"C:\\Windows\\System32\\d3d10warp.OpenAdapter10_2\"")
+#pragma comment(linker, "/export:OpenAdapter12=\"C:\\Windows\\System32\\d3d10warp.OpenAdapter12\"")
+#pragma comment(linker, "/export:OpenDisplayAdapter1=\"C:\\Windows\\System32\\d3d10warp.OpenDisplayAdapter1\"")
+#pragma comment(linker, "/export:QueryDListForApplication1=\"C:\\Windows\\System32\\d3d10warp.QueryDListForApplication1\"")
+#pragma comment(linker, "/export:VSD3DDebugConnectionBuffer=\"C:\\Windows\\System32\\d3d10warp.VSD3DDebugConnectionBuffer\"")

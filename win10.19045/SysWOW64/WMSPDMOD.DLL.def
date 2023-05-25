@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\SysWOW64\WMSPDMOD".CreateInstance
+  DllCanUnloadNow="C:\Windows\SysWOW64\WMSPDMOD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\SysWOW64\WMSPDMOD".DllGetClassObject
+  DllRegisterServer="C:\Windows\SysWOW64\WMSPDMOD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\SysWOW64\WMSPDMOD".DllUnregisterServer

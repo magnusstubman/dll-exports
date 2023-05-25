@@ -1,0 +1,20 @@
+EXPORTS
+  AutoPilotClearNetworkRequiredFlag=C:\Windows\System32\autopilot.AutoPilotClearNetworkRequiredFlag
+  AutoPilotDisable=C:\Windows\System32\autopilot.AutoPilotDisable
+  AutoPilotGetOobeSettingsOverride=C:\Windows\System32\autopilot.AutoPilotGetOobeSettingsOverride
+  AutoPilotGetPolicyDwordByName=C:\Windows\System32\autopilot.AutoPilotGetPolicyDwordByName
+  AutoPilotGetPolicyStringByName=C:\Windows\System32\autopilot.AutoPilotGetPolicyStringByName
+  AutoPilotGetProfileState=C:\Windows\System32\autopilot.AutoPilotGetProfileState
+  AutoPilotGetSetting=C:\Windows\System32\autopilot.AutoPilotGetSetting
+  AutoPilotIsDisabled=C:\Windows\System32\autopilot.AutoPilotIsDisabled
+  AutoPilotIsLocalProfileAvailable=C:\Windows\System32\autopilot.AutoPilotIsLocalProfileAvailable
+  AutoPilotIsNetworkRequired=C:\Windows\System32\autopilot.AutoPilotIsNetworkRequired
+  AutoPilotPerformDeviceEnrollment=C:\Windows\System32\autopilot.AutoPilotPerformDeviceEnrollment
+  AutoPilotRenameDevice=C:\Windows\System32\autopilot.AutoPilotRenameDevice
+  AutoPilotRetrieveSettings=C:\Windows\System32\autopilot.AutoPilotRetrieveSettings
+  AutoPilotStoreSetting=C:\Windows\System32\autopilot.AutoPilotStoreSetting
+  DllCanUnloadNow=C:\Windows\System32\autopilot.DllCanUnloadNow
+  DllGetClassObject=C:\Windows\System32\autopilot.DllGetClassObject
+  DllRegisterServer=C:\Windows\System32\autopilot.DllRegisterServer
+  DllUnregisterServer=C:\Windows\System32\autopilot.DllUnregisterServer
+  RunDllEntryPointW=C:\Windows\System32\autopilot.RunDllEntryPointW

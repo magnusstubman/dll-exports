@@ -1,0 +1,5 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\NmaDirect.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetActivationFactory=\"C:\\Windows\\System32\\NmaDirect.DllGetActivationFactory\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\NmaDirect.DllGetClassObject\"")
+#pragma comment(linker, "/export:NmaDirect_OverrideUserLocation=\"C:\\Windows\\System32\\NmaDirect.NmaDirect_OverrideUserLocation\"")
+#pragma comment(linker, "/export:NmaDirect_StartGuidanceWithSimulatedRoute=\"C:\\Windows\\System32\\NmaDirect.NmaDirect_StartGuidanceWithSimulatedRoute\"")

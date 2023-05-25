@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\WMVSDECD".CreateInstance
+  DllCanUnloadNow="C:\Windows\System32\WMVSDECD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WMVSDECD".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WMVSDECD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WMVSDECD".DllUnregisterServer

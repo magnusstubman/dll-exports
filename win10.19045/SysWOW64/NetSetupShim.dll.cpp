@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\SysWOW64\\NetSetupShim.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\SysWOW64\\NetSetupShim.DllGetClassObject\"")
+#pragma comment(linker, "/export:NetSetupCreateBindingMap=\"C:\\Windows\\SysWOW64\\NetSetupShim.NetSetupCreateBindingMap\"")
+#pragma comment(linker, "/export:NetSetupExportDatabase=\"C:\\Windows\\SysWOW64\\NetSetupShim.NetSetupExportDatabase\"")
+#pragma comment(linker, "/export:NetSetupResetBindings=\"C:\\Windows\\SysWOW64\\NetSetupShim.NetSetupResetBindings\"")
+#pragma comment(linker, "/export:NetSetupShimExecuteInfSection=\"C:\\Windows\\SysWOW64\\NetSetupShim.NetSetupShimExecuteInfSection\"")

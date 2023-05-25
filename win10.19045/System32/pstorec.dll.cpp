@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:DllCanUnloadNow=\"C:\\Windows\\System32\\pstorec.DllCanUnloadNow\"")
+#pragma comment(linker, "/export:DllGetClassObject=\"C:\\Windows\\System32\\pstorec.DllGetClassObject\"")
+#pragma comment(linker, "/export:DllRegisterServer=\"C:\\Windows\\System32\\pstorec.DllRegisterServer\"")
+#pragma comment(linker, "/export:DllUnregisterServer=\"C:\\Windows\\System32\\pstorec.DllUnregisterServer\"")
+#pragma comment(linker, "/export:PStoreCreateInstance=\"C:\\Windows\\System32\\pstorec.PStoreCreateInstance\"")
+#pragma comment(linker, "/export:PStoreEnumProviders=\"C:\\Windows\\System32\\pstorec.PStoreEnumProviders\"")

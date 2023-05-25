@@ -1,0 +1,6 @@
+EXPORTS
+  CreateInstance="C:\Windows\System32\WMVSENCD".CreateInstance
+  DllCanUnloadNow="C:\Windows\System32\WMVSENCD".DllCanUnloadNow
+  DllGetClassObject="C:\Windows\System32\WMVSENCD".DllGetClassObject
+  DllRegisterServer="C:\Windows\System32\WMVSENCD".DllRegisterServer
+  DllUnregisterServer="C:\Windows\System32\WMVSENCD".DllUnregisterServer

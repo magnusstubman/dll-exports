@@ -1,0 +1,13 @@
+EXPORTS
+  VidBitBlt=C:\Windows\System32\BOOTVID.VidBitBlt
+  VidBitBltEx=C:\Windows\System32\BOOTVID.VidBitBltEx
+  VidBufferToScreenBlt=C:\Windows\System32\BOOTVID.VidBufferToScreenBlt
+  VidCleanUp=C:\Windows\System32\BOOTVID.VidCleanUp
+  VidDisplayString=C:\Windows\System32\BOOTVID.VidDisplayString
+  VidDisplayStringXY=C:\Windows\System32\BOOTVID.VidDisplayStringXY
+  VidInitialize=C:\Windows\System32\BOOTVID.VidInitialize
+  VidResetDisplay=C:\Windows\System32\BOOTVID.VidResetDisplay
+  VidScreenToBufferBlt=C:\Windows\System32\BOOTVID.VidScreenToBufferBlt
+  VidSetScrollRegion=C:\Windows\System32\BOOTVID.VidSetScrollRegion
+  VidSetTextColor=C:\Windows\System32\BOOTVID.VidSetTextColor
+  VidSolidColorFill=C:\Windows\System32\BOOTVID.VidSolidColorFill

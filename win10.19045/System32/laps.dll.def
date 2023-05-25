@@ -1,0 +1,6 @@
+EXPORTS
+  LAPSExtAcceptDSRMPasswordModification=C:\Windows\System32\laps.LAPSExtAcceptDSRMPasswordModification
+  LAPSExtAcceptPasswordModification=C:\Windows\System32\laps.LAPSExtAcceptPasswordModification
+  LAPSExtInitialize=C:\Windows\System32\laps.LAPSExtInitialize
+  LAPSExtNotifyLocalAccountAuthentication=C:\Windows\System32\laps.LAPSExtNotifyLocalAccountAuthentication
+  LAPSExtUninitialize=C:\Windows\System32\laps.LAPSExtUninitialize

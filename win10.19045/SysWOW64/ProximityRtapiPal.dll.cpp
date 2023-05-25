@@ -1,0 +1,6 @@
+#pragma comment(linker, "/export:PAL_App2DeviceFindAllPeers=\"C:\\Windows\\SysWOW64\\ProximityRtapiPal.PAL_App2DeviceFindAllPeers\"")
+#pragma comment(linker, "/export:PAL_CheckForApp2DeviceAlternateId=\"C:\\Windows\\SysWOW64\\ProximityRtapiPal.PAL_CheckForApp2DeviceAlternateId\"")
+#pragma comment(linker, "/export:PAL_CheckForBluetoothSupport=\"C:\\Windows\\SysWOW64\\ProximityRtapiPal.PAL_CheckForBluetoothSupport\"")
+#pragma comment(linker, "/export:PAL_GetCurrentProcessExplicitAppUserModelID=\"C:\\Windows\\SysWOW64\\ProximityRtapiPal.PAL_GetCurrentProcessExplicitAppUserModelID\"")
+#pragma comment(linker, "/export:PAL_ParseAppUserModelId=\"C:\\Windows\\SysWOW64\\ProximityRtapiPal.PAL_ParseAppUserModelId\"")
+#pragma comment(linker, "/export:PAL_SetCurrentProcessExplicitAppUserModelID=\"C:\\Windows\\SysWOW64\\ProximityRtapiPal.PAL_SetCurrentProcessExplicitAppUserModelID\"")

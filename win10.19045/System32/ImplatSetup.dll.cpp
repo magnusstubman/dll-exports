@@ -1,0 +1,7 @@
+#pragma comment(linker, "/export:ImplatMuxDispatch=\"C:\\Windows\\System32\\ImplatSetup.ImplatMuxDispatch\"")
+#pragma comment(linker, "/export:ImplatMuxMemberUninstall=\"C:\\Windows\\System32\\ImplatSetup.ImplatMuxMemberUninstall\"")
+#pragma comment(linker, "/export:ImplatMuxModified=\"C:\\Windows\\System32\\ImplatSetup.ImplatMuxModified\"")
+#pragma comment(linker, "/export:ImplatMuxVirtualInterfaceChanged=\"C:\\Windows\\System32\\ImplatSetup.ImplatMuxVirtualInterfaceChanged\"")
+#pragma comment(linker, "/export:ImplatMuxVirtualInterfaces=\"C:\\Windows\\System32\\ImplatSetup.ImplatMuxVirtualInterfaces\"")
+#pragma comment(linker, "/export:ImplatTransactionDispatch=\"C:\\Windows\\System32\\ImplatSetup.ImplatTransactionDispatch\"")
+#pragma comment(linker, "/export:ImplatVmsBinding=\"C:\\Windows\\System32\\ImplatSetup.ImplatVmsBinding\"")

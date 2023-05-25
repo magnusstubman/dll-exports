@@ -1,0 +1,8 @@
+EXPORTS
+  AttemptToUpdateTimeZone=C:\Windows\SysWOW64\tzautoupdate.AttemptToUpdateTimeZone
+  AttemptToUpdateTimeZoneAndEnableChangeDetection=C:\Windows\SysWOW64\tzautoupdate.AttemptToUpdateTimeZoneAndEnableChangeDetection
+  DllCanUnloadNow=C:\Windows\SysWOW64\tzautoupdate.DllCanUnloadNow
+  DllGetActivationFactory=C:\Windows\SysWOW64\tzautoupdate.DllGetActivationFactory
+  DllGetClassObject=C:\Windows\SysWOW64\tzautoupdate.DllGetClassObject
+  ServiceMain=C:\Windows\SysWOW64\tzautoupdate.ServiceMain
+  SvchostPushServiceGlobals=C:\Windows\SysWOW64\tzautoupdate.SvchostPushServiceGlobals
