@@ -42,23 +42,23 @@ https://github.com/magnusstubman/dll-exports/blob/main/win10.19044/System32/vers
 
 ```
 EXPORTS
-  GetFileVersionInfoA="C:\Windows\System32\version".GetFileVersionInfoA
-  GetFileVersionInfoByHandle="C:\Windows\System32\version".GetFileVersionInfoByHandle
-  GetFileVersionInfoExA="C:\Windows\System32\version".GetFileVersionInfoExA
-  GetFileVersionInfoExW="C:\Windows\System32\version".GetFileVersionInfoExW
-  GetFileVersionInfoSizeA="C:\Windows\System32\version".GetFileVersionInfoSizeA
-  GetFileVersionInfoSizeExA="C:\Windows\System32\version".GetFileVersionInfoSizeExA
-  GetFileVersionInfoSizeExW="C:\Windows\System32\version".GetFileVersionInfoSizeExW
-  GetFileVersionInfoSizeW="C:\Windows\System32\version".GetFileVersionInfoSizeW
-  GetFileVersionInfoW="C:\Windows\System32\version".GetFileVersionInfoW
-  VerFindFileA="C:\Windows\System32\version".VerFindFileA
-  VerFindFileW="C:\Windows\System32\version".VerFindFileW
-  VerInstallFileA="C:\Windows\System32\version".VerInstallFileA
-  VerInstallFileW="C:\Windows\System32\version".VerInstallFileW
-  VerLanguageNameA="C:\Windows\System32\version".VerLanguageNameA
-  VerLanguageNameW="C:\Windows\System32\version".VerLanguageNameW
-  VerQueryValueA="C:\Windows\System32\version".VerQueryValueA
-  VerQueryValueW="C:\Windows\System32\version".VerQueryValueW
+  GetFileVersionInfoA=C:\Windows\System32\version.GetFileVersionInfoA
+  GetFileVersionInfoByHandle=C:\Windows\System32\version.GetFileVersionInfoByHandle
+  GetFileVersionInfoExA=C:\Windows\System32\version.GetFileVersionInfoExA
+  GetFileVersionInfoExW=C:\Windows\System32\version.GetFileVersionInfoExW
+  GetFileVersionInfoSizeA=C:\Windows\System32\version.GetFileVersionInfoSizeA
+  GetFileVersionInfoSizeExA=C:\Windows\System32\version.GetFileVersionInfoSizeExA
+  GetFileVersionInfoSizeExW=C:\Windows\System32\version.GetFileVersionInfoSizeExW
+  GetFileVersionInfoSizeW=C:\Windows\System32\version.GetFileVersionInfoSizeW
+  GetFileVersionInfoW=C:\Windows\System32\version.GetFileVersionInfoW
+  VerFindFileA=C:\Windows\System32\version.VerFindFileA
+  VerFindFileW=C:\Windows\System32\version.VerFindFileW
+  VerInstallFileA=C:\Windows\System32\version.VerInstallFileA
+  VerInstallFileW=C:\Windows\System32\version.VerInstallFileW
+  VerLanguageNameA=C:\Windows\System32\version.VerLanguageNameA
+  VerLanguageNameW=C:\Windows\System32\version.VerLanguageNameW
+  VerQueryValueA=C:\Windows\System32\version.VerQueryValueA
+  VerQueryValueW=C:\Windows\System32\version.VerQueryValueW
 ```
 
 #### Note
